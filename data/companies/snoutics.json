@@ -1,0 +1,137 @@
+{
+  "name": "Snoutics",
+  "slug": "snoutics",
+  "industry": "pet-tech",
+  "tagline": "The data layer for everything with a heartbeat and a leash.",
+  "positioning": "Snoutics is the pet-data infrastructure that powers vet networks, insurers, and retail giants — one API for the whole species, not a spreadsheet named final_v3.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#08202e",
+    "surface": "#0e2f42",
+    "text": "#e6f5f1",
+    "primary": "#1fd6a8",
+    "accent": "#3b9bff"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,10 12,3 21,10 16.5,10 12,6.5 7.5,10",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "3,17 12,10 21,17 16.5,17 12,13.5 7.5,17",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Pet data infrastructure that refuses to roll over.",
+      "sub": "Every microchip scan, claim, vaccine record, and grooming no-show — unified into one API. Your integration team stops herding CSVs and starts shipping. The dogs stay confused, as intended.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "Read the docs"
+    },
+    "features": [
+      {
+        "title": "One profile per animal",
+        "description": "Deduped, cross-referenced pet identities across every clinic, shelter, and store you touch. No more three Bellas that are secretly the same Labrador.",
+        "icon": "database"
+      },
+      {
+        "title": "Claims that clear themselves",
+        "description": "Route insurance and warranty claims through a rules engine that reads vet notes so your adjusters don't have to squint at handwriting from 2011.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Real-time species telemetry",
+        "description": "Ingest collar, feeder, and kennel-sensor events at 40k/sec. Alert on the anomalies that matter, ignore the ones that are just a cat being a cat.",
+        "icon": "zap"
+      },
+      {
+        "title": "Audit trail with teeth",
+        "description": "Every record change is signed, timestamped, and reversible. SOC 2, GDPR, and the one auditor who trusts nothing all leave satisfied.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fleet-scale onboarding",
+        "description": "Spin up a new region of 900 clinics in a weekend. Bulk import, schema mapping, and dedupe run while your ops team sleeps.",
+        "icon": "layers"
+      },
+      {
+        "title": "Dashboards leadership reads",
+        "description": "Retention, claim velocity, and per-location health in views your CFO actually opens instead of forwarding to an analyst.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We had eleven pet databases and zero agreement on how many cats we insured. Snoutics gave us one number, and it was somehow lower than any of the eleven. Cheaper too.",
+        "name": "Dana Whitlock",
+        "role": "VP of Claims Operations",
+        "company": "Meridian Pet Assurance"
+      },
+      {
+        "quote": "Migrating 1,300 clinics onto one record system should have taken a year. It took a quarter. Our vets stopped complaining, which is how I knew it worked.",
+        "name": "Rafael Ibáñez",
+        "role": "Chief Data Officer",
+        "company": "BrightPaw Veterinary Group"
+      },
+      {
+        "quote": "The telemetry pipeline flagged a feeder malfunction across 40 stores before a single support ticket. Usage billing means we only pay when the dogs are actually eating.",
+        "name": "Priya Nadkarni",
+        "role": "Director of Retail Systems",
+        "company": "Kibbleworks"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Kennel",
+        "price": "$0.004",
+        "period": "per active pet profile / month",
+        "blurb": "For teams wiring up their first unified pet record. No seats, no surprises.",
+        "features": [
+          "Up to 250k active profiles",
+          "Core identity + dedupe API",
+          "Standard telemetry ingest",
+          "Email support",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Pack",
+        "price": "$0.0021",
+        "period": "per active pet profile / month",
+        "blurb": "Volume pricing for networks and insurers running mission-critical pet data.",
+        "features": [
+          "Up to 5M active profiles",
+          "Claims rules engine",
+          "High-throughput telemetry (40k/sec)",
+          "Signed audit trail",
+          "Priority support + solutions engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed-usage agreement",
+        "blurb": "For multi-region operators who measure pets in the millions.",
+        "features": [
+          "Unlimited profiles, tiered rates",
+          "Dedicated ingest regions",
+          "Custom compliance & data residency",
+          "Named account team",
+          "99.99% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Snoutics is the pet-data infrastructure for enterprises that stopped pretending a shared drive counts as a system of record."
+  }
+}

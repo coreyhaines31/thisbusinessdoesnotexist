@@ -1,0 +1,140 @@
+{
+  "name": "Marble Paw",
+  "slug": "marble-paw",
+  "industry": "pet-tech",
+  "tagline": "The operating system for the modern pet-care business.",
+  "positioning": "Marble Paw unifies bookings, client records, vaccination compliance, and payments into one command center built for independent groomers, vets, and boarders.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "text": "#0B0B0C",
+    "primary": "#0B0B0C",
+    "accent": "#FF4D1C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MP",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 14,
+        "r": 8,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 6,
+        "r": 3.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every paw through one platform.",
+      "sub": "Marble Paw replaces the reception binder, the whiteboard schedule, and the shoebox of vaccination cards with a single system built to run your entire pet-care operation.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a demo"
+    },
+    "features": [
+      {
+        "title": "Bookings that never double-stack",
+        "description": "A real-time calendar that knows your groom bays, exam rooms, and boarding runs — so two clients never land in the same slot again.",
+        "icon": "calendar"
+      },
+      {
+        "title": "One record per pet, forever",
+        "description": "Every visit, weight, allergy, and grooming note lives on a single profile your whole team can pull up before the leash hits the counter.",
+        "icon": "database"
+      },
+      {
+        "title": "Vaccination compliance on autopilot",
+        "description": "Marble Paw flags expired rabies and Bordetella records and auto-reminds owners, so no unvaccinated dog ever walks into your kennel.",
+        "icon": "shield"
+      },
+      {
+        "title": "Payments at the counter",
+        "description": "Deposits, tips, and package plans processed in seconds — with automatic invoices sent before the client reaches their car.",
+        "icon": "chart"
+      },
+      {
+        "title": "Staff schedules that hold",
+        "description": "Assign groomers and techs to shifts, cap their daily load, and let clients only book the people who are actually working.",
+        "icon": "users"
+      },
+      {
+        "title": "Automated client reminders",
+        "description": "Recurring six-week groom reminders and appointment texts that quietly refill your calendar without a single phone call.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran three groomers off a paper diary for nine years. Marble Paw cut our no-shows in half in the first month and I finally stopped taking booking calls at dinner.",
+        "name": "Danielle Ortega",
+        "role": "Owner",
+        "company": "Cedar & Comb Grooming"
+      },
+      {
+        "quote": "The vaccination flagging alone justified it. We used to catch expired records at check-in and turn people away. Now the system catches it a week out and emails them.",
+        "name": "Dr. Marcus Feld",
+        "role": "Practice Manager",
+        "company": "Riverbend Veterinary"
+      },
+      {
+        "quote": "I onboarded four kennel staff in an afternoon. Everyone sees the same schedule, the same pet notes, the same runs. It runs the building for us now.",
+        "name": "Priya Raman",
+        "role": "Founder",
+        "company": "Overlook Boarding Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Counter",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For solo operators and single-location shops finding their footing.",
+        "features": [
+          "Unlimited bookings & clients",
+          "One pet record per animal",
+          "Vaccination expiry alerts",
+          "Automated appointment reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing teams that need scheduling, payments, and reporting in one place.",
+        "features": [
+          "Everything in Counter",
+          "Staff scheduling & load limits",
+          "Integrated payments & deposits",
+          "Recurring service reminders",
+          "Revenue & retention reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location groups running a portfolio of pet-care businesses.",
+        "features": [
+          "Everything in Operator",
+          "Multi-location controls",
+          "Role-based permissions",
+          "Dedicated onboarding & SLA",
+          "API & integrations access"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Marble Paw is the operating system for independent pet-care businesses — one platform for bookings, records, compliance, and payments."
+  }
+}

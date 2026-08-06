@@ -1,0 +1,96 @@
+{
+  "name": "Moorline",
+  "slug": "moorline",
+  "industry": "marina management",
+  "tagline": "Every slip, every season, one dashboard.",
+  "positioning": "Moorline is the operating system for independent marinas — slip booking, billing, and maintenance in one calm place.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F7F9FA",
+    "surface": "#FFFFFF",
+    "text": "#12333D",
+    "primary": "#0E7490",
+    "accent": "#F59E0B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      { "type": "path", "d": "M2 16 Q7 10 12 16 Q17 22 22 16", "fill": "primary" },
+      { "type": "circle", "cx": 12, "cy": 8, "r": 3, "fill": "accent" }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your marina like it runs itself",
+      "sub": "Slip reservations, seasonal contracts, utility metering, and work orders — unified for harbormasters who'd rather be on the water than in a spreadsheet.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Live slip map",
+        "description": "A real-time visual of every berth, from transient overnights to decade-long seasonal tenants.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Automated billing",
+        "description": "Metered electric, pump-outs, and winter storage invoiced automatically, on schedule.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Waitlist intelligence",
+        "description": "Fill cancellations in hours, not weeks, with ranked waitlists that text boaters for you.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We filled 40 slips off the waitlist in one weekend. My clipboard is in a drawer somewhere.",
+        "name": "Dale Petersen",
+        "role": "Harbormaster",
+        "company": "Cedar Narrows Marina"
+      },
+      {
+        "quote": "Billing season used to take my entire January. Now it takes an afternoon.",
+        "name": "Rosa Alvarez",
+        "role": "Owner",
+        "company": "Puerto Sereno Yacht Basin"
+      },
+      {
+        "quote": "The live slip map alone is worth it. Our dockhands actually know where to send people.",
+        "name": "Gord MacLeish",
+        "role": "Operations Manager",
+        "company": "Thousand Pines Harbor"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dinghy",
+        "price": "$99",
+        "period": "per month",
+        "blurb": "For marinas under 75 slips getting off paper.",
+        "features": ["Live slip map", "Online booking", "Email support"],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbor",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "Everything a working marina needs in season.",
+        "features": ["Automated billing", "Waitlist intelligence", "Work orders", "Utility metering"],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "$599",
+        "period": "per month",
+        "blurb": "Multi-property operators and municipal ports.",
+        "features": ["Unlimited properties", "API access", "Dedicated onboarding", "Priority support"],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Moorline is the calm operating system for independent marinas everywhere the water meets the dock."
+  }
+}

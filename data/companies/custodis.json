@@ -1,0 +1,140 @@
+{
+  "name": "Custodis",
+  "slug": "custodis",
+  "industry": "pet-tech",
+  "tagline": "The health record your dog would keep if it had thumbs.",
+  "positioning": "Custodis turns collar sensors, vet visits, and daily walks into one clear timeline for the people who take pet care seriously.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F4F4F1",
+    "surface": "#FFFFFF",
+    "text": "#0B0B0B",
+    "primary": "#111111",
+    "accent": "#FF3D00"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 0,
+        "fill": "text"
+      },
+      {
+        "type": "path",
+        "d": "M18 7 C13 3 6 5 6 12 C6 19 13 21 18 17 L18 13 C15 16 10 16 10 12 C10 8 15 8 18 11 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "One record. Every vet, walk, and weigh-in.",
+      "sub": "Custodis pulls your pet's collar data, clinic paperwork, and daily routine into a single timeline you actually trust — so nothing about their health gets lost between apps.",
+      "ctaLabel": "Start free record",
+      "secondaryCtaLabel": "See a sample profile"
+    },
+    "features": [
+      {
+        "title": "One timeline, zero silos",
+        "description": "Vaccinations, weight logs, activity, and meds land on a single scrollable timeline instead of six apps and a shoebox of receipts.",
+        "icon": "layers"
+      },
+      {
+        "title": "Vet-ready export",
+        "description": "Generate a clean PDF summary before any appointment — last labs, meds, and weight trend, formatted the way clinics expect.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Trend alerts that matter",
+        "description": "We flag a drift in weight, appetite, or activity before it becomes a 9pm emergency-vet Google search.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Works with your collar",
+        "description": "Sync steps, sleep, and location from the trackers you already own — no proprietary hardware to buy.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Reminders you won't ignore",
+        "description": "Flea meds, booster shots, and grooming, scheduled around your pet's actual history, not a generic template.",
+        "icon": "bell"
+      },
+      {
+        "title": "Multi-pet households",
+        "description": "Switch between Biscuit, Nero, and the cat in one tap. Each animal keeps its own record and reminders.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "My senior lab has three specialists. Before Custodis I was texting photos of lab results between clinics. Now I hand over one export and everyone's on the same page.",
+        "name": "Marisol Vega",
+        "role": "Dog owner & foster volunteer",
+        "company": "Northgate Canine Rescue"
+      },
+      {
+        "quote": "The weight-trend alert caught a slow decline in my cat months before I would have. My vet was genuinely impressed by the summary I brought in.",
+        "name": "Daniel Ostrowski",
+        "role": "Cat parent",
+        "company": "Home"
+      },
+      {
+        "quote": "I run a small boarding setup and every guest arrives with a different app. Custodis exports are the one format I ask owners for now.",
+        "name": "Priya Nandakumar",
+        "role": "Owner",
+        "company": "Sit & Stay Boarding"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "forever",
+        "blurb": "One pet, one timeline, all the basics.",
+        "features": [
+          "1 pet profile",
+          "Manual health & weight logs",
+          "Vaccination reminders",
+          "30-day trend view"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Household",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "For homes with more than one set of paws.",
+        "features": [
+          "Up to 5 pet profiles",
+          "Collar & tracker sync",
+          "Vet-ready PDF export",
+          "Full trend alerts",
+          "Shared access for family"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Steward",
+        "price": "$24",
+        "period": "per month",
+        "blurb": "For fosters, breeders, and small caretakers.",
+        "features": [
+          "Unlimited pet profiles",
+          "Bulk export & handoff",
+          "Custom reminder templates",
+          "Priority support",
+          "Care-history transfer"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Custodis keeps one honest record of your pet's whole life — from first shots to golden years. Built for people who show up for their animals."
+  }
+}

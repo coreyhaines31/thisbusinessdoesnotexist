@@ -1,0 +1,145 @@
+{
+  "name": "PawLedger",
+  "slug": "pawledger",
+  "industry": "pet-tech",
+  "tagline": "The operating system for hands-on pet care businesses.",
+  "positioning": "PawLedger unifies bookings, pet records, and staff scheduling so groomers, daycares, and boarding facilities run every shift from one calm dashboard.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0e1418",
+    "surface": "#18222a",
+    "text": "#e7edf1",
+    "primary": "#3fb6a0",
+    "accent": "#e0954a"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PL",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 9,
+        "cy": 8,
+        "r": 3.5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 11,
+        "r": 2.6,
+        "fill": "accent"
+      },
+      {
+        "type": "path",
+        "d": "M6 16 C6 12.5 18 12.5 18 16 C18 20 6 20 6 16 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your pet care business without the front-desk chaos.",
+      "sub": "PawLedger keeps every booking, vaccination record, and staff shift in one place—so you spend less time chasing paperwork and more time with the animals.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Pet profiles that stay current",
+        "description": "Store vaccination dates, feeding notes, and behavior flags on each pet. Reminders nudge owners before a shot lapses, so you never turn a dog away at check-in.",
+        "icon": "database"
+      },
+      {
+        "title": "Bookings that don't double-book",
+        "description": "Set kennel counts, groom-table slots, and staff ratios once. PawLedger blocks overbooking automatically and fills cancellations from your waitlist.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Shift scheduling per seat",
+        "description": "Give each groomer, handler, and receptionist their own login, availability, and task list. Everyone sees today's roster the moment they clock in.",
+        "icon": "users"
+      },
+      {
+        "title": "Deposits and no-show protection",
+        "description": "Take card deposits at booking and auto-charge no-show fees to your policy. Fewer empty slots, fewer awkward phone calls.",
+        "icon": "lock"
+      },
+      {
+        "title": "Owner reminders on autopilot",
+        "description": "Text and email confirmations, pickup nudges, and rebooking prompts go out on schedule—branded with your business name, not ours.",
+        "icon": "bell"
+      },
+      {
+        "title": "Clear numbers every morning",
+        "description": "See revenue, occupancy, and repeat-visit rates by location without exporting a single spreadsheet.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were juggling a paper calendar and three group texts. PawLedger put our whole grooming schedule in one screen, and no-shows dropped the first month once deposits kicked in.",
+        "name": "Renata Alvarez",
+        "role": "Owner",
+        "company": "Wag & Rinse Grooming"
+      },
+      {
+        "quote": "Adding seats for new handlers takes a minute, and each one only sees the pets on their shift. Onboarding a weekend hire used to eat my whole Friday.",
+        "name": "Marcus Deel",
+        "role": "Kennel Manager",
+        "company": "Northgate Boarding Co."
+      },
+      {
+        "quote": "The vaccination reminders alone paid for it. We stopped turning away dogs at drop-off because owners actually get the nudge before their records expire.",
+        "name": "Priya Nandakumar",
+        "role": "Founder",
+        "company": "Little Paws Daycare"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For single-operator groomers and sitters getting organized.",
+        "features": [
+          "1 seat included",
+          "Unlimited pet profiles",
+          "Online booking page",
+          "Automated owner reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Team",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For multi-staff daycares and grooming shops running daily shifts.",
+        "features": [
+          "Volume seat pricing",
+          "Staff scheduling & roles",
+          "Card deposits & no-show fees",
+          "Waitlist auto-fill",
+          "Daily revenue & occupancy reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Multi-Site",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For boarding groups and franchises across several locations.",
+        "features": [
+          "Everything in Team",
+          "Per-location dashboards",
+          "Consolidated reporting",
+          "Priority onboarding",
+          "Dedicated account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "PawLedger helps hands-on pet care businesses run every shift from one dependable dashboard. Built for the people who actually clean the kennels."
+  }
+}

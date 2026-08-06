@@ -1,0 +1,136 @@
+{
+  "name": "Brass Whistle",
+  "slug": "brass-whistle",
+  "industry": "pet-tech",
+  "tagline": "The back office for people who'd rather be with the dogs.",
+  "positioning": "Brass Whistle runs the boring half of your grooming, walking, or daycare business so you can spend the day covered in fur instead of paperwork.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F6EFE2",
+    "surface": "#FBF6EC",
+    "text": "#2C2016",
+    "primary": "#B14E2A",
+    "accent": "#B7862E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BW",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your appointment book shouldn't need a nap.",
+      "sub": "Brass Whistle handles bookings, deposits, no-show fees, and vaccination reminders for grooming salons, dog walkers, and daycares — so the front desk stops eating your afternoon.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Watch the 2-min tour"
+    },
+    "features": [
+      {
+        "title": "Bookings that don't double-book",
+        "description": "Clients pick real open slots from your live calendar. No more three Labradoodles arriving at 9am because someone texted you on a walk.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Deposits and no-show fees",
+        "description": "Take a card up front, keep the deposit when they ghost you. Brass Whistle charges it automatically so you never have the awkward conversation.",
+        "icon": "lock"
+      },
+      {
+        "title": "Pet profiles that remember for you",
+        "description": "Breed, temperament, allergies, that one clipper guard number, and which dog bites the vacuum — all attached to the client, all searchable.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Vaccination reminders on autopilot",
+        "description": "We nag clients about expiring rabies records so you don't have to turn anyone away at the door — or risk your license doing it.",
+        "icon": "bell"
+      },
+      {
+        "title": "Staff schedules without the group chat",
+        "description": "Assign groomers and walkers by skill and shift. Everyone sees their day on their phone before the coffee's cold.",
+        "icon": "users"
+      },
+      {
+        "title": "Numbers a human can read",
+        "description": "Weekly revenue, rebooking rate, and which service actually pays the rent — in plain language, not a spreadsheet you'll never open.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to run my grooming schedule on a paper diary and pure spite. Brass Whistle cut my no-shows by half and I stopped answering texts at 11pm. That alone is worth the money.",
+        "name": "Danielle Roarke",
+        "role": "Owner & Lead Groomer",
+        "company": "Snip & Tidy Grooming"
+      },
+      {
+        "quote": "Three walkers, forty dogs, one very confused group chat. Now everyone gets their route on their phone and I get my evenings back. The deposit feature paid for the whole subscription in a month.",
+        "name": "Marcus Feld",
+        "role": "Founder",
+        "company": "Curbside Canines"
+      },
+      {
+        "quote": "The vaccination reminders quietly saved me from a very bad afternoon. Clients update their records before drop-off now instead of arguing with my front desk. Wildly boring, wildly effective.",
+        "name": "Priya Nadal",
+        "role": "Operations Manager",
+        "company": "Little Paws Daycare"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For the one-person show who is also the front desk.",
+        "features": [
+          "Online booking & calendar",
+          "Deposits and card on file",
+          "Pet & client profiles",
+          "Automated reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Pack",
+        "price": "$42",
+        "period": "per seat / month",
+        "blurb": "For small teams who share a calendar and a caffeine problem.",
+        "features": [
+          "Everything in Solo",
+          "Staff scheduling & roles",
+          "No-show fee automation",
+          "Revenue & rebooking reports",
+          "Digital intake forms"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Kennel",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location groups and franchises.",
+        "features": [
+          "Everything in Pack",
+          "Multi-location dashboard",
+          "Custom roles & permissions",
+          "Priority support & onboarding",
+          "API and payroll exports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Brass Whistle is software for the humans behind the leash. Fewer spreadsheets, fewer no-shows, more time with the actual animals."
+  }
+}

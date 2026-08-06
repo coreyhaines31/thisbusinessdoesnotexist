@@ -1,0 +1,139 @@
+{
+  "name": "Falcon Feed",
+  "slug": "falcon-feed",
+  "industry": "pet-tech",
+  "tagline": "Every pill, pound, and vet visit your pet has ever had — in one obnoxiously organized app.",
+  "positioning": "The pet operating system for people who color-code their own lives and refuse to let the dog be the one thing they wing.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0B0F",
+    "surface": "#15171F",
+    "text": "#F3F5FA",
+    "primary": "#3BFF8C",
+    "accent": "#B36BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "FF",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 8.5,
+        "r": 5.5,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "5.5,10.5 18.5,10.5 12,21",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your vet has 11 years of records. You have a shoebox.",
+      "sub": "Falcon Feed pulls your pet's meds, vaccines, weight, and vet visits into one dashboard — so you stop guessing whether the heartworm pill was last month or last spring.",
+      "ctaLabel": "Start tracking free",
+      "secondaryCtaLabel": "Meet a demo dog"
+    },
+    "features": [
+      {
+        "title": "One profile, entire animal",
+        "description": "Meds, allergies, microchip number, and that weird lump from March — all on one screen instead of five apps and a group text with your sister.",
+        "icon": "layers"
+      },
+      {
+        "title": "Reminders that actually nag",
+        "description": "Flea treatment, boosters, and pill schedules that ping you before the deadline, not three days after your dog started scratching.",
+        "icon": "bell"
+      },
+      {
+        "title": "Weight trends, not vibes",
+        "description": "Log the number, watch the curve. Find out your cat is 'chonky' from a chart instead of a stranger at the vet's office.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Vet-ready in one tap",
+        "description": "Export a clean history PDF before the appointment so you're not scrolling your camera roll for that rash photo in the waiting room.",
+        "icon": "inbox"
+      },
+      {
+        "title": "GPS for the escape artist",
+        "description": "Pair a tracker and set a home zone. Get an alert the second your beagle decides the fence is a suggestion.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Share access, keep control",
+        "description": "Give the dog walker, sitter, or ex read-only access to the feeding schedule without handing over your whole account.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I foster nine cats at a time and used to track dewormer dates on a whiteboard the cats kept knocking down. Falcon Feed remembers so I don't have to. My whiteboard is now purely decorative.",
+        "name": "Danielle Osei",
+        "role": "Independent cat foster coordinator",
+        "company": "Ninth Life Foster Home"
+      },
+      {
+        "quote": "My clients used to text me photos of pill bottles at 11pm. Now I just check the app. It made me look about 40% more professional overnight.",
+        "name": "Marcus Whitlow",
+        "role": "Certified dog trainer",
+        "company": "Whitlow K9"
+      },
+      {
+        "quote": "Two senior labs, four medications, one very tired brain. The reminders are the only reason both dogs still have functioning kidneys. That is not an exaggeration.",
+        "name": "Priya Ramanathan",
+        "role": "Prosumer pet parent",
+        "company": "Household of two labradors"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "forever",
+        "blurb": "One pet, the essentials, zero excuses for the shoebox.",
+        "features": [
+          "1 pet profile",
+          "Med & vaccine reminders",
+          "Weight and note logging",
+          "Basic vet history export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Pack",
+        "price": "$8",
+        "period": "per month",
+        "blurb": "For households where the animals outnumber the humans.",
+        "features": [
+          "Up to 6 pet profiles",
+          "Shared caregiver access",
+          "1 GPS tracker included",
+          "Full history PDF exports",
+          "Priority reminder scheduling"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Pro",
+        "price": "$18",
+        "period": "per month",
+        "blurb": "For breeders, fosters, and people who run a small zoo.",
+        "features": [
+          "Unlimited pet profiles",
+          "Unlimited caregiver seats",
+          "Multi-tracker GPS dashboard",
+          "Bulk record import & export",
+          "Litter and lineage tracking",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Falcon Feed keeps your animal's entire life on record so the only thing you have to remember is where you put the leash."
+  }
+}

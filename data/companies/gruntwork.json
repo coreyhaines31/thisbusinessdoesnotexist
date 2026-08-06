@@ -1,0 +1,98 @@
+{
+  "name": "Gruntwork",
+  "slug": "gruntwork",
+  "industry": "B2B swag",
+  "tagline": "Company swag people don't immediately donate.",
+  "positioning": "Gruntwork is the swag platform for startups that would rather ship 50 great hoodies than 500 sad pens.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#FFF7ED",
+    "surface": "#FFFFFF",
+    "text": "#3B1D0F",
+    "primary": "#EA580C",
+    "accent": "#16A34A"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "G!",
+    "shapes": []
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag so good your team steals it",
+      "sub": "Curated merch drops, zero minimums, and a warehouse that isn't your office closet. Design once, and we handle printing, packing, and worldwide shipping.",
+      "ctaLabel": "Start a drop",
+      "secondaryCtaLabel": "Browse the catalog"
+    },
+    "features": [
+      {
+        "title": "No minimums, ever",
+        "description": "Order one hoodie for the new hire or a thousand for the conference. Same price energy.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Global swag closet",
+        "description": "We store it, you send it. One click ships a welcome kit to any country your team hides in.",
+        "icon": "globe"
+      },
+      {
+        "title": "Taste firewall",
+        "description": "Our curators reject items destined for the donation bin. Yes, that includes stress balls.",
+        "icon": "shield"
+      },
+      {
+        "title": "Auto welcome kits",
+        "description": "Hook up your HR stack and every new hire gets a box before their first standup.",
+        "icon": "rocket"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Our retention went up and I'm 60% sure it's the hoodies.",
+        "name": "Priya Natarajan",
+        "role": "Head of People",
+        "company": "Loopstack"
+      },
+      {
+        "quote": "I used to spend Fridays in the post office. Now I spend them pretending to work, like everyone else.",
+        "name": "Marcus Webb",
+        "role": "Office Manager",
+        "company": "Fernbase"
+      },
+      {
+        "quote": "The taste firewall rejected our CEO's slogan idea. Worth every penny.",
+        "name": "Jenny Okafor",
+        "role": "Brand Lead",
+        "company": "Quietriver"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sticker",
+        "price": "$0",
+        "period": "forever",
+        "blurb": "Pay per item. Dip a toe in the swag lagoon.",
+        "features": ["Catalog access", "No minimums", "Standard shipping"],
+        "highlighted": false
+      },
+      {
+        "tier": "Hoodie",
+        "price": "$149",
+        "period": "per month",
+        "blurb": "For teams that onboard humans regularly.",
+        "features": ["Auto welcome kits", "Global warehouse", "HR integrations", "Priority printing"],
+        "highlighted": true
+      },
+      {
+        "tier": "Full Fit",
+        "price": "$499",
+        "period": "per month",
+        "blurb": "Merch as a personality. Conference mode unlocked.",
+        "features": ["Custom sourcing", "Event logistics", "Dedicated curator", "Same-week rush"],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Gruntwork makes company swag people actually wear. The stress balls didn't make it. They know what they did."
+  }
+}

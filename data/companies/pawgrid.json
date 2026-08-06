@@ -1,0 +1,162 @@
+{
+  "name": "PawGrid",
+  "slug": "pawgrid",
+  "industry": "pet-tech",
+  "tagline": "The operating platform for independent pet-care businesses.",
+  "positioning": "PawGrid consolidates booking, client records, and vaccination compliance into one system built for grooming salons, boarding kennels, and daycare operators.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F3F0EA",
+    "surface": "#FBFAF6",
+    "text": "#26251F",
+    "primary": "#455349",
+    "accent": "#B26240"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PG",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your pet-care floor without the clipboard chaos.",
+      "sub": "PawGrid unifies appointments, client and pet profiles, and vaccination records so grooming, boarding, and daycare operators can manage a full book from one dashboard.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Smart booking grid",
+        "description": "Drag-and-drop scheduling across groomers, kennels, and daycare rooms with buffer times, breed durations, and no-double-book guardrails.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Pet & owner profiles",
+        "description": "Every pet's coat notes, temperament flags, feeding plan, and owner contact history in one searchable record your whole team can trust.",
+        "icon": "database"
+      },
+      {
+        "title": "Vaccination compliance",
+        "description": "Automatic expiry alerts and check-in blocks keep rabies and bordetella records current, so you're never chasing paperwork at the door.",
+        "icon": "shield"
+      },
+      {
+        "title": "Automated reminders",
+        "description": "Cut no-shows with SMS and email confirmations, rebooking nudges, and deposit requests sent on your schedule, not manually.",
+        "icon": "bell"
+      },
+      {
+        "title": "Payments & deposits",
+        "description": "Take card payments, store cards on file, and require deposits for high-value grooms directly from the appointment card.",
+        "icon": "chart"
+      },
+      {
+        "title": "Team performance",
+        "description": "Track revenue per groomer, utilization by room, and rebooking rates with reports built for owner-operators, not accountants.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We moved off three separate tools and a paper diary. PawGrid caught 40 lapsed vaccination records in the first week and our no-show rate dropped by half.",
+        "name": "Marisol Reyes",
+        "role": "Owner",
+        "company": "Cedar & Comb Grooming"
+      },
+      {
+        "quote": "The booking grid finally matches how a real kennel runs. Assigning runs, tracking feeding schedules, and billing per night all live in one place now.",
+        "name": "Trevor Halloran",
+        "role": "General Manager",
+        "company": "Northgate Boarding Co."
+      },
+      {
+        "quote": "Onboarding four groomers took an afternoon. The per-groomer reports showed me who was under-booked, and we adjusted the schedule the same week.",
+        "name": "Priya Nadkarni",
+        "role": "Founder",
+        "company": "Wagtail Daycare"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For single-operator salons getting off paper and spreadsheets.",
+        "features": [
+          "1–2 seats",
+          "Booking grid & pet profiles",
+          "SMS & email reminders",
+          "Card payments"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For growing teams juggling groomers, rooms, and boarding.",
+        "features": [
+          "Up to 15 seats",
+          "Vaccination compliance alerts",
+          "Deposits & stored cards",
+          "Per-groomer performance reports",
+          "Multi-room scheduling"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Franchise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location operators needing central oversight.",
+        "features": [
+          "Unlimited seats",
+          "Multi-location dashboards",
+          "Role-based permissions",
+          "API & accounting integrations",
+          "Dedicated onboarding manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "PawGrid is the operating platform for independent pet-care businesses — booking, records, and compliance in one place."
+  }
+}

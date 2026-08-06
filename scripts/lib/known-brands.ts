@@ -1,0 +1,27 @@
+// Eyeball-grade similarity filter against famous companies — not legal
+// clearance. Lowercase, no spaces.
+export const KNOWN_BRANDS = [
+  "stripe", "vercel", "linear", "notion", "figma", "slack", "zoom", "shopify",
+  "square", "salesforce", "hubspot", "intercom", "zendesk", "asana", "trello",
+  "airtable", "monday", "clickup", "basecamp", "dropbox", "box", "github",
+  "gitlab", "bitbucket", "atlassian", "jira", "confluence", "twilio",
+  "sendgrid", "mailchimp", "klaviyo", "braze", "segment", "amplitude",
+  "mixpanel", "posthog", "datadog", "sentry", "newrelic", "pagerduty",
+  "cloudflare", "fastly", "netlify", "heroku", "render", "railway",
+  "supabase", "firebase", "mongodb", "redis", "snowflake", "databricks",
+  "openai", "anthropic", "google", "microsoft", "apple", "amazon", "meta",
+  "netflix", "spotify", "uber", "lyft", "airbnb", "doordash", "instacart",
+  "robinhood", "coinbase", "plaid", "brex", "ramp", "mercury", "gusto",
+  "rippling", "deel", "workday", "adp", "quickbooks", "xero", "freshbooks",
+  "docusign", "dropboxsign", "calendly", "loom", "miro", "canva", "webflow",
+  "framer", "squarespace", "wix", "wordpress", "ghost", "substack", "medium",
+  "patreon", "gumroad", "kajabi", "teachable", "circle", "discord", "twitch",
+  "reddit", "pinterest", "snapchat", "tiktok", "linkedin", "twitter",
+  "duolingo", "peloton", "strava", "oura", "whoop", "fitbit", "garmin",
+  "tesla", "rivian", "spacex", "palantir", "nvidia", "intel", "oracle",
+  "sap", "ibm", "adobe", "autodesk", "unity", "roblox", "epic", "valve",
+  "cloudkitchens", "toast", "olo", "clover", "lightspeed", "mindbody",
+  "servicetitan", "procore", "samsara", "verkada", "flock", "anduril",
+  "carta", "angellist", "crunchbase", "pitchbook", "zapier", "make",
+  "retool", "bubble", "glide", "typeform", "surveymonkey", "qualtrics",
+] as const;

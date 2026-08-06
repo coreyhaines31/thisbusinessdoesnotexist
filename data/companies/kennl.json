@@ -1,0 +1,155 @@
+{
+  "name": "Kennl",
+  "slug": "kennl",
+  "industry": "pet-tech",
+  "tagline": "The pet health record layer for enterprise veterinary networks",
+  "positioning": "Kennl unifies scattered pet health data across clinics, insurers, and shelters into one clean, auditable record — so every animal has a single source of truth.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FBF4EF",
+    "surface": "#FFFFFF",
+    "text": "#312B3D",
+    "primary": "#7A67CE",
+    "accent": "#F2A6C2"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 5,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 9,
+        "width": 5,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 3,
+        "width": 5,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "One health record for every pet in your network",
+      "sub": "Kennl connects your clinics, insurers, and adoption partners so vaccination histories, chart notes, and claims stay in sync — no faxed PDFs, no duplicate charts, no guessing.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See the API"
+    },
+    "features": [
+      {
+        "title": "Unified pet timeline",
+        "description": "Merge duplicate charts across locations into one canonical record, complete with visit history, meds, and lab results tied to a single pet ID.",
+        "icon": "layers"
+      },
+      {
+        "title": "Claims-ready exports",
+        "description": "Generate insurer-formatted claim packets and pre-auth documents in seconds, pulled straight from the chart your vets already wrote.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Network-wide alerts",
+        "description": "Flag overdue vaccines, breed-specific risks, and recall notices across your whole roster before the next appointment lands.",
+        "icon": "bell"
+      },
+      {
+        "title": "Audit trail by default",
+        "description": "Every edit, merge, and share is logged with who, when, and why — the paper trail your compliance team keeps asking for.",
+        "icon": "shield"
+      },
+      {
+        "title": "Open pet-data API",
+        "description": "Sync records with your PIMS, booking tools, and shelter software using webhooks and a documented REST API.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Usage you can forecast",
+        "description": "Live dashboards break down active records, API calls, and claim exports by clinic so finance never gets a surprise bill.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from 14 disconnected clinic systems to one record per pet. Our vets stopped re-taking histories, and claim rejections dropped by a third in the first quarter.",
+        "name": "Dr. Priya Ramanathan",
+        "role": "VP of Clinical Operations",
+        "company": "Northgate Animal Group"
+      },
+      {
+        "quote": "The audit trail alone justified the contract. When an insurer disputes a claim, we pull the exact chart version and every touch in under a minute.",
+        "name": "Marcus Feld",
+        "role": "Director of Compliance",
+        "company": "Havenpaw Insurance"
+      },
+      {
+        "quote": "Kennl's API let us merge shelter intake records with our clinic charts overnight. Adopted pets now arrive with a full history instead of a blank page.",
+        "name": "Tessa Okonkwo",
+        "role": "Head of Data Partnerships",
+        "company": "Brightwater Shelters"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Clinic",
+        "price": "$0.18",
+        "period": "per active pet record / month",
+        "blurb": "For single-site practices getting their charts in order.",
+        "features": [
+          "Up to 5,000 active records",
+          "Unified pet timeline",
+          "10,000 API calls / month",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.11",
+        "period": "per active pet record / month",
+        "blurb": "For multi-clinic groups syncing across locations.",
+        "features": [
+          "Volume pricing above 25,000 records",
+          "Claims-ready exports",
+          "Network-wide alerts",
+          "250,000 API calls / month",
+          "SSO and role controls",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, metered by usage",
+        "blurb": "For insurers and national chains with compliance needs.",
+        "features": [
+          "Unlimited records with committed-use rates",
+          "Full audit trail and data residency",
+          "Dedicated API throughput",
+          "Custom integrations",
+          "named account team",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kennl is the pet health record layer trusted by veterinary networks, insurers, and shelters to keep every animal's story in one place."
+  }
+}
