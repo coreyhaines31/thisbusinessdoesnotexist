@@ -1,0 +1,153 @@
+{
+  "name": "Grippa",
+  "slug": "grippa",
+  "industry": "film production payroll",
+  "tagline": "Payroll for people who spent last night rigging a crane over a lake.",
+  "positioning": "Grippa runs payroll, timecards, and residual math for film and episodic crews without the fax machine energy of legacy payroll houses.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FBFAF5",
+    "text": "#221F1A",
+    "primary": "#4C5340",
+    "accent": "#B0532F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "G",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 5,
+        "width": 15,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 10,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 15,
+        "width": 12,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Payroll that survives a night shoot.",
+      "sub": "Grippa handles union rates, meal penalties, kit fees, and 14-hour turnarounds across every state your production accidentally shot in — before the wrap party ends.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See how it math"
+    },
+    "features": [
+      {
+        "title": "Timecards that read a call sheet",
+        "description": "Turnaround, golden hours, and forced calls calculate themselves. Your 2nd AD stops doing spreadsheet math at 2am and your accountant stops crying at 3am.",
+        "icon": "clock"
+      },
+      {
+        "title": "Every guild, one engine",
+        "description": "IATSE, DGA, WGA, SAG-AFTRA, Teamsters — rate tables, fringes, and pension/health caps stay current so you don't audit yourself into a coma.",
+        "icon": "layers"
+      },
+      {
+        "title": "Multi-state, multi-loan-out chaos",
+        "description": "Loan-outs, incentives, and residency rules across 30 jurisdictions reconcile per production. We do the withholding gymnastics, you take the credit.",
+        "icon": "globe"
+      },
+      {
+        "title": "Start work in minutes",
+        "description": "Digital start paperwork, I-9s, and deal memos that crew actually finish because it's not a 40-page PDF from 2004.",
+        "icon": "zap"
+      },
+      {
+        "title": "Cost reports producers trust",
+        "description": "Hot costs and Hollywood-format cost reports export straight to your production accounting stack — no re-keying, no vibes-based estimates.",
+        "icon": "chart"
+      },
+      {
+        "title": "Audit-proof, on purpose",
+        "description": "Every rate decision, edit, and approval is stamped and searchable, so the post-strike wage audit is a Tuesday, not an event.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We wrapped a 62-day episodic across three states and nobody rage-quit accounting. Grippa closed the payroll week before I finished my coffee — which, for context, was a large.",
+        "name": "Danielle Prewitt",
+        "role": "VP, Production Finance",
+        "company": "Northlot Studios"
+      },
+      {
+        "quote": "Our old payroll house billed us for the privilege of losing a timecard. Grippa's usage pricing means we pay for actual crew weeks, not a vendor's boat payment.",
+        "name": "Marcus Oyelaran",
+        "role": "Head of Physical Production",
+        "company": "Tidemark Pictures"
+      },
+      {
+        "quote": "Meal penalty disputes used to eat a full day per week. Now the numbers just show up correct, which is somehow more unsettling than the chaos was.",
+        "name": "Regina Falco",
+        "role": "Production Accountant",
+        "company": "Half Frame Media"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Short Run",
+        "price": "$6",
+        "period": "per paid crew member / week",
+        "blurb": "For features, commercials, and shoots that end before you go feral.",
+        "features": [
+          "Union & non-union rate engine",
+          "Digital start paperwork",
+          "Timecards with turnaround logic",
+          "Single-state withholding"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Series",
+        "price": "$4",
+        "period": "per paid crew member / week",
+        "blurb": "For episodic and slate volume where the weeks add up fast.",
+        "features": [
+          "Everything in Short Run",
+          "Multi-state & loan-out handling",
+          "Hot costs & cost reports",
+          "Incentive/tax credit tracking",
+          "Priority payroll support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "volume + SLA pricing",
+        "blurb": "For studios and networks running many productions at once.",
+        "features": [
+          "Everything in Series",
+          "Portfolio-wide reporting",
+          "SSO, roles & audit controls",
+          "Dedicated payroll ops team",
+          "Custom guild & finance integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Grippa is production payroll built by people who've been on set at hour 15. Fewer faxes, correct meal penalties, calmer accountants."
+  }
+}

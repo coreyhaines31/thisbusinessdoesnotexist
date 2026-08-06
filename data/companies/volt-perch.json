@@ -1,0 +1,136 @@
+{
+  "name": "Volt Perch",
+  "slug": "volt-perch",
+  "industry": "micro-mobility charging",
+  "tagline": "Charging docks for scooters and e-bikes that don't need a babysitter.",
+  "positioning": "Volt Perch runs the charging fleet behind your rental scooters and e-bikes — so batteries are full, ports work, and nobody pages you at 6am.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0B1F2A",
+    "surface": "#12303D",
+    "text": "#EAF6F2",
+    "primary": "#22D69E",
+    "accent": "#2E9BE6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "VP",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your scooters are dead again. We noticed before you did.",
+      "sub": "Volt Perch is the charging dock and software SMB fleet owners use to keep e-bikes and scooters topped up, tracked, and out of the repair pile.",
+      "ctaLabel": "Claim a dock",
+      "secondaryCtaLabel": "See it charge"
+    },
+    "features": [
+      {
+        "title": "Ports that snitch",
+        "description": "Every port reports voltage, temperature, and 'someone jammed a coffee cup in me' faults in real time. You get a text, not a mystery.",
+        "icon": "zap"
+      },
+      {
+        "title": "Never rent a dead bike",
+        "description": "The dashboard hides any vehicle under your charge threshold until it's genuinely ready, so riders stop leaving one-star reviews about it.",
+        "icon": "shield"
+      },
+      {
+        "title": "Utilization you can read",
+        "description": "See which perches earn their footprint and which ones just sit there looking pretty next to the taco truck.",
+        "icon": "chart"
+      },
+      {
+        "title": "Off-peak charging",
+        "description": "We schedule charging around your utility's cheap hours automatically. Your power bill stops resembling a phone number.",
+        "icon": "clock"
+      },
+      {
+        "title": "Swap-and-go batteries",
+        "description": "Track loose battery packs by serial, know which are charged, and stop losing $400 bricks in the back of a van.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Works where you park",
+        "description": "Curbside, garage, storefront, or that questionable alley — docks are IP65 and run on a normal outlet.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to send a kid on a bike to check if the other bikes were charged. Now the dock just tells us. He got promoted to something less stupid.",
+        "name": "Dario Speck",
+        "role": "Owner",
+        "company": "Harborline Scooters"
+      },
+      {
+        "quote": "Downtime dropped 40% in a month. My whole business was 'is it charged?' and Volt Perch quietly answered it forever.",
+        "name": "Priya Nandan",
+        "role": "Operations Lead",
+        "company": "Two Wheel Provisions"
+      },
+      {
+        "quote": "I bought it expecting to hate the app. I check it in the bathroom now. That's either a great review or a cry for help.",
+        "name": "Marcus Field",
+        "role": "Founder",
+        "company": "Crosstown E-Ride"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Kickstand",
+        "price": "$19",
+        "period": "per seat / month",
+        "blurb": "For the one-location operator who just wants full batteries.",
+        "features": [
+          "Up to 2 docks",
+          "Live port + charge status",
+          "Low-battery text alerts",
+          "Basic utilization report"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cruiser",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For growing fleets juggling docks across a few blocks.",
+        "features": [
+          "Unlimited docks",
+          "Off-peak charging scheduler",
+          "Battery swap tracking",
+          "Fault history + repair queue",
+          "Multi-location dashboard"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Throttle",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For city-wide fleets that page nobody, ever.",
+        "features": [
+          "Everything in Cruiser",
+          "API + fleet integrations",
+          "SLA-backed uptime",
+          "Dedicated onboarding",
+          "Volume dock pricing"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Volt Perch keeps micro-mobility fleets charged so owner-operators can go home. Fewer dead bikes, fewer 6am phone calls."
+  }
+}

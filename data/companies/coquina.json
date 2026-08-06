@@ -1,0 +1,131 @@
+{
+  "name": "Coquina",
+  "slug": "coquina",
+  "industry": "ghost kitchens",
+  "tagline": "Run a real food brand from one shared kitchen",
+  "positioning": "Coquina gives solo chefs and food entrepreneurs the delivery-only kitchen, ordering menus, and logistics to launch a brand without a storefront.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0c1f2b",
+    "surface": "#123243",
+    "text": "#e8f4f2",
+    "primary": "#25c2a0",
+    "accent": "#3f9dd6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18 5 C13 2 6 3 4 9 C2 15 6 21 12 21 C15 21 17 20 19 18 L15 15 C14 16 13 16 12 16 C9 16 8 13 9 10 C10 7 13 6 16 8 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your kitchen is ready. Your brand starts tonight.",
+      "sub": "Coquina rents you a licensed prep station, plugs you into every delivery app, and handles the packaging and pickups — so one person can run a real food business.",
+      "ctaLabel": "Claim a kitchen",
+      "secondaryCtaLabel": "See the kitchens"
+    },
+    "features": [
+      {
+        "title": "A station you can actually afford",
+        "description": "Rent a licensed, inspection-ready prep station by the shift or the month. No lease, no build-out, no six-figure deposit before your first order.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "One menu, every app",
+        "description": "Publish once and Coquina syncs your menu, hours, and pricing to DoorDash, Uber Eats, and Grubhub. Update a dish and it changes everywhere in seconds.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Packaging that shows up",
+        "description": "Compostable containers, labels, and inserts stocked at your station and reordered before you run out. Your brand on every bag, no minimums.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Prep math done for you",
+        "description": "Coquina reads your incoming orders and tells you how many portions to batch, when to start, and what to prep tomorrow. Less waste, fewer 86s.",
+        "icon": "chart"
+      },
+      {
+        "title": "Couriers handled at the door",
+        "description": "Drivers check in at a single pickup window with order codes, so you cook instead of chasing the right bag to the right car.",
+        "icon": "clock"
+      },
+      {
+        "title": "Your numbers, honestly",
+        "description": "One dashboard for sales, refunds, and food cost across every platform — the real margin per dish, not a screenshot from three apps.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was making birria out of my apartment and getting nowhere. Six weeks after moving into a Coquina station I was doing 90 orders a night, alone, and actually keeping the money.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Vega Birria Co."
+      },
+      {
+        "quote": "The menu sync alone saved my sanity. I used to update prices on three apps at midnight. Now I change one thing at Coquina and forget about it.",
+        "name": "Daniel Okafor",
+        "role": "Chef & Founder",
+        "company": "Lagos Late Night"
+      },
+      {
+        "quote": "I test a new dish on Thursday and drop it if it flops on Sunday. Coquina lets one person move like a whole restaurant group.",
+        "name": "Priya Nandakumar",
+        "role": "Founder",
+        "company": "Curry Ledger"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Starter",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For your first delivery-only concept out of a shared station.",
+        "features": [
+          "8 kitchen shifts per month",
+          "1 brand, all major delivery apps",
+          "Menu sync and basic packaging",
+          "Weekly sales dashboard"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$549",
+        "period": "per month",
+        "blurb": "For chefs running a full-time brand solo or with one helper.",
+        "features": [
+          "Unlimited off-peak shifts",
+          "Up to 3 brands from one station",
+          "Prep forecasting and auto-reorder",
+          "Courier pickup window",
+          "Food-cost and margin reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Collective",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For multi-brand makers and small groups scaling across kitchens.",
+        "features": [
+          "Priority stations in every city",
+          "Unlimited brands and menus",
+          "Dedicated launch specialist",
+          "Custom packaging runs",
+          "Consolidated payouts"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Coquina is the shared kitchen behind independent food brands — licensed stations, unified delivery, and honest numbers for one-person operations."
+  }
+}

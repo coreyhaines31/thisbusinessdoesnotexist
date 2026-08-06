@@ -1,0 +1,135 @@
+{
+  "name": "Wren Manor",
+  "slug": "wren-manor",
+  "industry": "wedding vendor CRM",
+  "tagline": "The command center for the artisans who compose once-in-a-lifetime days.",
+  "positioning": "Wren Manor unifies inquiries, contracts, timelines, and payments so solo wedding pros can run a boutique studio like an estate.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F5EDE1",
+    "surface": "#FDF8F0",
+    "text": "#3A2C22",
+    "primary": "#B15234",
+    "accent": "#7C7A3A"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "WM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your wedding studio like a grand estate, not a spreadsheet.",
+      "sub": "Wren Manor gathers every inquiry, contract, timeline, and final payment into one serene workspace — so a single photographer, planner, or florist can perform like a full house.",
+      "ctaLabel": "Claim your studio",
+      "secondaryCtaLabel": "Tour a live workspace"
+    },
+    "features": [
+      {
+        "title": "The Inquiry Gallery",
+        "description": "Every couple who reaches out lands in one warm inbox with source, date, and budget — no more losing a June bride between Instagram DMs and email.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Contracts & signatures",
+        "description": "Send a branded proposal, contract, and deposit invoice as one document. Couples sign and pay in a single sitting, and it lands signed in their file.",
+        "icon": "lock"
+      },
+      {
+        "title": "The Day-Of Timeline",
+        "description": "Compose ceremony-to-send-off timelines that sync to every vendor and the couple, so nobody asks 'when is golden hour?' at the reception.",
+        "icon": "clock"
+      },
+      {
+        "title": "Payment schedules",
+        "description": "Automate deposit, midpoint, and final balance reminders. Wren Manor chases the overdue invoice so you can stay the artist, not the accountant.",
+        "icon": "calendar"
+      },
+      {
+        "title": "The Couple's Portal",
+        "description": "Give each client a private, elegant home for questionnaires, mood boards, and their signed paperwork — branded entirely to your studio.",
+        "icon": "users"
+      },
+      {
+        "title": "Booking pipeline",
+        "description": "See every lead move from inquiry to booked to delivered on one refined board, with revenue forecast for the season ahead.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I shot 41 weddings solo last year and Wren Manor is the only reason I still sleep. Inquiries, contracts, and final payments finally live in one place.",
+        "name": "Marisol Trench",
+        "role": "Wedding & Elopement Photographer",
+        "company": "Trench & Field Studio"
+      },
+      {
+        "quote": "The couple's portal made me look like a ten-person agency. Clients think I have an assistant. I have Wren Manor.",
+        "name": "Devon Ashby",
+        "role": "Independent Wedding Planner",
+        "company": "Ashby Ceremonies"
+      },
+      {
+        "quote": "Automated payment reminders recovered almost four thousand dollars in late balances my old spreadsheet quietly forgot about.",
+        "name": "Priya Nandakumar",
+        "role": "Owner & Floral Designer",
+        "company": "Marrow & Bloom"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$24",
+        "period": "per month, billed yearly",
+        "blurb": "For the newly independent vendor booking their first full season.",
+        "features": [
+          "Up to 25 active weddings",
+          "Inquiry gallery & booking pipeline",
+          "Contracts and e-signatures",
+          "Deposit & balance invoicing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$49",
+        "period": "per month, billed yearly",
+        "blurb": "For the established solo pro running back-to-back seasons.",
+        "features": [
+          "Unlimited active weddings",
+          "Everything in Atelier",
+          "Branded couple's portal",
+          "Automated payment schedules",
+          "Day-of timeline builder"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Manor",
+        "price": "$89",
+        "period": "per month, billed yearly",
+        "blurb": "For the boutique studio with associates and a signature look.",
+        "features": [
+          "Everything in Studio",
+          "Up to 3 associate seats",
+          "Custom-domain client portal",
+          "Revenue forecasting",
+          "Priority concierge support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Wren Manor is the quiet operating system behind independent wedding artisans — turning scattered inquiries into unforgettable, beautifully run days."
+  }
+}

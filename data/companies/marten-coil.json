@@ -1,0 +1,131 @@
+{
+  "name": "Marten Coil",
+  "slug": "marten-coil",
+  "industry": "HVAC field service",
+  "tagline": "Diagnose the furnace before you diagnose your bank account.",
+  "positioning": "Marten Coil is the HVAC brain for people who'd rather fix it themselves — error codes, filter timers, and refrigerant logs, minus the $400 service call.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A0B0D",
+    "surface": "#16181C",
+    "text": "#F1F4F3",
+    "primary": "#2BFF88",
+    "accent": "#FF3DBE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M5 3 H19 V8 H10 V11 H19 V21 H5 V16 H14 V13 H5 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Fix the furnace before it ruins your weekend.",
+      "sub": "Marten Coil decodes the blinking error light, tracks every filter and capacitor, and tells you what to buy — so you stop paying a stranger $400 to press a reset button.",
+      "ctaLabel": "Start diagnosing",
+      "secondaryCtaLabel": "See the error codes"
+    },
+    "features": [
+      {
+        "title": "Blink-code decoder",
+        "description": "Point at the flashing LED, count the blinks, get plain-English cause and the exact part number. No manual named 'FINAL_v3.pdf' required.",
+        "icon": "zap"
+      },
+      {
+        "title": "Filter & maintenance timers",
+        "description": "Automatic reminders for filters, coil cleans, and belt swaps per unit. It nags you so your compressor doesn't die in July.",
+        "icon": "clock"
+      },
+      {
+        "title": "Refrigerant log",
+        "description": "Track charge, pressures, and superheat readings over time. Spot the slow leak months before the house turns into a sauna.",
+        "icon": "chart"
+      },
+      {
+        "title": "Parts & warranty vault",
+        "description": "Model numbers, receipts, and warranty dates in one place. When the board fries, you already know it's covered.",
+        "icon": "database"
+      },
+      {
+        "title": "Seasonal checklists",
+        "description": "Guided fall and spring tune-ups written for humans, not licensed techs. Fifteen minutes, zero guesswork.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Ask a real tech",
+        "description": "Stuck at 11pm? Message a vetted HVAC pro and get a straight answer before you rip out a working valve.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I stared at three blinking lights for an hour before I found Marten Coil. Turned out to be a $14 flame sensor, not the $2,900 furnace the shop quoted. I cleaned it myself in the driveway.",
+        "name": "Dominic Reyes",
+        "role": "Homeowner, two-story colonial",
+        "company": "Fenwick Heights"
+      },
+      {
+        "quote": "I flip and rent a handful of units, and I was drowning in filter dates and warranty PDFs. Now every system has a page. My tenants text less, which is the whole point.",
+        "name": "Priya Nandakumar",
+        "role": "Small landlord",
+        "company": "Nandakumar Rentals"
+      },
+      {
+        "quote": "I run HVAC on the side for neighbors. The refrigerant log alone got me a repeat customer who saw the leak coming a season out. Feels illegal how simple it is.",
+        "name": "Marcus Tillett",
+        "role": "Weekend tech",
+        "company": "Tillett Air & Comfort"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "One Unit",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "For the person who owns exactly one furnace and one strong opinion.",
+        "features": [
+          "1 system tracked",
+          "Blink-code decoder",
+          "Filter & maintenance timers",
+          "Seasonal checklists"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Whole House",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "Furnace, AC, mini-splits, that mystery box in the crawlspace.",
+        "features": [
+          "Up to 6 systems",
+          "Refrigerant & pressure logs",
+          "Parts & warranty vault",
+          "2 ask-a-tech chats/month",
+          "Photo notes per unit"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For landlords and side-hustlers running way too many units.",
+        "features": [
+          "Unlimited systems",
+          "Unlimited ask-a-tech chats",
+          "Tenant maintenance requests",
+          "Export reports & receipts",
+          "Multi-property dashboard"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Marten Coil is HVAC software for people who read the manual. Decode it, log it, fix it — and keep the service fee."
+  }
+}

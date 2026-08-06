@@ -1,0 +1,141 @@
+{
+  "name": "Chapel Ledger",
+  "slug": "chapel-ledger",
+  "industry": "church admin software",
+  "tagline": "The operating system for the modern congregation.",
+  "positioning": "One ledger for members, giving, and scheduling — so small church staffs stop stitching together spreadsheets and start leading their people.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#EAE6DE",
+    "surface": "#F5F2EC",
+    "text": "#20201C",
+    "primary": "#3A3D52",
+    "accent": "#9A5B3F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CL",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 6,
+        "width": 12,
+        "height": 12,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your whole church from one honest ledger.",
+      "sub": "Chapel Ledger unifies membership, tithing, and volunteer scheduling into a single record of truth — built for the pastor who is also the bookkeeper, the sexton, and the IT department.",
+      "ctaLabel": "Claim your parish",
+      "secondaryCtaLabel": "See the ledger"
+    },
+    "features": [
+      {
+        "title": "The Single Roll",
+        "description": "Every member, family, and household in one canonical roll. No duplicate Marys, no orphaned emails, no more reconciling three directories before every mailing.",
+        "icon": "database"
+      },
+      {
+        "title": "Giving, Reconciled",
+        "description": "Track tithes, pledges, and one-time gifts, then export year-end statements in a single click. IRS-ready, plate-count to bank deposit, fully traceable.",
+        "icon": "chart"
+      },
+      {
+        "title": "The Rota, Solved",
+        "description": "Schedule ushers, greeters, nursery, and worship teams with conflict detection. Volunteers confirm by text; empty slots surface before Sunday, not during it.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Pastoral Care Threads",
+        "description": "Log visits, prayer requests, and follow-ups against the member record. Nothing important slips through when the whole team can see the thread.",
+        "icon": "inbox"
+      },
+      {
+        "title": "One Roof, Many Hands",
+        "description": "Give the treasurer, the secretary, and the deacons exactly the access they need — per seat, with a clean audit trail of who changed what.",
+        "icon": "users"
+      },
+      {
+        "title": "Sunday, Automated",
+        "description": "Attendance kiosks, offering counts, and follow-up sequences run themselves. Your staff walks in Monday to a service already summarized.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running the church on four spreadsheets and a shoebox of envelopes. Chapel Ledger gave us one roll and one number I actually trust at the annual meeting.",
+        "name": "Pastor Daniel Ruiz",
+        "role": "Lead Pastor",
+        "company": "Cornerstone Fellowship"
+      },
+      {
+        "quote": "Year-end giving statements used to eat my entire January. Now it's an afternoon. The audit trail alone settled two years of arguments with our finance committee.",
+        "name": "Marlene Osei",
+        "role": "Church Administrator",
+        "company": "Grace Covenant Chapel"
+      },
+      {
+        "quote": "Our volunteer no-shows dropped by half once the rota started texting confirmations. I can finally see the empty nursery slot on Thursday instead of Sunday.",
+        "name": "Rev. Thomas Braddock",
+        "role": "Associate Minister",
+        "company": "Wellspring Community Church"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$9",
+        "period": "per seat / month",
+        "blurb": "For the one-person office running a small congregation.",
+        "features": [
+          "Up to 3 staff seats",
+          "Single member roll",
+          "Giving tracking & statements",
+          "Basic volunteer scheduling"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parish",
+        "price": "$14",
+        "period": "per seat / month",
+        "blurb": "For growing churches with a real staff and real Sundays.",
+        "features": [
+          "Unlimited staff seats",
+          "Role-based access & audit trail",
+          "Pastoral care threads",
+          "Attendance kiosks",
+          "Automated follow-up sequences",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-site ministries and denominational networks.",
+        "features": [
+          "Multi-campus consolidation",
+          "Central giving oversight",
+          "SSO & advanced permissions",
+          "Dedicated onboarding",
+          "Data migration included"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Chapel Ledger is the record of truth for the modern congregation. One ledger. One roll. One Sunday at a time."
+  }
+}

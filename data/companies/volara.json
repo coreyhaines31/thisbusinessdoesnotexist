@@ -1,0 +1,138 @@
+{
+  "name": "Volara",
+  "slug": "volara",
+  "industry": "drone inspection",
+  "tagline": "Turn your drone into a proper inspection tool.",
+  "positioning": "Volara helps homeowners and independent operators plan flights, tag defects, and generate clean inspection reports from consumer drone footage.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#08192a",
+    "surface": "#0f2a3f",
+    "text": "#e6f5f1",
+    "primary": "#1fb8a6",
+    "accent": "#3a9bff"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18.36 5.64 A9 9 0 1 0 18.36 18.36 L15.89 15.89 A5.5 5.5 0 1 1 15.89 8.11 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 18.2,
+        "cy": 12,
+        "r": 2.1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Inspect your roof without ever touching a ladder.",
+      "sub": "Volara turns the drone you already own into a real inspection tool — guided flights, tagged defects, and a report you can hand to your insurer or contractor.",
+      "ctaLabel": "Start your first inspection",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Guided flight paths",
+        "description": "Draw your roof or panel array once and Volara plans an overlapping capture pattern, so you never miss a slope, valley, or vent.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Tag defects as you go",
+        "description": "Drop pins on cracked shingles, loose flashing, or rust and add a note. Every tag lands on the map and in the report automatically.",
+        "icon": "target"
+      },
+      {
+        "title": "Reports in minutes",
+        "description": "Volara stitches your stills into a dated, location-stamped PDF that insurers and roofers actually accept — no editing software required.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Know your weather window",
+        "description": "We watch wind speed and light for your exact address and tell you the next safe two-hour window to fly.",
+        "icon": "clock"
+      },
+      {
+        "title": "Everything stays organized",
+        "description": "Each property gets its own timeline, so last spring's inspection sits right next to today's — easy to compare year over year.",
+        "icon": "layers"
+      },
+      {
+        "title": "Share with one link",
+        "description": "Send a read-only link to a contractor or a claims adjuster. They see the photos, tags, and notes without an account.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I flew my roof after a hailstorm, tagged the dented vents in ten minutes, and my adjuster approved the claim off the Volara report. I never went up the ladder once.",
+        "name": "Dana Reinhardt",
+        "role": "Homeowner",
+        "company": "Fort Collins, CO"
+      },
+      {
+        "quote": "I inspect solar arrays as a side business. Volara's flight paths give me consistent overlap every time, so my thermal stills line up cleanly in the report.",
+        "name": "Marcus Ospina",
+        "role": "Independent Solar Inspector",
+        "company": "Ospina Aerial"
+      },
+      {
+        "quote": "Before a listing I fly the roof and gutters and drop the report into the disclosure packet. Buyers trust it because every photo is dated and geotagged.",
+        "name": "Priya Venkatesh",
+        "role": "Real Estate Agent",
+        "company": "Cornerstone Realty"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$12",
+        "period": "per month",
+        "blurb": "For the occasional inspection of your own property.",
+        "features": [
+          "3 properties",
+          "Guided flight paths",
+          "Defect tagging",
+          "PDF report export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Pro",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For frequent flyers and side-business operators.",
+        "features": [
+          "Unlimited properties",
+          "Weather-window alerts",
+          "Year-over-year timelines",
+          "Shareable report links",
+          "Thermal image support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per month",
+        "blurb": "For independent inspectors billing clients.",
+        "features": [
+          "Everything in Pro",
+          "Branded report cover",
+          "Client folders",
+          "Bulk export",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Volara helps individuals and independent operators fly smarter and document what they find — one clean inspection report at a time."
+  }
+}

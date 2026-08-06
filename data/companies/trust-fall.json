@@ -1,0 +1,140 @@
+{
+  "name": "Trust Fall",
+  "slug": "trust-fall",
+  "industry": "corporate offsites",
+  "tagline": "The offsite planner for people who hate planning offsites.",
+  "positioning": "Trust Fall runs your company retreat end to end — venues, RSVPs, dietary chaos, and the budget — so nobody has to build another 11-tab spreadsheet.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F3F0E9",
+    "surface": "#FBFAF6",
+    "text": "#211F1A",
+    "primary": "#B14E2C",
+    "accent": "#6E7C63"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "TF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "7,7 17,7 12,16",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your offsite. Minus the group text meltdown.",
+      "sub": "Book the cabin, wrangle the RSVPs, track who's gluten-free and who's just difficult, and keep the whole thing under budget — from one page instead of nine spreadsheets.",
+      "ctaLabel": "Plan a retreat",
+      "secondaryCtaLabel": "See a sample offsite"
+    },
+    "features": [
+      {
+        "title": "Venue shortlist, not venue rabbit hole",
+        "description": "Tell us headcount, vibe, and budget. We surface three bookable spots with real availability so you stop opening 40 tabs at 11pm.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "RSVPs that actually close",
+        "description": "Nudges go out on autopilot until Dave from Sales finally clicks yes. Live headcount updates the second someone flakes.",
+        "icon": "users"
+      },
+      {
+        "title": "Dietary chaos, contained",
+        "description": "Collect allergies, preferences, and 'I'm doing keto this week' in one form, then hand the caterer a clean list they'll actually read.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Budget that doesn't ambush you",
+        "description": "Every deposit, per-head cost, and surprise resort fee lands in one running total you can show your accountant without flinching.",
+        "icon": "chart"
+      },
+      {
+        "title": "Agenda people can find",
+        "description": "Build the run-of-show once. Everyone gets it on their phone with times, rooms, and which session they can quietly skip.",
+        "icon": "calendar"
+      },
+      {
+        "title": "One reusable playbook",
+        "description": "Save this year's offsite as a template. Next year is a duplicate button, not a personality crisis.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose a full week to our annual offsite. This year I booked the whole thing between two client calls and still remembered to order the vegan lunches.",
+        "name": "Priya Raman",
+        "role": "Owner",
+        "company": "Northbend Studio"
+      },
+      {
+        "quote": "The RSVP nudges alone paid for it. No more chasing 14 people in Slack while the venue deposit deadline stares at me.",
+        "name": "Marcus Feldt",
+        "role": "Founder & CEO",
+        "company": "Halyard Roofing Co."
+      },
+      {
+        "quote": "Our first offsite ran $4k over. With Trust Fall the running total kept me honest, and the resort fee didn't blindside me for once.",
+        "name": "Dana Okoro",
+        "role": "Operations Lead",
+        "company": "Cedar & Bolt"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "free, one active offsite",
+        "blurb": "For the owner planning their very first team getaway.",
+        "features": [
+          "1 active offsite",
+          "Up to 15 attendees",
+          "RSVP tracking & nudges",
+          "Dietary + preference forms"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$11",
+        "period": "per seat / month",
+        "blurb": "For growing teams that do this more than once a year.",
+        "features": [
+          "Unlimited offsites",
+          "Venue shortlisting with live availability",
+          "Budget tracker & deposit reminders",
+          "Shared agenda & mobile run-of-show",
+          "Reusable offsite templates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Company",
+        "price": "Custom",
+        "period": "annual, billed per seat",
+        "blurb": "For multi-location teams and the ops lead who plans them all.",
+        "features": [
+          "Everything in Crew",
+          "Multi-team & multi-site planning",
+          "Approval workflows & spend caps",
+          "SSO and priority support",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Trust Fall plans the corporate offsite so you can go back to running the actual company. Fewer spreadsheets, same open bar."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Peony Post",
+  "slug": "peony-post",
+  "industry": "wedding vendor CRM",
+  "tagline": "The command center every wedding vendor was promised but never got.",
+  "positioning": "Peony Post is the per-seat CRM built for florists, photographers, and planners who run the whole show themselves.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#FFF6F2",
+    "surface": "#FFEAF0",
+    "text": "#3A2C3D",
+    "primary": "#C25E86",
+    "accent": "#6FB5C0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PP",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 4,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 4,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every wedding like you have a full staff.",
+      "sub": "Peony Post turns the chaos of inquiries, contracts, and day-of timelines into one calm workspace — so solo florists, photographers, and planners can book more couples without hiring more people.",
+      "ctaLabel": "Start your free trial",
+      "secondaryCtaLabel": "See a live booking flow"
+    },
+    "features": [
+      {
+        "title": "Inquiries that answer themselves",
+        "description": "Auto-reply to every 'are you free on our date?' with availability, packages, and a booking link before your competitor even opens the email.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Contracts and deposits, one click",
+        "description": "Send a branded proposal, collect the signature, and take the retainer in a single flow. No more chasing PDFs across three inboxes.",
+        "icon": "lock"
+      },
+      {
+        "title": "Day-of timelines that hold",
+        "description": "Build the ceremony-to-last-dance schedule once, then share live views with the couple, the venue, and your second shooter.",
+        "icon": "clock"
+      },
+      {
+        "title": "Payment reminders on autopilot",
+        "description": "Milestone invoices nudge couples before final payment is due, so the awkward money text is one you never have to send again.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Every couple in one place",
+        "description": "Notes, mood boards, guest counts, and dietary quirks live on one client card your whole team can actually find.",
+        "icon": "users"
+      },
+      {
+        "title": "Reports that read like advice",
+        "description": "See which packages, seasons, and referral sources actually pay — then price your next wedding with confidence.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I booked eleven weddings the month I switched. Peony Post replies to inquiries at 2am so I don't have to, and the deposit hits before I've even met the couple.",
+        "name": "Marisol Vega",
+        "role": "Owner & Lead Florist",
+        "company": "Fig & Fern Floral"
+      },
+      {
+        "quote": "The day-of timeline alone saved my sanity. My second shooter, the DJ, and the venue coordinator all see the same schedule now. No more walkie-talkie panic.",
+        "name": "Devin Ashcroft",
+        "role": "Wedding Photographer",
+        "company": "Ashcroft Frames"
+      },
+      {
+        "quote": "I run my planning business solo and it finally feels like I have an office manager. Contracts, invoices, reminders — all handled while I'm on site.",
+        "name": "Priya Nandakumar",
+        "role": "Principal Planner",
+        "company": "The Marigold Company"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one-person studio doing it all beautifully.",
+        "features": [
+          "1 seat included",
+          "Unlimited inquiries & clients",
+          "Contracts and deposit collection",
+          "Day-of timeline builder"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing teams booking back-to-back weekends.",
+        "features": [
+          "Everything in Solo",
+          "Automated payment reminders",
+          "Shared timelines & team roles",
+          "Package & revenue reports",
+          "Custom branded proposals"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "Custom",
+        "period": "per seat / month, billed yearly",
+        "blurb": "For multi-location vendors and busy referral networks.",
+        "features": [
+          "Everything in Studio",
+          "Priority onboarding & migration",
+          "Advanced analytics dashboards",
+          "Vendor referral network tools",
+          "Dedicated success partner"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Peony Post is the per-seat CRM for wedding vendors who refuse to let a spreadsheet run the biggest day of someone's life."
+  }
+}

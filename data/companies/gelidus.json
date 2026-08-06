@@ -1,0 +1,136 @@
+{
+  "name": "Gelidus",
+  "slug": "gelidus",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating standard for personal cold immersion.",
+  "positioning": "Gelidus runs precision cold-plunge studios for individuals who treat recovery like a discipline. Reserve a chamber, log every session, own your protocol.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0B1418",
+    "surface": "#132229",
+    "text": "#E6F1F3",
+    "primary": "#38C6E0",
+    "accent": "#7EE0B4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "G",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M20 12 A8 8 0 1 1 12 4",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 12 L12 5 A7 7 0 0 1 19 12 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold immersion, operated to specification.",
+      "sub": "Gelidus studios hold water at a certified 3.2°C with lab-grade filtration. Book a chamber, run your protocol, and export a signed session record every single time.",
+      "ctaLabel": "Reserve a chamber",
+      "secondaryCtaLabel": "Tour a studio"
+    },
+    "features": [
+      {
+        "title": "Certified thermal control",
+        "description": "Every chamber is held at 3.2°C ±0.2 with continuous logging. No guesswork, no lukewarm plunges, no manual thermostat fiddling before you get in.",
+        "icon": "target"
+      },
+      {
+        "title": "Protocol library",
+        "description": "Load a structured immersion protocol — duration, breath cadence, exposure count — straight to the chamber console before your session begins.",
+        "icon": "layers"
+      },
+      {
+        "title": "Signed session records",
+        "description": "Each plunge produces a timestamped, tamper-evident record with water temp, duration, and heart-rate deltas. Export to PDF or your health app.",
+        "icon": "chart"
+      },
+      {
+        "title": "Reservations that hold",
+        "description": "Reserve a specific chamber at a specific minute. If a unit falls out of spec, we rebook you automatically and credit the session.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Studio-grade hygiene",
+        "description": "UV and mechanical filtration cycle between every guest, with published water chemistry logs posted to your account after each visit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Progress tracking",
+        "description": "Streaks, cold-tolerance trends, and cumulative exposure minutes, charted across every Gelidus location you've ever visited.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "The signed session records changed how I train. I hand my physiotherapist a clean export instead of scribbled notes, and she actually adjusts my program from real data now.",
+        "name": "Marcus Feldt",
+        "role": "Endurance athlete",
+        "company": "Meridian Row Club"
+      },
+      {
+        "quote": "I've used three plunge chains. Gelidus is the only one that holds temperature to spec every session. The consistency alone is worth the flat rate.",
+        "name": "Dr. Priya Anand",
+        "role": "Sports recovery consultant",
+        "company": "Northline Performance"
+      },
+      {
+        "quote": "Booking a specific chamber at a specific minute, with automatic rebooking when a unit drifts, is embarrassingly rare. Gelidus just treats it as table stakes.",
+        "name": "Tobias Renner",
+        "role": "Founder",
+        "company": "Renner Strength Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Regimen",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For the disciplined individual building a steady cold habit.",
+        "features": [
+          "8 chamber sessions per month",
+          "Certified 3.2°C plunges",
+          "Signed session records",
+          "Single home studio access"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Protocol",
+        "price": "$149",
+        "period": "per month",
+        "blurb": "For prosumers running structured recovery across the city.",
+        "features": [
+          "20 chamber sessions per month",
+          "Custom protocol library",
+          "Access to all metro studios",
+          "Priority chamber reservations",
+          "Progress tracking dashboard"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Meridian",
+        "price": "$279",
+        "period": "per month",
+        "blurb": "Unlimited immersion for the fully committed.",
+        "features": [
+          "Unlimited chamber sessions",
+          "Nationwide studio access",
+          "Guest passes each month",
+          "Concierge scheduling",
+          "Quarterly water chemistry reports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Gelidus operates precision cold-immersion studios for individuals who measure their recovery. Certified temperature, signed records, standards you can audit."
+  }
+}

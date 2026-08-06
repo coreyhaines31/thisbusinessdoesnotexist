@@ -1,0 +1,137 @@
+{
+  "name": "Interis",
+  "slug": "interis",
+  "industry": "funeral services",
+  "tagline": "Death is certain. Your paperwork shouldn't be a mystery too.",
+  "positioning": "Interis is the case-management platform for multi-location funeral groups — every service, certificate, and grieving family in one morbidly efficient system.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0D0D0F",
+    "surface": "#18181B",
+    "text": "#FAFAF9",
+    "primary": "#C6F934",
+    "accent": "#A1A1AA"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 0 12 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A8 8 0 0 1 12 22 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run 40 funeral homes without losing your soul (or a body).",
+      "sub": "Interis is the enterprise operating system for funeral groups. Track every case, file every certificate on time, and stop coordinating families over sticky notes and a shared inbox from 2011.",
+      "ctaLabel": "Book a (live) demo",
+      "secondaryCtaLabel": "See it in action"
+    },
+    "features": [
+      {
+        "title": "One case, one source of truth",
+        "description": "Every service — arrangement, embalming, transport, cremation, burial — lives on a single timeline your whole chain can see. No more calling three branches to find one urn.",
+        "icon": "layers"
+      },
+      {
+        "title": "Certificate autopilot",
+        "description": "Death certificates, permits, and disposition filings pre-filled from case data and routed to the right county before the deadline you always forget exists.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Compliance that doesn't flinch",
+        "description": "State-by-state rules, FTC price-list requirements, and audit trails baked in. When the regulator visits, you hand them a report instead of a shrug.",
+        "icon": "shield"
+      },
+      {
+        "title": "Inventory that isn't a spreadsheet",
+        "description": "Caskets, urns, and rental fleet tracked across every location in real time. Know what's in the showroom before you promise it to a family.",
+        "icon": "database"
+      },
+      {
+        "title": "Family comms, minus the chaos",
+        "description": "Every text, email, and update logged against the case. Grieving families get answers; your staff stops screenshotting messages to each other.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Numbers your CFO respects",
+        "description": "Case volume, revenue per service, at-need vs. pre-need mix, and margin by location — dashboards that survive a board meeting.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We merged four family businesses and inherited four ways of doing everything. Interis gave us one. Our directors stopped arguing about spreadsheets and went back to arguing about parking.",
+        "name": "Marguerite Aldy",
+        "role": "VP of Operations",
+        "company": "Evermoor Memorial Group"
+      },
+      {
+        "quote": "The certificate deadlines used to keep me up at night. Now the platform nags people so I don't have to. I've reclaimed both my evenings and my sense of humor.",
+        "name": "Desmond Okafor",
+        "role": "Regional Director",
+        "company": "Northgate Funeral Partners"
+      },
+      {
+        "quote": "Onboarding a new location used to take six weeks and a prayer. With Interis it took a long weekend. The audit last quarter was, frankly, boring — which is the highest compliment I can give.",
+        "name": "Priya Venkataraman",
+        "role": "Chief Compliance Officer",
+        "company": "Solace & Vale Holdings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Parlor",
+        "price": "$4",
+        "period": "per case handled, billed monthly",
+        "blurb": "For single-location homes that finally want to retire the filing cabinet.",
+        "features": [
+          "Up to 3 locations",
+          "Case timeline & scheduling",
+          "Certificate & permit filing",
+          "Email support (business hours)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Chapel",
+        "price": "$3",
+        "period": "per case, volume tiers over 500/mo",
+        "blurb": "For growing groups that need every branch reading from the same page.",
+        "features": [
+          "Unlimited locations",
+          "Inventory & fleet tracking",
+          "Family comms hub",
+          "Compliance dashboards",
+          "Priority support & onboarding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "negotiated per-case rate at scale",
+        "blurb": "For national chains and acquirers folding new homes in constantly.",
+        "features": [
+          "Everything in Chapel",
+          "SSO, custom roles & audit logs",
+          "API & data warehouse sync",
+          "Dedicated success manager",
+          "99.9% uptime SLA",
+          "White-glove migration"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Interis keeps funeral groups organized, compliant, and quietly profitable — so your people can focus on families instead of forms."
+  }
+}

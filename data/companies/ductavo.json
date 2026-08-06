@@ -1,0 +1,136 @@
+{
+  "name": "Ductavo",
+  "slug": "ductavo",
+  "industry": "HVAC field service",
+  "tagline": "Dispatch software for HVAC teams that refuse to sweat the small stuff.",
+  "positioning": "Ductavo runs enterprise HVAC field operations end to end — dispatch, telemetry, and billing — so your techs stop babysitting spreadsheets in the truck.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A1E2C",
+    "surface": "#123246",
+    "text": "#E7F4F1",
+    "primary": "#18C99A",
+    "accent": "#2FA6F0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "D",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,18 12,4 20,18",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,18 12,12 15,18",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your HVAC ops shouldn't run on sticky notes and vibes.",
+      "sub": "Ductavo dispatches technicians, streams equipment telemetry, and bills by the job — one platform for the enterprise service teams keeping 40,000 rooftop units from quietly dying.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See the pricing"
+    },
+    "features": [
+      {
+        "title": "Dispatch that reads the traffic",
+        "description": "Auto-route techs by skill, drive time, and SLA. When the ER walk-in cooler goes down at 4pm, Ductavo already knows who's closest and certified.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Live telemetry, no clipboard",
+        "description": "Pull refrigerant pressures, amp draw, and runtime straight from connected units. Techs arrive knowing the diagnosis, not guessing at it.",
+        "icon": "chart"
+      },
+      {
+        "title": "Invoices that write themselves",
+        "description": "Parts, labor, and truck rolls meter automatically per work order. The invoice is done before the tech pulls out of the parking lot.",
+        "icon": "database"
+      },
+      {
+        "title": "Preventive maintenance on autopilot",
+        "description": "Filter swaps, coil cleans, and compliance inspections get scheduled from asset history — not from someone's calendar reminder.",
+        "icon": "refresh"
+      },
+      {
+        "title": "One roof, every site",
+        "description": "Manage 12 buildings or 1,200 from a single portfolio view with per-location SLAs, warranties, and equipment lineage.",
+        "icon": "layers"
+      },
+      {
+        "title": "Alerts before the callback",
+        "description": "Ductavo flags units trending toward failure so you dispatch a tune-up, not an emergency at holiday rates.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running dispatch out of three whiteboards and a group text. Ductavo cut our average response time by 34% and our techs stopped calling the office every hour.",
+        "name": "Marcus Bell",
+        "role": "VP of Field Operations",
+        "company": "Northgate Mechanical"
+      },
+      {
+        "quote": "The telemetry alone paid for it. We caught a failing chiller compressor across 60 grocery sites before a single freezer thawed. That's the phone call I never got to dread.",
+        "name": "Priya Nayar",
+        "role": "Director of Facilities",
+        "company": "Crestline Retail Group"
+      },
+      {
+        "quote": "Usage billing means I'm not paying for seats that sit idle in the slow season. My CFO actually said something nice about a software renewal. First time.",
+        "name": "Doug Ferreira",
+        "role": "Chief Operating Officer",
+        "company": "Summit HVAC Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Crew",
+        "price": "$0.90",
+        "period": "per completed work order",
+        "blurb": "For regional shops scaling past the whiteboard.",
+        "features": [
+          "Smart dispatch & routing",
+          "Mobile tech app",
+          "Auto-generated invoicing",
+          "Up to 25 technicians"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.65",
+        "period": "per completed work order",
+        "blurb": "For multi-site operators who live and die by SLAs.",
+        "features": [
+          "Everything in Crew",
+          "Live equipment telemetry",
+          "Portfolio & SLA dashboards",
+          "Predictive failure alerts",
+          "Volume rate below 5k/mo"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual volume agreement",
+        "blurb": "For national service networks with real integration needs.",
+        "features": [
+          "Everything in Fleet",
+          "ERP & IoT integrations",
+          "Dedicated success engineer",
+          "Custom SLA & data residency",
+          "Committed-volume pricing"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ductavo keeps enterprise HVAC teams cool, calm, and billing on time. Fewer callbacks, faster trucks, invoices that don't wait."
+  }
+}

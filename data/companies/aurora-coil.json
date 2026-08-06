@@ -1,0 +1,136 @@
+{
+  "name": "Aurora Coil",
+  "slug": "aurora-coil",
+  "industry": "HVAC field service",
+  "tagline": "The command center for your home's climate, engineered for the discerning few.",
+  "positioning": "Aurora Coil unifies scheduling, diagnostics, and service history for homeowners who treat their HVAC as infrastructure worth mastering.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A1E28",
+    "surface": "#123240",
+    "text": "#E7F3F1",
+    "primary": "#1ECBA6",
+    "accent": "#3FA7E4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 3 A 9 9 0 1 1 4.5 16.5",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M 12 8 A 4 4 0 1 0 15.5 10.5",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your home's climate, finally under your command.",
+      "sub": "Aurora Coil turns a tangle of technicians, filters, and refrigerant into one calm, orchestrated system — the way great homes were always meant to run.",
+      "ctaLabel": "Claim your dashboard",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Living service ledger",
+        "description": "Every coil cleaning, filter swap, and refrigerant top-off recorded in one immutable timeline you actually own — not buried in a technician's clipboard.",
+        "icon": "database"
+      },
+      {
+        "title": "Predictive comfort",
+        "description": "Sensor-informed forecasts flag a failing compressor weeks before it strands you in July heat. You schedule on your terms, not in a crisis.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Vetted technician orbit",
+        "description": "Book only from a curated network of licensed specialists, each rated on your past jobs. No dispatch roulette, no mystery arrival windows.",
+        "icon": "users"
+      },
+      {
+        "title": "Seasonal choreography",
+        "description": "Aurora sequences spring tune-ups and winter prep automatically, so your system transitions between seasons without a single missed step.",
+        "icon": "calendar"
+      },
+      {
+        "title": "True-cost clarity",
+        "description": "Line-item estimates before anyone touches a unit, benchmarked against thousands of comparable homes. Surprises belong in movies, not invoices.",
+        "icon": "chart"
+      },
+      {
+        "title": "Whole-home mapping",
+        "description": "A visual model of every duct run, register, and zone — so you and your tech speak the same language from the first minute.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to keep HVAC receipts in a shoebox and pray. Aurora Coil turned three furnaces across two properties into one legible system. I finally feel like the owner, not the hostage.",
+        "name": "Delia Marchetti",
+        "role": "Homeowner & Property Steward",
+        "company": "Marchetti Residence"
+      },
+      {
+        "quote": "The predictive alert caught a bearing whine before my blower failed. A weekday repair instead of an emergency call saved me roughly four hundred dollars and one very hot night.",
+        "name": "Ronan Ives",
+        "role": "Prosumer HVAC Enthusiast",
+        "company": "Ives Household"
+      },
+      {
+        "quote": "As a semi-retired mechanical engineer, I'm picky. Aurora's duct map and cost benchmarks are the first tools that respect how much I actually want to know.",
+        "name": "Priya Anand",
+        "role": "Retired Systems Engineer",
+        "company": "Anand Family Home"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Resident",
+        "price": "$12",
+        "period": "per month, one home",
+        "blurb": "For the single-home owner who wants order and foresight.",
+        "features": [
+          "One home profile",
+          "Service ledger & reminders",
+          "Technician network access",
+          "Seasonal tune-up scheduling"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Steward",
+        "price": "$29",
+        "period": "per month, up to three homes",
+        "blurb": "For those managing a primary home plus a getaway or two.",
+        "features": [
+          "Up to three home profiles",
+          "Predictive failure alerts",
+          "Duct & zone mapping",
+          "Cost benchmarking",
+          "Priority booking windows"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "$79",
+        "period": "per month, unlimited homes",
+        "blurb": "For collectors of properties who demand total oversight.",
+        "features": [
+          "Unlimited home profiles",
+          "Dedicated comfort concierge",
+          "Custom sensor integrations",
+          "Portfolio-wide reporting",
+          "White-glove onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Aurora Coil is the climate command platform for people who refuse to leave their home's comfort to chance. Master the system that keeps you human."
+  }
+}

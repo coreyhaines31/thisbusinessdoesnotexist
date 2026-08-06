@@ -1,0 +1,136 @@
+{
+  "name": "SlipStone",
+  "slug": "slipstone",
+  "industry": "marina management",
+  "tagline": "Every slip, every boat, every dollar — accounted for.",
+  "positioning": "SlipStone is the operating system for small marinas: track slips, billing, and boaters in one place instead of a whiteboard and three spreadsheets.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F3E9D8",
+    "surface": "#FBF5E9",
+    "text": "#2B2620",
+    "primary": "#B0512A",
+    "accent": "#6C7A43"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your marina like you finally have the whole picture.",
+      "sub": "SlipStone replaces the dock whiteboard, the paper waitlist, and the spreadsheet you email yourself. Slip assignments, seasonal contracts, and billing in one honest system.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Live slip map",
+        "description": "See every slip, its occupant, contract dates, and vessel length on one dock diagram. Drag a boat to reassign it and billing updates automatically.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Seasonal contracts",
+        "description": "Renew annual and transient agreements in a few clicks. SlipStone tracks proration, deposits, and the waitlist so nobody double-books C-14.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Dockside billing",
+        "description": "Auto-invoice slip rent, metered power, and pump-out fees. Boaters pay by card or ACH and you stop chasing checks at the fuel dock.",
+        "icon": "chart"
+      },
+      {
+        "title": "Waitlist that actually works",
+        "description": "Rank prospects by requested length and season, then offer openings by text. No more sticky notes taped to the harbormaster's monitor.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Vessel & insurance records",
+        "description": "Store registration, insurance expiry, and haul-out history per boat. Get flagged before a certificate lapses on a boat in the water.",
+        "icon": "shield"
+      },
+      {
+        "title": "Staff on the same page",
+        "description": "Dockhands, office, and owner see the same live data from phone or desk. Add a seat when you hire, drop it when the season ends.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 140 slips out of a binder and a wall calendar. SlipStone caught three boats we'd been under-billing all season. It paid for itself by June.",
+        "name": "Dana Reinholt",
+        "role": "Owner & Harbormaster",
+        "company": "Cedar Point Marina"
+      },
+      {
+        "quote": "The live dock map is the whole thing for me. New dockhands learn the layout in a day and stop radioing me every time someone wants a transient slip.",
+        "name": "Marco Villanueva",
+        "role": "Operations Manager",
+        "company": "Blue Heron Boatworks"
+      },
+      {
+        "quote": "Renewal season used to eat two weeks. Now contracts and deposits go out in an afternoon and boaters sign on their phones. My office is quiet again.",
+        "name": "Priya Anand",
+        "role": "General Manager",
+        "company": "Sawgrass Harbor & Yacht Basin"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dock",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For single-dock operators getting off spreadsheets.",
+        "features": [
+          "Up to 50 slips",
+          "Live slip map",
+          "Card & ACH billing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbor",
+        "price": "$69",
+        "period": "per seat / month",
+        "blurb": "For full-service marinas running seasons and staff.",
+        "features": [
+          "Unlimited slips",
+          "Seasonal contracts & waitlist",
+          "Metered power & pump-out billing",
+          "Insurance expiry alerts",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location operators and management groups.",
+        "features": [
+          "Multiple marinas in one account",
+          "Consolidated reporting",
+          "Accounting & fuel-system integrations",
+          "Dedicated onboarding",
+          "SLA & phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "SlipStone is marina management software for owner-operators who'd rather be on the dock than in a spreadsheet."
+  }
+}

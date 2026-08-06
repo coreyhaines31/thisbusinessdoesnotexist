@@ -1,0 +1,162 @@
+{
+  "name": "ScrimForge",
+  "slug": "scrimforge",
+  "industry": "esports coaching",
+  "tagline": "Enterprise-grade coaching operations for competitive gaming teams.",
+  "positioning": "ScrimForge turns ad-hoc scrim reviews and VOD notes into a standardized coaching pipeline your roster can actually execute against.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0B0B0C",
+    "surface": "#161618",
+    "text": "#F4F4F5",
+    "primary": "#C6FF3A",
+    "accent": "#8A8A94"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your coaching staff like a real operation.",
+      "sub": "ScrimForge standardizes VOD reviews, scrim scheduling, and player development plans so owner-operators can scale a roster without living in spreadsheets and Discord pins.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Structured VOD review",
+        "description": "Timestamp mistakes, tag them to macro or mechanics, and auto-generate a review packet each player sees before the next scrim block.",
+        "icon": "chart"
+      },
+      {
+        "title": "Scrim scheduling",
+        "description": "Lock scrim blocks across time zones, sync availability from every player, and stop losing practice slots to calendar chaos.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Development plans",
+        "description": "Assign per-player drills with measurable targets and track whether reps actually translate to in-game improvement.",
+        "icon": "target"
+      },
+      {
+        "title": "Roster analytics",
+        "description": "One dashboard for KDA trends, objective control, and comp win rates so you coach on data, not vibes.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Coaching SOPs",
+        "description": "Templated playbooks and review checklists keep every assistant coach delivering the same quality of feedback.",
+        "icon": "layers"
+      },
+      {
+        "title": "Match-day readiness",
+        "description": "Pre-game briefs, opponent scouting notes, and comp drafts consolidated into a single approved game plan.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from three coaches with three note-taking styles to one review pipeline. Our academy players now walk into scrims knowing exactly what to fix.",
+        "name": "Marcus Feld",
+        "role": "Head Coach",
+        "company": "Northlane Esports"
+      },
+      {
+        "quote": "As the owner I finally see what my coaching staff is actually delivering. ScrimForge made our development program something I can put in a sponsor deck.",
+        "name": "Priya Anand",
+        "role": "Founder & Operator",
+        "company": "Cinder Valley Gaming"
+      },
+      {
+        "quote": "Scheduling scrims across two rosters used to eat my whole week. Now it's automated and I coach instead of chasing DMs.",
+        "name": "Diego Vargas",
+        "role": "Performance Director",
+        "company": "Halcyon Circuit"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Squad",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For single-roster operators formalizing their coaching process.",
+        "features": [
+          "Up to 8 seats",
+          "VOD review workspace",
+          "Scrim scheduling",
+          "Basic roster analytics"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Organization",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For multi-roster orgs running academy and main teams.",
+        "features": [
+          "Unlimited seats billed per active user",
+          "Development plans & drills",
+          "Coaching SOP templates",
+          "Advanced analytics dashboards",
+          "Match-day briefs"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Franchise",
+        "price": "Custom",
+        "period": "annual, per seat",
+        "blurb": "For franchised orgs with dedicated performance staff.",
+        "features": [
+          "SSO & role permissions",
+          "Custom analytics exports",
+          "Dedicated success manager",
+          "API & data warehouse sync",
+          "SLA & onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "ScrimForge is the coaching operations platform for competitive gaming organizations that treat player development as a business."
+  }
+}

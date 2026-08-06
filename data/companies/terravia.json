@@ -1,0 +1,136 @@
+{
+  "name": "Terravia",
+  "slug": "terravia",
+  "industry": "soil analytics",
+  "tagline": "Laboratory-grade soil intelligence for the serious grower.",
+  "positioning": "Terravia turns a single soil sample into a certified nutrient, pH, and microbiome report — with season-over-season tracking any grower can act on.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0E1512",
+    "surface": "#17211C",
+    "text": "#EAF2EC",
+    "primary": "#4FB477",
+    "accent": "#C9A24B"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Tv",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know exactly what your soil is telling you.",
+      "sub": "Mail in a sample, get a laboratory-verified report on nutrients, pH, organic matter, and microbial health — with plain-language recommendations for your next planting.",
+      "ctaLabel": "Order a test kit",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Certified lab analysis",
+        "description": "Every sample runs through an accredited spectrometry workflow — nitrogen, phosphorus, potassium, micronutrients, and pH measured to research-grade tolerances.",
+        "icon": "chart"
+      },
+      {
+        "title": "Microbiome profiling",
+        "description": "DNA sequencing quantifies the fungal and bacterial life in your soil, so you know whether your beds are biologically thriving or depleted.",
+        "icon": "layers"
+      },
+      {
+        "title": "Season tracking",
+        "description": "Terravia stores every report against your plot map, charting how amendments and rotations shift your soil over months and years.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Amendment guidance",
+        "description": "Get precise application rates for lime, compost, and fertilizer — calibrated to your crops, not a generic average.",
+        "icon": "target"
+      },
+      {
+        "title": "Plot mapping",
+        "description": "Pin sample points to a satellite map of your property and compare readings zone by zone across the garden or field.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Retest reminders",
+        "description": "Automatic notifications tell you when it's time to resample, keeping your amendment schedule on track through the growing season.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I stopped guessing at fertilizer. Terravia showed my raised beds were sitting at pH 5.2 — one lime application later, my tomatoes finally set fruit properly.",
+        "name": "Marguerite Deland",
+        "role": "Market gardener",
+        "company": "Deland Row Gardens"
+      },
+      {
+        "quote": "The microbiome report was the eye-opener. Our orchard soil looked fine on paper but was biologically dead. Terravia's tracking let us prove the recovery over two seasons.",
+        "name": "Owen Castellano",
+        "role": "Owner-operator",
+        "company": "Castellano Heritage Orchard"
+      },
+      {
+        "quote": "As a landscape designer I send Terravia reports to every client before we plant. It's the credibility layer that used to require an outside agronomist.",
+        "name": "Priya Ramanathan",
+        "role": "Principal designer",
+        "company": "Ramanathan Grounds Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single",
+        "price": "$39",
+        "period": "per soil test",
+        "blurb": "One certified report for the grower who wants clear answers.",
+        "features": [
+          "1 nutrient & pH analysis",
+          "Plain-language recommendations",
+          "Digital report archive",
+          "Prepaid sample mailer"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Seasonal",
+        "price": "$149",
+        "period": "per year",
+        "blurb": "Track your soil across the full growing calendar.",
+        "features": [
+          "4 tests per year",
+          "Microbiome profiling included",
+          "Season-over-season charts",
+          "Plot mapping",
+          "Retest reminders"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "$399",
+        "period": "per year",
+        "blurb": "For large properties and multi-zone growers.",
+        "features": [
+          "12 tests per year",
+          "Unlimited plot zones",
+          "Priority lab turnaround",
+          "Amendment scheduling",
+          "Shareable client reports",
+          "Dedicated agronomy support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Terravia delivers laboratory-grade soil analytics to growers at any scale. Sample, sequence, and cultivate with confidence."
+  }
+}

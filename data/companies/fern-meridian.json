@@ -1,0 +1,135 @@
+{
+  "name": "Fern Meridian",
+  "slug": "fern-meridian",
+  "industry": "vertical farming",
+  "tagline": "The home cultivation cabinet that turns any corner into a living harvest.",
+  "positioning": "Fern Meridian engineers climate-sealed growing towers for people who refuse to accept that fresh food is a supply-chain problem.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0E1512",
+    "surface": "#182521",
+    "text": "#EAF2EC",
+    "primary": "#4CDE9A",
+    "accent": "#C9A24B"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "FM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grow like the future depends on it. Because it does.",
+      "sub": "Fern Meridian is a sealed vertical growing tower for the home — precision climate, spectral lighting, and a harvest calendar that never stops turning. One appliance, an endless season.",
+      "ctaLabel": "Reserve your tower",
+      "secondaryCtaLabel": "Watch it grow"
+    },
+    "features": [
+      {
+        "title": "Cathedral-grade spectral light",
+        "description": "Twelve tunable LED bands recreate the exact photonic signature of a mountain dawn, so basil, arugula, and strawberries ripen with flavor no greenhouse can match.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Sealed climate cell",
+        "description": "The tower holds temperature, humidity, and CO2 within a fraction of a degree — no pests, no seasons, no excuses, no compromise on what your family eats.",
+        "icon": "shield"
+      },
+      {
+        "title": "Autonomous nutrient loop",
+        "description": "Fifteen liters of recirculating water feed forty plant sites while the dosing engine mixes minerals on schedule. You refill once a month, and only then.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Harvest orchestration",
+        "description": "The Meridian app stages your plantings so something is always ready to cut. Salad on Tuesday, herbs on Friday — choreographed like a great orchestra.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Living dashboard",
+        "description": "Track root health, growth velocity, and yield-per-watt from your phone. Every leaf becomes a data point in your own quiet agricultural revolution.",
+        "icon": "chart"
+      },
+      {
+        "title": "Whisper-silent operation",
+        "description": "Magnetic-levitation fans and a vibration-damped pump keep the tower under 28 decibels, quiet enough to live in a bedroom and beautiful enough to want to.",
+        "icon": "zap"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I stopped buying leafy greens eleven months ago. My Fern Meridian tower produces more butterhead than a family of four can eat, and it tastes like something grown on purpose.",
+        "name": "Dana Okoro",
+        "role": "Home cultivator",
+        "company": "Riverside Loft Collective"
+      },
+      {
+        "quote": "We deployed six units across our tasting rooms. Guests watch their garnish being harvested minutes before the plate. It reframed our entire farm-to-table story.",
+        "name": "Mathias Berger",
+        "role": "Executive Chef",
+        "company": "Ossuary Table"
+      },
+      {
+        "quote": "As someone who kills every houseplant, I was skeptical. The tower does the thinking. My first cilantro harvest arrived on the exact day the app promised.",
+        "name": "Priya Nandakumar",
+        "role": "Product Designer",
+        "company": "Halcyon Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solace",
+        "price": "$899",
+        "period": "one-time, plus seed pods",
+        "blurb": "A single 24-site tower for the ambitious apartment grower.",
+        "features": [
+          "24 plant sites",
+          "Tunable spectral lighting",
+          "Monthly refill cycle",
+          "Meridian app access"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Meridian",
+        "price": "$1,499",
+        "period": "one-time, plus seed pods",
+        "blurb": "The definitive home tower with autonomous dosing and full climate control.",
+        "features": [
+          "40 plant sites",
+          "Sealed climate cell",
+          "Autonomous nutrient loop",
+          "Harvest orchestration",
+          "Priority pod delivery"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "multi-unit installation",
+        "blurb": "For chefs, lodges, and households running their own indoor farm.",
+        "features": [
+          "Multiple linked towers",
+          "On-site calibration",
+          "Dedicated agronomist",
+          "Custom crop programs",
+          "White-glove support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Fern Meridian builds sealed vertical growing towers for people who believe fresh food should begin at home, not at a distribution center."
+  }
+}

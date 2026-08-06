@@ -1,0 +1,162 @@
+{
+  "name": "Steel Ribbon",
+  "slug": "steel-ribbon",
+  "industry": "B2B swag",
+  "tagline": "The industrial-grade platform for company merch that actually gets worn.",
+  "positioning": "Steel Ribbon is the swag operating system for owner-operators who refuse to hand out landfill. Design, warehouse, and ship branded goods from one console.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0C0C0D",
+    "surface": "#18181B",
+    "text": "#F6F6F4",
+    "primary": "#CBFF3C",
+    "accent": "#FF4D2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SR",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 0,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 13.5,
+        "y": 2,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 13.5,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13.5,
+        "y": 13.5,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 0,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag that builds an empire, not a landfill.",
+      "sub": "Steel Ribbon gives small teams the merch machine of a Fortune 500: one console to design, stock, and dropship branded goods people actually keep.",
+      "ctaLabel": "Forge your store",
+      "secondaryCtaLabel": "See the warehouse"
+    },
+    "features": [
+      {
+        "title": "One console, zero spreadsheets",
+        "description": "Kill the reorder email chain. Track every hoodie, mug, and enamel pin across vendors from a single inventory ledger that never lies to you.",
+        "icon": "layers"
+      },
+      {
+        "title": "On-demand, no minimums",
+        "description": "Order one shirt or ten thousand. We hold your blanks in our fulfillment nodes and print only when a recipient claims their gift.",
+        "icon": "database"
+      },
+      {
+        "title": "Send links, not boxes",
+        "description": "Drop a claim link in an email or Slack. Recipients pick size and color; we ship. No more guessing between S and XXL for 200 people.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Margins you can defend",
+        "description": "Live landed-cost math on every SKU — blank, decoration, freight, and tax — so you quote client swag without torching your budget.",
+        "icon": "chart"
+      },
+      {
+        "title": "Sustainable by default",
+        "description": "Every catalog item carries a materials passport. Filter to organic cotton, recycled poly, and FSC paper before a single unit prints.",
+        "icon": "globe"
+      },
+      {
+        "title": "Roles for your whole crew",
+        "description": "Give the office manager ordering rights, the founder budget caps, and the client a read-only tracker. Per-seat, per-permission.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to run new-hire swag out of a coat closet and a shared spreadsheet. Steel Ribbon turned that into a claim link. Onboarding kits now ship themselves before day one.",
+        "name": "Priya Ramanathan",
+        "role": "Head of People",
+        "company": "Northbeam Robotics"
+      },
+      {
+        "quote": "I sell branded merch to breweries, and margin is everything. The landed-cost view stopped me from underquoting a 4,000-koozie run that would have eaten my whole month.",
+        "name": "Devon Marsh",
+        "role": "Owner",
+        "company": "Marsh Promo Co."
+      },
+      {
+        "quote": "Our conference booth swag used to arrive late, wrong size, or not at all. This is the first platform that treats a startup's 60-unit order like it matters.",
+        "name": "Ana Castillo",
+        "role": "Founder",
+        "company": "Loft & Ledger"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Workshop",
+        "price": "$12",
+        "period": "per seat / month",
+        "blurb": "For the solo operator running merch on the side of everything else.",
+        "features": [
+          "1 branded storefront",
+          "On-demand catalog, no minimums",
+          "Claim links for recipients",
+          "Live inventory ledger"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Foundry",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For growing teams that ship swag on a real schedule.",
+        "features": [
+          "Unlimited storefronts",
+          "Landed-cost margin engine",
+          "Role-based approvals and budget caps",
+          "Materials passports on every SKU",
+          "Priority fulfillment nodes"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Empire",
+        "price": "Custom",
+        "period": "volume seat pricing",
+        "blurb": "For franchises and agencies running merch as a product line.",
+        "features": [
+          "Dedicated warehouse allocation",
+          "API and ERP integration",
+          "Custom decoration partners",
+          "White-label client portals",
+          "Named logistics manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Steel Ribbon is the swag operating system for owner-operators. Design once, warehouse everywhere, ship on demand — and never order 200 wrong-size shirts again."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "name": "DuctForge",
+  "slug": "ductforge",
+  "industry": "HVAC field service",
+  "tagline": "The job runs the shop, not the other way around.",
+  "positioning": "DuctForge is the field service platform built for HVAC owner-operators who dispatch, invoice, and chase parts before 7am.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#14161A",
+    "surface": "#1E222B",
+    "text": "#ECEEF2",
+    "primary": "#F0603C",
+    "accent": "#4FB6C9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "DF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 16,
+        "height": 16,
+        "rx": 3,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 L17 13 L14 13 L14 17 L10 17 L10 13 L7 13 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every service call, from ring to paid, in one place.",
+      "sub": "DuctForge handles dispatch, quotes, part lookups, and invoicing so you can stop running the shop from your truck's center console. Built for HVAC crews under 25 techs.",
+      "ctaLabel": "Start a free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Dispatch that survives Monday",
+        "description": "Drag jobs across your board, see who's closest, and text the customer an arrival window automatically. No more calling three techs to find who's free.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Quotes before you leave the driveway",
+        "description": "Build a repair or replacement quote on the tablet, pull equipment models from the unit's serial, and get a signature on-site. It syncs to the invoice instantly.",
+        "icon": "zap"
+      },
+      {
+        "title": "Parts you actually have",
+        "description": "Track van stock and shop shelves in real time. DuctForge flags when a job needs a capacitor you're out of and lists the nearest supplier with it.",
+        "icon": "database"
+      },
+      {
+        "title": "Invoices that don't wait",
+        "description": "Send the invoice the moment the job closes, accept card or ACH on-site, and watch aging drop. Automatic reminders chase the slow payers for you.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Maintenance agreements on autopilot",
+        "description": "Schedule spring and fall tune-ups for every service member, auto-generate the visits, and never let a renewal quietly lapse again.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Numbers your accountant asks for",
+        "description": "See revenue per tech, close rate on replacements, and callback percentage without exporting to a spreadsheet at midnight.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to reconcile paper tickets on Sundays. Now the invoice goes out before the tech backs out of the driveway. We cut our average days-to-paid from 41 to 9.",
+        "name": "Marcus Trejo",
+        "role": "Owner",
+        "company": "Trejo Heating & Air"
+      },
+      {
+        "quote": "The van inventory tracking alone paid for DuctForge. We stopped losing an hour a day driving back to the shop for a part we thought we had.",
+        "name": "Danielle Osei",
+        "role": "Operations Manager",
+        "company": "Cardinal Climate Co."
+      },
+      {
+        "quote": "My techs actually fill out the job notes now because it takes fifteen seconds on the tablet. Our callback rate is down because nothing gets lost.",
+        "name": "Ray Bfeld",
+        "role": "Owner-Operator",
+        "company": "Northgate Comfort Systems"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For the owner running one or two trucks.",
+        "features": [
+          "Dispatch board and scheduling",
+          "On-site quotes and invoicing",
+          "Card and ACH payments",
+          "Customer text notifications"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For growing shops with a dispatcher and multiple techs.",
+        "features": [
+          "Everything in Solo",
+          "Van and shop inventory tracking",
+          "Maintenance agreement automation",
+          "Revenue and callback reporting",
+          "QuickBooks sync"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "volume pricing per seat",
+        "blurb": "For multi-location operations and franchises.",
+        "features": [
+          "Everything in Crew",
+          "Multi-location dispatch",
+          "Custom roles and permissions",
+          "Priority onboarding and support",
+          "API and payroll integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "DuctForge is field service software for independent HVAC shops. Dispatch, quote, stock, and get paid — all before the next call comes in."
+  }
+}

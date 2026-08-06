@@ -1,0 +1,131 @@
+{
+  "name": "Heron Crest",
+  "slug": "heron-crest",
+  "industry": "B2B swag",
+  "tagline": "Turn your name into an artifact worth keeping.",
+  "positioning": "Heron Crest is the studio-grade merch platform for creators and solo founders who believe a piece of swag should be a monument, not a giveaway.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#07202B",
+    "surface": "#0E3040",
+    "text": "#E6F5F1",
+    "primary": "#16C8A3",
+    "accent": "#2E92E8"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "HC",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your swag deserves a legacy.",
+      "sub": "Design, produce, and ship museum-grade branded goods from one dashboard — no minimums, no middlemen, no boxes of regret stacked in your garage.",
+      "ctaLabel": "Start your first drop",
+      "secondaryCtaLabel": "Browse the catalog"
+    },
+    "features": [
+      {
+        "title": "On-demand mastery",
+        "description": "Order a single embroidered cap or ten thousand. Every unit is made after it's sold, so you never front cash for inventory that gathers dust.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Studio-grade proofing",
+        "description": "See a photoreal 3D mockup of your hoodie, tote, or enamel pin before a stitch is sewn. Approve the exact fabric, thread, and Pantone.",
+        "icon": "layers"
+      },
+      {
+        "title": "Storefront in an afternoon",
+        "description": "Spin up a branded shop with your logo, your prices, and your payout account. Fans buy, we make and ship, you keep the margin.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Global fulfillment",
+        "description": "Print partners on four continents mean your Berlin subscriber and your Austin superfan both get their crest within a week.",
+        "icon": "globe"
+      },
+      {
+        "title": "Margin you can see",
+        "description": "A live ledger shows cost, price, and profit per item — no surprise fees hidden in the fine print of a quarterly invoice.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to dread the merch table. Now my newsletter drops sell out before I finish the launch email, and I've never touched a shipping label.",
+        "name": "Priya Venkataraman",
+        "role": "Independent Newsletter Author",
+        "company": "The Longform Ledger"
+      },
+      {
+        "quote": "The proofing tool alone paid for itself. We caught a thread-color mismatch on 400 crewnecks before production — that would have gutted a solo creator like me.",
+        "name": "Marcus Delaney",
+        "role": "Founder",
+        "company": "Delaney Field Notes"
+      },
+      {
+        "quote": "Heron Crest made my personal brand feel like a fashion house. The unboxing photos my community posts look better than most funded startups' swag.",
+        "name": "Sofia Arnesen",
+        "role": "Podcast Host & Solo Creator",
+        "company": "Signal & Static"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "Everything one creator needs to launch a first drop.",
+        "features": [
+          "1 branded storefront",
+          "On-demand catalog access",
+          "Photoreal 3D proofing",
+          "Standard global fulfillment"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Signature",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For creators building a merch line that outlasts the launch.",
+        "features": [
+          "Up to 5 storefronts",
+          "Custom Pantone matching",
+          "Priority production queue",
+          "Live margin ledger",
+          "Bulk drop scheduling"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "$129",
+        "period": "per month",
+        "blurb": "For prosumers running a full personal-brand catalog.",
+        "features": [
+          "Unlimited storefronts",
+          "Dedicated print partners",
+          "White-glove sample kits",
+          "Custom packaging inserts",
+          "API & integration access",
+          "Priority creator support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Heron Crest — studio-grade merch for the individual with a name worth stamping on something. No minimums. No middlemen. Just legacy."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Prism Field",
+  "slug": "prism-field",
+  "industry": "vertical farming",
+  "tagline": "Turn any warehouse into a year-round harvest engine.",
+  "positioning": "Prism Field is the operating system for indoor growers—orchestrating light, climate, and yield across every rack so small farms grow like giants.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A0E0A",
+    "surface": "#12180F",
+    "text": "#E9F7E6",
+    "primary": "#3CF06B",
+    "accent": "#00E5FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grow beyond the seasons.",
+      "sub": "Prism Field unifies every rack, pump, and LED array into one luminous control room—so a two-person farm can run like an industrial harvest without hiring an agronomist.",
+      "ctaLabel": "Start growing free",
+      "secondaryCtaLabel": "Watch a live grow"
+    },
+    "features": [
+      {
+        "title": "Recipe-driven climate",
+        "description": "Dial in light spectrum, humidity, and nutrient dosing per crop, then clone the winning recipe across every tier with one tap. No more sticky-note setpoints.",
+        "icon": "layers"
+      },
+      {
+        "title": "Yield forecasting",
+        "description": "See projected harvest weight and sell-by dates before your seedlings emerge, so you can pre-sell to chefs and grocers with confidence.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Anomaly sentinel",
+        "description": "Prism watches every sensor and pings you the moment a pump stalls or a canopy overheats—hours before the crop notices.",
+        "icon": "bell"
+      },
+      {
+        "title": "Rack-level economics",
+        "description": "Track cost-per-gram, energy draw, and margin by shelf. Kill the losing crops and double down on what your buyers reload on.",
+        "icon": "chart"
+      },
+      {
+        "title": "Compliance-ready logs",
+        "description": "Every dose, harvest, and cleaning event is timestamped into an audit trail your food-safety inspector will actually thank you for.",
+        "icon": "shield"
+      },
+      {
+        "title": "Remote command",
+        "description": "Adjust the entire farm from your phone at 2am. Prism syncs setpoints to your controllers even when the Wi-Fi blinks.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from guessing to governing. Prism Field caught a failing chiller before it cooked a full basil cycle—that one alert paid for the year.",
+        "name": "Marisol Vega",
+        "role": "Founder & Head Grower",
+        "company": "Tidewater Greens"
+      },
+      {
+        "quote": "I sell to eleven restaurants and used to promise volume I couldn't guarantee. Now I quote from the forecast and never miss a delivery.",
+        "name": "Declan Ross",
+        "role": "Owner-Operator",
+        "company": "Bricklane Farm Co."
+      },
+      {
+        "quote": "Two people, forty racks, zero clipboards. Prism turned our garage operation into something a distributor takes seriously.",
+        "name": "Priya Nadkarni",
+        "role": "Co-Founder",
+        "company": "Northlight Microgreens"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For solo growers proving out their first indoor racks.",
+        "features": [
+          "Up to 12 racks",
+          "Climate & dosing recipes",
+          "Mobile remote control",
+          "7-day sensor history"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Canopy",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing farms selling to chefs, markets, and grocers.",
+        "features": [
+          "Unlimited racks",
+          "Yield forecasting & pre-sell tools",
+          "Anomaly sentinel alerts",
+          "Rack-level economics",
+          "1-year audit trail"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Grid",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-site operators standardizing across facilities.",
+        "features": [
+          "Multi-facility dashboards",
+          "SSO & role permissions",
+          "API & controller integrations",
+          "Dedicated grow strategist",
+          "Priority SLA support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Prism Field is the operating system for indoor agriculture. Grow more, waste less, and run your farm like it's already the future."
+  }
+}

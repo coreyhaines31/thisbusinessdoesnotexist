@@ -1,0 +1,138 @@
+{
+  "name": "PetalStack",
+  "slug": "petalstack",
+  "industry": "wedding vendor CRM",
+  "tagline": "The client operating system for modern wedding professionals.",
+  "positioning": "PetalStack unifies inquiries, contracts, timelines, and payments into one system of record for florists, planners, and photographers running their own studios.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F4F4FA",
+    "primary": "#00F0B5",
+    "accent": "#FF3D8B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PS",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,8 16,12 12,16 8,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every wedding from a single system of record.",
+      "sub": "From first inquiry to final invoice, PetalStack consolidates your leads, proposals, contracts, and event timelines so owner-operators can scale bookings without adding overhead.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Inquiry pipeline that converts",
+        "description": "Route web forms, referrals, and venue leads into one pipeline with automated follow-ups and response-time SLAs so no couple slips through.",
+        "icon": "zap"
+      },
+      {
+        "title": "Proposals and contracts",
+        "description": "Send branded quotes, e-signature contracts, and deposit requests in a single thread—no more chasing PDFs across email.",
+        "icon": "layers"
+      },
+      {
+        "title": "Event-day timelines",
+        "description": "Build minute-by-minute wedding-day timelines and share them with couples and vendors in real time.",
+        "icon": "clock"
+      },
+      {
+        "title": "Revenue forecasting",
+        "description": "Track booked revenue, outstanding balances, and seasonal capacity across every event on your calendar.",
+        "icon": "chart"
+      },
+      {
+        "title": "Automated payments",
+        "description": "Schedule deposits, trigger payment reminders, and reconcile balances tied directly to each signed contract.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Team handoffs",
+        "description": "Assign leads and events to seats with role-based access so your associates never miss a handoff.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We replaced three spreadsheets and a shared inbox with PetalStack. Our booking response time dropped from two days to under an hour.",
+        "name": "Marisol Vance",
+        "role": "Owner & Lead Planner",
+        "company": "Vance & Vine Events"
+      },
+      {
+        "quote": "The event timeline module alone justified the cost. Every vendor shows up knowing exactly where to be, down to the minute.",
+        "name": "Devon Ashcroft",
+        "role": "Creative Director",
+        "company": "Ashcroft Floral Studio"
+      },
+      {
+        "quote": "As a two-person studio, per-seat pricing meant we only paid for what we used. The forecasting helped us book smarter in the off-season.",
+        "name": "Priya Raman",
+        "role": "Principal Photographer",
+        "company": "Raman & Co. Photography"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators managing their own book of weddings.",
+        "features": [
+          "1 user seat",
+          "Lead pipeline & web forms",
+          "Proposals & e-sign contracts",
+          "Deposit tracking",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing studios coordinating a team across every event.",
+        "features": [
+          "Everything in Solo",
+          "Up to 15 seats",
+          "Event-day timelines",
+          "Revenue forecasting",
+          "Role-based permissions",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For multi-location firms and franchise operators.",
+        "features": [
+          "Unlimited seats",
+          "SSO & audit logs",
+          "Dedicated success manager",
+          "Custom integrations",
+          "Onboarding & SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "PetalStack is the client operating system for wedding professionals—built for the florists, planners, and photographers who run the business themselves."
+  }
+}

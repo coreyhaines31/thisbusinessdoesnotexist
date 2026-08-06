@@ -1,0 +1,136 @@
+{
+  "name": "Peritus",
+  "slug": "peritus",
+  "industry": "esports coaching",
+  "tagline": "Structured coaching that turns ranked grind into measurable rank.",
+  "positioning": "Peritus pairs competitive players with vetted coaches and a review system built around VOD timestamps, drills, and honest progress tracking.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#14161F",
+    "text": "#EEF1F7",
+    "primary": "#25F0A8",
+    "accent": "#7C6BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 1 1 3 12",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 8 A4 4 0 1 0 16 12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching that respects your climb.",
+      "sub": "Peritus connects serious players with vetted coaches who review your VODs frame by frame, assign targeted drills, and hold you accountable to the rank you're actually chasing.",
+      "ctaLabel": "Book a first review",
+      "secondaryCtaLabel": "Browse coaches"
+    },
+    "features": [
+      {
+        "title": "Timestamped VOD reviews",
+        "description": "Coaches annotate your matches at the exact frame a decision went wrong, then attach the fix — no vague 'play better' notes, just specific mistakes and corrections.",
+        "icon": "target"
+      },
+      {
+        "title": "Drill assignments",
+        "description": "Every session ends with concrete homework: aim routines, wave-management reps, or map calls to rehearse before your next scheduled review.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Progress that's measurable",
+        "description": "Track win rate, KDA trends, and rank movement against the goals you set, so you can see whether the coaching is actually working.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Vetted coach roster",
+        "description": "Every coach passes a screening on peak rank, teaching samples, and player feedback before they ever take a paid session on Peritus.",
+        "icon": "shield"
+      },
+      {
+        "title": "Sessions that fit your schedule",
+        "description": "Book live reviews or async VOD breakdowns around your ranked hours, with reminders so no session slips through.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Multi-title support",
+        "description": "One account, one coaching history across League, Valorant, CS2, and Dota 2 — switch titles without starting your record from zero.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I'd been hardstuck Diamond for two splits. My Peritus coach caught a recall-timing habit in the first review that no guide ever explained. Three weeks of drills later I hit Master.",
+        "name": "Devin OcalÃ­",
+        "role": "Mid-lane player",
+        "company": "Grey Vanguard"
+      },
+      {
+        "quote": "The timestamped reviews changed how I practice. Instead of vibing through ranked, I show up with two specific things to fix. My aim trainer scores finally translate to matches.",
+        "name": "Priya Raman",
+        "role": "Amateur Valorant duelist",
+        "company": "Northline Collegiate"
+      },
+      {
+        "quote": "As a returning CS player, I needed structure, not hype. Peritus gave me a coach who treated my time seriously and a progress log I actually trust.",
+        "name": "Marcus Feld",
+        "role": "Rifler, semi-pro",
+        "company": "Halcyon Reserve"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Starter",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For players who want regular async reviews without booking live sessions.",
+        "features": [
+          "2 async VOD reviews per month",
+          "Timestamped coach annotations",
+          "Basic progress tracking",
+          "One competitive title"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Competitor",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For players actively climbing who want live coaching and drills.",
+        "features": [
+          "4 async reviews + 2 live sessions",
+          "Personalized drill assignments",
+          "Full progress dashboard",
+          "Up to three titles",
+          "Priority coach matching"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Contender",
+        "price": "$179",
+        "period": "per month",
+        "blurb": "For aspiring pros training toward tryouts and team play.",
+        "features": [
+          "Weekly live sessions",
+          "Dedicated coach + practice plan",
+          "Scrim and VOD deep-dives",
+          "All supported titles",
+          "Team-review add-ons"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Peritus is coaching for players who take the climb seriously — specific reviews, real drills, and progress you can measure."
+  }
+}

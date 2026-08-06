@@ -1,0 +1,136 @@
+{
+  "name": "Clutch Bureau",
+  "slug": "clutch-bureau",
+  "industry": "esports coaching",
+  "tagline": "Run your coaching business like a pro, even if your K/D says otherwise.",
+  "positioning": "The back office for independent esports coaches: scheduling, VOD review, rosters, and payouts in one place so you can coach instead of chasing Discord DMs.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#ece7dd",
+    "surface": "#f6f2ea",
+    "text": "#22201b",
+    "primary": "#b0492f",
+    "accent": "#4a6b62"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CB",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "You coach the aim. We'll handle the paperwork.",
+      "sub": "Clutch Bureau is the boring-on-purpose business software for esports coaches who are done running their whole operation out of a spreadsheet and three Discord servers.",
+      "ctaLabel": "Start a free trial",
+      "secondaryCtaLabel": "Book a demo (GG)"
+    },
+    "features": [
+      {
+        "title": "No-show insurance",
+        "description": "Automated booking, reminders, and a cancellation policy that actually holds. Students confirm, pay, and show up — or the calendar reclaims the slot for someone who will.",
+        "icon": "calendar"
+      },
+      {
+        "title": "VOD review that stays organized",
+        "description": "Timestamp notes, drop clips, and send a review your student can rewatch instead of losing your voice memo in a group chat forever.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Rosters without the guesswork",
+        "description": "Track every student's rank, goals, and last five sessions in one profile. Know who's grinding and who ghosted before you open the app.",
+        "icon": "users"
+      },
+      {
+        "title": "Payouts on autopilot",
+        "description": "Per-seat billing, invoices, and payment reminders that go out without you playing collections agent between scrims.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Progress your students can see",
+        "description": "Auto-built progress reports so parents and players stop asking 'am I actually getting better' every single week.",
+        "icon": "chart"
+      },
+      {
+        "title": "One link for everything",
+        "description": "A booking page that doesn't look like it was made in 2009. Share it, pin it, and stop typing your availability out by hand.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was running a legit coaching business off a Google Sheet and pure spite. Clutch Bureau gave me back my Sundays and cut no-shows by more than half.",
+        "name": "Marcus 'DriftKing' Odom",
+        "role": "Head Coach & Owner",
+        "company": "Overtime Academy"
+      },
+      {
+        "quote": "The per-seat pricing just makes sense. I add a coach, I pay for a coach. No 12-page enterprise quote to run a five-person operation.",
+        "name": "Priya Raman",
+        "role": "Founder",
+        "company": "Ranked Up Coaching"
+      },
+      {
+        "quote": "My students actually watch the VOD reviews now because they aren't buried in a Discord thread from three weeks ago. That alone paid for it.",
+        "name": "Devon Whitaker",
+        "role": "Solo Coach",
+        "company": "Whitaker Aim Labs"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Queue",
+        "price": "$19",
+        "period": "per coach seat / month",
+        "blurb": "For the one-person operation who is also the accountant, marketer, and janitor.",
+        "features": [
+          "1 coach seat",
+          "Booking page & reminders",
+          "VOD review with clips",
+          "Basic student profiles"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Squad",
+        "price": "$39",
+        "period": "per coach seat / month",
+        "blurb": "For small academies that have officially outgrown the group chat.",
+        "features": [
+          "Everything in Solo Queue",
+          "Unlimited student rosters",
+          "Per-seat billing & invoices",
+          "Progress reports",
+          "Team availability calendar"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Org",
+        "price": "Custom",
+        "period": "per seat, billed annually",
+        "blurb": "For the org with a logo, a jersey, and an actual finance person.",
+        "features": [
+          "Everything in Squad",
+          "Custom branding on booking pages",
+          "Priority support",
+          "Payout splits across coaches",
+          "Onboarding & data import"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Clutch Bureau is business software for esports coaches who'd rather be coaching. Fewer spreadsheets, fewer no-shows, more GGs."
+  }
+}

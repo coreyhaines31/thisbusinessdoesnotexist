@@ -1,0 +1,149 @@
+{
+  "name": "Open Bar",
+  "slug": "open-bar",
+  "industry": "wedding vendor CRM",
+  "tagline": "The CRM for people who work every Saturday so other people can get drunk and dance.",
+  "positioning": "Open Bar is the client pipeline, contract, and payment system for wedding vendors who are sick of running their business from a phone at a reception.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F3F3",
+    "text": "#0B0B0B",
+    "primary": "#111111",
+    "accent": "#FF3B1D"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "OB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16.5,
+        "cy": 7.5,
+        "r": 5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 16.5,
+        "cy": 7.5,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Book the wedding. Not the paperwork.",
+      "sub": "Open Bar turns the chaos of inquiries, contracts, deposits, and day-of timelines into one pipeline you can actually run between shoots. Built for the vendor who is also the receptionist.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live pipeline"
+    },
+    "features": [
+      {
+        "title": "Inquiries that stop ghosting",
+        "description": "Every DM, form, and referral lands in one inbox with reply templates and auto follow-ups, so the 11pm 'is our date open?' gets answered before they email your competitor.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Contracts and deposits in one tap",
+        "description": "Send the proposal, the contract, and the deposit link as a single thing. They sign, they pay, you get a Saturday off from chasing invoices.",
+        "icon": "lock"
+      },
+      {
+        "title": "Day-of timelines that survive the day",
+        "description": "Build the run-of-show once, share it with the couple and the other vendors, and stop being the person who knows when the cake actually shows up.",
+        "icon": "clock"
+      },
+      {
+        "title": "Booking calendar without double-books",
+        "description": "See held dates, tentatives, and confirmed weddings in one view. No more accidentally selling June 14th twice.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Numbers you can trust",
+        "description": "Revenue booked, deposits outstanding, and which season is quietly killing you — reported without a spreadsheet you forgot to update.",
+        "icon": "chart"
+      },
+      {
+        "title": "Vendor handoffs that don't lose a file",
+        "description": "Share galleries, floor plans, and shot lists with planners and venues without a 40-message text thread.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to write contracts in my car after tastings. Open Bar sends the proposal, the deposit, and the timeline before the couple's parking meter runs out. I booked two extra weddings last fall just by replying faster.",
+        "name": "Renata Ozdemir",
+        "role": "Owner & Head Chef",
+        "company": "Field & Fig Catering"
+      },
+      {
+        "quote": "Wedding CRMs usually feel like they were built by someone who has never carried a light stand up three flights of stairs. This one didn't make me want to throw my laptop into a lake. High praise.",
+        "name": "Marcus Deel",
+        "role": "Lead Photographer",
+        "company": "Deel & Daughters Photo"
+      },
+      {
+        "quote": "The double-booking thing happened to me exactly once. It will not happen again. Open Bar just shows me the dates and the deposits, and I stopped losing sleep over a shared Google Sheet.",
+        "name": "Priya Vanterpool",
+        "role": "Founder",
+        "company": "Ampersand Events Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For the one-person studio who is somehow also the accountant.",
+        "features": [
+          "Unified inquiry inbox",
+          "Contracts, e-sign & deposits",
+          "Booking calendar",
+          "Up to 40 active weddings"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For growing shops with associates, second shooters, or a real assistant.",
+        "features": [
+          "Everything in Solo",
+          "Unlimited active weddings",
+          "Day-of timeline sharing",
+          "Vendor & couple portals",
+          "Revenue and pipeline reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For multi-location venues and agencies running dozens of vendors.",
+        "features": [
+          "Everything in Studio",
+          "Role-based team permissions",
+          "White-label portals",
+          "API & venue integrations",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Open Bar is the CRM for wedding vendors who would rather be shooting, cooking, planning, or spinning — literally anything but paperwork."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Punctura",
+  "slug": "punctura",
+  "industry": "tattoo studio booking",
+  "tagline": "Enterprise-grade scheduling infrastructure for the modern tattoo practice.",
+  "positioning": "Punctura is the operational system of record for tattoo studios — consultations, deposits, consent, and calendar, unified into one compliant workflow.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F0F0F0",
+    "text": "#0B0B0B",
+    "primary": "#0B0B0B",
+    "accent": "#FF2D16"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M5 3 H14 C19 3 21 6 21 10 C21 14 19 17 14 17 H10 V21 H5 Z M10 8 V12 H13 C15 12 15 8 13 8 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The booking system of record for serious tattoo studios.",
+      "sub": "Punctura consolidates consultations, deposits, consent forms, and artist calendars into one auditable workflow — so your front desk runs like an operations department.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View documentation"
+    },
+    "features": [
+      {
+        "title": "Deposit-backed booking",
+        "description": "Require, capture, and reconcile deposits at the moment a slot is reserved. No-shows drop when money is on the appointment.",
+        "icon": "lock"
+      },
+      {
+        "title": "Digital consent ledger",
+        "description": "Age verification, medical disclosure, and aftercare consent captured per session and archived as immutable, timestamped records.",
+        "icon": "shield"
+      },
+      {
+        "title": "Artist calendar control",
+        "description": "Per-artist availability, buffer blocks, and multi-session projects synced across web, staff, and client-facing views.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Flash & reference intake",
+        "description": "Clients submit references, placement, and sizing before the consult — routed to the assigned artist as a structured brief.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Revenue reporting",
+        "description": "Track utilization, deposit conversion, and revenue per chair across your studio with exportable monthly statements.",
+        "icon": "chart"
+      },
+      {
+        "title": "Automated reminders",
+        "description": "Configurable SMS and email sequences for confirmations, aftercare, and touch-up windows — sent without staff intervention.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We cut no-shows by 40% in one quarter. The deposit ledger alone paid for the platform. Our front desk finally stopped living inside a paper calendar.",
+        "name": "Marisol Vega",
+        "role": "Studio Director",
+        "company": "Ironline Collective"
+      },
+      {
+        "quote": "Consent and age verification used to be a compliance liability. Punctura made every session auditable, and our insurer took notice.",
+        "name": "Dominic Hale",
+        "role": "Operations Lead",
+        "company": "Northgate Tattoo Co."
+      },
+      {
+        "quote": "Managing six artists across two locations was chaos. Now availability, buffers, and multi-session projects live in one system. It runs itself.",
+        "name": "Priya Raman",
+        "role": "Owner & Resident Artist",
+        "company": "Meridian Ink Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month, per artist",
+        "blurb": "For independent artists running their own book.",
+        "features": [
+          "Deposit-backed online booking",
+          "Digital consent & aftercare forms",
+          "Automated SMS reminders",
+          "Single artist calendar"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$89",
+        "period": "per month, up to 8 artists",
+        "blurb": "For established studios with a front desk and multiple chairs.",
+        "features": [
+          "Everything in Solo",
+          "Multi-artist calendar control",
+          "Deposit reconciliation & reporting",
+          "Reference & flash intake briefs",
+          "Role-based staff access"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For multi-location groups with compliance requirements.",
+        "features": [
+          "Everything in Studio",
+          "Multi-location revenue reporting",
+          "Immutable consent ledger export",
+          "SSO & audit logging",
+          "Dedicated account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Punctura is the operational backbone of the modern tattoo studio. Booking, deposits, and consent — unified, auditable, and enterprise-ready."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Slate Bristle",
+  "slug": "slate-bristle",
+  "industry": "industrial cleaning",
+  "tagline": "The command layer for the crews that keep the built world spotless.",
+  "positioning": "Slate Bristle turns janitorial chaos — scattered checklists, no-show subs, disputed invoices — into one disciplined operation for owner-operators.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#EFEDE7",
+    "surface": "#F8F6F1",
+    "text": "#22201B",
+    "primary": "#6B4A34",
+    "accent": "#A9713F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run a cleaning empire from one screen.",
+      "sub": "Slate Bristle unifies scheduling, crew tracking, digital checklists, and billing so owner-operators can scale from three accounts to three hundred without losing a single square foot.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Site-perfect scheduling",
+        "description": "Assign crews to routes, lock in recurring floor-strip cycles, and get pinged the moment a shift risks a no-show — before your client ever notices.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Proof-of-clean checklists",
+        "description": "Every restroom, dock, and stairwell gets a timestamped checklist with before-and-after photos your building manager can actually audit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Invoices that close themselves",
+        "description": "Completed jobs roll straight into itemized invoices, so the Friday-night billing marathon becomes a two-minute review.",
+        "icon": "chart"
+      },
+      {
+        "title": "Live crew visibility",
+        "description": "See who clocked in at which facility on one map — no more calling three supervisors to find out if the third-shift team showed.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Supply burn tracking",
+        "description": "Track degreaser, liners, and pads by account so you stop eating margin on the jobs that quietly drain your storeroom.",
+        "icon": "database"
+      },
+      {
+        "title": "Compliance on autopilot",
+        "description": "OSHA training logs, SDS sheets, and insurance certs stay current and one export away when a client demands them.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from four office whiteboards to one dashboard. Slate Bristle caught two missed night crews in the first week and paid for itself before payroll ran.",
+        "name": "Marcus Delgado",
+        "role": "Owner",
+        "company": "Ironline Facility Services"
+      },
+      {
+        "quote": "My clients used to dispute invoices constantly. Now every line item ships with photo proof. Disputes basically stopped, and we won two new hospital contracts on it.",
+        "name": "Priya Venkatesh",
+        "role": "Managing Partner",
+        "company": "Meridian Sanitation Group"
+      },
+      {
+        "quote": "I run 40 buildings with a lean office. The supply-burn reports alone recovered about nine grand a quarter I didn't know I was leaking.",
+        "name": "Danielle Okafor",
+        "role": "Operations Director",
+        "company": "Cornerstone Janitorial Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the solo owner-operator running a handful of steady accounts.",
+        "features": [
+          "Up to 5 active sites",
+          "Scheduling & digital checklists",
+          "Photo proof-of-clean",
+          "Mobile crew app"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For growing companies coordinating multiple shifts and supervisors.",
+        "features": [
+          "Unlimited sites",
+          "Live crew map & clock-in",
+          "Automated invoicing",
+          "Supply burn tracking",
+          "Compliance & SDS vault"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-region operators with procurement and audit demands.",
+        "features": [
+          "Everything in Crew",
+          "SSO & role controls",
+          "Client audit portals",
+          "Dedicated success manager",
+          "API & payroll integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Slate Bristle is the operating layer for ambitious cleaning companies — turning grit and hustle into a business that runs like clockwork."
+  }
+}

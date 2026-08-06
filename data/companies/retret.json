@@ -1,0 +1,136 @@
+{
+  "name": "Retret",
+  "slug": "retret",
+  "industry": "corporate offsites",
+  "tagline": "The operating system for executive offsites and leadership retreats.",
+  "positioning": "Retret helps enterprise People and Chief of Staff teams plan, run, and measure high-stakes offsites — from venue sourcing to post-event ROI reporting.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F4EDE1",
+    "surface": "#FBF6EE",
+    "text": "#38291D",
+    "primary": "#B15A32",
+    "accent": "#7A7238"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,11 12,4 20,11 20,15 12,8 4,15",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "4,16 12,9 20,16 20,20 12,13 4,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every offsite, executed like a board meeting.",
+      "sub": "Retret gives People and Chief of Staff teams a single system to source venues, manage attendee logistics, and prove the business impact of leadership offsites.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Governed venue sourcing",
+        "description": "Compare vetted venues, pull negotiated rates, and route contracts through legal and procurement without leaving a single record trail.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Attendee logistics at scale",
+        "description": "Coordinate travel, dietary needs, accessibility, and room blocks for 20 to 2,000 attendees with automated approvals and change tracking.",
+        "icon": "users"
+      },
+      {
+        "title": "Agenda intelligence",
+        "description": "Build outcome-driven agendas from proven templates, then align every session to the strategic objective it's meant to advance.",
+        "icon": "target"
+      },
+      {
+        "title": "Budget reconciliation",
+        "description": "Track committed, spent, and forecasted cost per offsite in real time, with line-item exports for finance and audit.",
+        "icon": "chart"
+      },
+      {
+        "title": "Post-event ROI reporting",
+        "description": "Capture pulse surveys, engagement signals, and follow-through on action items to quantify the return on every gathering.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Enterprise compliance",
+        "description": "SOC 2 Type II, SSO/SCIM, data residency, and duty-of-care travel tracking built for regulated organizations.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 14 regional leadership offsites last year on Retret. For the first time, our CFO could see cost-per-attendee and follow-through on strategic actions in one report.",
+        "name": "Marielle Danforth",
+        "role": "VP, People Operations",
+        "company": "Halbrook Financial"
+      },
+      {
+        "quote": "Sourcing a venue for 600 sales leaders used to take my team six weeks. With Retret's negotiated inventory and contract routing, it took nine days.",
+        "name": "Devon Iyer",
+        "role": "Chief of Staff",
+        "company": "Northline Systems"
+      },
+      {
+        "quote": "The duty-of-care tracking alone justified the investment. During a weather disruption we knew where every executive was within minutes.",
+        "name": "Priya Raghunathan",
+        "role": "Global Head of Events",
+        "company": "Corvell Industries"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Program",
+        "price": "$1,200",
+        "period": "per offsite, billed on usage",
+        "blurb": "For teams running occasional flagship offsites and leadership summits.",
+        "features": [
+          "Up to 150 attendees per event",
+          "Venue sourcing & contract routing",
+          "Agenda templates",
+          "Standard ROI reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$9",
+        "period": "per attendee-day, volume tiered",
+        "blurb": "For People and Chief of Staff teams running a recurring offsite program.",
+        "features": [
+          "Unlimited events & attendees",
+          "SSO/SCIM & data residency",
+          "Duty-of-care travel tracking",
+          "Budget reconciliation exports",
+          "Dedicated program manager"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Global",
+        "price": "Custom",
+        "period": "annual commitment, usage pooled",
+        "blurb": "For multinationals standardizing offsites across regions and business units.",
+        "features": [
+          "Pooled usage across all business units",
+          "Procurement & legal integrations",
+          "Custom SLAs & audit support",
+          "Regional venue inventory",
+          "Executive analytics workspace"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Retret is the enterprise platform for planning, running, and measuring corporate offsites and leadership retreats."
+  }
+}

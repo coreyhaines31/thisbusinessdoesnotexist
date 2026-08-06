@@ -1,0 +1,149 @@
+{
+  "name": "AxleBeacon",
+  "slug": "axlebeacon",
+  "industry": "fleet telematics",
+  "tagline": "Telematics built for the person who also drives the truck",
+  "positioning": "AxleBeacon gives small fleet owner-operators live tracking, IFTA fuel tax, and maintenance alerts in one dashboard — without the enterprise price tag.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#eef5f4",
+    "surface": "#ffffff",
+    "text": "#0c2b2e",
+    "primary": "#0d7d8a",
+    "accent": "#12a67a"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 5.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your whole fleet from the cab, not a back office",
+      "sub": "AxleBeacon puts live vehicle tracking, automated IFTA fuel tax, and maintenance reminders in one place — so you can dispatch, log miles, and stay compliant without hiring a fleet manager.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Watch 2-min demo"
+    },
+    "features": [
+      {
+        "title": "See every truck in real time",
+        "description": "Live GPS with breadcrumb history and geofence alerts. Know exactly where your rigs are when a customer calls asking for an ETA.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "IFTA reports that file themselves",
+        "description": "AxleBeacon tracks miles per jurisdiction from your GPS data and drops a quarter-ready IFTA summary into your inbox. No more shoebox of fuel receipts.",
+        "icon": "database"
+      },
+      {
+        "title": "Maintenance before it's a breakdown",
+        "description": "Odometer-based reminders for oil changes, DOT inspections, and tire rotations. Log DVIRs from the driver app in under a minute.",
+        "icon": "wrench"
+      },
+      {
+        "title": "HOS and ELD, handled",
+        "description": "FMCSA-registered ELD logs hours of service automatically and flags violations before they turn into a roadside citation.",
+        "icon": "clock"
+      },
+      {
+        "title": "Coach safer driving",
+        "description": "Weekly safety scores for hard braking, speeding, and idle time — the numbers that actually move your insurance premium.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fuel spend you can defend",
+        "description": "Match fuel-card charges to trips and idle time so you catch skimming and pointless mileage before it eats your margin.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend a full Sunday every quarter reconciling fuel receipts for IFTA. AxleBeacon has it ready before I even sit down. That's my weekend back.",
+        "name": "Marcus Elder",
+        "role": "Owner-Operator",
+        "company": "Elder Hauling Co."
+      },
+      {
+        "quote": "We run nine reefers and I'm still the dispatcher. The geofence alerts mean I stop babysitting the map and customers stop calling me for ETAs.",
+        "name": "Priya Raghavan",
+        "role": "Founder",
+        "company": "Coldline Regional"
+      },
+      {
+        "quote": "The maintenance reminders caught a brake issue two weeks before our DOT inspection. That one alert paid for the whole year of AxleBeacon.",
+        "name": "Dwayne Foster",
+        "role": "General Manager",
+        "company": "Foster & Sons Freight"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Owner-Operator",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For one truck and the person driving it.",
+        "features": [
+          "Live GPS tracking",
+          "Automated IFTA reports",
+          "DVIR & maintenance logs",
+          "Mobile driver app"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Growing Fleet",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For 3–25 trucks, billed per active vehicle.",
+        "features": [
+          "Everything in Owner-Operator",
+          "ELD & HOS compliance",
+          "Geofence & idle alerts",
+          "Driver safety scoring",
+          "Fuel-card reconciliation"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume pricing, per seat",
+        "blurb": "For fleets over 25 trucks with API needs.",
+        "features": [
+          "Everything in Growing Fleet",
+          "API & TMS integrations",
+          "Dedicated onboarding",
+          "Custom compliance reports",
+          "Priority phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "AxleBeacon is telematics for small fleets that don't have a back office — live tracking, IFTA, and compliance in one honest dashboard."
+  }
+}

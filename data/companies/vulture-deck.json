@@ -1,0 +1,131 @@
+{
+  "name": "Vulture Deck",
+  "slug": "vulture-deck",
+  "industry": "drone inspection",
+  "tagline": "Point the drone. We'll tell you what's broken before it bites you.",
+  "positioning": "Automated drone inspection reports for people who own one drone, one roof, and zero patience for a $600 rope-access invoice.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#111318",
+    "surface": "#1B1E27",
+    "text": "#ECEDF1",
+    "primary": "#F0552B",
+    "accent": "#59E0BE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 4 H9 L12 15 L15 4 H21 L14 21 H10 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Fly it once. Get a report a structural engineer won't laugh at.",
+      "sub": "Upload your drone footage. Vulture Deck stitches it, flags the cracks, rust, and missing shingles, and spits out a PDF you can hand to insurance without a translator.",
+      "ctaLabel": "Upload footage",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Auto-Flag Everything Ugly",
+        "description": "Our models circle the corrosion, delamination, and cracked flashing so you don't squint at 4,000 frames pretending you know what fascia is.",
+        "icon": "target"
+      },
+      {
+        "title": "Reports Humans Will Read",
+        "description": "A tidy PDF with annotated stills, severity ratings, and location tags. No dashboards. No 'synergy.' Just what's wrong and how bad.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Works With Your Cheap Drone",
+        "description": "Mavic, Mini, that off-brand one you regret. If it shoots 1080p, we'll process it. No enterprise sensor rig required.",
+        "icon": "layers"
+      },
+      {
+        "title": "Before-And-After Memory",
+        "description": "We keep every inspection so you can prove the crack grew, or that it absolutely didn't, next time a contractor gets creative.",
+        "icon": "clock"
+      },
+      {
+        "title": "Geotagged Defect Map",
+        "description": "Every flag pinned to a location on your structure, so 'the northeast gutter' means something to more than just you.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Export Without Begging",
+        "description": "Download the raw stills, the report, and a CSV of every defect. It's your roof. Take your data and go.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I priced a professional roof inspection at $475. I flew my $300 drone, uploaded it, and had a report before the coffee finished brewing. The insurer accepted it. Absurd.",
+        "name": "Dara Whitlock",
+        "role": "Homeowner",
+        "company": "Not A Company"
+      },
+      {
+        "quote": "I inspect solar arrays part-time. Vulture Deck flagged three cracked panels I'd have missed and didn't try to upsell me a 'platform.' Rare.",
+        "name": "Miguel Ferreira",
+        "role": "Independent Solar Contractor",
+        "company": "Ferreira Field Services"
+      },
+      {
+        "quote": "We manage forty rural cell towers on a budget that would embarrass a lemonade stand. This replaced the spreadsheet-and-prayer system. Nobody's fallen off anything since.",
+        "name": "Priya Anand",
+        "role": "Site Operations Lead",
+        "company": "Backbone Rural Networks"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Hobbyist",
+        "price": "$0",
+        "period": "forever, genuinely",
+        "blurb": "For the one roof you keep staring at nervously.",
+        "features": [
+          "3 inspections per month",
+          "Auto-defect flagging",
+          "Standard PDF report",
+          "Watermarked exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For people who inspect stuff and get paid for it.",
+        "features": [
+          "Unlimited inspections",
+          "Geotagged defect maps",
+          "Before-and-after history",
+          "Clean, unwatermarked PDFs",
+          "CSV + raw stills export"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Small Fleet",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For the guy managing more assets than sense.",
+        "features": [
+          "Everything in Operator",
+          "Up to 5 team seats",
+          "Custom report branding",
+          "Priority processing queue",
+          "API access if you insist"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vulture Deck turns your drone footage into inspection reports nobody has to apologize for. Fly it once. We'll find the problem."
+  }
+}

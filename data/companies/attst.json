@@ -1,0 +1,138 @@
+{
+  "name": "Attst",
+  "slug": "attst",
+  "industry": "cannabis compliance",
+  "tagline": "Every gram accounted for, every regulator satisfied.",
+  "positioning": "Attst is the compliance backbone for multi-state cannabis operators — turning seed-to-sale chaos into audit-ready records across every jurisdiction you touch.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F2F2F0",
+    "text": "#0B0B0B",
+    "primary": "#141414",
+    "accent": "#B4FF1F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "2,6 8,6 14,12 8,18 2,18 8,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "10,6 16,6 22,12 16,18 10,18 16,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that keeps pace with every state you operate in.",
+      "sub": "Attst syncs your METRC tags, license renewals, and lab COAs into one living record — so a surprise audit becomes a five-minute export, not a five-day scramble.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a sample audit"
+    },
+    "features": [
+      {
+        "title": "METRC sync that never drifts",
+        "description": "Reconcile package tags, transfers, and adjustments across every facility in real time. When a manifest and inventory disagree, Attst flags it before the state does.",
+        "icon": "refresh"
+      },
+      {
+        "title": "One rule engine, every jurisdiction",
+        "description": "Encode the possession limits, testing thresholds, and packaging rules for all 24 markets you serve. Attst applies the right ruleset per license automatically.",
+        "icon": "globe"
+      },
+      {
+        "title": "Audit-ready in one export",
+        "description": "Every event carries an immutable timestamp, operator, and source document. Hand regulators a complete, tamper-evident trail without touching a spreadsheet.",
+        "icon": "shield"
+      },
+      {
+        "title": "License and renewal tracking",
+        "description": "Track every state, local, and facility license with renewal windows, required filings, and owner sign-offs so nothing lapses mid-quarter.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Lab COA management",
+        "description": "Attach certificates of analysis to the exact batches they cover and block non-compliant product from moving to the sales floor.",
+        "icon": "database"
+      },
+      {
+        "title": "Real-time violation flags",
+        "description": "Get alerted the moment a transfer, sale, or waste event breaks a rule — routed to the compliance lead who owns that facility.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Attst our compliance team spent the last week of every month reconciling METRC by hand. Now the discrepancies surface daily and we close them same-day. Our last state audit took two hours.",
+        "name": "Danielle Vasquez",
+        "role": "VP of Compliance",
+        "company": "Highland Harvest Group"
+      },
+      {
+        "quote": "We operate in nine states, and every one has its own testing and labeling quirks. Attst's rule engine means my facility managers stop guessing and my legal team stops sweating renewals.",
+        "name": "Marcus Adeyemi",
+        "role": "Chief Regulatory Officer",
+        "company": "Meridian Cultivation Co."
+      },
+      {
+        "quote": "The COA gating alone paid for itself. Product that fails potency limits physically can't move to sale now. That's the kind of control the board actually asks about.",
+        "name": "Priya Nathan",
+        "role": "Director of Quality Assurance",
+        "company": "Cascade Leaf Brands"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single-State",
+        "price": "$0.04",
+        "period": "per tracked event / month",
+        "blurb": "For operators cultivating and selling within one regulated market.",
+        "features": [
+          "Up to 2 licensed facilities",
+          "METRC sync every 15 minutes",
+          "Standard audit export",
+          "Email violation alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multi-State",
+        "price": "$0.02",
+        "period": "per tracked event / month",
+        "blurb": "Volume-tiered pricing for operators spanning several jurisdictions.",
+        "features": [
+          "Unlimited facilities",
+          "Real-time METRC reconciliation",
+          "Full rule engine for all active states",
+          "License & renewal workspace",
+          "COA gating and lab integrations",
+          "Role-based violation routing"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual event volume",
+        "blurb": "For national MSOs with dedicated compliance and legal teams.",
+        "features": [
+          "Everything in Multi-State",
+          "Volume-discounted event pricing",
+          "Dedicated compliance solutions engineer",
+          "Custom regulator export templates",
+          "SSO, SOC 2 report, and audit logs",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Attst gives cannabis operators one source of truth for seed-to-sale compliance — so growth into new markets never outruns your ability to prove you're clean."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Provnance",
+  "slug": "provnance",
+  "industry": "luxury resale authentication",
+  "tagline": "Verified provenance for the secondary luxury market, at institutional scale.",
+  "positioning": "Provnance gives resale platforms and auction houses a defensible authentication trail for every handbag, watch, and jewel that passes through their inventory.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F3EFE8",
+    "surface": "#FBFAF6",
+    "text": "#25221C",
+    "primary": "#3B4A40",
+    "accent": "#A9694B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,3 21,18 16,18 12,10 8,18 3,18",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,12 17,21 7,21",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every luxury item deserves a record it can't outrun.",
+      "sub": "Provnance builds an evidence-grade authentication trail for resale platforms, auction houses, and consignment desks — so provenance follows the item, not the paperwork.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See the authentication trail"
+    },
+    "features": [
+      {
+        "title": "Serial and hardware capture",
+        "description": "Guided photo and microscopy workflows record date codes, stamps, and hardware wear so authenticators review the same evidence set every time.",
+        "icon": "database"
+      },
+      {
+        "title": "Chain-of-custody ledger",
+        "description": "Every intake, transfer, and grading decision is timestamped and attributed, giving your compliance team a defensible history per SKU.",
+        "icon": "lock"
+      },
+      {
+        "title": "Expert review routing",
+        "description": "Route ambiguous pieces to the right specialist — watches, leather goods, fine jewelry — with full case context attached.",
+        "icon": "users"
+      },
+      {
+        "title": "Counterfeit signal alerts",
+        "description": "Flag recurring fakes by reference number, seller, or hardware batch before they reach a listing or a buyer.",
+        "icon": "bell"
+      },
+      {
+        "title": "Certificate issuance",
+        "description": "Generate branded authentication certificates and transferable digital records that carry with the item on resale.",
+        "icon": "shield"
+      },
+      {
+        "title": "Audit-ready exports",
+        "description": "Export full case files for insurers, marketplaces, and regulators in one signed package — no screenshot archaeology.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We stopped losing a full day per contested handbag. Provnance keeps the serial imagery, the grader's notes, and the transfer log in one file our legal team actually trusts.",
+        "name": "Camille Roux",
+        "role": "Head of Authentication",
+        "company": "Maison Reverie"
+      },
+      {
+        "quote": "The chain-of-custody ledger settled a six-figure dispute in an afternoon. Every touchpoint was already documented and attributed.",
+        "name": "Daniel Osei",
+        "role": "VP of Trust & Safety",
+        "company": "Atelier Resale Group"
+      },
+      {
+        "quote": "Usage-based pricing meant we onboarded three consignment desks without renegotiating a contract. We pay for the pieces we actually verify.",
+        "name": "Helena Brandt",
+        "role": "Director of Operations",
+        "company": "Vermeer Auction House"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Desk",
+        "price": "$2.40",
+        "period": "per authenticated item",
+        "blurb": "For single-location consignment desks formalizing their process.",
+        "features": [
+          "Up to 1,000 items / month",
+          "Serial and hardware capture",
+          "Standard certificate issuance",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Platform",
+        "price": "$1.60",
+        "period": "per authenticated item",
+        "blurb": "For resale marketplaces scaling volume across categories.",
+        "features": [
+          "Volume tiers above 5,000 items",
+          "Chain-of-custody ledger",
+          "Expert review routing",
+          "Counterfeit signal alerts",
+          "Audit-ready exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual volume agreement",
+        "blurb": "For auction houses and multi-region operators with compliance needs.",
+        "features": [
+          "Committed-volume rates",
+          "Dedicated authentication SLAs",
+          "SSO and role-based access",
+          "Custom certificate branding",
+          "Named solutions engineer"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Provnance is the authentication system of record for the secondary luxury market. Provenance that follows the item."
+  }
+}

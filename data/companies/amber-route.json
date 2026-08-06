@@ -1,0 +1,136 @@
+{
+  "name": "Amber Route",
+  "slug": "amber-route",
+  "industry": "artisanal logistics",
+  "tagline": "Freight worthy of what you make.",
+  "positioning": "Amber Route is the logistics command layer for makers who ship small batches — treating every crate like the artifact it carries.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0C0C0D",
+    "surface": "#18181B",
+    "text": "#FAFAF7",
+    "primary": "#FAFAF7",
+    "accent": "#FF5A1F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AR",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every shipment is a statement of intent.",
+      "sub": "Amber Route unifies pickup, provenance, and last-mile care into one calm dashboard — so your hand-built inventory arrives exactly as it left your bench.",
+      "ctaLabel": "Chart your first route",
+      "secondaryCtaLabel": "Watch the 3-min tour"
+    },
+    "features": [
+      {
+        "title": "Provenance manifests",
+        "description": "Attach batch numbers, materials, and maker notes to every crate. Your customers scan and see the whole journey — not just a tracking dot.",
+        "icon": "layers"
+      },
+      {
+        "title": "Fragility-aware routing",
+        "description": "Tell us what's inside — ceramics, cold-pressed goods, cured wood — and we route around the potholes, heat waves, and rough handoffs.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "One-bench dispatch",
+        "description": "Book couriers, print labels, and schedule pickups from the same screen you use to check today's orders. No tab-juggling at 5pm.",
+        "icon": "zap"
+      },
+      {
+        "title": "Carrier reconciliation",
+        "description": "We audit every carrier invoice against what actually shipped, flag the surcharges they hoped you'd miss, and hand you the refund claim.",
+        "icon": "chart"
+      },
+      {
+        "title": "Doorstep proof",
+        "description": "Photo, signature, and condition capture on delivery — so a cracked-vase dispute is settled in minutes, not a week of emails.",
+        "icon": "shield"
+      },
+      {
+        "title": "Seasonal surge planning",
+        "description": "Forecast your holiday freight from last year's ledger and lock in courier capacity before your competitors panic-book.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ship 400 stoneware pieces a month. Amber Route cut our breakage claims by two-thirds and finally gave my customers a manifest that looks as considered as the work inside.",
+        "name": "Dolores Fenwick",
+        "role": "Founder & Head Potter",
+        "company": "Fenwick Clayworks"
+      },
+      {
+        "quote": "The carrier reconciliation alone paid for our seats in the first quarter. It caught $4,200 in phantom fuel surcharges I would never have found by hand.",
+        "name": "Marcus Oyelaran",
+        "role": "Operations Lead",
+        "company": "Northwind Provisions"
+      },
+      {
+        "quote": "I run a two-person cooperage. Amber Route makes us look like we have a whole logistics department. Wholesale buyers notice the provenance tags immediately.",
+        "name": "Ines Delacroix",
+        "role": "Owner-Operator",
+        "company": "Delacroix Barrel Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Bench",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the solo maker taking control of their own shipping.",
+        "features": [
+          "Up to 150 shipments / month",
+          "Provenance manifests",
+          "One-bench dispatch",
+          "Standard carrier network"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Atelier",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing studios shipping across regions and channels.",
+        "features": [
+          "Unlimited shipments",
+          "Fragility-aware routing",
+          "Carrier reconciliation",
+          "Doorstep proof capture",
+          "Seasonal surge planning"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Guild",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For cooperatives and multi-workshop brands operating at scale.",
+        "features": [
+          "Everything in Atelier",
+          "Dedicated route strategist",
+          "Custom carrier contracts",
+          "API & wholesale integrations",
+          "Priority claims handling"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Amber Route is logistics for people who make things by hand. Route with intention. Deliver with proof. Ship worthy of the work."
+  }
+}

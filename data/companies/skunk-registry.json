@@ -1,0 +1,135 @@
+{
+  "name": "Skunk Registry",
+  "slug": "skunk-registry",
+  "industry": "cannabis compliance",
+  "tagline": "Compliance paperwork for people who'd rather be growing.",
+  "positioning": "Skunk Registry turns state cannabis rules into plain checklists, auto-filled forms, and audit-ready records for home growers and one-shop operators.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F3F0E8",
+    "surface": "#FBFAF5",
+    "text": "#232019",
+    "primary": "#4C5D3A",
+    "accent": "#B0552E"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "SR",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stay legal without reading 400 pages of statute.",
+      "sub": "Skunk Registry watches your state's cannabis rules so you don't have to. Track plant counts, log every gram, and generate the exact form the inspector asks for — before they ask.",
+      "ctaLabel": "Start tracking free",
+      "secondaryCtaLabel": "See a sample audit"
+    },
+    "features": [
+      {
+        "title": "The rulebook, minus the rulebook",
+        "description": "We read your state's cannabis code so you never open a PDF again. Get a plain-English checklist that updates itself when regulators move the goalposts.",
+        "icon": "shield"
+      },
+      {
+        "title": "Seed-to-shelf logging",
+        "description": "Log plants, harvests, and transfers in seconds from your phone. Every entry is timestamped and locked, so your records hold up when someone official comes knocking.",
+        "icon": "layers"
+      },
+      {
+        "title": "Plant-count guardrails",
+        "description": "Tell us your license type and we flag the moment you drift over your legal limit — before it becomes a fine with your name on it.",
+        "icon": "bell"
+      },
+      {
+        "title": "Audit mode",
+        "description": "One tap builds the exact packet an inspector wants: forms, logs, and chain-of-custody, formatted per state. No frantic 2am spreadsheet archaeology.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Deadline radar",
+        "description": "Renewals, tax filings, and reporting windows land on a calendar that nags you politely, then insistently, then dramatically.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Works in your state",
+        "description": "Rulesets for 30+ legal markets, each maintained by humans who actually track the bulletins so you're never compliant with last year's law.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was tracking my cultivation license in a spreadsheet named 'final_FINAL_v3.' Skunk Registry replaced the whole disaster and passed my first METRC audit without a single follow-up.",
+        "name": "Delia Marsh",
+        "role": "Licensed home cultivator",
+        "company": "Two Creek Gardens"
+      },
+      {
+        "quote": "Our micro-dispensary can't afford a compliance officer. This is the compliance officer, and it doesn't take lunch or misfile the transfer manifests.",
+        "name": "Rowan Ideh",
+        "role": "Owner",
+        "company": "Halfmoon Provisions"
+      },
+      {
+        "quote": "The deadline radar caught a renewal window I'd genuinely forgotten existed. That one email saved my license. Worth every dollar and then some.",
+        "name": "Priya Vance",
+        "role": "Compliance lead",
+        "company": "Longleaf Craft Cannabis"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$0",
+        "period": "forever",
+        "blurb": "For the single-plot grower who just wants to stay on the right side of the law.",
+        "features": [
+          "1 license or grow site",
+          "Plain-English rule checklist",
+          "Basic plant & harvest logging",
+          "Deadline reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cultivator",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For serious home growers and solo operators who file real paperwork.",
+        "features": [
+          "Up to 3 licenses or sites",
+          "Full seed-to-shelf logging",
+          "One-tap audit packets",
+          "Plant-count guardrails",
+          "Priority rule updates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Storefront",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For the one-shop operator juggling retail, tax, and inspectors.",
+        "features": [
+          "Unlimited sites & staff seats",
+          "State-specific manifest export",
+          "Tax & reporting calendar",
+          "Chain-of-custody records",
+          "Human support within a day"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Skunk Registry is compliance software, not a law firm. We keep your records clean; you keep your license. Available in 30+ legal markets."
+  }
+}

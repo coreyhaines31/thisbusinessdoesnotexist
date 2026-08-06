@@ -1,0 +1,136 @@
+{
+  "name": "Brumo",
+  "slug": "brumo",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating system for cold-plunge studios that refuse to run on spreadsheets and vibes.",
+  "positioning": "Brumo runs bookings, water-temp compliance, and membership billing across every cold-plunge location, so your ops team stops freezing over paperwork.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F1E7D6",
+    "surface": "#FBF5EA",
+    "text": "#2B1F14",
+    "primary": "#B14A2A",
+    "accent": "#7C6A34"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M11 3 A9 9 0 0 0 11 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 3 A9 9 0 0 1 13 21 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every plunge like you actually own the ice.",
+      "sub": "Brumo is the ops layer for multi-site cold-plunge studios: real-time water logs, per-session billing, and membership that reconciles itself. No clipboards. No 43°F guesswork.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See the pricing math"
+    },
+    "features": [
+      {
+        "title": "Water logs that pass audits",
+        "description": "Automatic temperature, pH, and sanitation capture per tub, timestamped and export-ready. Your health inspector gets a PDF instead of a hunch.",
+        "icon": "shield"
+      },
+      {
+        "title": "Per-plunge billing, done",
+        "description": "Every session meters itself and rolls into one invoice. Corporate wellness contracts, drop-ins, and packages reconcile without a finance intern crying.",
+        "icon": "chart"
+      },
+      {
+        "title": "One dashboard, every site",
+        "description": "Roll up 3 studios or 90. Occupancy, tub downtime, and no-show rates live on one screen instead of eleven group chats.",
+        "icon": "layers"
+      },
+      {
+        "title": "Booking that respects capacity",
+        "description": "Slot limits per tub, buffer windows for turnover, and waitlists that auto-promote. Nobody shows up to a full plunge and a shrug.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Downtime alerts before members notice",
+        "description": "Chiller drift, filter cycles, and drained tubs ping ops the moment a reading goes sideways — not after the 6am cohort complains.",
+        "icon": "bell"
+      },
+      {
+        "title": "Enterprise access, cleanly scoped",
+        "description": "SSO, role-based permissions, and regional managers who only see their region. SOC 2 covered so procurement stops emailing you.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from three spreadsheets and a group text to one Brumo dashboard across nine studios. Reconciling corporate wellness invoices used to eat a full week. Now it's a Tuesday morning.",
+        "name": "Dana Reisinger",
+        "role": "VP of Operations",
+        "company": "Northcurrent Recovery"
+      },
+      {
+        "quote": "The water-log exports alone saved our expansion. Two counties, two inspectors, zero improvised paperwork. Brumo made compliance boring, which is the highest compliment I have.",
+        "name": "Marcus Vela",
+        "role": "Director of Facilities",
+        "company": "Sub-Zero Social Club"
+      },
+      {
+        "quote": "Usage-based pricing means we stop paying for tubs that sit idle in January. Finance finally understands our cost per plunge without a decoder ring.",
+        "name": "Priya Anand",
+        "role": "Chief Financial Officer",
+        "company": "Tidewater Cold Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single Site",
+        "price": "$0.45",
+        "period": "per logged plunge",
+        "blurb": "For one studio ready to retire the clipboard for good.",
+        "features": [
+          "Up to 1 location",
+          "Water & sanitation logs",
+          "Booking + waitlist",
+          "Standard email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multi-Site",
+        "price": "$0.28",
+        "period": "per logged plunge",
+        "blurb": "For growing chains that need one source of cold truth.",
+        "features": [
+          "Up to 25 locations",
+          "Cross-site rollup dashboard",
+          "Per-session corporate billing",
+          "Downtime & drift alerts",
+          "SSO + role-based access"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed monthly",
+        "blurb": "For franchises and wellness networks at national scale.",
+        "features": [
+          "Unlimited locations",
+          "SOC 2 + audit exports",
+          "Dedicated success manager",
+          "API & data warehouse sync",
+          "Custom SLAs & regional roles"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Brumo keeps cold-plunge studios cold, compliant, and paid. Built for operators who'd rather run the business than the paperwork."
+  }
+}

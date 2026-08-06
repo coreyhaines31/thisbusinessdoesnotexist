@@ -1,0 +1,149 @@
+{
+  "name": "Harbor Signal",
+  "slug": "harbor-signal",
+  "industry": "fleet telematics",
+  "tagline": "The whole fleet, rendered as one living map.",
+  "positioning": "Fleet telematics for owner-operators who run lean — every vehicle, mile, and maintenance window on one calm, decisive dashboard.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FBF9F4",
+    "text": "#22201B",
+    "primary": "#2E3A32",
+    "accent": "#B0703F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "HS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 6.2,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your fleet, finally seen as a single living system.",
+      "sub": "Harbor Signal turns scattered GPS pings, fuel receipts, and service logs into one composed view — so a three-truck operation runs with the poise of a national carrier.",
+      "ctaLabel": "Chart your fleet",
+      "secondaryCtaLabel": "Watch the 2‑min tour"
+    },
+    "features": [
+      {
+        "title": "The living map",
+        "description": "Every vehicle plotted in real time with route history, dwell alerts, and geofences you draw in seconds — no more phone-call check-ins with drivers.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Maintenance foresight",
+        "description": "We read odometer and engine-hour data to schedule oil, brakes, and DOT inspections before they strand a truck on a Tuesday morning.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Fuel truth",
+        "description": "Match fuel-card charges to actual mileage and idle time, then surface the driver habits quietly draining a hundred dollars a week.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "IFTA without the shoebox",
+        "description": "Miles-per-jurisdiction tallied automatically and exported as a quarter-ready IFTA report — the receipts drawer retires for good.",
+        "icon": "database"
+      },
+      {
+        "title": "Compliance keeper",
+        "description": "HOS logs, DVIRs, and license expirations tracked in one ledger, with reminders before an auditor ever asks.",
+        "icon": "shield"
+      },
+      {
+        "title": "One calm inbox",
+        "description": "Speeding, harsh braking, and after-hours movement arrive as a single morning digest — signal, never noise.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to reconstruct routes from memory and gas receipts. Now I open one map at 6am and know exactly where all nine trucks are and which one needs brakes Friday.",
+        "name": "Dana Whitlock",
+        "role": "Owner",
+        "company": "Whitlock Hauling"
+      },
+      {
+        "quote": "IFTA quarters used to cost me a full weekend. Harbor Signal exported the whole thing in four minutes. That alone paid for the year.",
+        "name": "Marcus Reyes",
+        "role": "Operations Lead",
+        "company": "Reyes Freight Co."
+      },
+      {
+        "quote": "The fuel report showed one driver idling forty minutes a day. We fixed the habit, not the person, and saved almost four hundred a month.",
+        "name": "Priya Anand",
+        "role": "Fleet Manager",
+        "company": "Bluecrest Logistics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators keeping a close eye on a handful of trucks.",
+        "features": [
+          "Up to 5 vehicles",
+          "Live map & trip history",
+          "Fuel & idle reporting",
+          "Email alert digest"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For growing operations that live and die by uptime.",
+        "features": [
+          "Unlimited vehicles",
+          "Maintenance foresight",
+          "Automated IFTA export",
+          "HOS & DVIR compliance",
+          "Geofences & driver scorecards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-yard operators who need it woven into everything.",
+        "features": [
+          "Everything in Fleet",
+          "API & ELD integrations",
+          "Dedicated success manager",
+          "Custom compliance workflows",
+          "Single sign-on & audit logs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Harbor Signal gives small fleets the command deck the big carriers guard jealously — clear, composed, and always one step ahead of the road."
+  }
+}

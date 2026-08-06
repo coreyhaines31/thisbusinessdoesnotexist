@@ -1,0 +1,141 @@
+{
+  "name": "Copper Terrace",
+  "slug": "copper-terrace",
+  "industry": "HOA management",
+  "tagline": "The operating system for the neighborhoods you steward",
+  "positioning": "Copper Terrace unifies dues, violations, board votes, and vendor work into one calm ledger built for owner-operated HOA management firms.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#f6f0e6",
+    "surface": "#fffaf2",
+    "text": "#33281d",
+    "primary": "#b1592c",
+    "accent": "#8a7a3f"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CT",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 L17 17 L7 17 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every association like a flagship community",
+      "sub": "Copper Terrace replaces the spreadsheets, shared inboxes, and paper ledgers your firm juggles across dozens of boards — one system for dues, violations, and votes.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See a live ledger"
+    },
+    "features": [
+      {
+        "title": "The unified ledger",
+        "description": "Every assessment, late fee, and reserve transfer for each association posts to one auditable ledger your treasurer can reconcile in minutes, not weekends.",
+        "icon": "database"
+      },
+      {
+        "title": "Violations that resolve",
+        "description": "Photograph a fence, tag the covenant, and Copper Terrace drafts the notice, tracks the cure window, and escalates on schedule — no cases lost in email.",
+        "icon": "shield"
+      },
+      {
+        "title": "Board votes on record",
+        "description": "Post agendas, collect proxies, and capture roll-call motions with a timestamped record that survives any homeowner challenge.",
+        "icon": "users"
+      },
+      {
+        "title": "Vendor work orders",
+        "description": "Dispatch landscapers and pool crews, attach bids, and hold payment until the job photo lands. Every dollar ties back to a line item.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Reserve foresight",
+        "description": "Model roof, road, and clubhouse replacements against real reserve balances so boards fund the future instead of special-assessing the present.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Homeowner portal",
+        "description": "Residents pay dues, file requests, and read approved minutes from one branded portal — cutting your front-desk calls in half.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We took on nine new associations without adding staff. Copper Terrace's ledger made month-end close feel routine for the first time in twelve years of managing property.",
+        "name": "Dana Whitfield",
+        "role": "Principal",
+        "company": "Whitfield Community Group"
+      },
+      {
+        "quote": "The violations workflow paid for itself in a quarter. Board members finally trust that every notice went out on time and every cure window was tracked.",
+        "name": "Marcus Elle",
+        "role": "Director of Operations",
+        "company": "Larkspur Association Partners"
+      },
+      {
+        "quote": "Reserve modeling turned our annual budget meeting from a shouting match into a planning session. I show the board the numbers and the arguments end.",
+        "name": "Priya Sundaram",
+        "role": "Owner & Community Manager",
+        "company": "Sundaram Residential"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Steward",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the solo operator managing a tight portfolio of neighborhoods.",
+        "features": [
+          "Up to 5 associations",
+          "Unified dues ledger",
+          "Homeowner portal",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Firm",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing management companies running many boards at once.",
+        "features": [
+          "Unlimited associations",
+          "Violations & covenant tracking",
+          "Board voting & minutes",
+          "Vendor work orders",
+          "Reserve modeling",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Portfolio",
+        "price": "Custom",
+        "period": "annual, billed per seat",
+        "blurb": "For established firms with multi-region operations and audits.",
+        "features": [
+          "Everything in Firm",
+          "SSO & role controls",
+          "Dedicated onboarding",
+          "Audit-ready exports",
+          "SLA & phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Copper Terrace is the operating system for HOA management firms — one ledger for the dues, disputes, and decisions that hold communities together."
+  }
+}

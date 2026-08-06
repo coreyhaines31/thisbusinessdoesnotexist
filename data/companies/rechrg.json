@@ -1,0 +1,136 @@
+{
+  "name": "Rechrg",
+  "slug": "rechrg",
+  "industry": "micro-mobility charging",
+  "tagline": "Fleet-grade charging infrastructure for shared e-mobility operators",
+  "positioning": "Rechrg is the enterprise charging network that keeps e-scooter and e-bike fleets powered, monitored, and audit-ready across every city you operate in.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F5F4FB",
+    "surface": "#FFFFFF",
+    "text": "#26243A",
+    "primary": "#6B63C9",
+    "accent": "#69C2A6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Charging infrastructure built for shared mobility fleets",
+      "sub": "Rechrg unifies depot chargers, swap cabinets, and on-street docks into one network operators can meter, monitor, and reconcile down to the kilowatt-hour.",
+      "ctaLabel": "Request a deployment plan",
+      "secondaryCtaLabel": "View network coverage"
+    },
+    "features": [
+      {
+        "title": "Per-kWh metering",
+        "description": "Every session is metered at the connector and reconciled to your utility bill, so finance can attribute energy cost to each vehicle and city.",
+        "icon": "zap"
+      },
+      {
+        "title": "Fleet uptime SLAs",
+        "description": "Guaranteed connector availability with automated failover routing that reroutes idle vehicles to the nearest live charge point.",
+        "icon": "shield"
+      },
+      {
+        "title": "Depot orchestration",
+        "description": "Schedule overnight charging around off-peak tariffs and stagger loads to keep depot draw under your grid connection cap.",
+        "icon": "layers"
+      },
+      {
+        "title": "Utilization analytics",
+        "description": "See dwell time, throughput, and cost-per-charge across every dock, cabinet, and depot in a single operations dashboard.",
+        "icon": "chart"
+      },
+      {
+        "title": "Grid compliance reporting",
+        "description": "Export demand-response records and emissions data formatted for municipal permits and enterprise ESG audits.",
+        "icon": "database"
+      },
+      {
+        "title": "Open API and telematics",
+        "description": "Sync charge state directly into your fleet management system with webhooks and a documented REST API.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Rechrg our depot team reconciled charging costs on spreadsheets across four cities. Now every kilowatt-hour maps to a vehicle and a tariff automatically. It closed our monthly energy audit from nine days to one.",
+        "name": "Marta Vidal",
+        "role": "VP of Fleet Operations",
+        "company": "Velociter Mobility"
+      },
+      {
+        "quote": "We deployed Rechrg swap cabinets across twelve districts in a single quarter. The uptime SLA is the reason our council contract renewed.",
+        "name": "Daniel Osei",
+        "role": "Director of Infrastructure",
+        "company": "Kern City Bikeshare"
+      },
+      {
+        "quote": "The grid-compliance exports paid for themselves at our first permit review. Rechrg handed the auditors exactly the demand-response records they asked for.",
+        "name": "Priya Nandakumar",
+        "role": "Head of Energy Strategy",
+        "company": "Aro Transit Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Depot",
+        "price": "$0.06",
+        "period": "per kWh dispensed",
+        "blurb": "For single-depot operators standardizing on metered charging.",
+        "features": [
+          "Up to 250 connectors",
+          "Per-kWh metering and reconciliation",
+          "Standard operations dashboard",
+          "Email support, next-business-day"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.04",
+        "period": "per kWh dispensed",
+        "blurb": "For multi-city fleets that need uptime guarantees and load orchestration.",
+        "features": [
+          "Unlimited connectors",
+          "99.9% connector uptime SLA",
+          "Depot load orchestration",
+          "Grid compliance reporting",
+          "Priority support with 4-hour response"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based per kWh",
+        "blurb": "For national operators with dedicated grid connections and ESG mandates.",
+        "features": [
+          "Committed-volume rate cards",
+          "Custom SLA and demand-response",
+          "Dedicated solutions engineer",
+          "SSO, audit logs, and SOC 2 pack",
+          "24/7 on-call operations desk"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Rechrg operates metered charging infrastructure for shared micro-mobility fleets in over 40 cities. Powered, monitored, and reconciled."
+  }
+}

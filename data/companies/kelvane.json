@@ -1,0 +1,137 @@
+{
+  "name": "Kelvane",
+  "slug": "kelvane",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating temperature for human performance, delivered at enterprise scale.",
+  "positioning": "Kelvane runs the cold-plunge infrastructure behind the world's most demanding organizations — metered water, monitored bodies, measured returns.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0B0D",
+    "surface": "#15171B",
+    "text": "#F3F5F7",
+    "primary": "#F3F5F7",
+    "accent": "#00E5FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,7 12,15 21,7 21,12 12,20 3,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,2 16,7 8,7",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold is a discipline. We built the infrastructure for it.",
+      "sub": "Kelvane operates precision cold-plunge studios inside corporate campuses, clinics, and elite training facilities — every degree logged, every immersion metered, every recovery accounted for.",
+      "ctaLabel": "Request a deployment",
+      "secondaryCtaLabel": "See the thermodynamics"
+    },
+    "features": [
+      {
+        "title": "Degree-locked immersion",
+        "description": "Each vessel holds temperature to ±0.2°C with continuous chill-loop filtration, so a plunge at your Austin campus feels identical to your Zurich one.",
+        "icon": "target"
+      },
+      {
+        "title": "Per-immersion telemetry",
+        "description": "Every session streams entry temp, duration, and heart-rate variability into a single ledger your HR and clinical teams can actually audit.",
+        "icon": "chart"
+      },
+      {
+        "title": "Occupancy orchestration",
+        "description": "Badge-linked scheduling routes employees through studios without queues, balancing throughput against sanitation cycles automatically.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Water-cost governance",
+        "description": "Ozone reclamation and closed-loop reuse cut fresh-water draw by up to 80%, with usage reconciled to the liter on every invoice.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Clinical-grade compliance",
+        "description": "Automated logs meet occupational-health and liability requirements, exportable for insurers, auditors, and facilities review boards.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-site command",
+        "description": "Provision, monitor, and de-risk cold studios across a global real-estate portfolio from one control plane.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We deployed Kelvane across nine campuses in a quarter. The per-immersion ledger ended the debate about whether recovery programs move the needle — now the data does the arguing.",
+        "name": "Dana Reinholt",
+        "role": "VP of Workplace Performance",
+        "company": "Ardent Semiconductor"
+      },
+      {
+        "quote": "Our physios needed defensible numbers, not vibes. Kelvane gives us HRV and immersion logs we can put in front of team doctors without flinching.",
+        "name": "Marco Feld",
+        "role": "Director of Athlete Recovery",
+        "company": "Meridian Sports Group"
+      },
+      {
+        "quote": "The water-reclamation reporting alone justified the contract to our sustainability board. We cut draw dramatically and finally had the invoices to prove it.",
+        "name": "Priya Ansel",
+        "role": "Head of Facilities & ESG",
+        "company": "Northgate Capital Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$3.40",
+        "period": "per immersion, billed monthly",
+        "blurb": "A single instrumented vessel for one location getting serious about recovery.",
+        "features": [
+          "1 metered cold-plunge vessel",
+          "Per-immersion telemetry ledger",
+          "Badge-linked scheduling",
+          "Standard water-reclamation reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$2.10",
+        "period": "per immersion at volume",
+        "blurb": "Multi-site orchestration for organizations standardizing the cold across campuses.",
+        "features": [
+          "Up to 25 vessels across sites",
+          "Central command plane",
+          "HRV + occupancy analytics",
+          "Clinical compliance exports",
+          "Priority chill-loop servicing"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "committed-use agreement",
+        "blurb": "Global deployment for enterprises treating cold as core infrastructure.",
+        "features": [
+          "Unlimited vessels, all regions",
+          "Dedicated reliability engineering",
+          "Custom telemetry integrations",
+          "ESG-grade water accounting",
+          "Insurer & audit liaison",
+          "99.9% temperature SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kelvane operates precision cold-plunge infrastructure for enterprises that measure everything. Metered water, monitored bodies, measurable returns."
+  }
+}

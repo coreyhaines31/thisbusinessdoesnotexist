@@ -1,0 +1,131 @@
+{
+  "name": "Lynx Ladder",
+  "slug": "lynx-ladder",
+  "industry": "esports coaching",
+  "tagline": "Climb the ranked ladder without the copium.",
+  "positioning": "Personalized esports coaching that turns your VOD reviews, aim drills, and tilt spirals into an actual plan for climbing.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F6F3FB",
+    "surface": "#FFFFFF",
+    "text": "#2B2540",
+    "primary": "#6D5AD6",
+    "accent": "#F4A6C6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LL",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 3 L10 3 L10 14 L18 14 L18 21 L6 21 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Get good. On purpose, this time.",
+      "sub": "Lynx Ladder pairs you with a coach who watches your worst deaths so you don't have to relive them alone. Real VOD reviews, real drills, and a rank goal that isn't 'trust me bro.'",
+      "ctaLabel": "Book a first session",
+      "secondaryCtaLabel": "Watch a sample review"
+    },
+    "features": [
+      {
+        "title": "VOD reviews that hurt (helpfully)",
+        "description": "Upload a match and get a timestamped breakdown of every misplay, overrotation, and greedy peek — annotated by a coach who's actually hit the rank you want.",
+        "icon": "target"
+      },
+      {
+        "title": "Drills, not vibes",
+        "description": "Skip the 400-tab aim trainer rabbit hole. We assign a weekly routine tuned to your role, your game, and the exact mechanic that's holding your MMR hostage.",
+        "icon": "zap"
+      },
+      {
+        "title": "Progress you can screenshot",
+        "description": "Track winrate, KD, and rank over time on one dashboard. When you plateau, your coach gets pinged before you rage-uninstall.",
+        "icon": "chart"
+      },
+      {
+        "title": "Tilt triage",
+        "description": "A 10-minute reset protocol for when you're 0-4 and everyone's blaming the jungler. Breathe, requeue, and stop feeding.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Coaches who queued this week",
+        "description": "Every coach is vetted, currently laddering, and required to prove rank — not a washed streamer coasting on a 2019 highlight reel.",
+        "icon": "users"
+      },
+      {
+        "title": "Any game, one roster",
+        "description": "Val, CS2, League, Apex, Dota, Rocket League. Switch mains without switching platforms or losing your history.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I'd been hardstuck Plat for three seasons and blaming my teammates like a functioning adult. My coach found the actual problem in one VOD: me. Diamond in five weeks.",
+        "name": "Mateo Rivas",
+        "role": "Semi-pro Valorant duelist",
+        "company": "Nightfall Collective"
+      },
+      {
+        "quote": "The tilt triage thing sounds like nonsense until you're on a 6-loss streak and it actually works. Requeue with a plan instead of a grudge.",
+        "name": "Priya Nakamura",
+        "role": "Content creator & CS2 grinder",
+        "company": "Overtime Media"
+      },
+      {
+        "quote": "We started routing our academy prospects through Lynx Ladder for off-day reviews. The annotated VODs cut our coaching hours in half.",
+        "name": "Darius Okafor",
+        "role": "Head of Player Development",
+        "company": "Cinder Esports"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Queue",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For the grinder who just wants a clear plan and honest feedback.",
+        "features": [
+          "2 VOD reviews per month",
+          "Weekly drill routine",
+          "Progress dashboard",
+          "Tilt triage protocol"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Ranked",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For prosumers chasing a specific rank on a real timeline.",
+        "features": [
+          "6 VOD reviews per month",
+          "1 live 1-on-1 coaching call",
+          "Personalized rank roadmap",
+          "Priority coach matching",
+          "Multi-game history"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Contender",
+        "price": "$189",
+        "period": "per month",
+        "blurb": "For the almost-pro treating this like the job it's becoming.",
+        "features": [
+          "Unlimited VOD reviews",
+          "Weekly live coaching calls",
+          "Dedicated coach, one main",
+          "Scrim & demo analysis",
+          "Direct chat access"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Lynx Ladder is coaching for people who are done being hardstuck. No copium, no washed streamers — just the drills, reviews, and honesty that move MMR."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Nitora",
+  "slug": "nitora",
+  "industry": "industrial cleaning",
+  "tagline": "Industrial-grade cleaning, dispatched with clinical precision.",
+  "positioning": "Nitora brings certified industrial cleaning crews, documented protocols, and compliance-grade records to homeowners, workshop operators, and serious enthusiasts — the same rigor plants trust, sized for you.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A0B0D",
+    "surface": "#15181D",
+    "text": "#F1F4F7",
+    "primary": "#41F5A3",
+    "accent": "#37C8F0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "N",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M5 4 L9 4 L15 15 L15 4 L19 4 L19 20 L15 20 L9 9 L9 20 L5 20 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Facility-grade cleaning, arranged like a private commission.",
+      "sub": "Nitora dispatches vetted industrial crews, degreasing, restoration, and hazard-safe protocols to your garage, workshop, or estate — every job logged with the documentation professionals expect.",
+      "ctaLabel": "Request a survey",
+      "secondaryCtaLabel": "View protocols"
+    },
+    "features": [
+      {
+        "title": "Certified crew dispatch",
+        "description": "Every Nitora technician is credential-verified and insured. Book a slot and a rated team arrives with the correct solvents, extraction gear, and a signed scope — not a guess.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Protocol library",
+        "description": "Concrete degreasing, oxidation removal, mold remediation, ceramic sealing — each service follows a published, versioned procedure you can review before anyone touches a surface.",
+        "icon": "layers"
+      },
+      {
+        "title": "Compliance-grade records",
+        "description": "Receive safety data sheets, before-and-after imaging, and a timestamped service manifest for every visit. Ideal for insurance, resale, or your own meticulous files.",
+        "icon": "shield"
+      },
+      {
+        "title": "Precision scheduling",
+        "description": "Reserve windows down to the half hour, reschedule without penalty, and track crew arrival in real time. No four-hour waits, no vanishing appointments.",
+        "icon": "clock"
+      },
+      {
+        "title": "Surface intelligence",
+        "description": "Log your materials once — epoxy floors, stainless benches, stone counters — and Nitora recommends the correct treatment cadence and flags what to never do again.",
+        "icon": "database"
+      },
+      {
+        "title": "Low-residue chemistry",
+        "description": "Solvents are selected for the substrate and disclosed by name. Fume-controlled, quick-cure, and safe to occupy on the timeline we quote.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "My restoration workshop passed its first insurance audit in one pass. Nitora's service manifests read like lab reports — the adjuster stopped asking questions.",
+        "name": "Marcus Delgado",
+        "role": "Owner",
+        "company": "Delgado Metalworks"
+      },
+      {
+        "quote": "I have a stone-floored garage that three companies quietly ruined. Nitora reviewed the substrate, chose a neutral sealer, and documented every step. Immaculate.",
+        "name": "Priya Venkataraman",
+        "role": "Private client",
+        "company": "Ashford Residence"
+      },
+      {
+        "quote": "We book Nitora for quarterly degreasing of the bay. Same crew, same protocol, same timestamped photos. That consistency is worth every dollar.",
+        "name": "Elliot Brandt",
+        "role": "Facilities lead",
+        "company": "Northline Auto Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Residential",
+        "price": "$59",
+        "period": "per month, one property",
+        "blurb": "Scheduled upkeep and on-demand crews for a single home or garage.",
+        "features": [
+          "Up to 2 visits per month",
+          "Standard protocol library",
+          "Digital service manifests",
+          "48-hour booking window"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Prime",
+        "price": "$149",
+        "period": "per month, one property",
+        "blurb": "For workshops and serious enthusiasts who need rigor and records.",
+        "features": [
+          "Up to 5 visits per month",
+          "Full protocol library access",
+          "Compliance-grade documentation",
+          "Same-week priority dispatch",
+          "Surface intelligence profiles",
+          "Named-solvent disclosure"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "multi-property, billed annually",
+        "blurb": "Dedicated crews and reporting across several properties or venues.",
+        "features": [
+          "Unlimited scheduled visits",
+          "Assigned account technician",
+          "Multi-property reporting",
+          "Insurance-ready audit exports",
+          "Priority hazard response"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Nitora delivers documented, facility-grade industrial cleaning to individuals and prosumers — certified crews, published protocols, and records you can stand behind."
+  }
+}

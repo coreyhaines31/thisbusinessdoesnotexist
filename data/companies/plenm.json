@@ -1,0 +1,145 @@
+{
+  "name": "Plenm",
+  "slug": "plenm",
+  "industry": "HVAC field service",
+  "tagline": "The operating layer for enterprise HVAC service fleets",
+  "positioning": "Plenm unifies dispatch, asset telemetry, and warranty compliance so multi-site facilities teams run every service call from one accountable system of record.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0E1217",
+    "surface": "#181F29",
+    "text": "#E7ECF3",
+    "primary": "#4E9BF5",
+    "accent": "#E9A23B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 1 12 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 0 12 20 Z",
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 4,
+        "width": 2,
+        "height": 16,
+        "rx": 1,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every service call, accountable to one system",
+      "sub": "Plenm connects your dispatch board, rooftop unit telemetry, and warranty records into a single operating layer built for multi-site HVAC service fleets.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform"
+    },
+    "features": [
+      {
+        "title": "Telemetry-triggered dispatch",
+        "description": "Rooftop and chiller sensors open a work order the moment a unit drifts out of spec — before a tenant ever files a hot-and-cold complaint.",
+        "icon": "zap"
+      },
+      {
+        "title": "Fleet-wide asset ledger",
+        "description": "Track every compressor, coil, and filter across thousands of sites with full service history, runtime hours, and remaining warranty exposure.",
+        "icon": "database"
+      },
+      {
+        "title": "Route-optimized technicians",
+        "description": "Assign the right certified tech to the right site with live drive-time, truck-stock, and refrigerant-handling credentials factored in.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Warranty & compliance capture",
+        "description": "Auto-attach EPA 608 logs, refrigerant charge records, and manufacturer warranty claims to each job so audits close in hours, not weeks.",
+        "icon": "shield"
+      },
+      {
+        "title": "SLA performance reporting",
+        "description": "Board-ready dashboards prove first-visit fix rate, mean time to repair, and uptime against every enterprise service contract.",
+        "icon": "chart"
+      },
+      {
+        "title": "Preventive maintenance engine",
+        "description": "Schedule seasonal changeovers and filter cycles per equipment class, then measure the emergency calls each program prevents.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Plenm cut our mean time to repair across 340 retail sites by 31%. Telemetry now opens the work order before the store manager even notices the sales floor is warm.",
+        "name": "Danielle Okafor",
+        "role": "VP of Facilities Operations",
+        "company": "Meridian Retail Group"
+      },
+      {
+        "quote": "Warranty recovery used to leak six figures a year in missing refrigerant logs. With Plenm's asset ledger our audit trail is airtight and our claims actually get paid.",
+        "name": "Marcus Vandenberg",
+        "role": "Director of Mechanical Services",
+        "company": "Coastline Facility Partners"
+      },
+      {
+        "quote": "We consolidated four tools into Plenm. Dispatch, credentials, and SLA reporting live in one place, and our contract renewals now come with the numbers already on the table.",
+        "name": "Priya Raman",
+        "role": "Chief Operations Officer",
+        "company": "Aeris Building Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Standard",
+        "price": "$0.90",
+        "period": "per active asset / month",
+        "blurb": "For regional service teams standardizing dispatch and asset history.",
+        "features": [
+          "Up to 2,500 tracked assets",
+          "Telemetry-triggered work orders",
+          "Core dispatch & routing",
+          "Standard SLA reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.65",
+        "period": "per active asset / month",
+        "blurb": "For multi-site fleets running preventive programs at volume.",
+        "features": [
+          "Volume asset pricing",
+          "Preventive maintenance engine",
+          "Warranty & compliance capture",
+          "Custom SLA dashboards",
+          "API & ERP integrations"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume & platform commit",
+        "blurb": "For national operators with complex compliance and uptime mandates.",
+        "features": [
+          "Unlimited assets & sites",
+          "Dedicated solutions engineer",
+          "SSO, audit logs & data residency",
+          "Custom refrigerant compliance flows",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Plenm is the operating layer for enterprise HVAC service fleets — telemetry, dispatch, and compliance in one accountable system of record."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Berthly",
+  "slug": "berthly",
+  "industry": "marina management",
+  "tagline": "Run the marina, not the clipboard armada.",
+  "positioning": "Berthly is the operating system for multi-site marinas — slip assignments, metered billing, and dockmaster chaos, finally in one place.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0B1220",
+    "surface": "#152238",
+    "text": "#E7EEF7",
+    "primary": "#39C7C0",
+    "accent": "#F2A24A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 0 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your marina runs on sticky notes. That's adorable.",
+      "sub": "Berthly replaces the whiteboard, the tide-stained ledger, and the group text nobody reads. Real-time slip maps, metered utilities, and billing that actually reconciles.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a live dock map"
+    },
+    "features": [
+      {
+        "title": "Slip map that isn't a spreadsheet",
+        "description": "Drag-and-drop every berth across every site. See occupancy, vessel LOA, and overstays at a glance — no more calling the dockhand to 'go look.'",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Metered everything",
+        "description": "Meter power, water, and fuel per vessel and bill it automatically. Stop eating the cost of the yacht running three AC units in July.",
+        "icon": "chart"
+      },
+      {
+        "title": "Reservations without the phone tag",
+        "description": "Transient boaters book, pay deposits, and get gate codes online. Your dockmaster reclaims the four hours a day spent saying 'let me check.'",
+        "icon": "calendar"
+      },
+      {
+        "title": "Compliance you can hand an auditor",
+        "description": "Insurance certs, vessel registrations, and pump-out logs tracked with expiry alerts. Print the whole binder in one click when the harbormaster shows up.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-marina, one login",
+        "description": "Roll up 3 sites or 40. Standardized rate cards, cross-site reporting, and permissions that keep the intern out of the refund button.",
+        "icon": "layers"
+      },
+      {
+        "title": "An API that speaks marina",
+        "description": "Push occupancy to your accounting stack, pull weather, sync gate hardware. Berthly plays nice with the systems you're stuck with.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were reconciling fuel dock receipts by candlelight and prayer. Berthly metered it, billed it, and found $60K a year we'd been quietly gifting to boat owners.",
+        "name": "Marissa Vollmer",
+        "role": "Director of Operations",
+        "company": "Windward Harbor Group"
+      },
+      {
+        "quote": "Onboarding eleven marinas onto one platform sounded like a threat. It took a season. Our dockmasters actually asked to keep it.",
+        "name": "Declan Ross",
+        "role": "VP, Portfolio Operations",
+        "company": "Anchorline Marinas"
+      },
+      {
+        "quote": "The overstay alerts alone paid for it. We stopped losing transient revenue to boats that 'forgot' to leave. Also the interface doesn't look like it was built in 2004.",
+        "name": "Priya Naidoo",
+        "role": "General Manager",
+        "company": "Cape Meridian Marine"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Harbor",
+        "price": "$1.40",
+        "period": "per occupied slip / month",
+        "blurb": "For single-site marinas ready to retire the whiteboard.",
+        "features": [
+          "Live slip map, one site",
+          "Online reservations & deposits",
+          "Utility metering",
+          "Standard compliance tracking"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.95",
+        "period": "per occupied slip / month",
+        "blurb": "For growing operators running multiple locations.",
+        "features": [
+          "Everything in Harbor",
+          "Unlimited sites, one dashboard",
+          "Cross-site reporting & rate cards",
+          "Fuel dock & pump-out logs",
+          "API access",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Portfolio",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For enterprise marina groups and REIT-backed portfolios.",
+        "features": [
+          "Everything in Fleet",
+          "Custom metering integrations",
+          "SSO & granular permissions",
+          "Dedicated success manager",
+          "SLA & migration services"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Berthly runs the marinas that used to run on caffeine and guesswork. Slips, meters, and money — one calm tide chart."
+  }
+}

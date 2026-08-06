@@ -1,0 +1,153 @@
+{
+  "name": "Photera",
+  "slug": "photera",
+  "industry": "vertical farming",
+  "tagline": "Grow more lettuce. Blame fewer spreadsheets.",
+  "positioning": "Photera is the operations layer for indoor farms — one control plane for climate, yield, and the 40 sensors nobody wants to babysit.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0E1311",
+    "surface": "#18211D",
+    "text": "#E9F1EC",
+    "primary": "#54E08A",
+    "accent": "#B79CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 9,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 10,
+        "width": 12,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 16,
+        "width": 9,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The farm runs itself. You take the credit.",
+      "sub": "Photera unifies climate control, nutrient dosing, and yield forecasting across every rack, room, and facility — so your growers stop firefighting and start scaling.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See it running"
+    },
+    "features": [
+      {
+        "title": "One control plane, every rack",
+        "description": "Pipe HVAC, lighting, irrigation, and dosing pumps into a single dashboard. No more toggling between four vendor apps and a whiteboard.",
+        "icon": "layers"
+      },
+      {
+        "title": "Yield forecasts that hold up",
+        "description": "Predict harvest weight per tray 18 days out, then watch us flag the drift before your quarterly numbers do.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Alerts worth waking up for",
+        "description": "We suppress the noise and only ping you when a chiller actually dies — not when a sensor sneezes at 3am.",
+        "icon": "bell"
+      },
+      {
+        "title": "Recipe version control",
+        "description": "Fork, test, and roll back grow recipes like code. Every basil batch traces back to the exact light and nutrient curve that made it.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Multi-site, one truth",
+        "description": "Compare kilos-per-kWh across facilities in different time zones without exporting a single CSV.",
+        "icon": "globe"
+      },
+      {
+        "title": "Audit-ready by default",
+        "description": "GAP, food-safety, and energy logs generate themselves. Hand the binder to the auditor and go home.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running three farms on a group chat and vibes. Photera cut our crop-loss rate by a third in one quarter and I finally sleep through the night.",
+        "name": "Marisol Idánez",
+        "role": "VP of Cultivation",
+        "company": "Northwind Greens"
+      },
+      {
+        "quote": "The yield forecasts are annoyingly accurate. My CFO now trusts a dashboard more than she trusts me, which is fine, I guess.",
+        "name": "Devon Ashcroft",
+        "role": "Head of Operations",
+        "company": "Tallwater Farms"
+      },
+      {
+        "quote": "Onboarding took nine days across two facilities. The last platform quoted us nine months and a consultant named Chad.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Facilities",
+        "company": "Meridian Leaf Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$0.04",
+        "period": "per tray-day tracked",
+        "blurb": "For single-site operators wiring up their first racks.",
+        "features": [
+          "Up to 2,000 tracked trays",
+          "Core climate + dosing control",
+          "14-day yield forecasting",
+          "Email alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Canopy",
+        "price": "$0.02",
+        "period": "per tray-day tracked",
+        "blurb": "For multi-room farms that outgrew the group chat.",
+        "features": [
+          "Unlimited tracked trays",
+          "Multi-site dashboards",
+          "Recipe version control",
+          "Anomaly detection + on-call alerts",
+          "SSO and role permissions"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Biome",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For enterprise growers running facilities on three continents.",
+        "features": [
+          "Everything in Canopy",
+          "Dedicated ingestion pipeline",
+          "Custom SLAs and support pod",
+          "On-prem or private-cloud deploy",
+          "API and ERP integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Photera is the operations layer for indoor agriculture. Fewer spreadsheets, more harvests, no consultant named Chad."
+  }
+}

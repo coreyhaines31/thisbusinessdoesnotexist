@@ -1,0 +1,136 @@
+{
+  "name": "Skrimm",
+  "slug": "skrimm",
+  "industry": "esports coaching",
+  "tagline": "Turn your workforce's gaming habit into a KPI you can actually defend.",
+  "positioning": "Skrimm is the coaching layer for enterprise esports programs — measurable rep, VOD review, and coach hours billed only when your players actually show up.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0E0E13",
+    "surface": "#191922",
+    "text": "#ECEBF3",
+    "primary": "#6C5CE7",
+    "accent": "#FF4D6D"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,4 3,20 14,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,4 12,20 21,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching for teams that queue up on the clock.",
+      "sub": "Skrimm plugs professional esports coaches into your org's rosters, tracks every rep, and only bills for the minutes your players actually train. No idle retainers. No vibes-based invoices.",
+      "ctaLabel": "Book a scrim",
+      "secondaryCtaLabel": "See the metrics"
+    },
+    "features": [
+      {
+        "title": "VOD review that names names",
+        "description": "Frame-tagged demo breakdowns land in each player's inbox within an hour of the match. Every death gets a note. Every note gets an owner.",
+        "icon": "chart"
+      },
+      {
+        "title": "Coaches on tap",
+        "description": "Route rosters to tier-verified coaches by title, region, and rank. Skrimm handles scheduling, NDAs, and the awkward 'who's late' conversation.",
+        "icon": "users"
+      },
+      {
+        "title": "Rep meter, not seat license",
+        "description": "We meter live coaching minutes, reviewed VOD, and completed drills. If nobody trained this week, your bill says zero. Radical.",
+        "icon": "clock"
+      },
+      {
+        "title": "Rank telemetry, exported",
+        "description": "Ladder movement, aim benchmarks, and comms scores stream to your BI stack via API. Put esports on the same dashboard as everything else.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Roster governance",
+        "description": "SSO, per-title spend caps, and audit logs so your finance team stops treating the gaming budget like a rounding error.",
+        "icon": "lock"
+      },
+      {
+        "title": "Playbook library",
+        "description": "Reusable drill packs and map protocols per title. Onboard a new hire's rank grind in a day, not a season.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were paying three retainer coaches to watch our team lose politely. Skrimm bills by the rep, so now the coaches are motivated and I have a spreadsheet that survives audit season.",
+        "name": "Dana Whitlock",
+        "role": "Director of People Programs",
+        "company": "Northwind Interactive"
+      },
+      {
+        "quote": "The frame-tagged VOD notes ended every 'I thought you had that angle' argument on our internal roster. Painful for morale. Great for winrate.",
+        "name": "Marcus Ferreira",
+        "role": "Head of Talent Enablement",
+        "company": "Basalt Software Group"
+      },
+      {
+        "quote": "I approved the pilot as a joke line item. Six weeks later esports had cleaner telemetry than half our engineering teams. Now it's a board slide.",
+        "name": "Priya Raman",
+        "role": "VP Operations",
+        "company": "Halyard Systems"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Bench",
+        "price": "$0.40",
+        "period": "per coached minute",
+        "blurb": "For pilots and one roster testing whether this is real.",
+        "features": [
+          "Pay per live coaching minute",
+          "Basic VOD review turnaround",
+          "1 title, up to 10 players",
+          "Ladder tracking dashboard"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Roster",
+        "price": "$0.28",
+        "period": "per coached minute + drills",
+        "blurb": "For orgs running multiple rosters across titles that expect receipts.",
+        "features": [
+          "Volume-tiered coaching minutes",
+          "Frame-tagged VOD within 1 hour",
+          "Up to 6 titles, unlimited players",
+          "BI export + API access",
+          "SSO and per-title spend caps"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "League",
+        "price": "Custom",
+        "period": "committed-use pricing",
+        "blurb": "For enterprises standardizing esports across regions.",
+        "features": [
+          "Committed-use minute discounts",
+          "Dedicated coach pool + SLA",
+          "Full audit logs and governance",
+          "Custom playbook library",
+          "Named success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Skrimm meters the reps, not the retainer. Coaching your workforce actually shows up for — billed by the minute, defended by the dashboard."
+  }
+}

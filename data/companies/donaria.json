@@ -1,0 +1,132 @@
+{
+  "name": "Donaria",
+  "slug": "donaria",
+  "industry": "B2B swag",
+  "tagline": "Corporate-grade swag, sourced and shipped like clockwork.",
+  "positioning": "Donaria is the merchandising platform that lets individuals and small teams order, warehouse, and ship branded swag with enterprise-grade logistics.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F6F4FB",
+    "surface": "#FFFFFF",
+    "text": "#2E2A3D",
+    "primary": "#8B7BD8",
+    "accent": "#F7A8C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "D",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 3 C15 3 21 7 21 12 C21 17 15 21 6 21 L6 15 C11 15 14 14 14 12 C14 10 11 9 6 9 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag operations, standardized end to end.",
+      "sub": "From the first mockup approval to the tracking number in your inbox, Donaria runs your branded merchandise like a supply chain — not a scramble of email threads.",
+      "ctaLabel": "Start a swag store",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Managed inventory",
+        "description": "Warehouse your hoodies, bottles, and notebooks in our climate-controlled facilities and draw down stock on demand — no garage full of leftover totes.",
+        "icon": "database"
+      },
+      {
+        "title": "On-demand fulfillment",
+        "description": "Ship one gift box or five hundred kits from a single dashboard, with real-time tracking and address collection links for every recipient.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Brand asset lock",
+        "description": "Upload your logo once and lock approved colors, placements, and Pantone values so every reorder matches the last one exactly.",
+        "icon": "lock"
+      },
+      {
+        "title": "Proof approvals",
+        "description": "Review digital mockups and physical samples in a threaded approval flow, with sign-off timestamps kept for every SKU you produce.",
+        "icon": "layers"
+      },
+      {
+        "title": "Global sourcing",
+        "description": "Tap a vetted network of manufacturers across three continents with lead times, minimums, and margins surfaced before you commit.",
+        "icon": "globe"
+      },
+      {
+        "title": "Spend reporting",
+        "description": "Export line-item cost breakdowns by campaign, team, or recipient — the receipts finance actually asks for at quarter close.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to run new-hire kits off a spreadsheet and a prayer. Donaria turned it into a repeatable process — every recruit gets the same box in three days flat.",
+        "name": "Priya Venkataraman",
+        "role": "Head of People Operations",
+        "company": "Northbeam Labs"
+      },
+      {
+        "quote": "The brand asset lock alone paid for itself. No more off-color mugs showing up at conferences with a stretched logo on them.",
+        "name": "Marcus Delacroix",
+        "role": "Director of Brand Marketing",
+        "company": "Halcyon Retail Group"
+      },
+      {
+        "quote": "I'm a team of one running merch for a 40-person startup. Donaria gives me the logistics muscle of a company ten times our size.",
+        "name": "Elena Fitzgerald",
+        "role": "Community & Events Lead",
+        "company": "Sundial Software"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For individuals and side projects putting their name on real things.",
+        "features": [
+          "1 branded store",
+          "Managed inventory up to 250 units",
+          "Standard fulfillment",
+          "Digital mockup proofs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$99",
+        "period": "per month",
+        "blurb": "For small teams shipping swag on a recurring schedule.",
+        "features": [
+          "5 branded stores",
+          "Managed inventory up to 2,500 units",
+          "Priority fulfillment",
+          "Physical samples",
+          "Brand asset lock",
+          "Spend reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For organizations standardizing swag across every department.",
+        "features": [
+          "Unlimited stores",
+          "Dedicated warehousing",
+          "Global sourcing network",
+          "SSO & approval workflows",
+          "Dedicated account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Donaria is the operations layer for branded merchandise — sourcing, storage, and shipping for the people who put logos on good things."
+  }
+}

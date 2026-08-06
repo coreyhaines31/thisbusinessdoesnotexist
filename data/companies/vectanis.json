@@ -1,0 +1,126 @@
+{
+  "name": "Vectanis",
+  "slug": "vectanis",
+  "industry": "fleet telematics",
+  "tagline": "Institutional-grade telematics for the vehicles you actually own.",
+  "positioning": "Vectanis delivers enterprise fleet intelligence to individuals and prosumers who run one to twelve vehicles — no dispatch department required.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A0B0E",
+    "surface": "#15181F",
+    "text": "#EEF2F7",
+    "primary": "#00E39A",
+    "accent": "#7C5CFF"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "VN",
+    "shapes": []
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Operate your vehicles with institutional discipline.",
+      "sub": "Vectanis pipes live diagnostics, geofencing, and audit-grade trip logs from every vehicle you own into one uncompromising console. Built for owners, not dispatchers.",
+      "ctaLabel": "Provision an account",
+      "secondaryCtaLabel": "Review the specification"
+    },
+    "features": [
+      {
+        "title": "Continuous Vehicle Telemetry",
+        "description": "Stream RPM, coolant, fuel draw, and fault codes from any OBD-II port every 1.2 seconds. Anomalies escalate before your dashboard light does.",
+        "icon": "chart"
+      },
+      {
+        "title": "Perimeter & Geofence Control",
+        "description": "Define polygonal boundaries per vehicle and receive breach alerts within four seconds. Ideal for trailers, work vans, and the teenager's sedan.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Ledgered Trip Records",
+        "description": "Every journey is written to an immutable, timestamped log — the exact artifact your accountant needs for mileage deductions and audits.",
+        "icon": "database"
+      },
+      {
+        "title": "Predictive Maintenance Windows",
+        "description": "Vectanis forecasts service intervals from real engine load, not odometer guesses, and books the reminder to your calendar.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Multi-Vehicle Command View",
+        "description": "One near-black console governs your entire holding — no per-truck logins, no spreadsheet reconciliation at month end.",
+        "icon": "layers"
+      },
+      {
+        "title": "Instant Incident Reconstruction",
+        "description": "Hard-brake and impact events capture the preceding thirty seconds of telemetry for insurers and disputes.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run four service vans as a sole proprietor. Vectanis gave me the same live diagnostics my old employer paid six figures for — and the trip ledger cut my tax prep from two days to twenty minutes.",
+        "name": "Marcus Delgado",
+        "role": "Owner-Operator",
+        "company": "Delgado HVAC & Refrigeration"
+      },
+      {
+        "quote": "The geofence breach alerts are genuinely instantaneous. When a trailer left the yard at 2 a.m., I had the location, the speed, and the fault log before the gate finished closing.",
+        "name": "Priya Ramakrishnan",
+        "role": "Independent Logistics Contractor",
+        "company": "Ramakrishnan Freight"
+      },
+      {
+        "quote": "I own a classic Land Cruiser and a daily commuter. Vectanis treats both with the same rigor — predictive maintenance flagged a failing alternator eleven days early.",
+        "name": "Gregory Whitcomb",
+        "role": "Private Vehicle Owner",
+        "company": "Whitcomb Estate Holdings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solitary",
+        "price": "$14",
+        "period": "per month, one vehicle",
+        "blurb": "Full telemetry and ledgered trips for the individual who owns one asset worth watching.",
+        "features": [
+          "Live OBD-II telemetry, 1 vehicle",
+          "Immutable trip & mileage ledger",
+          "Single geofence zone",
+          "30-day telemetry retention"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Consortium",
+        "price": "$39",
+        "period": "per month, up to 6 vehicles",
+        "blurb": "The standard for prosumers running a small holding of vehicles under one console.",
+        "features": [
+          "Everything in Solitary",
+          "Up to 6 vehicles included",
+          "Unlimited geofence perimeters",
+          "Predictive maintenance windows",
+          "Incident reconstruction capture",
+          "18-month telemetry retention"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Dominion",
+        "price": "$89",
+        "period": "per month, up to 12 vehicles",
+        "blurb": "Maximum oversight for the individual operator at the edge of enterprise.",
+        "features": [
+          "Everything in Consortium",
+          "Up to 12 vehicles included",
+          "Insurer-ready export packages",
+          "Priority anomaly escalation",
+          "Indefinite telemetry retention"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vectanis provides institutional-grade fleet telematics to individuals and prosumers. One console. Every vehicle you own. No dispatch department required."
+  }
+}

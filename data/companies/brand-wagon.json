@@ -1,0 +1,150 @@
+{
+  "name": "Brand Wagon",
+  "slug": "brand-wagon",
+  "industry": "B2B swag",
+  "tagline": "Company swag your team keeps instead of quietly regifting.",
+  "positioning": "Brand Wagon is the swag platform for small teams that want good merch, sane budgets, and zero closets full of the wrong-size hoodies.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FBF4E9",
+    "surface": "#F2E5D0",
+    "text": "#2C2115",
+    "primary": "#B14A2A",
+    "accent": "#C08A2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BW",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 16,
+        "height": 16,
+        "rx": 4,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag your team actually keeps",
+      "sub": "Stock a company swag closet, ship new-hire kits automatically, and stop expensing 400 branded stress balls nobody wanted. Good merch, one dashboard, no minimum-order guilt.",
+      "ctaLabel": "Open your closet",
+      "secondaryCtaLabel": "Browse the catalog"
+    },
+    "features": [
+      {
+        "title": "New-hire kits on autopilot",
+        "description": "Connect your HR tool. Day one, a hoodie in the right size shows up at their door. You do nothing except look organized.",
+        "icon": "inbox"
+      },
+      {
+        "title": "A closet, not a garage",
+        "description": "We warehouse your inventory and ship on demand. No more boxes of last year's logo living under the break-room table.",
+        "icon": "database"
+      },
+      {
+        "title": "Per-seat budgets that hold",
+        "description": "Give each teammate a spend cap and a curated menu. They pick what they want; you never approve another swag request in Slack.",
+        "icon": "chart"
+      },
+      {
+        "title": "Ships to 90 countries",
+        "description": "Your remote hire in Lisbon gets the same kit as the desk crew in Ohio, minus the customs drama and surprise duties.",
+        "icon": "globe"
+      },
+      {
+        "title": "A catalog with taste",
+        "description": "We already killed the itchy tees and the pens that leak. What's left is stuff people wear in public on purpose.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Reorder in two clicks",
+        "description": "Ran out of the good totes before the trade show? Reorder the exact spec you approved last time. No re-uploading logos at 11pm.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to keep swag in a filing cabinet and mail it ourselves. Now new hires get a kit before their laptop does, and I've reclaimed an entire afternoon a week.",
+        "name": "Dana Whitfield",
+        "role": "Head of People",
+        "company": "Northgate Roasters"
+      },
+      {
+        "quote": "The per-seat caps ended the great hoodie war of Q2. Everyone picks their own thing, nobody's over budget, and I stopped being the swag police.",
+        "name": "Marcus Ojeda",
+        "role": "Owner",
+        "company": "Ojeda Sign & Print"
+      },
+      {
+        "quote": "I ordered 12 things for a client dinner and every single one arrived on time and didn't look like a giveaway. That has literally never happened.",
+        "name": "Priya Ramanathan",
+        "role": "Founder",
+        "company": "Halston Field Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Corner Store",
+        "price": "$6",
+        "period": "per seat / month",
+        "blurb": "For small teams that just want decent merch without the spreadsheet.",
+        "features": [
+          "Up to 25 seats",
+          "Curated core catalog",
+          "On-demand shipping",
+          "1 branded item slot"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Main Street",
+        "price": "$12",
+        "period": "per seat / month",
+        "blurb": "For growing teams with new hires, budgets, and opinions about totes.",
+        "features": [
+          "Unlimited seats",
+          "Auto new-hire kits",
+          "Per-seat spend caps",
+          "HR + payroll sync",
+          "Warehousing included",
+          "Ships to 90 countries"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Block",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For multi-location operators who need custom catalogs and real support.",
+        "features": [
+          "Everything in Main Street",
+          "Custom branded catalog",
+          "Dedicated account rep",
+          "Bulk event ordering",
+          "Invoicing & SSO"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Brand Wagon stocks the closet, ships the kits, and keeps the leftover swag off your floor. Good merch, per seat, no guilt."
+  }
+}

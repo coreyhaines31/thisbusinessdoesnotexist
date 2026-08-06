@@ -1,0 +1,128 @@
+{
+  "name": "Radish Rig",
+  "slug": "radish-rig",
+  "industry": "vertical farming",
+  "tagline": "Grow embarrassing amounts of salad in a closet you're not using anyway.",
+  "positioning": "A countertop-to-closet vertical farm and app for people who want fresh basil without becoming insufferable about it.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#FBF6EF",
+    "surface": "#FFFFFF",
+    "text": "#2C2A33",
+    "primary": "#3F8C63",
+    "accent": "#E88AA8"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RR",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 1 1 3 12 L 6 12 A 6 6 0 1 0 12 6 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 3,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "You have killed 14 basil plants. This one is smarter than you.",
+      "sub": "Radish Rig is a self-watering, self-lighting vertical farm plus an app that texts you before your greens stage a revolt. Fresh harvest in 3 weeks, zero dirt under your nails.",
+      "ctaLabel": "Claim your rig",
+      "secondaryCtaLabel": "Watch it grow"
+    },
+    "features": [
+      {
+        "title": "It waters so you won't forget",
+        "description": "Sensors track moisture, pH, and nutrients, then dose everything on a schedule. You are officially demoted from 'plant parent' to 'plant landlord.'",
+        "icon": "refresh"
+      },
+      {
+        "title": "Sunlight, but on a subscription",
+        "description": "Full-spectrum LED tuned per crop. Your lettuce gets a perfect summer while it's sleeting outside and you're eating a real salad about it.",
+        "icon": "zap"
+      },
+      {
+        "title": "Harvest nudges, not guilt trips",
+        "description": "The app pings you the moment your arugula peaks so you crop it at flavor, not at 'oh no it bolted again.'",
+        "icon": "bell"
+      },
+      {
+        "title": "Recipes for whatever survived",
+        "description": "Grown more mint than any human needs? The app suggests what to cook before it becomes a compost origin story.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I told my roommate I'd start cooking. Three weeks later there's a jungle of Thai basil in our hallway closet and I have opinions about pesto now. Nobody asked, but here we are.",
+        "name": "Priya Ramanathan",
+        "role": "Home Grower",
+        "company": "Apartment 4C"
+      },
+      {
+        "quote": "I run a 12-seat supper club out of my flat. Radish Rig means microgreens on demand instead of a panicked 6am trip to a market that's closed. My food cost dropped and my ego rose.",
+        "name": "Marcus Delgado",
+        "role": "Chef & Founder",
+        "company": "Fig & Ferment Supperclub"
+      },
+      {
+        "quote": "Bought it as a gimmick, kept it because the harvest reminders are less judgmental than my mother. I've now grown salad I did not immediately let die. Growth, both literal and personal.",
+        "name": "Elena Whitfield",
+        "role": "Recovering Plant Killer",
+        "company": "Row House Greens"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$14",
+        "period": "per month",
+        "blurb": "One rig, one closet, a suspicious new amount of herbs.",
+        "features": [
+          "Single 6-plant rig",
+          "Auto water + light",
+          "App harvest reminders",
+          "Starter seed pods (3)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harvest",
+        "price": "$34",
+        "period": "per month",
+        "blurb": "For the person who now brings salad to potlucks unprompted.",
+        "features": [
+          "Up to 3 rigs, 18 plants",
+          "Crop-tuned light programs",
+          "Nutrient auto-dosing",
+          "Recipe suggestions",
+          "Seasonal seed pod drops"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Homestead",
+        "price": "$69",
+        "period": "per month",
+        "blurb": "You've stopped buying greens entirely. The store misses you.",
+        "features": [
+          "Up to 8 rigs, 48 plants",
+          "Priority pod restock",
+          "Yield analytics dashboard",
+          "Multi-zone scheduling",
+          "Concierge setup call"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Radish Rig: fresh greens for people who mean well but travel a lot. Grown indoors, harvested smugly, watered by robots that don't forget."
+  }
+}

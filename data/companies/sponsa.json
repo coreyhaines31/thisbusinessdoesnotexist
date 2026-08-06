@@ -1,0 +1,135 @@
+{
+  "name": "Sponsa",
+  "slug": "sponsa",
+  "industry": "wedding vendor CRM",
+  "tagline": "The gentle CRM for wedding pros who'd rather be creating than chasing.",
+  "positioning": "Sponsa keeps every inquiry, contract, and payment for your wedding business in one calm place — so no couple ever falls through the cracks.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#FBF6F1",
+    "surface": "#FFFFFF",
+    "text": "#403844",
+    "primary": "#C06B79",
+    "accent": "#8FA98C"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Sp",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your wedding business without the 11pm spreadsheet spiral",
+      "sub": "Sponsa gives solo planners, photographers, and florists one warm workspace for inquiries, proposals, contracts, and payment reminders — so every couple feels looked after.",
+      "ctaLabel": "Start free for 14 days",
+      "secondaryCtaLabel": "See a sample workflow"
+    },
+    "features": [
+      {
+        "title": "Inquiries that never slip",
+        "description": "Every 'are you free on our date?' email lands in one inbox with a reply template, so you respond in minutes instead of finding it a week later.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Proposals couples actually sign",
+        "description": "Send a branded package, contract, and deposit link in a single tidy link. Watch it move from viewed to signed to paid.",
+        "icon": "layers"
+      },
+      {
+        "title": "Payment reminders on autopilot",
+        "description": "Sponsa nudges couples about balances and final payments before the big day so you're never the one asking twice.",
+        "icon": "bell"
+      },
+      {
+        "title": "A timeline for every booking",
+        "description": "Engagement shoots, tastings, walkthroughs, and delivery dates roll up into one calendar you can trust.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Client details in one place",
+        "description": "Guest counts, dietary notes, must-have shots, and venue contacts live on each couple's page, not across six threads.",
+        "icon": "users"
+      },
+      {
+        "title": "See your season at a glance",
+        "description": "Know your booked revenue, open inquiries, and slow months so you can plan promotions and time off with confidence.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose inquiries in my personal inbox for days. With Sponsa I reply the same afternoon, and my booking rate for spring weddings jumped noticeably.",
+        "name": "Marisol Reyes",
+        "role": "Owner & Lead Planner",
+        "company": "Reyes & Co. Events"
+      },
+      {
+        "quote": "The automatic balance reminders alone paid for the whole year. I stopped dreading the awkward money conversation three weeks before every wedding.",
+        "name": "Daniel Whitfield",
+        "role": "Wedding Photographer",
+        "company": "Whitfield Frames"
+      },
+      {
+        "quote": "Everything about a couple — their venue, their palette, their timeline — is finally on one page. My assistant and I are never guessing anymore.",
+        "name": "Priya Kapadia",
+        "role": "Creative Director",
+        "company": "Bloom & Vine Florals"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per month, billed yearly",
+        "blurb": "For the one-person studio taking on a handful of weddings a season.",
+        "features": [
+          "Up to 20 active bookings",
+          "Inquiry inbox & reply templates",
+          "Proposals, contracts & e-signatures",
+          "Deposit and balance payment links"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$39",
+        "period": "per month, billed yearly",
+        "blurb": "For growing vendors juggling a full calendar and a second set of hands.",
+        "features": [
+          "Unlimited active bookings",
+          "Automated payment reminders",
+          "Season revenue & inquiry dashboard",
+          "One team seat included",
+          "Branded client portal"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "$79",
+        "period": "per month, billed yearly",
+        "blurb": "For established teams running multiple planners or shooters.",
+        "features": [
+          "Everything in Studio",
+          "Up to 5 team seats",
+          "Shared client & vendor directory",
+          "Custom package & contract library",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sponsa is the earnest, everything-in-one-place CRM built for the people who make weddings happen. Fewer dropped threads, more time to create."
+  }
+}

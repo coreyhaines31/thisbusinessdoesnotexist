@@ -1,0 +1,153 @@
+{
+  "name": "Molaris",
+  "slug": "molaris",
+  "industry": "dental practice operations",
+  "tagline": "The operations layer for dental groups that outgrew spreadsheets and blind faith.",
+  "positioning": "Molaris runs scheduling, claims, and chair utilization across every location so your DSO stops leaking revenue between the front desk and the ledger.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F3F4",
+    "text": "#0A0A0B",
+    "primary": "#0A0A0B",
+    "accent": "#FF3D00"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 5,
+        "width": 5,
+        "height": 14,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 9.5,
+        "y": 2,
+        "width": 5,
+        "height": 20,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 17,
+        "y": 7,
+        "width": 5,
+        "height": 10,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your chairs are empty. Your front desk swears they're booked.",
+      "sub": "Molaris connects scheduling, claims, and utilization across every location, so leadership sees where the money actually went instead of what the whiteboard claims.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a live dashboard"
+    },
+    "features": [
+      {
+        "title": "Chair-hour accounting",
+        "description": "Every operatory, every location, priced by the minute. Find the chairs that quietly lost you $40k last quarter while everyone insisted they were slammed.",
+        "icon": "chart"
+      },
+      {
+        "title": "Claims that don't bounce",
+        "description": "We scrub every claim against payer rules before it leaves the building. Fewer denials, fewer 90-day-old receivables nobody wants to own.",
+        "icon": "shield"
+      },
+      {
+        "title": "One schedule, forty offices",
+        "description": "Consolidate booking across the whole group without forcing every practice onto the same PMS. Molaris reads what they already use.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Recall that actually recalls",
+        "description": "Automated hygiene reminders that stop when the patient books and don't text them four times in an afternoon like an anxious ex.",
+        "icon": "bell"
+      },
+      {
+        "title": "Provider productivity, honestly",
+        "description": "Per-provider production, no-show cost, and case acceptance ranked without the flattering spin the monthly PDF usually applies.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Audit-ready compliance",
+        "description": "HIPAA logs, credential expirations, and radiograph retention tracked in one place, so a surprise audit is boring instead of terrifying.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We found three locations billing hygiene under the wrong provider for eight months. Molaris flagged it in the first week. That report paid for the whole contract, twice.",
+        "name": "Dana Reinholt",
+        "role": "VP of Revenue Cycle",
+        "company": "Northgate Dental Partners"
+      },
+      {
+        "quote": "I stopped asking office managers how utilization looked and started reading the dashboard. Turns out 'we're totally full' meant 61 percent. We fixed it.",
+        "name": "Marcus Idowu",
+        "role": "Chief Operating Officer",
+        "company": "BrightArch Dental Group"
+      },
+      {
+        "quote": "Claim denials dropped from 14 percent to under 4. My AR team went from firefighting to actually going home at five. Nobody misses the fax machine.",
+        "name": "Priya Venkatasubramanian",
+        "role": "Director of Billing Operations",
+        "company": "Cedar & Main DSO"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Cluster",
+        "price": "$0.90",
+        "period": "per chair-hour tracked",
+        "blurb": "For emerging groups stitching together their first handful of locations.",
+        "features": [
+          "Up to 8 locations",
+          "Scheduling + utilization dashboards",
+          "Standard claims scrubbing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$0.55",
+        "period": "per chair-hour tracked",
+        "blurb": "For scaling DSOs that need one source of truth across the org.",
+        "features": [
+          "Unlimited locations",
+          "Full revenue-cycle suite",
+          "Payer-specific claim rules",
+          "Provider productivity analytics",
+          "Priority support + onboarding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed quarterly",
+        "blurb": "For national groups with procurement teams and real security reviews.",
+        "features": [
+          "Volume chair-hour pricing",
+          "SSO, SCIM, and audit exports",
+          "Custom PMS integrations",
+          "Dedicated implementation pod",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Molaris is the operations layer for multi-location dental groups. Less faith, more numbers. Built for the people who actually own the P&L."
+  }
+}

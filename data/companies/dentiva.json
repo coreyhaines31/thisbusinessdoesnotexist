@@ -1,0 +1,135 @@
+{
+  "name": "Dentiva",
+  "slug": "dentiva",
+  "industry": "dental practice operations",
+  "tagline": "The quiet operating system for the solo dental practice.",
+  "positioning": "Dentiva runs scheduling, recalls, and insurance follow-up for independent dentists — so the chair stays full without a front-desk pileup.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#13151C",
+    "surface": "#1E212B",
+    "text": "#EAECF3",
+    "primary": "#8AA6F0",
+    "accent": "#CBA96B"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Dv",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your practice, running calmly in the background.",
+      "sub": "Dentiva handles the recalls, the reschedules, and the insurance chases that quietly drain your day — so you and one assistant can run a full book without a phone that never stops.",
+      "ctaLabel": "Start free for 30 days",
+      "secondaryCtaLabel": "See a live schedule"
+    },
+    "features": [
+      {
+        "title": "Recall that actually returns",
+        "description": "Dentiva watches for the six-month gap, drafts the reminder in your voice, and books the hygiene slot before the patient forgets — no spreadsheet, no sticky notes.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Claims that don't sit in limbo",
+        "description": "Every submitted claim is tracked to payment. When a payer stalls past 14 days, Dentiva flags it and prepares the resubmission for a one-click send.",
+        "icon": "clock"
+      },
+      {
+        "title": "A chair that stays full",
+        "description": "Cancellations trigger an instant waitlist offer to the right patient. Most gaps close before you've finished the current appointment.",
+        "icon": "calendar"
+      },
+      {
+        "title": "One clear morning huddle",
+        "description": "A single readable sheet each morning: who's coming, what's outstanding, which balances to collect. No twelve open tabs.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Balances collected gently",
+        "description": "Automated, plainly worded payment reminders that patients actually respond to — with a link that settles the balance in two taps.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Your data stays yours",
+        "description": "HIPAA-aligned storage, encrypted at rest, with a full export whenever you want it. No lock-in, no games.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I let my second front-desk role go — not because I had to, but because Dentiva quietly covered the recalls and claims that used to eat that whole seat. My book is fuller than it's ever been.",
+        "name": "Dr. Elena Marchetti",
+        "role": "Owner Dentist",
+        "company": "Marchetti Family Dental"
+      },
+      {
+        "quote": "The claims tracking alone paid for the year. Payers can't quietly sit on our money anymore — Dentiva surfaces the stall and hands me the resubmission ready to go.",
+        "name": "Priya Raman",
+        "role": "Practice Manager",
+        "company": "Cedar Hill Dental Studio"
+      },
+      {
+        "quote": "I'm a solo dentist with one assistant. Dentiva feels like the operations person I could never quite afford to hire. Mornings are calm now.",
+        "name": "Dr. Thomas Okafor",
+        "role": "Solo Practitioner",
+        "company": "Okafor Dental"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$89",
+        "period": "per month, one provider",
+        "blurb": "For the single-chair dentist running lean.",
+        "features": [
+          "Automated recalls & reminders",
+          "Waitlist gap-filling",
+          "Basic claim tracking",
+          "One provider seat"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$189",
+        "period": "per month, up to 3 providers",
+        "blurb": "For the growing independent practice.",
+        "features": [
+          "Everything in Solo",
+          "Full claims follow-up & resubmission",
+          "Balance collection automations",
+          "Morning huddle sheet",
+          "Up to 3 provider seats"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "$349",
+        "period": "per month, up to 8 providers",
+        "blurb": "For multi-provider offices and small groups.",
+        "features": [
+          "Everything in Practice",
+          "Multi-location scheduling",
+          "Cross-office reporting",
+          "Priority support",
+          "Up to 8 provider seats"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Dentiva is the calm operating system for independent dental practices. Built for the dentist who'd rather be in the chair than on the phone."
+  }
+}

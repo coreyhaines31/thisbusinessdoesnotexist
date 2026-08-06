@@ -1,0 +1,162 @@
+{
+  "name": "Merchloom",
+  "slug": "merchloom",
+  "industry": "B2B swag",
+  "tagline": "Branded swag your customers actually keep — designed, stored, and shipped for you.",
+  "positioning": "Merchloom is the swag platform for small teams: design once, hold inventory in our warehouse, and send a box in three clicks.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#141019",
+    "surface": "#1F1927",
+    "text": "#EFEAF4",
+    "primary": "#B79BFF",
+    "accent": "#E6A96A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag that feels considered, not clearance-bin.",
+      "sub": "Merchloom helps owner-operators design, warehouse, and ship branded goods your customers keep on their desk — without the minimum-order guessing games.",
+      "ctaLabel": "Design your first box",
+      "secondaryCtaLabel": "See sample kits"
+    },
+    "features": [
+      {
+        "title": "Design once, reorder forever",
+        "description": "Upload your logo and we build a locked brand kit — colors, placement, and stitch files — so every tee and tote matches the last, even a year later.",
+        "icon": "layers"
+      },
+      {
+        "title": "We hold the inventory",
+        "description": "Stop stacking hoodie boxes in the storage closet. We warehouse your pieces and show live stock counts, so you only reorder what's actually running low.",
+        "icon": "database"
+      },
+      {
+        "title": "Send a box in three clicks",
+        "description": "Pick a recipient, choose a kit, hit send. We pack, add the handwritten-style card, and ship — with tracking that lands in your inbox.",
+        "icon": "inbox"
+      },
+      {
+        "title": "No mystery minimums",
+        "description": "Order 12 mugs or 1,200. We show real per-unit pricing up front, including setup, so you can quote a client event without a sales call.",
+        "icon": "chart"
+      },
+      {
+        "title": "Recipient address collection",
+        "description": "Send a link, let people enter their own shipping details, and we handle the rest — no spreadsheet of half-typed apartment numbers.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Reorder alerts before you run dry",
+        "description": "When a popular item dips below your threshold, we nudge you with a one-tap reorder so onboarding kits never go out empty.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to keep four bins of old shirts in the back office and still ran out mid-launch. Merchloom holds everything and reorders itself. Our welcome kits finally look like we planned them.",
+        "name": "Dana Whitfield",
+        "role": "Founder",
+        "company": "Northlight Roasters"
+      },
+      {
+        "quote": "I run a 9-person agency. Sending client gifts used to eat an afternoon per event. Now it's a link and three clicks, and the boxes actually look premium.",
+        "name": "Marcus Ferro",
+        "role": "Managing Partner",
+        "company": "Ferro & Vale Studio"
+      },
+      {
+        "quote": "The brand kit lock is the quiet hero. Every batch matches, so I stopped playing color detective with each new supplier. It just shows up right.",
+        "name": "Priya Ramesh",
+        "role": "Owner",
+        "company": "Camber Fitness Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the owner sending swag themselves.",
+        "features": [
+          "1 brand kit",
+          "Warehousing for 5 SKUs",
+          "Send links & tracking",
+          "Standard fulfillment"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For small teams sending kits every week.",
+        "features": [
+          "Up to 5 brand kits",
+          "Warehousing for 25 SKUs",
+          "Recipient address collection",
+          "Reorder alerts",
+          "Priority fulfillment"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Workshop",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For growing shops with client-facing gifting.",
+        "features": [
+          "Unlimited brand kits",
+          "Unlimited SKUs",
+          "Dedicated inventory manager",
+          "Custom packaging",
+          "API & Shopify sync"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Merchloom is branded swag for small teams — designed once, warehoused for you, and shipped with the kind of care your customers notice."
+  }
+}

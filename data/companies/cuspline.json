@@ -1,0 +1,136 @@
+{
+  "name": "Cuspline",
+  "slug": "cuspline",
+  "industry": "dental practice operations",
+  "tagline": "The operating system for the modern dental practice.",
+  "positioning": "Cuspline unifies scheduling, claims, and chair utilization into one operational layer built for owner-operator dental practices.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#08202E",
+    "surface": "#0F3346",
+    "text": "#E7F3F0",
+    "primary": "#17C8A0",
+    "accent": "#3B9BD9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,6.5 17.5,12 12,17.5 6.5,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your practice by the numbers, not the paper chart.",
+      "sub": "Cuspline connects your front desk, chairs, and claims into one operational dashboard — so owner-operators can see production, collections, and open capacity in real time.",
+      "ctaLabel": "Request a Demo",
+      "secondaryCtaLabel": "View the Platform"
+    },
+    "features": [
+      {
+        "title": "Chair Utilization Ledger",
+        "description": "See open operatory hours, no-show gaps, and hygiene column density per provider — the exact minutes leaking from your daily production goal.",
+        "icon": "chart"
+      },
+      {
+        "title": "Claims Throughput Engine",
+        "description": "Auto-scrub every claim against payer rules before submission, track aging buckets, and flag denials the day they post — not at month-end reconciliation.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Recall & Reactivation",
+        "description": "Automatically surface overdue hygiene patients and unscheduled treatment plans, then route confirmation texts your coordinator can approve in one tap.",
+        "icon": "bell"
+      },
+      {
+        "title": "Treatment Plan Conversion",
+        "description": "Track case acceptance from diagnosis to booked appointment, with per-provider conversion rates and the dollar value sitting unscheduled.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Compliance & Audit Trail",
+        "description": "HIPAA-aligned access logs, retention policies, and staff permission tiers documented for every chart action across your locations.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-Location Rollup",
+        "description": "Consolidate production, collections, and payroll ratios across every operatory into one owner view — or drill into a single chair.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We recovered eleven hours of unbilled hygiene time in the first month. Cuspline showed us exactly which columns were running empty and why our recall list had gone stale.",
+        "name": "Dr. Marisa Holloway",
+        "role": "Owner Dentist",
+        "company": "Northbridge Family Dental"
+      },
+      {
+        "quote": "Claims aging used to be a spreadsheet I updated on Sundays. Now denials get flagged the same day and my collections ratio is up nine points.",
+        "name": "Devon Priya Kapadia",
+        "role": "Practice Administrator",
+        "company": "Cedar Rock Dental Group"
+      },
+      {
+        "quote": "As a two-chair owner-operator, I finally see production per provider without pulling three reports. The dashboard replaced my whiteboard.",
+        "name": "Dr. Alan Whitfield",
+        "role": "Founding Dentist",
+        "company": "Whitfield Dental Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Chair",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For single-location practices getting operations off spreadsheets.",
+        "features": [
+          "Chair utilization dashboard",
+          "Recall automation",
+          "Standard claims scrubbing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$129",
+        "period": "per seat / month",
+        "blurb": "For growing owner-operators running full front-desk and clinical workflows.",
+        "features": [
+          "Everything in Solo Chair",
+          "Claims throughput engine",
+          "Treatment plan conversion",
+          "Compliance audit trail",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For multi-location DSOs needing consolidated reporting.",
+        "features": [
+          "Everything in Practice",
+          "Multi-location rollup",
+          "Dedicated success manager",
+          "Custom payer rule sets",
+          "SSO & advanced permissions"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cuspline is the operational layer for owner-operated dental practices — production, claims, and capacity in one system of record."
+  }
+}

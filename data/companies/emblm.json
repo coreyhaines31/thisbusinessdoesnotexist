@@ -1,0 +1,137 @@
+{
+  "name": "Emblm",
+  "slug": "emblm",
+  "industry": "B2B swag",
+  "tagline": "Enterprise-grade branded merchandise, operationalized.",
+  "positioning": "Emblm is the branded merchandise platform for enterprise procurement teams — one governed catalog, global fulfillment, and spend you can actually forecast.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0E1218",
+    "surface": "#181E27",
+    "text": "#E7ECF3",
+    "primary": "#5B8CFF",
+    "accent": "#C9A15A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,4 12,12 4,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,4 20,12 12,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Branded merchandise, governed like every other line item.",
+      "sub": "Emblm gives enterprise procurement a single approved catalog, automated brand controls, and global on-demand fulfillment — so swag stops being a rogue expense and starts being a managed program.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform tour"
+    },
+    "features": [
+      {
+        "title": "Governed brand catalog",
+        "description": "Lock logos, Pantone values, and approved SKUs into one catalog. Every order routes through brand and legal rules before a single unit is produced.",
+        "icon": "shield"
+      },
+      {
+        "title": "Usage-based spend visibility",
+        "description": "Track redemption, per-department burn, and cost-per-unit in real time. Export straight to your ERP with GL codes already mapped.",
+        "icon": "chart"
+      },
+      {
+        "title": "Global on-demand fulfillment",
+        "description": "Produce and ship from 14 regional hubs. No pre-buys, no dead inventory sitting in a warehouse against a forecast that changed.",
+        "icon": "globe"
+      },
+      {
+        "title": "Automated approval routing",
+        "description": "Configure spend thresholds, cost centers, and approver chains once. Requests escalate automatically and clear an audit trail.",
+        "icon": "layers"
+      },
+      {
+        "title": "SSO and role controls",
+        "description": "SCIM provisioning, SAML SSO, and granular roles for admins, requesters, and regional leads across every subsidiary.",
+        "icon": "lock"
+      },
+      {
+        "title": "Redemption programs",
+        "description": "Send new-hire kits, event drops, and recognition rewards with named recipient links and delivery confirmation at scale.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated 40 rogue vendor accounts into one governed catalog. Brand compliance went from a quarterly cleanup to a non-issue, and finance finally trusts the swag line.",
+        "name": "Danielle Okafor",
+        "role": "VP, Global Procurement",
+        "company": "Meridian Health Systems"
+      },
+      {
+        "quote": "The usage-based model matched our actual behavior. We stopped ordering 5,000 hoodies to hit a minimum and now pay per unit shipped. Dead inventory dropped to zero.",
+        "name": "Marcus Feltrin",
+        "role": "Director of Brand Operations",
+        "company": "Northlake Financial"
+      },
+      {
+        "quote": "Onboarding 900 new hires a quarter used to mean spreadsheets and a warehouse. Emblm ships named kits on demand with delivery confirmation we can audit.",
+        "name": "Priya Raman",
+        "role": "Head of Workplace Experience",
+        "company": "Cordell Technologies"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Team",
+        "price": "$0",
+        "period": "platform fee + per-unit usage",
+        "blurb": "For single teams standardizing their branded merch spend.",
+        "features": [
+          "One governed catalog",
+          "Pay per unit shipped",
+          "Standard approval routing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Business",
+        "price": "$1,200",
+        "period": "per month + per-unit usage",
+        "blurb": "For multi-department orgs that need controls and reporting.",
+        "features": [
+          "Multi-cost-center catalogs",
+          "SAML SSO and roles",
+          "Real-time spend analytics",
+          "Regional fulfillment hubs",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based usage agreement",
+        "blurb": "For global procurement with subsidiary-level governance.",
+        "features": [
+          "Unlimited subsidiaries",
+          "SCIM provisioning",
+          "ERP and GL integration",
+          "Dedicated brand review",
+          "SLA and named CSM",
+          "Custom fulfillment terms"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Emblm is the governed branded merchandise platform for the enterprise. One catalog, controlled spend, global fulfillment on demand."
+  }
+}

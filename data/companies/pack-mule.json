@@ -1,0 +1,165 @@
+{
+  "name": "Pack Mule",
+  "slug": "pack-mule",
+  "industry": "artisanal logistics",
+  "tagline": "Shipping software for people who resent shipping software.",
+  "positioning": "Pack Mule runs the pickups, routes, and label chaos for small-batch makers who ship real things and would rather be making them.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F3E9D8",
+    "surface": "#E7D8BE",
+    "text": "#2C1E12",
+    "primary": "#B44E2A",
+    "accent": "#5F7A4A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "You make it. We haul it. Nobody cries.",
+      "sub": "Pack Mule handles pickups, routing, and the label printer that hates you — so you can go back to the workshop instead of refreshing the carrier dashboard at 11pm.",
+      "ctaLabel": "Start hauling",
+      "secondaryCtaLabel": "Watch the 4-min demo"
+    },
+    "features": [
+      {
+        "title": "Routes that respect physics",
+        "description": "Batch every day's orders into pickup runs that account for your van, your fragile inventory, and the one bridge that's always closed.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Labels without the séance",
+        "description": "One screen for every carrier. Print, reprint, and void without summoning three browser tabs and a support ticket.",
+        "icon": "layers"
+      },
+      {
+        "title": "Live tracking customers trust",
+        "description": "Branded tracking pages that tell the truth about where the crate is, so your inbox stops filling with 'is it here yet' emails.",
+        "icon": "compass"
+      },
+      {
+        "title": "Damage claims, filed for you",
+        "description": "When a carrier flattens a box, Pack Mule pulls the photos, files the claim, and chases the refund while you keep working.",
+        "icon": "shield"
+      },
+      {
+        "title": "Rates you can actually read",
+        "description": "Compare real landed cost across carriers per shipment — no fuel-surcharge riddles, no surprise dimensional weight.",
+        "icon": "chart"
+      },
+      {
+        "title": "Runs on a laptop and a wish",
+        "description": "Built for one-person shops and five-person crews. No forklift, no warehouse management degree, no IT department required.",
+        "icon": "rocket"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ship 40 crates of ceramics a week. Pack Mule cut our packing-desk time in half and the breakage claims basically file themselves now. I got my Sundays back.",
+        "name": "Dana Whitlock",
+        "role": "Owner",
+        "company": "Whitlock Clayworks"
+      },
+      {
+        "quote": "Before this I had a spreadsheet, three carrier logins, and a personality problem. Now I have one screen and a slightly better attitude.",
+        "name": "Marcus Feeley",
+        "role": "Founder & Head Packer",
+        "company": "North Line Provisions"
+      },
+      {
+        "quote": "The tracking pages alone killed our 'where is my order' emails. Our two-person shop looks like we have a logistics team. We do not.",
+        "name": "Priya Anand",
+        "role": "Operations Lead",
+        "company": "Ember & Oak Roasters"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one person doing packing, shipping, and everything else.",
+        "features": [
+          "1 seat",
+          "Up to 200 shipments/mo",
+          "All carrier labels in one place",
+          "Branded tracking pages",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For small teams who share the packing desk and the blame.",
+        "features": [
+          "3–10 seats",
+          "Unlimited shipments",
+          "Batched pickup routing",
+          "Automated damage claims",
+          "Landed-cost rate compare",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Depot",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location makers who've outgrown the garage.",
+        "features": [
+          "10+ seats",
+          "Multi-warehouse routing",
+          "API & webhook access",
+          "Carrier contract rates",
+          "Dedicated onboarding",
+          "SLA & phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Pack Mule is logistics software for people who ship real things. Made by former makers who got tired of the label printer, too."
+  }
+}

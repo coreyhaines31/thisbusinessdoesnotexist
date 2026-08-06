@@ -1,0 +1,156 @@
+{
+  "name": "Kindr",
+  "slug": "kindr",
+  "industry": "elder-care coordination",
+  "tagline": "The coordination layer for enterprise elder-care programs.",
+  "positioning": "Kindr keeps care teams, families, and case managers on the same care plan — so no medication, appointment, or handoff falls through the cracks.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F3EFE7",
+    "surface": "#FBF9F3",
+    "text": "#292722",
+    "primary": "#59654E",
+    "accent": "#BB6A4C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 5,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 9,
+        "width": 5,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 3,
+        "width": 5,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every caregiver, family, and case manager on one care plan.",
+      "sub": "Kindr turns scattered phone calls, spreadsheets, and sticky notes into a live coordination hub for enterprise elder-care programs — from intake to escalation.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One living care plan",
+        "description": "Medications, appointments, dietary needs, and standing orders in a single record every stakeholder can see — with a full audit trail of who changed what and when.",
+        "icon": "layers"
+      },
+      {
+        "title": "Handoffs that don't drop",
+        "description": "Shift changes, hospital discharges, and caregiver swaps trigger structured handoff notes, so the next person on shift walks in already caught up.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Family kept in the loop",
+        "description": "Adult children get plain-language updates and a shared calendar instead of frantic 9pm phone calls — cutting inbound calls to your care line by half.",
+        "icon": "users"
+      },
+      {
+        "title": "Escalations before crises",
+        "description": "Missed check-ins, skipped meds, and rising fall-risk scores surface to case managers automatically, with a clear next action attached.",
+        "icon": "bell"
+      },
+      {
+        "title": "Coverage you can prove",
+        "description": "Export shift coverage, visit verification, and consent records for payers and auditors without rebuilding the report by hand each quarter.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fits your existing stack",
+        "description": "Two-way sync with your EHR, scheduling, and claims systems so Kindr becomes the coordination layer, not another silo to reconcile.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Kindr our case managers spent mornings reconstructing what happened overnight. Now the handoff note is already there. We reassigned two FTEs to actual care instead of chasing updates.",
+        "name": "Dolores Amsberry",
+        "role": "VP of Care Operations",
+        "company": "Meridian Senior Health"
+      },
+      {
+        "quote": "Family complaint calls used to swamp our line every Monday. With shared updates and the visit calendar, those calls dropped by half in one quarter. The families finally feel included.",
+        "name": "Raymond Okafor",
+        "role": "Director of Member Experience",
+        "company": "Cascade Care Partners"
+      },
+      {
+        "quote": "Audit prep used to take a week of pulling records from four systems. Kindr exports coverage and consent in an afternoon. Our payer reviews stopped being a fire drill.",
+        "name": "Priya Venkataraman",
+        "role": "Chief Compliance Officer",
+        "company": "Northlake Home & Community"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$6",
+        "period": "per active care recipient / month",
+        "blurb": "For a single program team validating coordination on a defined cohort.",
+        "features": [
+          "Up to 250 active care recipients",
+          "Living care plan & handoff notes",
+          "Family updates portal",
+          "Standard reporting",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$4",
+        "period": "per active care recipient / month",
+        "blurb": "For multi-site operators standardizing coordination across regions.",
+        "features": [
+          "Volume-tiered per-recipient pricing",
+          "EHR & scheduling two-way sync",
+          "Automated escalation workflows",
+          "Payer & audit export packs",
+          "Role-based access & SSO",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed on usage",
+        "blurb": "For health systems and insurers running elder-care at population scale.",
+        "features": [
+          "Custom per-recipient rate cards",
+          "Dedicated implementation team",
+          "BAA, SOC 2, and data residency",
+          "Custom integrations & APIs",
+          "SLA-backed uptime",
+          "Named success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kindr is the coordination layer for enterprise elder-care programs — keeping care teams, families, and case managers on one living plan."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Nuptl",
+  "slug": "nuptl",
+  "industry": "wedding vendor CRM",
+  "tagline": "The operating system for high-volume wedding businesses.",
+  "positioning": "Nuptl unifies inquiries, contracts, and event timelines into one system built for multi-location wedding vendors managing hundreds of couples a season.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#13100E",
+    "surface": "#1F1A16",
+    "text": "#F4EDE3",
+    "primary": "#CBA25E",
+    "accent": "#B0625C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "N",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 12 A8 8 0 0 1 20 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M6 12 A6 6 0 0 0 18 12 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every wedding on one calm, connected platform.",
+      "sub": "Nuptl gives enterprise catering groups, venue portfolios, and photography studios a single source of truth for every couple, contract, and timeline — from first inquiry to final invoice.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See how it scales"
+    },
+    "features": [
+      {
+        "title": "Inquiry to booked, no dropped threads",
+        "description": "Route every wedding inquiry to the right coordinator, auto-tag by date and venue, and watch conversion by source across all your locations.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Contracts that sign themselves",
+        "description": "Send branded proposals with usage-based e-signature, deposit schedules, and automatic reminders when a couple stalls before the deadline.",
+        "icon": "database"
+      },
+      {
+        "title": "Timelines every team can trust",
+        "description": "Build the day-of run sheet once and sync it to catering, floral, and AV crews so nobody chases a Google Doc at 6am.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Revenue you can forecast",
+        "description": "See booked-versus-available Saturdays, average contract value, and seasonal pacing across the whole portfolio in one board.",
+        "icon": "chart"
+      },
+      {
+        "title": "Roles for real org charts",
+        "description": "Give regional managers, coordinators, and finance scoped access with approval chains that match how enterprise vendors actually operate.",
+        "icon": "users"
+      },
+      {
+        "title": "Built to plug into your stack",
+        "description": "Two-way sync with your accounting, email, and floor-plan tools through an API your operations team will actually enjoy using.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We manage nine venues and 1,400 weddings a year. Before Nuptl our coordinators lived in spreadsheets and lost deposits. Now every booking has one record and finance closes the month in two days.",
+        "name": "Marguerite Sable",
+        "role": "VP of Operations",
+        "company": "Evermore Venue Collective"
+      },
+      {
+        "quote": "The day-of timeline sync alone paid for the platform. Our catering and floral leads finally work from the same run sheet, and day-of confusion basically disappeared.",
+        "name": "Devon Ashcombe",
+        "role": "Director of Events",
+        "company": "Halstead Hospitality Group"
+      },
+      {
+        "quote": "Usage-based pricing let us onboard all eleven studios without a painful seat negotiation. We pay for the weddings we actually book, which finance loves.",
+        "name": "Priya Venkataraman",
+        "role": "Chief Revenue Officer",
+        "company": "Lumen & Vale Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per active wedding / month",
+        "blurb": "For single-location vendors formalizing their booking pipeline.",
+        "features": [
+          "Up to 150 active weddings",
+          "Inquiry routing & pipeline",
+          "Proposals and e-signature",
+          "Day-of timeline builder"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$0.65",
+        "period": "per active wedding / month",
+        "blurb": "For multi-venue groups running high season at scale.",
+        "features": [
+          "Unlimited active weddings",
+          "Multi-location revenue dashboards",
+          "Scoped roles & approval chains",
+          "Accounting & email integrations",
+          "Priority onboarding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For national vendor networks with bespoke compliance needs.",
+        "features": [
+          "Committed-usage discounts",
+          "SSO, audit logs & SLAs",
+          "Dedicated solutions architect",
+          "Custom API & data warehouse sync",
+          "White-glove migration"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Nuptl is the enterprise CRM for wedding vendors who take every couple seriously. One calm system, from first inquiry to last dance."
+  }
+}

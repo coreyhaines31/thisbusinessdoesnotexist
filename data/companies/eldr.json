@@ -1,0 +1,136 @@
+{
+  "name": "Eldr",
+  "slug": "eldr",
+  "industry": "Elder-care coordination",
+  "tagline": "The coordination layer for enterprise elder care.",
+  "positioning": "Eldr unifies caregivers, clinicians, and families onto one governed care ledger — so large operators coordinate every case without the phone-tag.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F4F4FA",
+    "primary": "#00F5B0",
+    "accent": "#FF3DDA"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 A10 10 0 0 1 12 22 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 5 A7 7 0 0 0 12 19 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coordinate every care case across your entire network.",
+      "sub": "Eldr replaces the spreadsheet handoffs, faxed care plans, and 6pm phone-tag with one governed ledger connecting caregivers, clinicians, and families in real time.",
+      "ctaLabel": "Request a deployment",
+      "secondaryCtaLabel": "View the platform"
+    },
+    "features": [
+      {
+        "title": "Unified care ledger",
+        "description": "Every assessment, medication change, and shift note lands on one immutable record — no more reconciling three systems before a care conference.",
+        "icon": "database"
+      },
+      {
+        "title": "Caregiver dispatch",
+        "description": "Route the right credentialed caregiver to each visit by proximity, skill, and continuity, then track arrival and completion without a single call.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Compliance guardrails",
+        "description": "State-specific care-plan rules, HIPAA logging, and audit-ready exports enforced automatically across every region you operate.",
+        "icon": "shield"
+      },
+      {
+        "title": "Family transparency portal",
+        "description": "Give adult children a controlled, live view of visits, incidents, and billing — cutting inbound status calls to your care line by the hundreds.",
+        "icon": "users"
+      },
+      {
+        "title": "Utilization analytics",
+        "description": "See margin, missed visits, and readmission risk per facility in one board, and forecast staffing before the gaps become incidents.",
+        "icon": "chart"
+      },
+      {
+        "title": "EHR & payer sync",
+        "description": "Bi-directional connectors to Epic, PointClickCare, and major payers keep authorizations and claims aligned with delivered care.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Eldr our regional coordinators lived in email threads. Now every care event is timestamped on one ledger — we cut missed visits by 31% in the first two quarters.",
+        "name": "Dana Whitfield",
+        "role": "VP of Clinical Operations",
+        "company": "Meridian Senior Living"
+      },
+      {
+        "quote": "The audit-ready exports alone justified the deployment. Our last state survey took days instead of weeks because every care plan was already reconciled.",
+        "name": "Marcus Enriquez",
+        "role": "Chief Compliance Officer",
+        "company": "Northbridge Care Networks"
+      },
+      {
+        "quote": "Family call volume was drowning our intake team. The transparency portal moved most of that off the phones and our CSAT went up at the same time.",
+        "name": "Priya Ramanathan",
+        "role": "Director of Care Coordination",
+        "company": "Halden Home Health"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Launch",
+        "price": "$0.60",
+        "period": "per care event coordinated",
+        "blurb": "For single-region operators standardizing coordination on one ledger.",
+        "features": [
+          "Up to 3 facilities",
+          "Unified care ledger",
+          "Caregiver dispatch",
+          "Standard HIPAA logging"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.42",
+        "period": "per care event, volume-tiered",
+        "blurb": "For multi-region networks that need governance and EHR sync at volume.",
+        "features": [
+          "Unlimited facilities",
+          "Compliance guardrails by state",
+          "EHR & payer connectors",
+          "Family transparency portal",
+          "Utilization analytics"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual committed volume",
+        "blurb": "For national operators with dedicated SLAs and procurement requirements.",
+        "features": [
+          "Committed-volume pricing",
+          "Dedicated implementation pod",
+          "SSO, SCIM & data residency",
+          "99.9% uptime SLA",
+          "Named success architect"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Eldr is the coordination layer for enterprise elder care — one governed ledger connecting caregivers, clinicians, and families across every region you serve."
+  }
+}

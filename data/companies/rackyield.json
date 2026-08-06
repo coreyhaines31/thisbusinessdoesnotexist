@@ -1,0 +1,149 @@
+{
+  "name": "RackYield",
+  "slug": "rackyield",
+  "industry": "vertical farming",
+  "tagline": "Operating software for indoor growers who count every tray.",
+  "positioning": "RackYield unifies rack scheduling, environmental logs, and harvest accounting so small vertical farms run like clockwork—one shared workspace per operator.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F4F5",
+    "text": "#0B0B0C",
+    "primary": "#111214",
+    "accent": "#FF3B1F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RY",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 7,
+        "width": 10,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 10,
+        "width": 4,
+        "height": 4,
+        "rx": 0.5,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every grow rack like a balance sheet.",
+      "sub": "RackYield gives owner-operators one workspace for tray scheduling, climate logs, and yield-per-square-foot reporting—so your farm stops running on whiteboards and spreadsheets.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a live rack map"
+    },
+    "features": [
+      {
+        "title": "Rack-level scheduling",
+        "description": "Assign crops, seed dates, and harvest windows to individual racks and tiers. RackYield flags gaps and overlaps before they cost you a full cycle.",
+        "icon": "layers"
+      },
+      {
+        "title": "Environmental audit trail",
+        "description": "Log temperature, humidity, EC, and pH per zone with timestamped entries your buyers and auditors actually accept.",
+        "icon": "database"
+      },
+      {
+        "title": "Yield accounting",
+        "description": "Track grams harvested, waste, and revenue per square foot. See which cultivar earns its shelf space and which one doesn't.",
+        "icon": "chart"
+      },
+      {
+        "title": "Batch traceability",
+        "description": "Every tray carries a lot code from seeding to sale. Trace a recall to the exact rack and day in under a minute.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Reorder alerts",
+        "description": "Set par levels for seed, media, and nutrients. RackYield warns you before a stockout stalls the next plant-out.",
+        "icon": "bell"
+      },
+      {
+        "title": "Cycle forecasting",
+        "description": "Project available trays and harvest dates weeks out, so you can promise volumes to wholesale buyers with confidence.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to reconcile harvest weights against a shared spreadsheet every Sunday night. Now every tray is logged at the rack. Our first accurate yield-per-square-foot report changed which crops we grow.",
+        "name": "Dana Whitfield",
+        "role": "Owner & Head Grower",
+        "company": "Ninth Street Greens"
+      },
+      {
+        "quote": "The audit trail alone justified the seats. When our restaurant buyer asked for pH and EC history on a basil lot, I exported it in ninety seconds instead of scrolling through paper logs.",
+        "name": "Marcus Oyelaran",
+        "role": "Operations Lead",
+        "company": "Highrise Produce Co."
+      },
+      {
+        "quote": "RackYield made our two-person team feel like a real operation. Scheduling racks and forecasting harvests in the same place means we finally stopped double-booking tiers.",
+        "name": "Priya Venkataraman",
+        "role": "Co-Founder",
+        "company": "Meridian Leaf Farms"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For solo growers and two-person farms getting off spreadsheets.",
+        "features": [
+          "Up to 40 tracked racks",
+          "Rack scheduling & climate logs",
+          "Yield-per-square-foot reports",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Farm",
+        "price": "$69",
+        "period": "per seat / month",
+        "blurb": "For growing teams running multiple zones and wholesale accounts.",
+        "features": [
+          "Unlimited racks & zones",
+          "Batch traceability & lot codes",
+          "Reorder alerts & par levels",
+          "Cycle forecasting",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-site operators with compliance and integration needs.",
+        "features": [
+          "Multi-site rollups",
+          "SSO & role-based access",
+          "API & ERP integrations",
+          "Dedicated onboarding",
+          "SLA-backed support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "RackYield is operating software for independent vertical farms. Schedule racks, log conditions, and account for every gram from one workspace."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "name": "InkBloom",
+  "slug": "inkbloom",
+  "industry": "tattoo studio booking",
+  "tagline": "Booking software built for the people who run the chair, not a call center.",
+  "positioning": "InkBloom gives independent tattoo studios one calm place to book consults, collect deposits, and keep every artist's schedule in sync.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FBF6F2",
+    "surface": "#FFFFFF",
+    "text": "#332B38",
+    "primary": "#9A6FC5",
+    "accent": "#F2A0BE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IB",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 7,
+        "cy": 7,
+        "r": 3,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 17,
+        "cy": 7,
+        "r": 3,
+        "fill": "accent"
+      },
+      {
+        "type": "circle",
+        "cx": 7,
+        "cy": 17,
+        "r": 3,
+        "fill": "accent"
+      },
+      {
+        "type": "circle",
+        "cx": 17,
+        "cy": 17,
+        "r": 3,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Booking that respects the artist and the client.",
+      "sub": "InkBloom handles consults, deposits, waivers, and every artist's calendar in one place — so your studio spends less time on the phone and more time under the needle.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live studio"
+    },
+    "features": [
+      {
+        "title": "Deposits that actually stick",
+        "description": "Collect non-refundable deposits at booking and auto-apply them to the final session. No more no-shows eating a Saturday slot.",
+        "icon": "lock"
+      },
+      {
+        "title": "One calendar per chair",
+        "description": "Every artist gets their own bookable schedule with buffers, day-off blocks, and healing-time gaps between big pieces.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Consults without the DM chaos",
+        "description": "Reference photos, placement, and sizing land in a tidy request instead of scattered across Instagram and text messages.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Waivers signed before they arrive",
+        "description": "Digital consent forms and aftercare go out with the confirmation, stored against each appointment for good.",
+        "icon": "shield"
+      },
+      {
+        "title": "Flash drops that sell out",
+        "description": "Post a sheet, set a claim window, and let clients grab designs first-come — payment and slot locked in one tap.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Numbers you can trust",
+        "description": "See booked revenue, deposit balances, and each artist's fill rate without exporting a single spreadsheet.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were losing two or three appointments a week to no-shows. InkBloom's deposits fixed that in the first month, and my artists finally stopped double-booking themselves.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Wildroot Tattoo"
+      },
+      {
+        "quote": "Flash drops used to be a comment-section free-for-all. Now clients claim a design and pay in one step, and I know exactly who's coming in.",
+        "name": "Devon Marsh",
+        "role": "Resident Artist & Co-owner",
+        "company": "Paper Lantern Ink"
+      },
+      {
+        "quote": "Adding a new artist used to mean explaining our whole system. With InkBloom I give them a seat and they're booking their own chair by the afternoon.",
+        "name": "Priya Kessler",
+        "role": "Studio Manager",
+        "company": "North Pier Tattoo Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the single-artist studio running everything themselves.",
+        "features": [
+          "1 artist seat",
+          "Online booking & deposits",
+          "Digital waivers & aftercare",
+          "Instagram booking link"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For growing shops with a roster of resident artists.",
+        "features": [
+          "Everything in Solo",
+          "Per-artist calendars & buffers",
+          "Flash drop scheduling",
+          "Revenue & fill-rate reports",
+          "Client history & tags"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Collective",
+        "price": "Custom",
+        "period": "per seat, billed annually",
+        "blurb": "For multi-location studios and guest-artist programs.",
+        "features": [
+          "Everything in Studio",
+          "Multiple locations",
+          "Guest-artist onboarding",
+          "Priority support & training",
+          "Data export & API"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "InkBloom is booking software for independent tattoo studios — built with artists, for the people who actually run the chair."
+  }
+}

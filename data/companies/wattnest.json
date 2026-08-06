@@ -1,0 +1,140 @@
+{
+  "name": "WattNest",
+  "slug": "wattnest",
+  "industry": "micro-mobility charging",
+  "tagline": "The gentle way to charge, track, and bill every e-bike and scooter in your shop.",
+  "positioning": "WattNest gives owner-operators one calm dashboard for the charging docks their delivery bikes and rental scooters depend on every single day.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F5F2EC",
+    "surface": "#FEFDFB",
+    "text": "#2A342E",
+    "primary": "#3C8C74",
+    "accent": "#E7A17C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "W",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "13 4 8 13 11 13 10 20 16 11 13 11 15 4",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every battery topped off before the first delivery run",
+      "sub": "WattNest keeps your charging docks organized, your riders moving, and your energy costs honest — without another spreadsheet or a wall of chargers you have to babysit.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live dock"
+    },
+    "features": [
+      {
+        "title": "Dock health at a glance",
+        "description": "See which docks are charging, idle, or faulting across every location, so a dead port never sidelines a rider at 6am.",
+        "icon": "zap"
+      },
+      {
+        "title": "Charge-cost accounting",
+        "description": "WattNest ties each charging session to a bike, a rider, and a kilowatt-hour, so you finally know what your fleet actually costs to power.",
+        "icon": "chart"
+      },
+      {
+        "title": "Ready-by scheduling",
+        "description": "Tell us when the morning shift rolls out and we sequence charging overnight to hit full batteries by the exact hour you open.",
+        "icon": "clock"
+      },
+      {
+        "title": "Rider handoff log",
+        "description": "A tidy record of who took which bike at what charge level — the artifact you reach for when a battery comes back mysteriously empty.",
+        "icon": "users"
+      },
+      {
+        "title": "Off-peak smart draw",
+        "description": "Shift charging into cheaper utility windows automatically and watch the difference land on your monthly power bill.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Fault alerts that matter",
+        "description": "Get a quiet, specific heads-up the moment a dock stops delivering current — never a firehose of noise you learn to ignore.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We run 14 delivery e-bikes out of one storefront. Before WattNest I was walking the charging wall with a clipboard every night. Now the docks tell me what they need and my morning riders never wait.",
+        "name": "Priya Raman",
+        "role": "Owner",
+        "company": "Maple Street Couriers"
+      },
+      {
+        "quote": "The charge-cost report was the surprise. I assumed powering our scooter rentals was a rounding error. It wasn't. WattNest paid for itself the first quarter just by moving us to off-peak charging.",
+        "name": "Deacon Ellery",
+        "role": "General Manager",
+        "company": "Riverbend Ride Co."
+      },
+      {
+        "quote": "I manage two locations and a shared toolbox of loaner bikes. The rider handoff log ended a very long argument about who kept returning bikes on empty. That alone is worth a seat.",
+        "name": "Marisol Vega",
+        "role": "Operations Lead",
+        "company": "Harbor Wheels"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Corner Shop",
+        "price": "$19",
+        "period": "per seat / month",
+        "blurb": "For a single location keeping a small fleet charged and accounted for.",
+        "features": [
+          "Up to 12 docks",
+          "Dock health dashboard",
+          "Ready-by scheduling",
+          "Email fault alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running charging across a busier storefront.",
+        "features": [
+          "Up to 60 docks",
+          "Charge-cost accounting",
+          "Off-peak smart draw",
+          "Rider handoff log",
+          "SMS + email alerts"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators who need shared reporting and roles.",
+        "features": [
+          "Unlimited docks",
+          "Multi-location rollups",
+          "Role-based access",
+          "Utility rate integrations",
+          "Priority onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "WattNest helps small operators keep every micro-mobility battery charged, tracked, and billed — calmly, and on time."
+  }
+}

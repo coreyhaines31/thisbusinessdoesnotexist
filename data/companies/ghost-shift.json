@@ -1,0 +1,162 @@
+{
+  "name": "Ghost Shift",
+  "slug": "ghost-shift",
+  "industry": "ghost kitchens",
+  "tagline": "Run six restaurants out of one kitchen without losing your mind.",
+  "positioning": "Ghost Shift consolidates every delivery platform, virtual brand, and prep ticket into one rail so owner-operators stop babysitting a wall of tablets.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0B0B0E",
+    "surface": "#17181D",
+    "text": "#F4F5F7",
+    "primary": "#3DF08A",
+    "accent": "#FF3D8A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "One kitchen. Six brands. Zero tablet Jenga.",
+      "sub": "Ghost Shift pulls every DoorDash, Uber Eats, and Grubhub ticket onto a single rail, syncs your menus everywhere at once, and tells your line what to fire first. The tablet mountain is over.",
+      "ctaLabel": "Start 14-day trial",
+      "secondaryCtaLabel": "Watch it cook"
+    },
+    "features": [
+      {
+        "title": "One rail, every platform",
+        "description": "Every order from every delivery app lands on a single kitchen screen, sorted by fire time. Retire the six-tablet chime concert nobody misses.",
+        "icon": "inbox"
+      },
+      {
+        "title": "86 it once, everywhere",
+        "description": "Out of short rib? Kill it on one screen and it vanishes across all your brands and platforms before the next order sneaks in.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Fire-order routing",
+        "description": "We time tickets by station and cook duration so fries and pho hit the bag hot at the same second, not five minutes apart.",
+        "icon": "clock"
+      },
+      {
+        "title": "Clone a brand by lunch",
+        "description": "Spin up a new virtual concept from your existing menu, publish it to every platform, and start taking orders the same afternoon.",
+        "icon": "layers"
+      },
+      {
+        "title": "Per-order margin, live",
+        "description": "See exactly what each ticket nets after commissions, packaging, and comps. Find the item quietly losing you money.",
+        "icon": "chart"
+      },
+      {
+        "title": "Chargeback comeback",
+        "description": "Auto-collect prep photos and timestamps so you actually win the 'missing item' disputes instead of eating them.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running four brands off four tablets and a prayer. Ghost Shift put it all on one screen and my ticket times dropped by a third in week one. My cooks stopped yelling at me.",
+        "name": "Marcus Deng",
+        "role": "Owner-Operator",
+        "company": "Third Rail Kitchens"
+      },
+      {
+        "quote": "The margin view was rude. It told me my best-selling wrap was losing me sixty cents a pop after commissions. Killed it, launched a bowl, and now we're actually profitable.",
+        "name": "Priya Nakamura",
+        "role": "Founder",
+        "company": "Off-Menu Collective"
+      },
+      {
+        "quote": "I cloned a new late-night brand on my phone during a slow Tuesday and it took its first order two hours later. Felt illegal. It is not illegal.",
+        "name": "Danny Ruiz",
+        "role": "Managing Partner",
+        "company": "Alley Six Foods"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Line",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one-kitchen operator running a couple of brands.",
+        "features": [
+          "Up to 2 virtual brands",
+          "All major delivery platforms",
+          "One unified order rail",
+          "Menu sync everywhere"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Kitchen",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For multi-brand shops that need timing and margin muscle.",
+        "features": [
+          "Unlimited virtual brands",
+          "Fire-order station routing",
+          "Live per-order margins",
+          "Chargeback evidence capture",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Commissary",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators and franchise groups.",
+        "features": [
+          "Everything in Kitchen",
+          "Multi-location dashboards",
+          "Role-based access controls",
+          "API and POS integrations",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ghost Shift is the operating system for ghost kitchens. Fewer tablets, faster tickets, real margins. Built by people who've expedited a Friday rush."
+  }
+}

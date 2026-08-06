@@ -1,0 +1,155 @@
+{
+  "name": "Odometr",
+  "slug": "odometr",
+  "industry": "fleet telematics",
+  "tagline": "Every mile, accounted for",
+  "positioning": "Odometr turns raw vehicle telemetry into audit-ready fleet intelligence for enterprises running thousands of assets across borders.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A0E12",
+    "surface": "#141B22",
+    "text": "#E7F1F6",
+    "primary": "#19F7A6",
+    "accent": "#5B8CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "O",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 5,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 10,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 15,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The telematics backbone for fleets that can't guess",
+      "sub": "Odometr ingests every signal from your vehicles, sensors, and ELDs, then reconciles it into a single source of truth your operations, compliance, and finance teams all trust.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "Read the docs"
+    },
+    "features": [
+      {
+        "title": "Signal reconciliation engine",
+        "description": "We merge GPS, CAN bus, and ELD feeds into one clean timeline per asset — no more three dashboards disagreeing about where a truck was at 2:14 PM.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit-ready compliance logs",
+        "description": "Every HOS entry, DVIR, and IFTA mile is versioned and immutable, so a DOT audit becomes an export, not a fire drill.",
+        "icon": "shield"
+      },
+      {
+        "title": "Live cost-per-mile",
+        "description": "Fuel, idle time, and maintenance roll up into a real cost-per-mile figure your CFO can defend line by line.",
+        "icon": "chart"
+      },
+      {
+        "title": "Predictive maintenance",
+        "description": "Fault codes and engine-hour trends flag the transmission before it strands a driver on I-80 at midnight.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Geofence automation",
+        "description": "Yard entries, customer sites, and border crossings trigger workflows and timestamps without a dispatcher touching a thing.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Open telemetry API",
+        "description": "Stream normalized events straight into your TMS, ERP, or data warehouse with a documented, versioned REST and webhook layer.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated four legacy trackers onto Odometr and cut our monthly IFTA reconciliation from nine days to under two. The reconciliation engine paid for itself in the first quarter.",
+        "name": "Marcus Delgado",
+        "role": "VP of Fleet Operations",
+        "company": "Highline Freight Group"
+      },
+      {
+        "quote": "During our last DOT audit I exported eighteen months of HOS logs in one click. The auditor actually commented on how clean the records were. That never happens.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Safety & Compliance",
+        "company": "Continental Haul Systems"
+      },
+      {
+        "quote": "Cost-per-mile used to be a spreadsheet argument between ops and finance. Now it's a shared number, and we've trimmed idle spend across 2,400 units.",
+        "name": "Devon Aoki",
+        "role": "Chief Operating Officer",
+        "company": "Ridgeway Logistics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Fleet",
+        "price": "$0.90",
+        "period": "per active vehicle / month",
+        "blurb": "For growing fleets standardizing their telematics stack.",
+        "features": [
+          "Up to 500 active vehicles",
+          "Signal reconciliation engine",
+          "Standard compliance logs",
+          "30-day telemetry retention",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$0.65",
+        "period": "per active vehicle / month",
+        "blurb": "Volume-tiered pricing for cross-border, multi-depot operations.",
+        "features": [
+          "Unlimited active vehicles",
+          "Predictive maintenance",
+          "Full audit-ready retention",
+          "Open telemetry API & webhooks",
+          "SSO and role-based access",
+          "Dedicated success engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Platform",
+        "price": "Custom",
+        "period": "annual committed usage",
+        "blurb": "For OEMs and 3PLs embedding Odometr at scale.",
+        "features": [
+          "Custom ingestion pipelines",
+          "On-prem or VPC deployment",
+          "99.95% uptime SLA",
+          "White-label dashboards",
+          "Priority 24/7 support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Odometr is the telematics system of record for enterprise fleets — reconciling every signal into intelligence your whole operation can trust."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Comitium",
+  "slug": "comitium",
+  "industry": "HOA management",
+  "tagline": "The operating system for the modern homeowners association.",
+  "positioning": "Comitium gives self-managed HOAs and individual board members enterprise-grade governance, dues collection, and record-keeping in one system.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F5F5F4",
+    "text": "#0A0A0A",
+    "primary": "#0A0A0A",
+    "accent": "#FF3D00"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Cm",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your HOA like an institution, not a group text.",
+      "sub": "Comitium replaces the shared spreadsheet, the reply-all thread, and the shoebox of receipts with one governed system for dues, records, and board decisions.",
+      "ctaLabel": "Start free assessment",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Assessments on autopilot",
+        "description": "Bill dues, apply late fees per your governing documents, and reconcile payments without touching a spreadsheet. Owners pay by card or ACH from a branded portal.",
+        "icon": "refresh"
+      },
+      {
+        "title": "A defensible record",
+        "description": "Every motion, vote, and violation notice is timestamped and archived. Export a complete, audit-ready ledger the moment counsel or a new treasurer asks.",
+        "icon": "database"
+      },
+      {
+        "title": "Governed communications",
+        "description": "Send annual meeting notices, CC&R amendments, and violation letters with delivery receipts and full retention — no more disputed 'I never got that email.'",
+        "icon": "inbox"
+      },
+      {
+        "title": "Reserve clarity",
+        "description": "Track your reserve study, funded percentage, and projected shortfalls against real balances so the board budgets on facts, not guesswork.",
+        "icon": "chart"
+      },
+      {
+        "title": "Owner self-service",
+        "description": "Homeowners view statements, submit architectural requests, and pay balances themselves — cutting the treasurer's inbox by an order of magnitude.",
+        "icon": "users"
+      },
+      {
+        "title": "Compliant by default",
+        "description": "State-specific templates for notices, quorum rules, and meeting minutes keep small boards inside the lines without a management company.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We self-manage 84 townhomes with a three-person board. Comitium ended the annual scramble to reconstruct who paid what. The dues ledger reconciles itself, and our audit took an afternoon instead of a weekend.",
+        "name": "Diane Kessler",
+        "role": "Board Treasurer",
+        "company": "Ashford Commons HOA"
+      },
+      {
+        "quote": "The violation and architectural-request workflows gave us a paper trail we could actually stand behind when an owner threatened litigation. Everything was timestamped and archived. Case closed in a week.",
+        "name": "Marcus Ferrante",
+        "role": "Board President",
+        "company": "Willowbrook Estates Association"
+      },
+      {
+        "quote": "I inherited the secretary role with zero context. Comitium had every past meeting minute, notice, and vote in one place. I was running the annual meeting confidently within a month.",
+        "name": "Priya Nadella",
+        "role": "Board Secretary",
+        "company": "Cedar Point Community Council"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Board",
+        "price": "$39",
+        "period": "per month, billed annually",
+        "blurb": "For a single self-managed association up to 50 units.",
+        "features": [
+          "Up to 50 units",
+          "Dues billing & online payments",
+          "Document archive & meeting minutes",
+          "Owner self-service portal"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Association",
+        "price": "$99",
+        "period": "per month, billed annually",
+        "blurb": "For active boards that need full governance and compliance.",
+        "features": [
+          "Up to 250 units",
+          "Everything in Solo Board",
+          "Violation & architectural workflows",
+          "Reserve tracking & budgeting",
+          "State-specific notice templates",
+          "Delivery receipts on all notices"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Portfolio",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For managers and boards overseeing multiple communities.",
+        "features": [
+          "Unlimited units & communities",
+          "Consolidated reporting",
+          "Role-based board permissions",
+          "Dedicated onboarding specialist",
+          "Priority support & SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Comitium is the governance and dues platform for self-managed homeowners associations. Institution-grade records, without the management company."
+  }
+}

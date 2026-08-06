@@ -1,0 +1,131 @@
+{
+  "name": "Robin Roost",
+  "slug": "robin-roost",
+  "industry": "elder-care coordination",
+  "tagline": "Elder-care coordination for people who became the family project manager overnight.",
+  "positioning": "Robin Roost keeps your parents' care in one place—meds, appointments, caregivers, and the siblings—so you stop running it all from a group text.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FBF5EC",
+    "surface": "#F1E4D2",
+    "text": "#2E2018",
+    "primary": "#B14E28",
+    "accent": "#6C7A46"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RR",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M5 15 C5 8 10 4 14 6 C19 8 21 14 15 19 C12 21 5 21 5 15 Z M9 13 C9 15 11 16 12 15 C10 12 12 10 14 11 C13 8 9 9 9 13 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "You didn't sign up to be your parents' operations manager.",
+      "sub": "Robin Roost puts every medication, appointment, caregiver shift, and 'is Mom okay?' text into one calm dashboard—so you can coordinate care without color-coded panic.",
+      "ctaLabel": "Start free",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "The Care Calendar",
+        "description": "Doctor visits, caregiver shifts, and pill refills in one shared view. Dad's cardiologist appointment stops living rent-free in your head.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Medication Roll Call",
+        "description": "Track every prescription, dose, and refill date. Get pinged before the pharmacy closes—not after Mom's quietly skipped two days.",
+        "icon": "bell"
+      },
+      {
+        "title": "The Sibling Feed",
+        "description": "One update thread your brother can't claim he never saw. Notes, photos, and receipts, minus the 2 a.m. accusatory texts.",
+        "icon": "users"
+      },
+      {
+        "title": "Document Drawer",
+        "description": "Insurance cards, power of attorney, DNR, and Medicare letters—scanned, tagged, and findable at the ER instead of in a shoebox.",
+        "icon": "lock"
+      },
+      {
+        "title": "Caregiver Handoffs",
+        "description": "Give paid aides and helpful neighbors exactly what they need, nothing they don't. Shift notes that actually get read.",
+        "icon": "refresh"
+      },
+      {
+        "title": "The Whole Picture",
+        "description": "Trends across appointments, meds, and mood, so you catch the slow slide before it becomes a 3 a.m. hospital call.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was running my mother's care out of a Notes app and 200 unread texts. Now my brothers can see everything and pretend they were always this involved.",
+        "name": "Priya Raman",
+        "role": "Daughter & long-distance caregiver",
+        "company": "Remote from Seattle"
+      },
+      {
+        "quote": "I manage care for nine clients across three counties. Robin Roost is the first tool that didn't assume I work inside a 400-bed facility.",
+        "name": "Deborah Okafor",
+        "role": "Aging Life Care Manager",
+        "company": "Willowmere Care Advocates"
+      },
+      {
+        "quote": "My siblings and I stopped fighting about who forgot the neurologist. Turns out we just needed one calendar and slightly fewer feelings.",
+        "name": "Tom Brennan",
+        "role": "Son & reluctant coordinator",
+        "company": "Brennan family, Ohio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$12",
+        "period": "per month",
+        "blurb": "For the only child quietly doing absolutely all of it.",
+        "features": [
+          "Care calendar & reminders",
+          "Medication roll call",
+          "Document drawer (5 GB)",
+          "1 care recipient"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Family",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "Split the chaos across siblings who mean well.",
+        "features": [
+          "Everything in Solo",
+          "Up to 6 family members",
+          "The Sibling Feed & shift notes",
+          "2 care recipients",
+          "Trends & mood tracking"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Concierge",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "When you'd rather hand the whole binder to a grown-up.",
+        "features": [
+          "Everything in Family",
+          "Dedicated care coordinator",
+          "Provider & pharmacy calls handled",
+          "Unlimited recipients",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Robin Roost is care coordination for the sandwich generation. Not a hospital, not a hotline—just one place to run the hardest job you never applied for."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Beaver Desk",
+  "slug": "beaver-desk",
+  "industry": "dental practice operations",
+  "tagline": "Front-desk software for dentists who'd rather be looking at teeth.",
+  "positioning": "Beaver Desk runs scheduling, recalls, and insurance claims for solo and small dental practices — so you spend less time chasing no-shows.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#FBF3E7",
+    "surface": "#F5E7D2",
+    "text": "#3A281B",
+    "primary": "#B7521F",
+    "accent": "#7C8450"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BD",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 13 A8 8 0 0 1 20 13 L16 13 A4 4 0 0 0 8 13 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19,
+        "cy": 16,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your front desk, minus the front desk drama.",
+      "sub": "Beaver Desk handles booking, recalls, reminders, and claims so your one-person practice runs like it has a whole ops team. It doesn't. It has you and a good gnaw.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Watch the 2-min tour"
+    },
+    "features": [
+      {
+        "title": "Recalls that actually recall",
+        "description": "Auto-nudge patients overdue for a cleaning by text and email until they book — no spreadsheet, no sticky notes, no 'I'll call them Monday.'",
+        "icon": "bell"
+      },
+      {
+        "title": "Claims without the sighing",
+        "description": "Submit and track insurance claims from one screen, catch rejections before payers do, and see exactly which ones are stuck and why.",
+        "icon": "inbox"
+      },
+      {
+        "title": "A schedule that fills its own gaps",
+        "description": "When someone cancels at 8:40am, Beaver Desk offers the slot to your waitlist automatically. The chair rarely sits empty and neither do you.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Reminders people don't ignore",
+        "description": "Confirmations, pre-visit forms, and post-op instructions go out on autopilot. No-show rates drop; awkward voicemails disappear.",
+        "icon": "clock"
+      },
+      {
+        "title": "Numbers you can read sober",
+        "description": "Production, collections, and open chair time in plain language — not a 40-tab report you'll never open.",
+        "icon": "chart"
+      },
+      {
+        "title": "Setup measured in minutes",
+        "description": "Import your patient list, connect your calendar, and go. No six-week onboarding, no consultant in a polo.",
+        "icon": "rocket"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I fired the practice-management suite that cost more than my compressor. Beaver Desk does the two things I actually needed and stopped nagging me to buy modules.",
+        "name": "Dr. Priya Anand",
+        "role": "Owner Dentist",
+        "company": "Maplewood Family Dental"
+      },
+      {
+        "quote": "Our no-show rate went from embarrassing to boring. The waitlist auto-fill alone paid for the year in a week.",
+        "name": "Dr. Marcus Reyes",
+        "role": "Solo Practitioner",
+        "company": "Reyes Dental Studio"
+      },
+      {
+        "quote": "Claims used to be my Sunday night hobby. Now I actually know which ones a payer is sitting on, and I email them instead of guessing.",
+        "name": "Tara Nowak",
+        "role": "Office Manager",
+        "company": "Bright Hollow Dentistry"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$79",
+        "period": "per month, one provider",
+        "blurb": "For the single-chair operation that wears every hat.",
+        "features": [
+          "Online booking & smart reminders",
+          "Automated recall campaigns",
+          "Waitlist auto-fill",
+          "Up to 1,500 active patients"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$189",
+        "period": "per month, up to 4 providers",
+        "blurb": "For the small team that's tired of babysitting the calendar.",
+        "features": [
+          "Everything in Solo",
+          "Insurance claim submission & tracking",
+          "Production & collections dashboard",
+          "Custom intake & post-op forms",
+          "Unlimited active patients"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "$429",
+        "period": "per month, up to 3 locations",
+        "blurb": "For the mini-empire running more than one chair-filled room.",
+        "features": [
+          "Everything in Practice",
+          "Multi-location scheduling",
+          "Cross-location reporting",
+          "Role-based staff permissions",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Beaver Desk keeps small dental practices booked, reminded, and paid — without the enterprise price tag or the six-week onboarding."
+  }
+}

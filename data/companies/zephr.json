@@ -1,0 +1,143 @@
+{
+  "name": "Zephr",
+  "slug": "zephr",
+  "industry": "HVAC field service",
+  "tagline": "The operating system for enterprise HVAC service fleets",
+  "positioning": "Zephr connects dispatch, technicians, and equipment history into one system so multi-site facilities teams stop losing hours to paper work orders.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F4F2FB",
+    "surface": "#FFFFFF",
+    "text": "#292544",
+    "primary": "#5B54C9",
+    "accent": "#E4A3C7"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "Z",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 10,
+        "width": 13,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 15,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every rooftop unit, every work order, one clear system",
+      "sub": "Zephr gives national facilities teams live visibility into HVAC service across every site — from the dispatch board to the technician standing on the roof with a torn maintenance log.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Unified equipment history",
+        "description": "Every compressor, coil, and refrigerant charge logged against the asset — so a tech knows what failed last winter before they climb the ladder.",
+        "icon": "database"
+      },
+      {
+        "title": "Live dispatch board",
+        "description": "Route certified techs by skill, location, and SLA. Reassign in a tap when a chiller goes down at your busiest distribution center.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "SLA and compliance tracking",
+        "description": "EPA refrigerant logs, preventive-maintenance windows, and response-time SLAs tracked automatically across every location.",
+        "icon": "shield"
+      },
+      {
+        "title": "Usage that scales with you",
+        "description": "Meter service volume in real time and see cost per site, per unit, and per technician in one exportable dashboard.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We manage HVAC for 340 grocery locations. Before Zephr our refrigerant compliance lived in three binders and a shared drive. Now an auditor request takes minutes, not a full week.",
+        "name": "Marisol Vega",
+        "role": "Director of Facilities",
+        "company": "Northmarket Grocers"
+      },
+      {
+        "quote": "The dispatch board paid for itself the first heat wave. We rerouted eleven emergency calls without a single missed SLA, and finance finally trusts the numbers.",
+        "name": "Derek Holloway",
+        "role": "VP of Field Operations",
+        "company": "Cornerstone Building Services"
+      },
+      {
+        "quote": "Our techs stopped carrying clipboards. Equipment history is on the phone at the unit, and first-time fix rate climbed nine points in a quarter.",
+        "name": "Priya Nadarajah",
+        "role": "Regional Service Manager",
+        "company": "Atlas Mechanical Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Regional",
+        "price": "$0.90",
+        "period": "per completed work order",
+        "blurb": "For single-region operators standardizing dispatch and asset records.",
+        "features": [
+          "Up to 25 technician seats",
+          "Live dispatch board",
+          "Equipment history logging",
+          "Standard SLA reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "National",
+        "price": "$0.65",
+        "period": "per completed work order",
+        "blurb": "For multi-site fleets that need compliance and cost visibility at scale.",
+        "features": [
+          "Unlimited technician seats",
+          "EPA refrigerant compliance logs",
+          "Per-site cost dashboards",
+          "Preventive-maintenance automation",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based with committed rate",
+        "blurb": "For national portfolios with custom SLAs and integration needs.",
+        "features": [
+          "Volume pricing per work order",
+          "ERP and CMMS integrations",
+          "Dedicated implementation team",
+          "Custom compliance workflows",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Zephr is the field service platform built for the teams that keep enterprise buildings comfortable, compliant, and running."
+  }
+}

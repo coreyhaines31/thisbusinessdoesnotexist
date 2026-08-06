@@ -1,0 +1,147 @@
+{
+  "name": "Willow Watch",
+  "slug": "willow-watch",
+  "industry": "elder-care coordination",
+  "tagline": "The command center for everyone who cares for our elders.",
+  "positioning": "Willow Watch unifies care plans, shift coverage, and family updates into one calm system built for the owner-operators running home-care agencies.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#12141C",
+    "surface": "#1C202D",
+    "text": "#E9EBF2",
+    "primary": "#D2A65A",
+    "accent": "#7C9BD6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "WW",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 9,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 9,
+        "r": 7.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 8,
+        "cy": 6.5,
+        "r": 1.7,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The operating system for the last chapter of care.",
+      "sub": "Retire the binders, the group texts, and the whiteboard. Willow Watch gives your agency one source of truth for every client, caregiver, and worried family member.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "One living care plan",
+        "description": "Every diagnosis, preference, and medication window lives in a single plan your whole team edits in real time — no more photocopied intake packets.",
+        "icon": "layers"
+      },
+      {
+        "title": "Coverage that never breaks",
+        "description": "See open shifts, call-outs, and drive times on one board. Fill a gap in two taps before a family ever notices it happened.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Families in the loop, automatically",
+        "description": "Adult children get a quiet daily summary — visits completed, meals, mood — without a single phone call to your office manager.",
+        "icon": "users"
+      },
+      {
+        "title": "Audit-ready in one click",
+        "description": "State survey next week? Export signed visit notes, EVV logs, and care plan history as a timestamped packet in seconds.",
+        "icon": "shield"
+      },
+      {
+        "title": "Medication windows you can trust",
+        "description": "Caregivers get the right MAR at the right hour, and missed doses escalate to the on-call nurse instead of getting lost.",
+        "icon": "clock"
+      },
+      {
+        "title": "Every client at a glance",
+        "description": "A live census board flags fall risk, hospital returns, and unstaffed clients so nothing quietly slips through the cracks.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We grew from 40 to 190 clients without adding a single scheduler. Willow Watch is the only reason my office manager still sleeps.",
+        "name": "Marisol Reyes",
+        "role": "Owner",
+        "company": "Evergreen Home Care"
+      },
+      {
+        "quote": "Our last state survey took forty minutes instead of three days. The auditor asked what software we used — I finally felt ahead instead of behind.",
+        "name": "Karen Whitfield",
+        "role": "Founder & RN",
+        "company": "Comfort Circle Care"
+      },
+      {
+        "quote": "The family updates cut our inbound calls in half. Daughters in three time zones now trust us because they can see the visit happened.",
+        "name": "Daniel Okafor",
+        "role": "Director of Operations",
+        "company": "Bayside Senior Support"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$32",
+        "period": "per seat / month",
+        "blurb": "For the owner-operator running a single team from the kitchen table.",
+        "features": [
+          "Up to 5 caregiver seats",
+          "Living care plans & MAR",
+          "Shift board & call-out alerts",
+          "Daily family summaries"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Agency",
+        "price": "$58",
+        "period": "per seat / month",
+        "blurb": "For growing agencies juggling coverage, compliance, and real census.",
+        "features": [
+          "Unlimited caregiver seats",
+          "EVV & signed visit notes",
+          "One-click audit exports",
+          "On-call nurse escalation",
+          "Live census & risk flags"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Network",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-branch operators standardizing care across regions.",
+        "features": [
+          "Multi-location roll-ups",
+          "SSO & role-based access",
+          "API & payroll integrations",
+          "Dedicated onboarding lead",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Willow Watch is the coordination layer for home-care agencies — because the people who care for our elders deserve tools worthy of the work."
+  }
+}

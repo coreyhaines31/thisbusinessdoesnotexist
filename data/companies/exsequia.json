@@ -1,0 +1,139 @@
+{
+  "name": "Exsequia",
+  "slug": "exsequia",
+  "industry": "funeral services",
+  "tagline": "End-of-life administration, professionally managed.",
+  "positioning": "Exsequia is the compliance-grade platform for planning, documenting, and executing final arrangements — so families act on decisions, not guesswork.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F3F1EB",
+    "surface": "#FBFAF5",
+    "text": "#26241F",
+    "primary": "#4C5749",
+    "accent": "#A2664C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 7.5 4.2 A 9 9 0 1 1 14.5 4.2 L 14.75 7.24 A 5.5 5.5 0 1 0 9.25 7.24 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 4,
+        "r": 1.9,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every final arrangement, documented and ready.",
+      "sub": "Exsequia turns fragmented paperwork, prepaid contracts, and family instructions into a single verified record your executor can act on — without a scavenger hunt through filing cabinets.",
+      "ctaLabel": "Open an account",
+      "secondaryCtaLabel": "Book a consultation"
+    },
+    "features": [
+      {
+        "title": "Arrangement Vault",
+        "description": "Store service preferences, prepaid plans, and provider contracts in one encrypted record — each field time-stamped and versioned for audit.",
+        "icon": "lock"
+      },
+      {
+        "title": "Executor Handoff",
+        "description": "Grant a named executor scoped access that activates on verification, so instructions surface the moment they are needed — not weeks later.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Provider Directory",
+        "description": "Compare licensed funeral homes, crematories, and celebrants with itemized pricing pulled from published general price lists.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Cost Ledger",
+        "description": "Track deposits, prepaid balances, and estimated obligations against your plan, with variance alerts when quotes drift.",
+        "icon": "chart"
+      },
+      {
+        "title": "Notification Register",
+        "description": "Maintain the who-to-tell list — beneficiaries, agencies, and institutions — with prewritten templates ready to dispatch.",
+        "icon": "bell"
+      },
+      {
+        "title": "Compliance Review",
+        "description": "Automated checks against state disclosure and prepaid-funeral trust requirements flag gaps before they become disputes.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I settled my father's arrangements in an afternoon because everything he decided was already in Exsequia. No binders, no guessing which crematory he'd prepaid.",
+        "name": "Marguerite Halloran",
+        "role": "Executor and daughter",
+        "company": "Private estate"
+      },
+      {
+        "quote": "We onboard every prearrangement client through Exsequia now. The versioned record ends the awkward calls where families dispute what was chosen.",
+        "name": "Desmond Ackroyd",
+        "role": "Managing Funeral Director",
+        "company": "Verrall & Sons Memorial"
+      },
+      {
+        "quote": "As an estate planner, I finally have a system where the final-wishes documentation matches the will. Exsequia closed a gap that used to cost my clients weeks.",
+        "name": "Priya Venkataraman",
+        "role": "Certified Estate Planner",
+        "company": "Northbrook Fiduciary Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Essential",
+        "price": "$9",
+        "period": "per month, billed annually",
+        "blurb": "Document your wishes and keep one verified record current.",
+        "features": [
+          "Arrangement Vault for one individual",
+          "Service preference worksheets",
+          "Single named executor access",
+          "Annual document review reminder"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Steward",
+        "price": "$29",
+        "period": "per month, billed annually",
+        "blurb": "Full planning, cost tracking, and compliant handoff for a household.",
+        "features": [
+          "Everything in Essential",
+          "Cost Ledger with variance alerts",
+          "Provider Directory with price comparison",
+          "Notification Register and templates",
+          "Up to four named executors",
+          "State compliance review"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "annual engagement",
+        "blurb": "Coordinated administration for families, trusts, and advisors.",
+        "features": [
+          "Everything in Steward",
+          "Multi-record management for dependents",
+          "Advisor and fiduciary collaboration",
+          "Dedicated onboarding specialist",
+          "Priority document verification"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Exsequia is a records and coordination platform. It does not provide funeral, legal, or financial services and is not a substitute for licensed counsel."
+  }
+}

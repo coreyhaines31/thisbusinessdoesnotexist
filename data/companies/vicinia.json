@@ -1,0 +1,138 @@
+{
+  "name": "Vicinia",
+  "slug": "vicinia",
+  "industry": "HOA management",
+  "tagline": "The calm, capable home for self-managed homeowners associations.",
+  "positioning": "Vicinia gives volunteer boards one earnest place to collect dues, log violations, and keep the minutes — without a management company's markup.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4ECDF",
+    "surface": "#FBF6EC",
+    "text": "#352A20",
+    "primary": "#B0552F",
+    "accent": "#8A7A45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 1 1 5.5 5.5",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 5.5,
+        "cy": 5.5,
+        "r": 2.1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your HOA like you actually enjoy your neighbors.",
+      "sub": "Dues, violations, meeting minutes, and reserve planning in one warm, unhurried workspace built for the volunteers who keep a community running.",
+      "ctaLabel": "Start your association",
+      "secondaryCtaLabel": "See a sample dashboard"
+    },
+    "features": [
+      {
+        "title": "Dues without the awkward emails",
+        "description": "Send annual and monthly assessments, auto-remind late payers, and reconcile payments to each address — so treasurers stop chasing checks at the mailbox.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Violations with a paper trail",
+        "description": "Log a fence repaint or an overflowing bin with photos, dates, and the exact bylaw cited. Vicinia builds the compliance letter and tracks every response.",
+        "icon": "shield"
+      },
+      {
+        "title": "Minutes that write themselves",
+        "description": "Run the agenda, record motions and votes live, and publish approved minutes to owners the same night — no more retyping legal pad scribbles.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Reserve fund clarity",
+        "description": "Model the roof, the pool pump, and the private road on one timeline so the board knows exactly when to raise assessments instead of guessing.",
+        "icon": "chart"
+      },
+      {
+        "title": "Architectural review, unstuck",
+        "description": "Owners submit paint colors and deck plans through a form; reviewers approve, request changes, or deny — all timestamped for the next annual meeting.",
+        "icon": "layers"
+      },
+      {
+        "title": "One document library",
+        "description": "CC&Rs, bylaws, insurance certificates, and vendor contracts live in one searchable place every owner and board member can find.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were a spreadsheet, a shared inbox, and a lot of hard feelings. Vicinia turned our 34-home association into something I can actually hand off when my term ends.",
+        "name": "Marisol Reyes",
+        "role": "Board President",
+        "company": "Cedar Hollow Homeowners Association"
+      },
+      {
+        "quote": "The violation letters used to take me a full Saturday. Now I photograph the issue on my walk and the notice is drafted with the right covenant before I'm home.",
+        "name": "Dennis Whitlock",
+        "role": "Compliance Volunteer",
+        "company": "Marsh Landing HOA"
+      },
+      {
+        "quote": "Owners stopped asking where the money goes. The reserve timeline is right there, and our special assessment vote passed because people could finally see it.",
+        "name": "Priya Anand",
+        "role": "Treasurer",
+        "company": "Overlook Ridge Community Association"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Cottage",
+        "price": "$19",
+        "period": "per month, billed annually",
+        "blurb": "For small self-managed associations getting organized for the first time.",
+        "features": [
+          "Up to 20 homes",
+          "Dues collection & reminders",
+          "Document library",
+          "Meeting minutes & voting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Neighborhood",
+        "price": "$49",
+        "period": "per month, billed annually",
+        "blurb": "For active boards running dues, violations, and reserves together.",
+        "features": [
+          "Up to 120 homes",
+          "Everything in Cottage",
+          "Violation tracking & letters",
+          "Architectural review forms",
+          "Reserve fund planning"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Association",
+        "price": "$99",
+        "period": "per month, billed annually",
+        "blurb": "For larger communities with multiple committees and vendors.",
+        "features": [
+          "Up to 400 homes",
+          "Everything in Neighborhood",
+          "Committee roles & permissions",
+          "Vendor & contract tracking",
+          "Priority email support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vicinia is the earnest workspace for volunteer-run homeowners associations — collect dues, keep records, and govern with a little more grace."
+  }
+}

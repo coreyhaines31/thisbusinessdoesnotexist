@@ -1,0 +1,126 @@
+{
+  "name": "Voyge",
+  "slug": "voyge",
+  "industry": "artisanal logistics",
+  "tagline": "Enterprise logistics for goods that can't be treated like freight.",
+  "positioning": "Voyge is the supply-chain layer for makers shipping fragile, high-value, made-to-order goods at enterprise volume — with chain-of-custody, damage-aware routing, and per-unit care baked in.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F5F2EC",
+    "surface": "#FFFFFF",
+    "text": "#2C3A35",
+    "primary": "#47806A",
+    "accent": "#E6A8A0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,13 12,4 21,13 16.5,13 12,8.5 7.5,13",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "3,20 12,11 21,20 16.5,20 12,15.5 7.5,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every handmade order deserves a supply chain built around it.",
+      "sub": "Voyge moves ceramics, small-batch spirits, bespoke furniture, and limited runs the way your makers would — tracked unit by unit, routed to avoid damage, and reconciled against every purchase order without the spreadsheet archaeology.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Unit-level chain of custody",
+        "description": "Every piece gets a scan at each touch — from the maker's bench to the receiving dock. When a buyer asks where order #4471 is, you answer in seconds, not emails.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Damage-aware routing",
+        "description": "Voyge models fragility, orientation, and handoff count per SKU, then routes around the lanes and carriers that historically break your goods. Fewer claims, fewer reships.",
+        "icon": "shield"
+      },
+      {
+        "title": "Small-batch consolidation",
+        "description": "Group made-to-order runs from a dozen ateliers into a single audited shipment without losing per-maker provenance or splitting your invoices.",
+        "icon": "layers"
+      },
+      {
+        "title": "Returns handled as originals",
+        "description": "Reverse logistics with the same care as the first mile — inspected, re-photographed, and restocked or routed to repair with a full condition record.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We shipped 9,000 hand-thrown pieces last quarter and our breakage claims dropped by two-thirds. The provenance record alone ended three years of arguing with our wholesale accounts.",
+        "name": "Marisol Ferreira",
+        "role": "VP of Operations",
+        "company": "Clayfield Studios"
+      },
+      {
+        "quote": "Before Voyge, consolidating twelve furniture makers into one B2B order was a week of phone calls. Now it's a routing plan I approve on Monday morning, invoiced per unit.",
+        "name": "Devin Ashworth",
+        "role": "Director of Supply Chain",
+        "company": "Northwall Interiors"
+      },
+      {
+        "quote": "The unit-level scans mean our compliance team can audit a shipment of small-batch spirits end to end. Our distributors trust the paperwork now, which is most of the battle.",
+        "name": "Priya Raghunathan",
+        "role": "Head of Distribution",
+        "company": "Cask & Coast"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$2.40",
+        "period": "per unit shipped",
+        "blurb": "For single-workshop brands scaling into wholesale accounts.",
+        "features": [
+          "Unit-level chain of custody",
+          "Standard damage-aware routing",
+          "Returns portal",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Consortium",
+        "price": "$1.60",
+        "period": "per unit, volume-tiered",
+        "blurb": "For multi-maker collectives and growing enterprise catalogs.",
+        "features": [
+          "Everything in Atelier",
+          "Small-batch consolidation",
+          "Per-maker provenance records",
+          "Carrier claim automation",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "negotiated per-lane rates",
+        "blurb": "For national programs with dedicated lanes and SLAs.",
+        "features": [
+          "Everything in Consortium",
+          "Dedicated lane modeling",
+          "Custom SLAs and audits",
+          "ERP and OMS integrations",
+          "Named logistics manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Voyge is the logistics layer for makers who refuse to treat their work like pallets. Built for enterprise buyers who need provenance, care, and a per-unit paper trail that holds up."
+  }
+}

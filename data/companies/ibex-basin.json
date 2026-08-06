@@ -1,0 +1,139 @@
+{
+  "name": "Ibex Basin",
+  "slug": "ibex-basin",
+  "industry": "cold-plunge studios",
+  "tagline": "The temple of the cold, engineered for the ascent of your nervous system.",
+  "positioning": "Membership cold-plunge studios where prosumers train recovery like athletes — precision water, ritual, and biometrics under one warm roof.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F3E8D7",
+    "surface": "#E9D9C1",
+    "text": "#2C1D12",
+    "primary": "#A8472C",
+    "accent": "#C88A2C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IB",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 5 L7 5 L12 15 L17 5 L21 5 L14 19 L10 19 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 7,
+        "r": 1.8,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold is not punishment. It is the summit you visit daily.",
+      "sub": "Ibex Basin builds temperature-precise plunge studios where every session is dialed to 38°F, tracked to the second, and choreographed into a recovery ritual you'll never skip.",
+      "ctaLabel": "Claim your basin",
+      "secondaryCtaLabel": "Tour a studio"
+    },
+    "features": [
+      {
+        "title": "38°F, held to the decimal",
+        "description": "Our chillers stabilize each basin within 0.3°F so the shock is deliberate, never chaotic. No warm pockets, no guesswork — just the exact cold your protocol calls for.",
+        "icon": "target"
+      },
+      {
+        "title": "The Ascent protocol",
+        "description": "A guided breath-and-immersion arc projected on the basin wall, escalating from 60 seconds to 4 minutes over your first six weeks. Progress is earned, not improvised.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Biometrics that follow you out",
+        "description": "HRV, skin temp, and recovery score sync to your Ibex profile the moment you rise. See the adaptation curve most plungers never get to measure.",
+        "icon": "chart"
+      },
+      {
+        "title": "Book the exact minute you need",
+        "description": "Studios run on eight-minute slots from 5am. Reserve, arrive, plunge, and be at your desk by 6 — no lobbies, no towels-at-the-door chaos.",
+        "icon": "clock"
+      },
+      {
+        "title": "Warm return, always",
+        "description": "Every basin pairs with an infrared alcove and cedar bench so the reheat is as ritualized as the cold. Warm earth, cold water, one continuous rite.",
+        "icon": "layers"
+      },
+      {
+        "title": "Studios in nine climates",
+        "description": "From high desert to coastal fog, each location tunes water chemistry to local conditions. Your membership plunges the same everywhere you travel.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to wrestle a wheelie-bin of ice in my garage at 5am. Ibex Basin turned my most dreaded ritual into the calmest eight minutes of my day. The HRV data alone rebuilt my sleep.",
+        "name": "Dara Whitlock",
+        "role": "Endurance Coach",
+        "company": "Northbound Athletic"
+      },
+      {
+        "quote": "Our whole product team plunges before standup now. The Ascent protocol gave people who'd never touch cold water a way in — and the recovery scores are genuinely absurd.",
+        "name": "Marcus Feld",
+        "role": "Head of People",
+        "company": "Larkfield Labs"
+      },
+      {
+        "quote": "As a physiotherapist I'm ruthless about protocols. Ibex holds temperature better than the clinical tanks I trained on, and the session logs let me prescribe cold like I prescribe reps.",
+        "name": "Priya Anand",
+        "role": "Sports Physiotherapist",
+        "company": "Meridian Recovery Clinic"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Initiate",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "Four guided plunges a month to build the habit without the shock to your calendar.",
+        "features": [
+          "4 basin sessions monthly",
+          "The Ascent onboarding protocol",
+          "Infrared alcove after every plunge",
+          "Session logs in the Ibex app"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Ascent",
+        "price": "$189",
+        "period": "per month",
+        "blurb": "Unlimited cold for the daily practitioner who treats recovery as training.",
+        "features": [
+          "Unlimited basin sessions",
+          "Full biometric sync (HRV, skin temp)",
+          "Priority 5am–7am slots",
+          "2 guest passes each month",
+          "Access to any Ibex studio nationwide"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Summit",
+        "price": "$420",
+        "period": "per month",
+        "blurb": "Private basins and a dedicated recovery coach for the fully committed.",
+        "features": [
+          "Everything in Ascent",
+          "Reserved private basin daily",
+          "Monthly 1:1 recovery coaching",
+          "Custom temperature and breath protocols",
+          "Bloodwork-informed adaptation reviews",
+          "Concierge booking across all climates"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ibex Basin operates precision cold-plunge studios for people who treat recovery as a daily ascent. Cold water, warm return, measured progress."
+  }
+}

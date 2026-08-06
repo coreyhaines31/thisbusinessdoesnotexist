@@ -1,0 +1,138 @@
+{
+  "name": "Vialis",
+  "slug": "vialis",
+  "industry": "fleet telematics",
+  "tagline": "The friendly tracker for the vehicles you actually own.",
+  "positioning": "Vialis brings professional-grade telematics to your car, camper, trailer, and boat — no fleet, no contract, just clear answers about where your stuff is.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F3F1EB",
+    "surface": "#FBFAF6",
+    "text": "#26261F",
+    "primary": "#3E5C52",
+    "accent": "#C56A44"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18.36 5.64 A9 9 0 1 1 18.36 18.36 L15.54 15.54 A5 5 0 1 0 15.54 8.46 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 20.5,
+        "cy": 12,
+        "r": 2.2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know where every vehicle you love is, right now.",
+      "sub": "Vialis is the plug-in tracker and app built for the one-truck, one-camper, one-boat crowd. Real GPS, real trip history, honest pricing — no fleet manager required.",
+      "ctaLabel": "Start tracking free",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Plug in and forget it",
+        "description": "The Vialis dongle clips into your OBD-II port in ten seconds. Location, mileage, and battery health start flowing before you've buckled up.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Trip logs that write themselves",
+        "description": "Every drive is auto-tagged personal or business, so your mileage report for taxes builds itself instead of living in a shoebox of receipts.",
+        "icon": "chart"
+      },
+      {
+        "title": "Nudges before things go wrong",
+        "description": "Get a friendly ping when a battery dips, a tow starts moving your parked trailer, or your camper strays outside the storage lot at 2am.",
+        "icon": "bell"
+      },
+      {
+        "title": "One map for the whole driveway",
+        "description": "Car, boat trailer, motorcycle, and the loaner you gave your kid — all on a single tidy map instead of four separate apps.",
+        "icon": "compass"
+      },
+      {
+        "title": "History you can scroll back through",
+        "description": "Replay any route from the last year, down to the minute. Great for insurance claims, warranty disputes, and settling family debates.",
+        "icon": "clock"
+      },
+      {
+        "title": "Your data stays yours",
+        "description": "No selling your movements to advertisers, ever. Export everything or delete it all with one tap — we mean it.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I bought a used camper van and the seller swore it barely left the county. Vialis showed me the real trip history from the OBD logs. It's paid for itself as peace of mind alone.",
+        "name": "Danielle Ferris",
+        "role": "Weekend van-lifer",
+        "company": "Independent"
+      },
+      {
+        "quote": "I run a two-truck landscaping side gig. Vialis auto-splits my personal and work miles, so tax season went from a full Saturday to about ten minutes.",
+        "name": "Marcus Ojeda",
+        "role": "Owner-operator",
+        "company": "Ojeda Yard & Grounds"
+      },
+      {
+        "quote": "My boat trailer was stolen out of a storage lot overnight. Vialis pinged me, I sent the live location to the sheriff, and we had it back by lunch.",
+        "name": "Priya Nandakumar",
+        "role": "Recreational boater",
+        "company": "Independent"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$6",
+        "period": "per month, one vehicle",
+        "blurb": "For the single car or truck you'd never want to lose track of.",
+        "features": [
+          "1 tracker included",
+          "Live location + trip history",
+          "Automatic mileage log",
+          "30-day route replay"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Driveway",
+        "price": "$14",
+        "period": "per month, up to 5 vehicles",
+        "blurb": "For the household with a car, a trailer, and a toy or two.",
+        "features": [
+          "Up to 5 trackers",
+          "Unlimited route replay",
+          "Theft & tow-away alerts",
+          "Business vs personal mileage",
+          "Shared access for family"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Prosumer",
+        "price": "$29",
+        "period": "per month, up to 15 vehicles",
+        "blurb": "For the side hustle that outgrew a spreadsheet but not a fleet.",
+        "features": [
+          "Up to 15 trackers",
+          "Maintenance & battery health",
+          "CSV & accounting exports",
+          "Geofences for job sites",
+          "Priority human support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vialis is telematics for people, not fleets. Made for the vehicles you actually own, love, and occasionally worry about."
+  }
+}

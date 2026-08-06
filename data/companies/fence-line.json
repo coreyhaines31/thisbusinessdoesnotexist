@@ -1,0 +1,136 @@
+{
+  "name": "Fence Line",
+  "slug": "fence-line",
+  "industry": "HOA management",
+  "tagline": "HOA software that doesn't make you hate your neighbors more than you already do",
+  "positioning": "Fence Line runs violation letters, dues, and board drama for small property managers who own the whole thing and answer every angry email themselves.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#eff7f4",
+    "surface": "#ffffff",
+    "text": "#0b2b2a",
+    "primary": "#0d9c72",
+    "accent": "#1f5fe0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "FL",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The HOA runs itself. You just take the credit.",
+      "sub": "Fence Line handles the violation letters, the dues nobody wants to pay, and the meeting minutes nobody reads — so you can manage 40 communities without becoming the villain in all of them.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a demo board"
+    },
+    "features": [
+      {
+        "title": "Violation letters, minus the writing",
+        "description": "Snap a photo of the beige-adjacent shutters, pick the bylaw, and Fence Line mails the notice with the exact clause quoted. Certified receipts logged automatically.",
+        "icon": "bell"
+      },
+      {
+        "title": "Dues that collect themselves",
+        "description": "Auto-billing, late fees, and payment plans for the guy who's been 'sending a check' since March. Delinquency reports the board actually understands.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Reserve math you can defend",
+        "description": "Live reserve fund tracking against your study, so when someone yells 'where did the money go' at the annual meeting, you have the answer on screen.",
+        "icon": "shield"
+      },
+      {
+        "title": "One inbox for the chaos",
+        "description": "Owner emails, texts, and portal messages land in a single thread per unit. No more digging through a personal Gmail account at 11pm.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Board portal that hides the mess",
+        "description": "Give directors a clean dashboard — votes, budgets, and open items — while you keep the receipts and the audit trail behind the scenes.",
+        "icon": "users"
+      },
+      {
+        "title": "Documents that don't vanish",
+        "description": "CC&Rs, meeting minutes, and vendor contracts in one searchable vault. Find the 2019 amendment before the lawyer asks twice.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I went from 12 communities to 31 without hiring anyone. The violation letters used to eat my Fridays — now they go out while I'm in the truck.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Vega Community Management"
+      },
+      {
+        "quote": "An owner accused us of losing $18k from the reserve. I pulled the ledger up on my phone at the meeting. The room got very quiet, very fast.",
+        "name": "Doug Reinhart",
+        "role": "Managing Partner",
+        "company": "Cedar Ridge HOA Services"
+      },
+      {
+        "quote": "My whole business used to live in my personal inbox. Fence Line made me look like a company with a back office. I am still just me and a golden retriever.",
+        "name": "Priya Anand",
+        "role": "Principal",
+        "company": "Anand Property Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$14",
+        "period": "per seat / month",
+        "blurb": "For the one-person shop running a handful of associations from a laptop.",
+        "features": [
+          "Up to 5 communities",
+          "Violation letters & dues billing",
+          "Owner inbox",
+          "Document vault"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$32",
+        "period": "per seat / month",
+        "blurb": "For growing managers who stopped answering the phone personally.",
+        "features": [
+          "Unlimited communities",
+          "Reserve fund tracking",
+          "Board portals & voting",
+          "Certified mail integration",
+          "Delinquency automation"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Firm",
+        "price": "Custom",
+        "period": "per seat, billed annually",
+        "blurb": "For multi-manager firms with real accounting and real auditors.",
+        "features": [
+          "Everything in Operator",
+          "SSO & role permissions",
+          "Accounting sync & audit exports",
+          "Dedicated onboarding",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Fence Line is HOA management software for people who never wanted to run an HOA. Fewer letters, faster dues, quieter meetings."
+  }
+}

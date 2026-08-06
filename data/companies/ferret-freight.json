@@ -1,0 +1,135 @@
+{
+  "name": "Ferret Freight",
+  "slug": "ferret-freight",
+  "industry": "artisanal logistics",
+  "tagline": "Small-batch shipping for people who name their houseplants.",
+  "positioning": "We hand-route your one weird package the way big carriers route ten million boring ones — with a real human, a real plan, and zero robot hold music.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0B0B10",
+    "surface": "#16161F",
+    "text": "#F3F3F8",
+    "primary": "#3DFF9A",
+    "accent": "#FF44C4"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "FF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Ship the weird stuff without begging a warehouse.",
+      "sub": "Vintage guitars, sourdough starters, a chair you swear is worth it — Ferret Freight plans, packs, and tracks the one-off shipments the big carriers pretend don't exist.",
+      "ctaLabel": "Book a route",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Human dispatch, actual humans",
+        "description": "Message a named router — not a chatbot named after a season — who owns your shipment from doorstep to doorstep and answers before you finish typing.",
+        "icon": "users"
+      },
+      {
+        "title": "Packaging that isn't an afterthought",
+        "description": "We spec the crate, foam, and fragile-tape for your specific fragile thing, then send a photo before it leaves. No mystery boxes.",
+        "icon": "layers"
+      },
+      {
+        "title": "One shipment, every carrier",
+        "description": "We quietly stitch together couriers, freight, and that one van guy so your single package gets the network big shippers hoard.",
+        "icon": "globe"
+      },
+      {
+        "title": "Tracking you'll actually read",
+        "description": "Plain-language updates at every handoff, plus a map pin that moves. No 14-digit codes, no 'in transit' for six silent days.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Insurance without the séance",
+        "description": "Declare value in one field. If something breaks, we file it, chase it, and pay it — you don't summon a claims department.",
+        "icon": "shield"
+      },
+      {
+        "title": "Pickup on your clock",
+        "description": "Pick a window, we come to your kitchen table. Reschedule from your phone without losing your place in line.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I sold a 1968 Rickenbacker to a stranger in Lisbon and slept fine. Ferret crated it, photographed it, and texted me when it cleared customs. The buyer cried. Good tears.",
+        "name": "Dara Okonkwo",
+        "role": "Founder & Repair Tech",
+        "company": "Third Coast Guitar Works"
+      },
+      {
+        "quote": "We ship live sourdough starters to home bakers. Every other carrier treated them like hazardous freight. These people asked how warm the box should be. Nobody asks that.",
+        "name": "Marisol Betancourt",
+        "role": "Head of Fulfillment",
+        "company": "Levain & Loafing"
+      },
+      {
+        "quote": "My whole business is one-off ceramic commissions. I stopped dreading shipping day. The named router thing sounds gimmicky until it's 9pm and someone actually replies.",
+        "name": "Theo Vandermeer",
+        "role": "Studio Owner",
+        "company": "Slow Kiln Ceramics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Now & Then",
+        "price": "$0",
+        "period": "per account, pay per shipment",
+        "blurb": "For the occasional 'oh no I have to mail this' moment.",
+        "features": [
+          "Pay-as-you-go routing per shipment",
+          "Named router while active",
+          "Standard packaging spec",
+          "Plain-language tracking"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Regular",
+        "price": "$24",
+        "period": "per month",
+        "blurb": "For makers and resellers who ship most weeks.",
+        "features": [
+          "Everything in Now & Then",
+          "10 planned shipments monthly",
+          "Priority pickup windows",
+          "Photo-before-it-leaves on every box",
+          "Included value coverage to $2,000"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Operation",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For studios and shops shipping fragile, weird, and often.",
+        "features": [
+          "Unlimited planned shipments",
+          "Dedicated router team",
+          "Custom crating & materials",
+          "Higher declared-value coverage",
+          "API + label automation"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ferret Freight moves the one package that matters like it's the only one on Earth. Because to you, obviously, it is."
+  }
+}

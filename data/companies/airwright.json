@@ -1,0 +1,162 @@
+{
+  "name": "Airwright",
+  "slug": "airwright",
+  "industry": "HVAC field service",
+  "tagline": "The operating system for the modern HVAC field business.",
+  "positioning": "Airwright unifies dispatch, service agreements, and invoicing into one disciplined workflow built for owner-operated heating and cooling companies.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F4F2EC",
+    "surface": "#FBFAF6",
+    "text": "#26241E",
+    "primary": "#40566A",
+    "accent": "#A9663C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run a tighter HVAC shop, one dispatch at a time.",
+      "sub": "Airwright brings scheduling, technician routing, maintenance agreements, and same-day invoicing into a single system engineered for owner-operators who answer their own phones.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See a live board"
+    },
+    "features": [
+      {
+        "title": "Dispatch board that holds up in July",
+        "description": "Drag calls across your technician roster, see drive time before you commit, and rebook no-shows without touching a paper schedule.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Service agreements on autopilot",
+        "description": "Airwright tracks every maintenance contract, triggers seasonal tune-up reminders, and flags the accounts due for renewal before they lapse.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Invoice from the driveway",
+        "description": "Techs build line-item invoices on the truck, capture card payments on-site, and sync every transaction to your books the same afternoon.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Price books your crew can trust",
+        "description": "Standardize flat-rate pricing across every technician so the quote a homeowner hears matches the invoice they sign.",
+        "icon": "database"
+      },
+      {
+        "title": "Equipment history that follows the unit",
+        "description": "Every system carries its full service record, warranty status, and photos, so the second visit starts where the first one ended.",
+        "icon": "layers"
+      },
+      {
+        "title": "Margin you can actually see",
+        "description": "Job costing pulls labor, parts, and trip charges together so you know which work makes money and which quietly drains it.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We cut our unbilled work in half the first month. Every ticket now closes with a signed invoice before the tech leaves the property.",
+        "name": "Dana Whitcomb",
+        "role": "Owner",
+        "company": "Whitcomb Heating & Air"
+      },
+      {
+        "quote": "Airwright made our maintenance agreements the backbone of the business. Renewals stopped slipping through the cracks the moment we switched.",
+        "name": "Marcus Petrelli",
+        "role": "General Manager",
+        "company": "Petrelli Climate Services"
+      },
+      {
+        "quote": "During the summer surge I can rebalance six trucks from my phone. It replaced the whiteboard, the group text, and three spreadsheets.",
+        "name": "Renata Voss",
+        "role": "Operations Lead",
+        "company": "Northline Comfort Systems"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For solo shops and small crews getting off paper and spreadsheets.",
+        "features": [
+          "Dispatch board and scheduling",
+          "On-site invoicing and payments",
+          "Flat-rate price book",
+          "Customer and equipment records"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing companies running multiple trucks and service agreements.",
+        "features": [
+          "Everything in Operator",
+          "Maintenance agreement automation",
+          "Technician routing and drive-time",
+          "Job costing and margin reports",
+          "QuickBooks and Xero sync"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators standardizing across every branch.",
+        "features": [
+          "Everything in Crew",
+          "Multi-location dispatch",
+          "Role-based permissions",
+          "API and warranty integrations",
+          "Dedicated onboarding manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Airwright is the field service platform for owner-operated HVAC companies that take their reputation as seriously as their revenue."
+  }
+}

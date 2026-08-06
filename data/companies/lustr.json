@@ -1,0 +1,136 @@
+{
+  "name": "Lustr",
+  "slug": "lustr",
+  "industry": "industrial cleaning",
+  "tagline": "The operating system for verified industrial cleaning at scale.",
+  "positioning": "Lustr turns messy clipboards and photo threads into auditable, sensor-verified clean-cycles across every plant, warehouse, and processing floor you run.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0C0E",
+    "surface": "#15181C",
+    "text": "#EAF2EE",
+    "primary": "#3BFF9E",
+    "accent": "#7A5CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "L",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 21 A9 9 0 0 0 21 12 L12 12 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every clean, logged. Every floor, proven.",
+      "sub": "Lustr coordinates crews, schedules, and IoT verification so your facilities team can prove a surface was actually sanitized — not just marked done on a clipboard.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a sample audit"
+    },
+    "features": [
+      {
+        "title": "Sensor-verified clean-cycles",
+        "description": "Pair ATP swabs and area sensors to each task so a completed job carries proof, not a promise. No more he-said-she-said before an audit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Crew routing that flexes",
+        "description": "Auto-build nightly routes across zones by contamination risk, downtime windows, and crew certs. Reroute in seconds when a line goes down early.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Compliance packets on demand",
+        "description": "Export a timestamped, photo-backed sanitation log for FDA, OSHA, or a customer audit in one click — filtered to the exact date and line.",
+        "icon": "database"
+      },
+      {
+        "title": "Chemical usage tracking",
+        "description": "Meter every gallon of degreaser and sanitizer against the surface it touched, so reorders and dilution ratios stop being guesswork.",
+        "icon": "chart"
+      },
+      {
+        "title": "Downtime-aware scheduling",
+        "description": "Sync with your MES to schedule deep cleans only inside real production gaps, cutting overtime and missed sanitation windows.",
+        "icon": "clock"
+      },
+      {
+        "title": "Multi-site rollups",
+        "description": "Compare sanitation SLAs across 3 plants or 300 from one board, and drill into the one zone that keeps failing verification.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Lustr, our third-shift sanitation records were a stack of laminated checklists. Now a customer audit that used to eat two days takes an afternoon, and every clean has a swab result attached.",
+        "name": "Danielle Ochoa",
+        "role": "Director of Food Safety",
+        "company": "Northline Provisions"
+      },
+      {
+        "quote": "We cut sanitizer spend 19% in the first quarter just by seeing where crews were over-dosing. The routing engine paid for itself before the chemical savings even showed up.",
+        "name": "Marcus Feld",
+        "role": "VP Facilities Operations",
+        "company": "Cardinal Cold Storage"
+      },
+      {
+        "quote": "The metered pricing was the unlock for finance. We only pay for verified square footage, so onboarding a fourth distribution center didn't mean renegotiating a giant seat contract.",
+        "name": "Priya Nandakumar",
+        "role": "Plant Operations Manager",
+        "company": "Altus Aseptic"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Metered",
+        "price": "$0.004",
+        "period": "per verified sq ft / month",
+        "blurb": "For single-site teams putting their first floors on proof-based cleaning.",
+        "features": [
+          "Up to 2 facilities",
+          "Sensor & swab verification",
+          "Mobile crew app",
+          "Standard compliance exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.0025",
+        "period": "per verified sq ft / month",
+        "blurb": "Volume-tiered rates for operators running verified cleaning across many zones.",
+        "features": [
+          "Unlimited facilities",
+          "Downtime-aware routing",
+          "MES & sensor integrations",
+          "Chemical usage analytics",
+          "Multi-site SLA rollups"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual volume",
+        "blurb": "For national footprints with strict audit and data-residency needs.",
+        "features": [
+          "Volume floor pricing",
+          "Dedicated solutions engineer",
+          "SSO, SCIM & audit API",
+          "Custom retention & residency",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Lustr is the verified-cleaning platform for industrial operators who have to prove it, not just do it. Built for facilities, food safety, and ops teams."
+  }
+}

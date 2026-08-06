@@ -1,0 +1,149 @@
+{
+  "name": "Stoveport",
+  "slug": "stoveport",
+  "industry": "ghost kitchens",
+  "tagline": "Operational infrastructure for the multi-brand delivery kitchen.",
+  "positioning": "Stoveport unifies menu deployment, ticket routing, and unit economics across every virtual brand you run from a single physical kitchen.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F1EEF8",
+    "surface": "#FBFAFE",
+    "text": "#1E1B30",
+    "primary": "#5B4BD6",
+    "accent": "#EAA6C6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SP",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 15,
+        "cy": 9,
+        "r": 6,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 8,
+        "cy": 15,
+        "r": 3,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every virtual brand from one control layer.",
+      "sub": "Stoveport consolidates menus, aggregator tickets, prep timing, and per-brand margin into a single operating console built for owner-operators managing multiple concepts out of one kitchen.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View documentation"
+    },
+    "features": [
+      {
+        "title": "Unified ticket routing",
+        "description": "Consolidate DoorDash, Uber Eats, and Grubhub orders into one expo screen with automatic prep-station assignment and firing sequence.",
+        "icon": "inbox"
+      },
+      {
+        "title": "One-click menu deployment",
+        "description": "Push price, hours, and 86'd items across every brand and marketplace at once. No more editing seven dashboards before the dinner rush.",
+        "icon": "layers"
+      },
+      {
+        "title": "Per-brand unit economics",
+        "description": "See contribution margin by concept, daypart, and platform. Identify which virtual brand actually earns its shelf space.",
+        "icon": "chart"
+      },
+      {
+        "title": "Prep and labor scheduling",
+        "description": "Forecast covers by hour, generate prep lists, and align staff seats to projected ticket volume across concurrent brands.",
+        "icon": "clock"
+      },
+      {
+        "title": "Compliance recordkeeping",
+        "description": "Automated cook-temp logs, allergen manifests, and marketplace audit exports kept current for every jurisdiction you operate in.",
+        "icon": "shield"
+      },
+      {
+        "title": "Marketplace reconciliation",
+        "description": "Match aggregator payouts to fired tickets and flag chargebacks, missing items, and commission discrepancies automatically.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Stoveport we edited five aggregator dashboards every morning. Now menu changes take one action and our expo screen stopped dropping tickets during peak. Order accuracy is up and comps are down.",
+        "name": "Marisol Rivera",
+        "role": "Owner-Operator",
+        "company": "Cedar & Coal Kitchens"
+      },
+      {
+        "quote": "The per-brand margin view told us one of our four concepts was losing money on every ticket. We cut it, reallocated the seats, and lifted total contribution the same week.",
+        "name": "Devin Osei",
+        "role": "Managing Partner",
+        "company": "Northline Culinary Group"
+      },
+      {
+        "quote": "Reconciliation used to eat a full day each week. Stoveport flags the discrepancies and exports the audit trail. Our bookkeeper stopped asking me for screenshots.",
+        "name": "Priya Nadar",
+        "role": "Multi-Unit Operator",
+        "company": "Skillet Row Hospitality"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For a single kitchen running one to three virtual brands.",
+        "features": [
+          "Up to 3 brands",
+          "Unified ticket expo",
+          "One-click menu deployment",
+          "Standard compliance logs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multi-Unit",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing operators scaling concepts across locations.",
+        "features": [
+          "Unlimited brands",
+          "Per-brand unit economics",
+          "Prep & labor scheduling",
+          "Marketplace reconciliation",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For franchise networks and kitchen aggregators.",
+        "features": [
+          "SSO & role controls",
+          "Multi-region compliance",
+          "API & POS integrations",
+          "Dedicated success manager",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Stoveport is the operating console for multi-brand ghost kitchens. Deploy menus, route tickets, and measure margin from one place."
+  }
+}

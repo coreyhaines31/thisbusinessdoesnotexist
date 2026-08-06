@@ -1,0 +1,136 @@
+{
+  "name": "Zenth",
+  "slug": "zenth",
+  "industry": "drone inspection",
+  "tagline": "Autonomous drone inspection for critical infrastructure at scale.",
+  "positioning": "Zenth turns raw drone flights into audit-ready inspection reports for utilities, telecom, and energy operators — no manual review required.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0A0B",
+    "surface": "#15161A",
+    "text": "#F4F5F7",
+    "primary": "#D7FF2E",
+    "accent": "#8A94A6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "Z",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every asset inspected. Every defect documented.",
+      "sub": "Zenth plans the flight, flies the mission, and delivers a compliance-grade inspection report — so your engineers stop reviewing footage frame by frame and start acting on findings.",
+      "ctaLabel": "Book a deployment",
+      "secondaryCtaLabel": "View sample report"
+    },
+    "features": [
+      {
+        "title": "Autonomous mission planning",
+        "description": "Define an asset once. Zenth generates repeatable flight paths for towers, turbines, and transmission lines that hold up across quarterly re-inspections.",
+        "icon": "compass"
+      },
+      {
+        "title": "AI defect detection",
+        "description": "Corrosion, cracking, and thermal anomalies are flagged, classified, and severity-ranked automatically — before a human ever opens the imagery.",
+        "icon": "target"
+      },
+      {
+        "title": "Audit-ready reporting",
+        "description": "Export inspection packages that map to NERC, OSHA, and internal asset-integrity standards, complete with geotags and chain-of-custody logs.",
+        "icon": "shield"
+      },
+      {
+        "title": "Digital twin reconstruction",
+        "description": "Turn every flight into a georeferenced 3D model, so remote teams can measure clearances and track degradation without a site visit.",
+        "icon": "layers"
+      },
+      {
+        "title": "Fleet orchestration",
+        "description": "Manage pilots, aircraft, and airspace approvals across regions from one console, with utilization and downtime tracked per unit.",
+        "icon": "globe"
+      },
+      {
+        "title": "System of record integration",
+        "description": "Push findings straight into Maximo, SAP, or your EAM via API — no CSV exports, no duplicate data entry between teams.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We cut our transmission-line inspection cycle from eleven weeks to nine days. The defect ranking alone lets my engineers triage before they ever leave the office.",
+        "name": "Dana Whitfield",
+        "role": "VP, Asset Integrity",
+        "company": "Meridian Grid Partners"
+      },
+      {
+        "quote": "Compliance used to be the bottleneck. Zenth's report packages passed our regulator's audit on the first submission — that has never happened before.",
+        "name": "Rafael Ortega",
+        "role": "Director of Reliability",
+        "company": "Cascade Power Authority"
+      },
+      {
+        "quote": "Across 4,200 cell sites, consistency was impossible with contractors. Zenth flies the same mission every quarter, and the data lines up perfectly.",
+        "name": "Priya Nair",
+        "role": "Head of Network Operations",
+        "company": "Northbeam Telecom"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$4",
+        "period": "per flight-minute",
+        "blurb": "For teams validating autonomous inspection on a single asset class.",
+        "features": [
+          "Up to 500 flight-minutes / month",
+          "AI defect detection",
+          "Standard report exports",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$2.60",
+        "period": "per flight-minute",
+        "blurb": "For operators running recurring inspections across regions.",
+        "features": [
+          "Volume-tiered flight pricing",
+          "Digital twin reconstruction",
+          "Compliance report packages",
+          "EAM & API integrations",
+          "Priority support with SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual committed volume",
+        "blurb": "For national infrastructure fleets with regulatory scope.",
+        "features": [
+          "Committed-volume rate cards",
+          "Dedicated deployment engineer",
+          "Custom compliance mappings",
+          "SSO, audit logs, data residency",
+          "24/7 support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Zenth delivers autonomous, audit-ready drone inspection for the infrastructure the world depends on."
+  }
+}

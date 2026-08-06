@@ -1,0 +1,136 @@
+{
+  "name": "Verdexa",
+  "slug": "verdexa",
+  "industry": "cannabis compliance",
+  "tagline": "The regulatory operating system for the legal cannabis enterprise.",
+  "positioning": "Verdexa unifies seed-to-sale tracking, license governance, and audit-grade reporting into one control plane for multi-state cannabis operators.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A1826",
+    "surface": "#122B3E",
+    "text": "#E3F2F1",
+    "primary": "#20B7A4",
+    "accent": "#3E8FEF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,9 17,9 12,5.5 7,9 2,9",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,10.5 22,17.5 17,17.5 12,14 7,17.5 2,17.5",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that scales with every license you hold.",
+      "sub": "Verdexa turns fragmented state mandates, METRC syncs, and audit trails into a single governed system of record — built for operators running across dozens of jurisdictions.",
+      "ctaLabel": "Request a briefing",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Unified license governance",
+        "description": "Track every state license, renewal deadline, and bond requirement in one ledger — with automated escalations before a permit ever lapses.",
+        "icon": "shield"
+      },
+      {
+        "title": "Real-time METRC reconciliation",
+        "description": "Continuously sync tag-level inventory against state traceability systems and surface variances the moment they appear, not at month-end.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Audit-grade evidence vault",
+        "description": "Every SOP, lab result, and manifest is versioned, timestamped, and export-ready — so a surprise inspection becomes a two-click response.",
+        "icon": "lock"
+      },
+      {
+        "title": "Multi-state rule engine",
+        "description": "Codified regulations for every legal market, updated as statutes change, so your compliance team stops maintaining spreadsheets by hand.",
+        "icon": "globe"
+      },
+      {
+        "title": "Deviation intelligence",
+        "description": "Machine-scored risk on every batch, transfer, and disposal event, ranked so your directors act on what actually threatens the license.",
+        "icon": "chart"
+      },
+      {
+        "title": "Executive assurance reporting",
+        "description": "Board-ready compliance posture across every entity, generated on demand for regulators, investors, and acquisition due diligence.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated eleven states of compliance workflows onto Verdexa in a single quarter. Our variance backlog dropped by 90% and our auditors now trust the system of record more than our own spreadsheets.",
+        "name": "Dana Whitlock",
+        "role": "VP of Regulatory Affairs",
+        "company": "Meridian Cultivation Group"
+      },
+      {
+        "quote": "The reconciliation engine caught a manifest discrepancy that would have triggered a state investigation. Verdexa paid for itself in the first month of deployment across our retail footprint.",
+        "name": "Marcus Bellamy",
+        "role": "Chief Compliance Officer",
+        "company": "Highpoint Retail Holdings"
+      },
+      {
+        "quote": "Preparing for our acquisition, we needed audit-grade evidence across every entity. Verdexa produced it in an afternoon. That level of assurance moved the deal forward.",
+        "name": "Priya Ramanathan",
+        "role": "General Counsel",
+        "company": "Northwind Cannabis Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$0.04",
+        "period": "per tracked unit / month",
+        "blurb": "For single-state operators establishing a governed compliance baseline.",
+        "features": [
+          "Up to 3 active licenses",
+          "METRC sync for one jurisdiction",
+          "Evidence vault with 3-year retention",
+          "Standard deviation alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$0.02",
+        "period": "per tracked unit / month",
+        "blurb": "For multi-state operators scaling governance across jurisdictions.",
+        "features": [
+          "Unlimited licenses and entities",
+          "Multi-state rule engine",
+          "Deviation intelligence scoring",
+          "Executive assurance reporting",
+          "Priority regulatory update SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "volume-based enterprise agreement",
+        "blurb": "For national platforms and MSOs with custom governance mandates.",
+        "features": [
+          "Dedicated compliance architect",
+          "Custom jurisdiction onboarding",
+          "Private data residency",
+          "M&A due-diligence workflows",
+          "24/7 regulatory response desk"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Verdexa is the regulatory operating system trusted by the most ambitious cannabis enterprises to turn compliance from a liability into leverage."
+  }
+}

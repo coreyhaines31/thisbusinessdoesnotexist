@@ -1,0 +1,138 @@
+{
+  "name": "Sable Loupe",
+  "slug": "sable-loupe",
+  "industry": "luxury resale authentication",
+  "tagline": "The house of record for every object worth doubting.",
+  "positioning": "Sable Loupe gives independent resellers a museum-grade authentication and provenance system, so a single owner can vouch for a $40k watch with total confidence.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#120F0C",
+    "surface": "#1D1813",
+    "text": "#F2EADD",
+    "primary": "#C9A227",
+    "accent": "#B07A52"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SL",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,1 17,6 12,11 7,6",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Authenticate like a house, not a hobbyist.",
+      "sub": "Sable Loupe turns your back-room gut checks into signed, defensible provenance — a permanent record that outlives the sale and protects the price you command.",
+      "ctaLabel": "Open your ledger",
+      "secondaryCtaLabel": "Watch a 2-min tour"
+    },
+    "features": [
+      {
+        "title": "Provenance dossiers",
+        "description": "Assemble serials, receipts, service history, and macro shots into one signed dossier that travels with the piece — and settles disputes before they start.",
+        "icon": "database"
+      },
+      {
+        "title": "Reference-grade comparison",
+        "description": "Match hallmarks, stitching, movement engravings, and date codes against a curated library of verified references for watches, leather, and jewelry.",
+        "icon": "target"
+      },
+      {
+        "title": "Counterfeit flagging",
+        "description": "Sable Loupe surfaces the tells — reused serials, off-spec fonts, known super-fake batches — the moment an intake photo hits your queue.",
+        "icon": "shield"
+      },
+      {
+        "title": "Digital certificates",
+        "description": "Issue a tamper-evident certificate with a scannable seal, so your buyer sees a verifiable record instead of your word on a sticky note.",
+        "icon": "lock"
+      },
+      {
+        "title": "Consignment intake",
+        "description": "Photograph, grade, and price a consignment on your phone in minutes, with every step timestamped to the operator who touched it.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Resale valuation",
+        "description": "Anchor every listing to live secondary-market comps so you stop leaving margin on the table and stop scaring off buyers.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "A client tried to return a 'fake' Royal Oak we'd sold. The Sable Loupe dossier — movement shots, serial trace, the whole chain — ended the argument in ninety seconds. That's the entire business right there.",
+        "name": "Mireille Aubert",
+        "role": "Owner",
+        "company": "Aubert & Fils Horlogerie"
+      },
+      {
+        "quote": "I used to authenticate handbags by memory and prayer. Now every intake gets a signed certificate my resale buyers actually trust. My average sale price is up because doubt is gone.",
+        "name": "Devon Marsh",
+        "role": "Founder",
+        "company": "Marsh Luxury Exchange"
+      },
+      {
+        "quote": "We onboarded two new appraisers in a week because the reference library does the teaching. What used to live in one person's head is now the whole shop's standard.",
+        "name": "Priya Nair",
+        "role": "Head of Authentication",
+        "company": "The Gilded Room"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For the solo operator building a name on trust.",
+        "features": [
+          "1–2 seats",
+          "Unlimited provenance dossiers",
+          "Reference comparison library",
+          "Digital certificates with scannable seals"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "House",
+        "price": "$99",
+        "period": "per seat / month",
+        "blurb": "For growing shops with more hands than hours.",
+        "features": [
+          "Up to 15 seats",
+          "Everything in Atelier",
+          "Counterfeit batch alerts",
+          "Consignment intake workflow",
+          "Resale valuation comps",
+          "Role-based audit trails"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Maison",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location dealers and authentication desks.",
+        "features": [
+          "Unlimited seats",
+          "Everything in House",
+          "API and POS integrations",
+          "Custom reference libraries",
+          "Dedicated authentication advisor",
+          "SSO and SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sable Loupe is the house of record for luxury resale — where a single owner can authenticate with the authority of an institution."
+  }
+}

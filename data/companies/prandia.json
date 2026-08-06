@@ -1,0 +1,138 @@
+{
+  "name": "Prandia",
+  "slug": "prandia",
+  "industry": "ghost kitchens",
+  "tagline": "Institutional-grade ghost kitchen infrastructure for the independent operator.",
+  "positioning": "Prandia provisions licensed commissary capacity, delivery integrations, and menu operations so individuals can launch delivery-only food brands without a lease.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F3EADB",
+    "surface": "#FBF5EB",
+    "text": "#2C1E12",
+    "primary": "#B24620",
+    "accent": "#7A6A38"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 12 A 9 9 0 0 1 21 12 L 17.5 12 A 5.5 5.5 0 0 0 6.5 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Launch a delivery-only food brand without signing a lease.",
+      "sub": "Prandia allocates on-demand commissary capacity, unifies your delivery marketplace listings, and standardizes fulfillment—so a single operator can run a professional kitchen from day one.",
+      "ctaLabel": "Request Provisioning",
+      "secondaryCtaLabel": "View Capacity Map"
+    },
+    "features": [
+      {
+        "title": "Commissary Allocation",
+        "description": "Reserve certified kitchen stations by the hour across our metro network, with cold storage and equipment provisioned to your menu spec.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Unified Marketplace Sync",
+        "description": "Publish one menu to every delivery marketplace at once. Prandia reconciles pricing, hours, and item availability across channels automatically.",
+        "icon": "layers"
+      },
+      {
+        "title": "Margin Intelligence",
+        "description": "Line-item costing on every order. See contribution margin per SKU and per channel before marketplace commissions erode your take-home.",
+        "icon": "chart"
+      },
+      {
+        "title": "Compliance Custody",
+        "description": "We hold your food-safety certifications, permit filings, and inspection records in a single audit-ready ledger.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fulfillment SLAs",
+        "description": "Ticket routing and prep timers keep every order inside marketplace promise windows, protecting your operator rating.",
+        "icon": "clock"
+      },
+      {
+        "title": "Demand Forecasting",
+        "description": "Prep quantities recommended nightly from trailing order velocity, reducing spoilage on perishable inventory.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run two virtual brands out of a single Prandia station on nights and weekends. My marketplace listings, prep sheets, and margins all reconcile in one console—I never touch a spreadsheet.",
+        "name": "Marcus Devlin",
+        "role": "Founder & Sole Operator",
+        "company": "Ember & Rind"
+      },
+      {
+        "quote": "Before Prandia I was manually copying menu changes into three delivery apps. Now one edit propagates everywhere, and the compliance ledger passed my county inspection on the first visit.",
+        "name": "Priya Nadkarni",
+        "role": "Owner",
+        "company": "Saffron Cart Co."
+      },
+      {
+        "quote": "The margin intelligence dashboard flagged two items as unprofitable after commissions. I repriced overnight and my weekly take-home climbed eighteen percent.",
+        "name": "Devon Alcott",
+        "role": "Chef-Operator",
+        "company": "Northbound Noodle"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$149",
+        "period": "per month, billed monthly",
+        "blurb": "Everything one operator needs to launch a single delivery-only brand.",
+        "features": [
+          "1 commissary station, up to 40 prep hours",
+          "Unified sync to 3 marketplaces",
+          "Compliance custody ledger",
+          "Standard fulfillment SLAs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$349",
+        "period": "per month, billed monthly",
+        "blurb": "For prosumers running multiple virtual brands from one metro.",
+        "features": [
+          "2 stations, up to 120 prep hours",
+          "Unlimited marketplace sync",
+          "Margin intelligence dashboard",
+          "Nightly demand forecasting",
+          "Priority station reservations"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Portfolio",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For operators scaling virtual brands across multiple metros.",
+        "features": [
+          "Unlimited stations & prep hours",
+          "Multi-metro capacity allocation",
+          "Dedicated operations manager",
+          "API access & webhooks",
+          "Custom SLA guarantees"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Prandia is institutional-grade ghost kitchen infrastructure for the independent operator. Provisioning available in select metros."
+  }
+}

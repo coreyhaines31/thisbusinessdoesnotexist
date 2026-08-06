@@ -1,0 +1,136 @@
+{
+  "name": "Reglia",
+  "slug": "reglia",
+  "industry": "B2B swag",
+  "tagline": "Branded merchandise your whole company can send, on demand.",
+  "positioning": "Reglia is the branded merchandise platform for enterprises—warehouse, personalize, and ship swag worldwide, and only pay for what actually leaves the shelf.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F6F3FB",
+    "surface": "#FFFFFF",
+    "text": "#2B2440",
+    "primary": "#6C5CE0",
+    "accent": "#F2A9C0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A 8 8 0 0 0 12 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 4 A 8 8 0 0 1 12 20 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Send branded swag people actually keep.",
+      "sub": "From new-hire kits to executive client gifts, Reglia stores your branded merchandise, handles global fulfillment, and bills only when an item ships—no pallets of leftover hoodies.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See sample kits"
+    },
+    "features": [
+      {
+        "title": "Ship kits in minutes",
+        "description": "Build a branded kit, drop in recipient emails, and let them pick their own sizes. Reglia packs and ships from the nearest warehouse—no spreadsheets, no size guessing.",
+        "icon": "zap"
+      },
+      {
+        "title": "Warehouses on five continents",
+        "description": "Store inventory close to your teams and clients. We handle customs, duties, and returns so a Berlin new hire and a Tokyo client get the same welcome.",
+        "icon": "globe"
+      },
+      {
+        "title": "Brand controls that hold",
+        "description": "Lock logos, colors, and approved products so every regional office ships on-brand gear—never the off-color polo procurement found on clearance.",
+        "icon": "shield"
+      },
+      {
+        "title": "Spend you can defend",
+        "description": "Real-time dashboards show cost per recipient, redemption rates, and leftover stock, so you walk into budget reviews with numbers instead of guesses.",
+        "icon": "chart"
+      },
+      {
+        "title": "Redemption links, zero logistics",
+        "description": "Send a link instead of a box. Recipients enter their own address and size, and Reglia does the rest—ideal for remote teams and event crowds.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Restock before you run dry",
+        "description": "Set thresholds per item and we reorder from vetted suppliers automatically, so the flagship conference never runs out of the good notebooks.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Onboarding used to mean me ordering hoodies in bulk and praying the sizes fit. Now every new hire gets a redemption link on day one and picks their own kit. Our leftover inventory basically hit zero.",
+        "name": "Priya Nadkarni",
+        "role": "Head of People Operations",
+        "company": "Northwind Logistics"
+      },
+      {
+        "quote": "We gift clients across four regions, and every box used to look slightly different. Reglia's brand controls mean a partner in São Paulo unboxes the exact same experience as one in Chicago.",
+        "name": "Marcus Fenwick",
+        "role": "VP of Field Marketing",
+        "company": "Cadwell Systems"
+      },
+      {
+        "quote": "The usage billing is what sold my CFO. We stopped paying for a warehouse full of merch nobody redeemed and now only spend when something actually ships. Finance finally trusts the swag line.",
+        "name": "Sofia Alarcón",
+        "role": "Director of Brand",
+        "company": "Meridian Health Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Launch",
+        "price": "$0",
+        "period": "base + per item shipped",
+        "blurb": "For teams sending their first branded kits without a warehouse commitment.",
+        "features": [
+          "Pay per item shipped, from $4",
+          "One shared warehouse region",
+          "Up to 3 kit templates",
+          "Standard brand asset library"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$1,200",
+        "period": "/mo + usage",
+        "blurb": "For growing programs shipping globally with real spend visibility.",
+        "features": [
+          "Everything in Launch",
+          "Warehousing across 5 regions",
+          "Unlimited kits & redemption links",
+          "Real-time spend & redemption analytics",
+          "Automated restock rules"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based rates",
+        "blurb": "For global brands with sourcing, approval, and compliance needs.",
+        "features": [
+          "Everything in Scale",
+          "Dedicated fulfillment SLA",
+          "SSO, approvals & budget controls",
+          "Custom sourcing & packaging",
+          "Named account team"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Reglia is branded merchandise infrastructure for modern enterprises—store it once, ship it anywhere, and pay only for what leaves the shelf."
+  }
+}

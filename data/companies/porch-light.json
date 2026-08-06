@@ -1,0 +1,136 @@
+{
+  "name": "Porch Light",
+  "slug": "porch-light",
+  "industry": "elder-care coordination",
+  "tagline": "The care coordination software your whiteboard has been quietly begging you to replace.",
+  "positioning": "Porch Light runs scheduling, visit notes, and family updates for small home-care agencies — so owner-operators stop coordinating care from a group text at 11pm.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F7F3EE",
+    "surface": "#FFFFFF",
+    "text": "#2D2A38",
+    "primary": "#6E5AC8",
+    "accent": "#E79BB2"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PL",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Elder care runs on Post-its. We think that's a little bleak.",
+      "sub": "Porch Light gives small home-care agencies one calm place for caregiver schedules, visit notes, and the family updates you're currently sending from your personal phone at midnight.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a 15-min demo"
+    },
+    "features": [
+      {
+        "title": "Schedules that survive a call-out",
+        "description": "When a caregiver phones in sick at 6am, Porch Light shows you who's free, who's qualified, and who's already near the client. No spreadsheet archaeology required.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Visit notes people actually finish",
+        "description": "Caregivers log meds, meals, and moods from their phone in under a minute. You get a real record instead of 'she seemed fine.'",
+        "icon": "inbox"
+      },
+      {
+        "title": "Family updates on autopilot",
+        "description": "Adult children get a tidy weekly recap of Mom's visits and vitals — so they stop texting you individually at dinner.",
+        "icon": "bell"
+      },
+      {
+        "title": "Compliance without the binder",
+        "description": "Care plans, credentials, and visit signatures live in one audit-ready place. Surveyor shows up? Great. Everything's already there.",
+        "icon": "shield"
+      },
+      {
+        "title": "Payroll that matches reality",
+        "description": "Clock-ins, mileage, and visit lengths export straight to your payroll. Bill what you worked, pay what you owe, argue less.",
+        "icon": "clock"
+      },
+      {
+        "title": "Live view of every client",
+        "description": "One dashboard: who's been seen today, who hasn't, and which visit is running forty minutes long again.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We coordinated 34 clients out of a laminated wall calendar and my memory. Porch Light replaced both, and my memory was the weak link.",
+        "name": "Renata Alvarez",
+        "role": "Owner & Administrator",
+        "company": "Willow Hill Home Care"
+      },
+      {
+        "quote": "The family recap emails alone cut my after-hours calls in half. My spouse has met me again.",
+        "name": "Desmond Achebe",
+        "role": "Founder",
+        "company": "Northgate Senior Living Support"
+      },
+      {
+        "quote": "A state surveyor asked for six months of visit logs. I clicked twice. She looked almost disappointed.",
+        "name": "Priya Venkatesh",
+        "role": "Director of Care",
+        "company": "Cedarbrook In-Home Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the owner who is also the scheduler, the biller, and occasionally the caregiver.",
+        "features": [
+          "Up to 5 caregiver seats",
+          "Scheduling & visit notes",
+          "Family update recaps",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Agency",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For growing agencies that finally admitted the whiteboard isn't scaling.",
+        "features": [
+          "Unlimited caregiver seats",
+          "Compliance & credential tracking",
+          "Payroll & mileage export",
+          "Live client dashboard",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Network",
+        "price": "Custom",
+        "period": "annual, per seat",
+        "blurb": "For multi-location operators who need it to just work everywhere.",
+        "features": [
+          "Everything in Agency",
+          "Multi-branch reporting",
+          "SSO & role permissions",
+          "API & payroll integrations",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Porch Light is care coordination software for small home-care agencies. Fewer group texts, better visits, and a whiteboard you can finally erase for good."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Vecturia",
+  "slug": "vecturia",
+  "industry": "artisanal logistics",
+  "tagline": "Careful shipping for things that can't be reordered.",
+  "positioning": "Vecturia handles pickup, packing guidance, and tracked delivery for one-of-a-kind and handmade goods — built for makers, collectors, and everyday senders.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F7F6F2",
+    "surface": "#FFFFFF",
+    "text": "#141414",
+    "primary": "#141414",
+    "accent": "#FF4A1C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 18 C6 5 18 5 20 18 L15.5 18 C14.2 10.5 9.8 10.5 8.5 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Handmade things deserve handmade logistics.",
+      "sub": "Vecturia moves the pottery, the framed print, the vintage guitar — the parcels no algorithm should touch. Get a packing plan, a real courier, and tracking that actually reassures you.",
+      "ctaLabel": "Book a pickup",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Packing plans, not guesswork",
+        "description": "Tell us what you're sending — a glazed vase, a signed canvas — and get a step-by-step wrap guide with the exact materials, before anything ships.",
+        "icon": "layers"
+      },
+      {
+        "title": "Handled by named couriers",
+        "description": "Every leg is carried by a vetted courier you can see, not a mystery van. Fragile items travel upright, cushioned, and never re-stacked.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Tracking that tells a story",
+        "description": "Real photos at pickup and drop-off, timestamps that make sense, and a heads-up before your parcel changes hands. No more refreshing a blank map.",
+        "icon": "compass"
+      },
+      {
+        "title": "Repair-grade insurance",
+        "description": "Coverage that pays a restorer, not a form letter. We connect you with conservators for the rare cases where care isn't enough.",
+        "icon": "shield"
+      },
+      {
+        "title": "One label, whole journey",
+        "description": "Print a single label at home and we manage every relay — pickup, sorting, and the final knock on the door.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Built for one-offs",
+        "description": "No minimums, no freight accounts. Send a single lamp on Tuesday and a wedding cake stand on Friday, same simple flow.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I sell wheel-thrown mugs to collectors across three states. Vecturia's packing plan cut my breakages from a handful a month to zero. The pickup photos alone earned me repeat buyers.",
+        "name": "Dana Whitfield",
+        "role": "Ceramicist",
+        "company": "Kiln & Kettle Studio"
+      },
+      {
+        "quote": "I shipped my late father's violin to a restorer and was terrified the whole way. Their courier sent a photo of it strapped upright in a padded case. I actually teared up a little.",
+        "name": "Marcus Reyes",
+        "role": "Private sender",
+        "company": "Independent"
+      },
+      {
+        "quote": "We handle estate art moves for private clients. Vecturia is the first service that treats a single framed piece with the same rigor as a gallery crate. It's become our default.",
+        "name": "Priya Anand",
+        "role": "Logistics Lead",
+        "company": "Ellsworth Art Advisory"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$14",
+        "period": "per shipment",
+        "blurb": "For the occasional careful send.",
+        "features": [
+          "1 tracked pickup and delivery",
+          "Standard packing plan",
+          "Photo proof at both ends",
+          "Coverage up to $500"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Maker",
+        "price": "$39",
+        "period": "per month, up to 15 shipments",
+        "blurb": "For sellers who ship fragile goods weekly.",
+        "features": [
+          "Up to 15 tracked shipments",
+          "Advanced packing plans",
+          "Named-courier handling",
+          "Coverage up to $2,500",
+          "Priority pickup windows"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For studios and advisors moving high-value pieces.",
+        "features": [
+          "Unlimited shipments",
+          "Conservator repair network",
+          "Dedicated account contact",
+          "Custom coverage limits",
+          "White-glove crating on request"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vecturia carries the irreplaceable — from a single handmade bowl to an heirloom worth its own history. Careful by default."
+  }
+}

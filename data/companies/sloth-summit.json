@@ -1,0 +1,138 @@
+{
+  "name": "Sloth Summit",
+  "slug": "sloth-summit",
+  "industry": "corporate offsites",
+  "tagline": "The offsite that plans itself, so you can pretend you planned it.",
+  "positioning": "Sloth Summit turns the dread of organizing a company retreat into a few taps — venues, flights, dinners, and the awkward icebreakers, handled.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FBF5EF",
+    "surface": "#FFFFFF",
+    "text": "#33304A",
+    "primary": "#6E5AE0",
+    "accent": "#F39BBE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SS",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 4 A 10 10 0 1 0 6 20 A 7 7 0 1 1 6 4 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 17.5,
+        "cy": 12,
+        "r": 3,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Book a company offsite without losing your entire month.",
+      "sub": "You have a spreadsheet with 40 tabs, three canceled flights, and a Slack thread nobody reads. Sloth Summit does the boring 90% so your retreat actually happens.",
+      "ctaLabel": "Plan the escape",
+      "secondaryCtaLabel": "See a sample itinerary"
+    },
+    "features": [
+      {
+        "title": "One-tap venues",
+        "description": "Filter cabins, lofts, and lake houses by budget and vibe. We hold the booking so Karen from Ops can't second-guess it for six days.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Flights that agree",
+        "description": "We stitch everyone's departure cities into one arrival window. No more the guy who lands at 2am and sulks the whole first day.",
+        "icon": "compass"
+      },
+      {
+        "title": "Agenda autopilot",
+        "description": "Drag activities onto a timeline. We flag when you've scheduled a trust fall right after an open bar.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Receipts, contained",
+        "description": "Every deposit, split, and reimbursement lives in one ledger. Export it before finance emails you again.",
+        "icon": "database"
+      },
+      {
+        "title": "Icebreakers that don't wound",
+        "description": "A curated deck of prompts calibrated so nobody has to share a childhood trauma before breakfast.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Weather with opinions",
+        "description": "We watch the forecast and nudge you toward Plan B before the whole thing washes into a lake.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I planned our whole retreat during a single meeting I wasn't paying attention to. Everyone thinks I'm organized now. I'm not going to correct them.",
+        "name": "Priya Vasquez",
+        "role": "Head of People",
+        "company": "Loomwright Studio"
+      },
+      {
+        "quote": "Last year our offsite was three canceled venues and a group cry. This year Sloth Summit booked the cabin, the van, and the tacos. Nobody cried.",
+        "name": "Dev Okonkwo",
+        "role": "Founder",
+        "company": "Halterday Labs"
+      },
+      {
+        "quote": "The itinerary flagged that I'd double-booked kayaking and a two-hour strategy session. It saved me from myself, which is a lot to ask of software.",
+        "name": "Margot Feld",
+        "role": "Operations Lead",
+        "company": "Northslope Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "The Getaway",
+        "price": "$39",
+        "period": "per person, per trip",
+        "blurb": "For the tiny team that just wants a cabin and a plan.",
+        "features": [
+          "Up to 8 people",
+          "Venue booking + hold",
+          "Shared agenda builder",
+          "One icebreaker deck"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "The Offsite",
+        "price": "$89",
+        "period": "per person, per trip",
+        "blurb": "The one most crews actually book. Flights, food, and finances included.",
+        "features": [
+          "Up to 40 people",
+          "Flight coordination",
+          "Full expense ledger",
+          "Weather Plan B alerts",
+          "Priority support you'll rarely need"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "The Expedition",
+        "price": "Custom",
+        "period": "annual, billed once",
+        "blurb": "For companies that offsite like it's a personality trait.",
+        "features": [
+          "Unlimited attendees",
+          "Multi-trip planning",
+          "Dedicated trip concierge",
+          "Custom vendor network",
+          "SSO and finance exports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sloth Summit plans the offsite so you can take the credit. Slowly, deliberately, and without a single 40-tab spreadsheet."
+  }
+}

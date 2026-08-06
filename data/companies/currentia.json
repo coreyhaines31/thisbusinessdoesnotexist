@@ -1,0 +1,139 @@
+{
+  "name": "Currentia",
+  "slug": "currentia",
+  "industry": "micro-mobility charging",
+  "tagline": "The home charging system your e-bike and scooter actually deserve.",
+  "positioning": "Currentia gives individuals a smart dock, battery-health tracking, and off-peak scheduling so every ride starts fully charged and every battery lasts longer.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F4ECE0",
+    "surface": "#FBF6EE",
+    "text": "#2C2318",
+    "primary": "#B65A2C",
+    "accent": "#7A7A46"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 3 A 9 9 0 1 1 3 12 L 6 12 A 6 6 0 1 0 12 6 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 4,
+        "r": 2.2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Charge every ride the right way, right at home.",
+      "sub": "Currentia pairs a smart dock with battery-health insight and automatic off-peak scheduling, so your e-bike, scooter, or personal EV is ready when you are — and lasts for years.",
+      "ctaLabel": "Order your dock",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One dock, every vehicle",
+        "description": "A single Currentia dock adapts to e-bikes, scooters, and personal EVs, so you stop juggling three chargers and a tangle of adapters in the hallway.",
+        "icon": "layers"
+      },
+      {
+        "title": "Battery health you can see",
+        "description": "Track charge cycles, temperature, and capacity fade for each battery, with plain-language alerts before a cell quietly starts to degrade.",
+        "icon": "chart"
+      },
+      {
+        "title": "Charges when power is cheapest",
+        "description": "Currentia learns your morning departure and shifts charging into off-peak windows, trimming your bill without you lifting a finger.",
+        "icon": "clock"
+      },
+      {
+        "title": "Grid- and solar-aware",
+        "description": "Connect a solar setup or time-of-use tariff and the dock prioritizes clean, low-cost electrons whenever they're available.",
+        "icon": "globe"
+      },
+      {
+        "title": "Built-in thermal safeguards",
+        "description": "Automatic current limiting and thermal cutoffs keep lithium batteries in their safe zone, so you can charge indoors with peace of mind.",
+        "icon": "shield"
+      },
+      {
+        "title": "Charge from your phone",
+        "description": "Start, pause, and check status from anywhere, and get a nudge when a battery is topped off or needs attention.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I commute 14 miles each way on an e-bike, and Currentia is the first thing that made me stop worrying about my battery. It charges overnight during off-peak hours and tells me exactly how much life is left.",
+        "name": "Marcus Feld",
+        "role": "Daily e-bike commuter",
+        "company": "self-employed"
+      },
+      {
+        "quote": "We have two scooters and my partner's e-moped in the garage. One dock handles all three now, and the health tracking flagged a failing cell months before it would have stranded me.",
+        "name": "Priya Ramachandran",
+        "role": "Prosumer rider",
+        "company": "household of three"
+      },
+      {
+        "quote": "The scheduling alone paid for the subscription. My charging costs dropped noticeably once Currentia started shifting everything to my cheapest tariff window automatically.",
+        "name": "Elena Voss",
+        "role": "Founder & solo rider",
+        "company": "Meridian Cargo Cycles"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Home",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "Everything one rider needs to charge smarter at home.",
+        "features": [
+          "Smart charging for one dock",
+          "Basic battery-health tracking",
+          "Off-peak scheduling",
+          "Mobile app control"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Plus",
+        "price": "$19",
+        "period": "per month",
+        "blurb": "For households with several vehicles and higher expectations.",
+        "features": [
+          "Up to three vehicles per dock",
+          "Full battery-health history & alerts",
+          "Solar and time-of-use optimization",
+          "Thermal safety monitoring",
+          "Priority email support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Pro",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For heavy riders and small fleets who charge every day.",
+        "features": [
+          "Unlimited vehicles per dock",
+          "Advanced degradation forecasting",
+          "Multi-dock management",
+          "Detailed energy & cost reports",
+          "Extended hardware warranty",
+          "Priority phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Currentia builds home charging systems that keep micro-mobility batteries healthy, affordable, and ready to ride."
+  }
+}

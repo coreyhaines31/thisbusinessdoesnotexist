@@ -1,0 +1,139 @@
+{
+  "name": "Solac",
+  "slug": "solac",
+  "industry": "funeral services",
+  "tagline": "Deathcare operations, coordinated with the dignity every family expects.",
+  "positioning": "The case management platform for multi-location funeral and cemetery groups — arrangements, compliance, and family communication in one record.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F3F0EA",
+    "surface": "#FBFAF6",
+    "text": "#282520",
+    "primary": "#4A4436",
+    "accent": "#7C8574"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,15 12,7 20,15 20,11 12,3 4,11",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "7,21 12,16 17,21 17,18 12,13 7,18",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "No family should feel a process falter.",
+      "sub": "Solac gives funeral and cemetery groups a single, calm record for every case — from first call to final disposition — so nothing about a family's care slips between locations or systems.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One record, every location",
+        "description": "First calls, arrangements, merchandise, and disposition live in a single case that follows the family across every home in your group — no re-keying, no lost detail.",
+        "icon": "layers"
+      },
+      {
+        "title": "Compliance without the anxiety",
+        "description": "State forms, cremation authorizations, and required disclosures generate from the case itself, with a timestamped trail your directors and auditors can trust.",
+        "icon": "shield"
+      },
+      {
+        "title": "Families kept gently informed",
+        "description": "A private portal lets families review arrangements, sign documents, and see what happens next — reducing the after-hours calls your staff dread.",
+        "icon": "users"
+      },
+      {
+        "title": "Service scheduling that holds",
+        "description": "Coordinate visitations, chapels, clergy, and transport across locations on one calendar, with conflict checks so two services never collide.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Preneed to at-need, intact",
+        "description": "Match preneed contracts to incoming cases automatically, so honored wishes and prepaid selections carry forward without a second search.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Numbers leadership can act on",
+        "description": "Case volume, average revenue, and turnaround time roll up across every home, giving group operators a real view without spreadsheet nights.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Solac, a family that started arrangements in one city and held the service in another meant three phone calls and a re-typed contract. Now it's one case. Our directors finally trust what they see on screen.",
+        "name": "Marion Whitfield",
+        "role": "Director of Operations",
+        "company": "Everstone Family Care Group"
+      },
+      {
+        "quote": "The compliance trail alone justified the move. When the state reviewed our cremation authorizations, we produced every signature and timestamp in minutes instead of a two-day scramble across four locations.",
+        "name": "Daniel Ochoa",
+        "role": "VP of Compliance",
+        "company": "Meridian Memorial Partners"
+      },
+      {
+        "quote": "Families used to call after hours because they didn't know what came next. The portal quieted that. Our staff spend the evening with the family in front of them, not the phone.",
+        "name": "Priya Anand",
+        "role": "General Manager",
+        "company": "Laurelwood Funeral Homes"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Practice",
+        "price": "$4",
+        "period": "per case recorded",
+        "blurb": "For independent homes ready to leave paper files and spreadsheets behind.",
+        "features": [
+          "Unlimited staff accounts",
+          "Single-location case management",
+          "State forms & e-signature",
+          "Family portal",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$2.75",
+        "period": "per case, volume-tiered",
+        "blurb": "For multi-location groups coordinating care and compliance across homes.",
+        "features": [
+          "Everything in Practice",
+          "Cross-location case sharing",
+          "Preneed-to-at-need matching",
+          "Group scheduling & transport",
+          "Rollup reporting",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, based on case volume",
+        "blurb": "For large deathcare networks with custom integration and governance needs.",
+        "features": [
+          "Everything in Network",
+          "EHR & accounting integrations",
+          "Dedicated success manager",
+          "Custom audit & retention policies",
+          "SSO & role-based access",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Solac is the operating record for modern deathcare groups — keeping every family's care consistent, compliant, and quietly dependable."
+  }
+}

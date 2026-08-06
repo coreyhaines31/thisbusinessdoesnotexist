@@ -1,0 +1,137 @@
+{
+  "name": "Kyriel",
+  "slug": "kyriel",
+  "industry": "church admin software",
+  "tagline": "The command platform for congregations at scale.",
+  "positioning": "Kyriel unifies membership, giving, and multi-campus operations into one governed system of record for enterprise faith organizations.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0E1117",
+    "surface": "#181E2A",
+    "text": "#E9ECF4",
+    "primary": "#C6A15B",
+    "accent": "#6E8FD1"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,3 21,13 16.5,13 12,8 7.5,13 3,13",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,10 19,18 15,18 12,14.5 9,18 5,18",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every soul accounted for. Every campus in concert.",
+      "sub": "Kyriel is the enterprise nerve center for the modern ministry — governing membership, generosity, and operations across every location, service, and season from a single ordained source of truth.",
+      "ctaLabel": "Request a briefing",
+      "secondaryCtaLabel": "Explore the platform"
+    },
+    "features": [
+      {
+        "title": "Unified People Ledger",
+        "description": "Retire the tangle of spreadsheets and legacy CRMs. Every attendee, volunteer, and household lives in one governed record spanning all campuses.",
+        "icon": "database"
+      },
+      {
+        "title": "Consecrated Giving Engine",
+        "description": "Reconcile pledges, recurring tithes, and capital campaigns to the cent, with audit trails your finance committee and external auditors will trust.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-Campus Command",
+        "description": "Orchestrate service schedules, room bookings, and staff assignments across fifty locations as fluidly as one, with real-time capacity dashboards.",
+        "icon": "layers"
+      },
+      {
+        "title": "Sovereign Data Governance",
+        "description": "Role-based access, retention policies, and regional data residency built for denominations answerable to boards, elders, and regulators alike.",
+        "icon": "lock"
+      },
+      {
+        "title": "Pastoral Care Signals",
+        "description": "Surface the member who slipped from three services to none. Kyriel flags at-risk households before they quietly leave the pews.",
+        "icon": "bell"
+      },
+      {
+        "title": "Assembly Analytics",
+        "description": "Attendance rhythms, engagement cohorts, and generosity forecasts rendered in board-ready reports, not raw exports.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We migrated four disconnected systems across nine campuses into Kyriel in a single quarter. For the first time our elders and finance team read from the same ledger.",
+        "name": "Miriam Calloway",
+        "role": "Chief Operating Officer",
+        "company": "Cornerstone Collective"
+      },
+      {
+        "quote": "The pastoral care signals alone justified the investment. We reconnected with over 300 drifting families in our first year on the platform.",
+        "name": "Rev. Daniel Okafor",
+        "role": "Executive Pastor",
+        "company": "Grace Harbor Network"
+      },
+      {
+        "quote": "Auditors used to dread our year-end. Kyriel's giving reconciliation turned a three-week ordeal into an afternoon. It changed how our board sees us.",
+        "name": "Angela Reyes",
+        "role": "Director of Stewardship",
+        "company": "Redeemer Metropolitan"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Parish",
+        "price": "$0.18",
+        "period": "per active member / month",
+        "blurb": "For single-campus congregations establishing their first system of record.",
+        "features": [
+          "Up to 2,500 active members",
+          "Unified people ledger",
+          "Standard giving engine",
+          "Email & knowledge-base support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Diocese",
+        "price": "$0.12",
+        "period": "per active member / month",
+        "blurb": "For multi-campus organizations governing membership and generosity at scale.",
+        "features": [
+          "Unlimited campuses",
+          "Pastoral care signals",
+          "Assembly analytics suite",
+          "Role-based governance",
+          "Priority onboarding & support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Communion",
+        "price": "Custom",
+        "period": "volume & residency based",
+        "blurb": "For denominations and networks with sovereign data and compliance mandates.",
+        "features": [
+          "Regional data residency",
+          "Custom retention & audit controls",
+          "Dedicated solutions architect",
+          "SSO & directory federation",
+          "99.95% uptime SLA",
+          "Denomination-wide reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kyriel is the enterprise platform of record for faith organizations governing membership, generosity, and operations across every campus and generation."
+  }
+}

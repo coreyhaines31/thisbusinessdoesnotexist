@@ -1,0 +1,162 @@
+{
+  "name": "Paper Trail",
+  "slug": "paper-trail",
+  "industry": "luxury resale authentication",
+  "tagline": "Every fake handbag has a tell. We find it before your customer does.",
+  "positioning": "Authentication software for resale shops that can't afford a $4,000 mistake or a chargeback from a very angry lawyer named Gerald.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FDF3EE",
+    "surface": "#FBE7EE",
+    "text": "#2C2436",
+    "primary": "#B85C86",
+    "accent": "#6E9BC9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PT",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Authenticate luxury goods without a forensics degree",
+      "sub": "Snap the stitching, the hardware, the date code. Paper Trail scores it against 2M real examples and tells you buy, pass, or 'call the owner.' In 40 seconds. Not next Tuesday.",
+      "ctaLabel": "Start authenticating",
+      "secondaryCtaLabel": "See a live verdict"
+    },
+    "features": [
+      {
+        "title": "The 40-second verdict",
+        "description": "Photograph the seams, zipper pulls, and date code. We compare against millions of verified units and hand you a confidence score, not a shrug.",
+        "icon": "zap"
+      },
+      {
+        "title": "Receipts, literally",
+        "description": "Every authentication generates a timestamped report with your reasoning attached. When a buyer disputes it six months later, you win the chargeback.",
+        "icon": "shield"
+      },
+      {
+        "title": "Serial rot detection",
+        "description": "Counterfeiters recycle real date codes. We flag serials that have appeared on three other bags this quarter before you wire the seller a dime.",
+        "icon": "database"
+      },
+      {
+        "title": "Trained on the fakes too",
+        "description": "Most tools only know what real looks like. We hoard super-fakes so your team spots the $1,900 replica that fooled the last three shops.",
+        "icon": "target"
+      },
+      {
+        "title": "Consignment ledger",
+        "description": "Track who dropped off what, what it authenticated as, and what it sold for. Owner-operators finally know which consignor keeps sneaking in duds.",
+        "icon": "layers"
+      },
+      {
+        "title": "Second opinion on tap",
+        "description": "Borderline score? Escalate to a human expert without leaving the record. The verdict lands in the same report your customer will read.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to gatekeep authentications in my own head and pray. Now my part-timer runs them and I sleep. We caught four super-fakes in month one that I would've bought.",
+        "name": "Danielle Okafor",
+        "role": "Owner",
+        "company": "The Consignment Loft"
+      },
+      {
+        "quote": "A buyer threatened to sue over a Birkin. I forwarded the Paper Trail report with 62 timestamped comparisons. Never heard from her lawyer again. Worth every seat.",
+        "name": "Marcus Reilly",
+        "role": "Founder",
+        "company": "Reilly & Sons Resale"
+      },
+      {
+        "quote": "The serial rot alert alone paid for the year. Same date code showed up from three 'different' sellers. Paper Trail flagged it before I met a single one of them.",
+        "name": "Priya Venkataraman",
+        "role": "Head Buyer",
+        "company": "Second Story Luxe"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the one-person shop who is also the buyer, the seller, and the janitor.",
+        "features": [
+          "150 authentications / month",
+          "Timestamped dispute reports",
+          "Date code & serial checks",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Shop",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For teams where more than one person touches the merchandise.",
+        "features": [
+          "Unlimited authentications",
+          "Consignment ledger",
+          "Serial rot detection",
+          "Human second opinions (5/mo)",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Floor",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location resellers who move real volume.",
+        "features": [
+          "Everything in Shop",
+          "Unlimited expert escalations",
+          "API & POS integrations",
+          "Multi-store analytics",
+          "Dedicated account rep"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Paper Trail authenticates luxury resale so owner-operators stop guessing and start proving. Built for people who've been burned by a very convincing fake."
+  }
+}

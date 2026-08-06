@@ -1,0 +1,136 @@
+{
+  "name": "GritRoster",
+  "slug": "gritroster",
+  "industry": "industrial cleaning",
+  "tagline": "The operations backbone for commercial and industrial cleaning crews.",
+  "positioning": "GritRoster gives owner-operators one system to dispatch crews, prove work, and bill jobs — built for facilities, warehouses, and post-construction sites.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F5ECDF",
+    "surface": "#FBF6EC",
+    "text": "#2C2016",
+    "primary": "#B4502E",
+    "accent": "#C98A2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GR",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every cleaning contract like clockwork.",
+      "sub": "GritRoster is the operations platform for industrial cleaning companies. Schedule crews, capture before-and-after proof, track SDS compliance, and invoice the same day the floor dries.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Crew dispatch that actually holds up",
+        "description": "Assign teams to warehouses, retail floors, and post-construction sites with drag-and-drop shifts. Crews get routes, checklists, and site access notes on the app.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Proof-of-work in every job",
+        "description": "Techs snap timestamped before-and-after photos tied to each line item. Attach them to invoices so facility managers stop disputing your bill.",
+        "icon": "target"
+      },
+      {
+        "title": "SDS and compliance on file",
+        "description": "Store safety data sheets, chemical logs, and insurance certs per site. Auto-flag expiring documents before an audit or a lost contract does.",
+        "icon": "shield"
+      },
+      {
+        "title": "Same-day invoicing",
+        "description": "Turn a completed job card into an invoice in two taps. Sync to QuickBooks and get paid before the crew reaches the next site.",
+        "icon": "chart"
+      },
+      {
+        "title": "Recurring contract engine",
+        "description": "Set nightly, weekly, or monthly scopes once. GritRoster generates the schedule, the crew assignments, and the billing on repeat.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Live job board for the office",
+        "description": "See which sites are in progress, running late, or waiting on a callback — without texting five crew leads at 6 a.m.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running an eleven-crew operation off a whiteboard and group texts. GritRoster gave us dispatch, proof photos, and invoicing in one place. Disputed invoices dropped by two-thirds in a quarter.",
+        "name": "Marcus Delgado",
+        "role": "Owner",
+        "company": "Ironline Facility Services"
+      },
+      {
+        "quote": "The SDS and insurance tracking alone won us a distribution center contract. We pulled up every chemical log and cert on the spot during their vetting call.",
+        "name": "Priya Raman",
+        "role": "Operations Director",
+        "company": "CleanState Industrial"
+      },
+      {
+        "quote": "Same-day invoicing changed our cash flow. Crews close the job card, I approve it, the invoice ships. We stopped chasing net-60 accounts through the whole month.",
+        "name": "Danielle Okafor",
+        "role": "Founder & Managing Partner",
+        "company": "Summit Post-Construction Cleanup"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For solo owner-operators and small crews getting off spreadsheets.",
+        "features": [
+          "Up to 5 active seats",
+          "Crew dispatch & scheduling",
+          "Before-and-after job photos",
+          "Basic invoicing & exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Contractor",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For growing companies juggling recurring commercial contracts.",
+        "features": [
+          "Unlimited seats",
+          "Recurring contract engine",
+          "SDS & compliance vault",
+          "QuickBooks sync & same-day invoicing",
+          "Live office job board"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-site operators with regional crews and audit demands.",
+        "features": [
+          "Everything in Contractor",
+          "Role-based access & regions",
+          "Audit-ready compliance reporting",
+          "API & payroll integrations",
+          "Dedicated success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "GritRoster is the operations backbone for industrial cleaning companies — dispatch, proof, compliance, and billing in one confident system."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Copper Socket",
+  "slug": "copper-socket",
+  "industry": "micro-mobility charging",
+  "tagline": "The charging backbone for every corner of your city.",
+  "positioning": "Copper Socket turns owner-operators into charging landlords—deploy, meter, and monetize e-bike and scooter charging across your storefronts from one console.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F3E9D8",
+    "surface": "#E7D9BF",
+    "text": "#2B2117",
+    "primary": "#BE531C",
+    "accent": "#6E7F45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 4,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 4 L7 13 L11 13 L10 20 L17 10 L13 10 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Own the current beneath your city.",
+      "sub": "Copper Socket lets shop owners install, meter, and profit from micro-mobility charging bays—no utility contracts, no guesswork, no idle kilowatts.",
+      "ctaLabel": "Claim your grid",
+      "secondaryCtaLabel": "See the console"
+    },
+    "features": [
+      {
+        "title": "Bays that bill themselves",
+        "description": "Every charging bay meters to the watt and invoices riders automatically. You approve the rate; Copper Socket collects, reconciles, and deposits.",
+        "icon": "zap"
+      },
+      {
+        "title": "One console, every storefront",
+        "description": "Run three locations or thirty from a single dashboard. See live occupancy, uptime, and revenue per bay without leaving the counter.",
+        "icon": "layers"
+      },
+      {
+        "title": "Uptime you can promise",
+        "description": "Predictive fault alerts flag a failing connector before a rider ever does. Fewer refunds, fewer one-star reviews, fewer service trucks.",
+        "icon": "shield"
+      },
+      {
+        "title": "Rates that follow demand",
+        "description": "Set surge windows for rush hour or discount slow afternoons. Copper Socket adjusts pricing per bay and shows the margin in real time.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Riders who come back",
+        "description": "Branded QR checkout, saved payment, and a loyalty ledger tie every charge to your shop—not a faceless network app.",
+        "icon": "users"
+      },
+      {
+        "title": "Install without an electrician on staff",
+        "description": "Pre-configured bay kits ship ready to mount. Scan, name the location, and it joins your grid in under ten minutes.",
+        "icon": "wrench"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I turned a dead corner of my bodega into six charging bays. Copper Socket handles the billing, so I just watch the deposits land. It paid for itself in eleven weeks.",
+        "name": "Marisol Tejada",
+        "role": "Owner",
+        "company": "Tejada Corner Market"
+      },
+      {
+        "quote": "We manage charging for four scooter fleets out of one back office now. The console tells me which bay is down before the driver calls me. That alone saved my weekends.",
+        "name": "Dwayne Okafor",
+        "role": "Operations Lead",
+        "company": "Northline Mobility Co."
+      },
+      {
+        "quote": "The surge pricing tool is quietly brilliant. Evening rates fund my whole slow morning. Copper Socket made me a utility without making me learn to be one.",
+        "name": "Priya Ramanathan",
+        "role": "Founder",
+        "company": "Halewood Cycle Bar"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For single-location owners lighting up their first bays.",
+        "features": [
+          "Up to 8 charging bays",
+          "Automated rider billing",
+          "Live occupancy dashboard",
+          "Standard fault alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators running a real grid.",
+        "features": [
+          "Unlimited bays across locations",
+          "Demand-based surge pricing",
+          "Predictive uptime alerts",
+          "Branded QR checkout & loyalty",
+          "Priority hardware replacement"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Metro",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For franchises and fleet partners scaling citywide.",
+        "features": [
+          "Everything in Network",
+          "Territory-level analytics",
+          "API & fleet integrations",
+          "Dedicated deployment manager",
+          "Custom revenue-share terms"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Copper Socket is the charging backbone for independent operators—metering, billing, and uptime for every micro-mobility bay you own."
+  }
+}

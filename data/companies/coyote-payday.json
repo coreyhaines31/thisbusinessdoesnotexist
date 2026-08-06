@@ -1,0 +1,138 @@
+{
+  "name": "Coyote Payday",
+  "slug": "coyote-payday",
+  "industry": "film production payroll",
+  "tagline": "Payroll for people who'd rather be shooting than doing math at 2am.",
+  "positioning": "Run legit film payroll for your crew without hiring a payroll company or reading a single IRS pamphlet cover to cover.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0E0F14",
+    "surface": "#191C24",
+    "text": "#ECEDF2",
+    "primary": "#E85A3B",
+    "accent": "#D2A24C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CP",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 A10 10 0 1 0 22 12 A7 7 0 1 1 12 5 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 17,
+        "cy": 6.5,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Film payroll that doesn't need a producer's note to explain it.",
+      "sub": "Pay your grips, gaffers, and that one PA who ran on 4 hours of sleep — with timecards, taxes, and W-2s handled. You keep the coffee budget.",
+      "ctaLabel": "Run your first payroll",
+      "secondaryCtaLabel": "See a sample paystub"
+    },
+    "features": [
+      {
+        "title": "Timecards that survive a 14-hour day",
+        "description": "Crew clocks in from set on their phones. Meal penalties, turnaround, and overtime calculate themselves so you're not doing multiplication on a call sheet.",
+        "icon": "clock"
+      },
+      {
+        "title": "Taxes filed without the panic",
+        "description": "We register your production, withhold correctly across states, and file quarterly. When someone asks about your FEIN, you'll actually have an answer.",
+        "icon": "shield"
+      },
+      {
+        "title": "W-2s and 1099s, sorted",
+        "description": "Loan-outs, day players, and box rentals all end up in the right bucket. Come January nobody emails you angry.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Deal memos to direct deposit",
+        "description": "Attach the deal memo, set the rate, and every paycheck matches what you promised. No 'wait, was that scale plus ten?' arguments.",
+        "icon": "database"
+      },
+      {
+        "title": "Union-friendly, or not",
+        "description": "Non-union shorts to SAG-AFTRA features — pick your framework and we handle the fringe math instead of you guessing.",
+        "icon": "users"
+      },
+      {
+        "title": "One dashboard for every gig",
+        "description": "Juggling three projects at once? Each production stays separate, but the payroll lives in one login you'll actually remember.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend the wrap party doing timecards in a spreadsheet. Now I do the wrap party at the wrap party. Coyote pays my crew before I've even loaded out.",
+        "name": "Dara Whitlock",
+        "role": "Line Producer",
+        "company": "Longshot Pictures"
+      },
+      {
+        "quote": "My accountant stopped screaming at me. Loan-outs, mileage, kit fees — it just files correctly. That's the whole review.",
+        "name": "Marcus Ferro",
+        "role": "Independent Director",
+        "company": "Ferro & Sons Film Co."
+      },
+      {
+        "quote": "We shot in three states in six weeks. I did not read a single tax form. Ten out of ten, would panic less again.",
+        "name": "Priya Anand",
+        "role": "Unit Production Manager",
+        "company": "Half-Light Media"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Short",
+        "price": "$29",
+        "period": "per project",
+        "blurb": "For one-off shorts, spec spots, and passion projects with a small crew.",
+        "features": [
+          "Up to 10 crew members",
+          "Mobile timecards",
+          "W-2 and 1099 generation",
+          "Single-state filing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Feature",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For working producers running back-to-back gigs all year.",
+        "features": [
+          "Unlimited crew per project",
+          "Multi-state tax filing",
+          "Union fringe calculations",
+          "Deal memo to direct deposit",
+          "Loan-out handling"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "billed how you like",
+        "blurb": "For prod companies with a slate and a real accountant to impress.",
+        "features": [
+          "Everything in Feature",
+          "Dedicated payroll specialist",
+          "Custom cost reports",
+          "API and accounting sync",
+          "Priority January support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Coyote Payday runs payroll for indie film crews so you can spend your energy on the shot, not the spreadsheet."
+  }
+}

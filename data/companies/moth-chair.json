@@ -1,0 +1,138 @@
+{
+  "name": "Moth Chair",
+  "slug": "moth-chair",
+  "industry": "tattoo studio booking",
+  "tagline": "Booking a tattoo shouldn't feel like negotiating in someone's DMs.",
+  "positioning": "Moth Chair is the booking layer for independent tattoo artists and the people who sit for them — deposits, flash drops, and consent forms, minus the group chat.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#EDE9E2",
+    "surface": "#F7F4EF",
+    "text": "#211E1B",
+    "primary": "#8C4A3A",
+    "accent": "#6B7A6A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 3 A 9 9 0 1 0 21 12 L 18 12 A 6 6 0 1 1 12 6 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 21,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stop running your booking book out of your DMs.",
+      "sub": "Moth Chair takes deposits, drops flash, screens tire-kickers, and sends aftercare — so the only conversation left is where the tattoo goes.",
+      "ctaLabel": "Claim your chair",
+      "secondaryCtaLabel": "Peek at the flash"
+    },
+    "features": [
+      {
+        "title": "Deposits that actually land",
+        "description": "Collect a non-refundable deposit before the appointment is real. No-shows forfeit it automatically, and you never have to type 'per my last message' again.",
+        "icon": "lock"
+      },
+      {
+        "title": "Flash drops with a waitlist",
+        "description": "Post a sheet, set the quantity, and let clients claim designs first-come. Sold-out pieces auto-close so nobody double-books your best snake.",
+        "icon": "zap"
+      },
+      {
+        "title": "A calendar that respects your day",
+        "description": "Buffers, healing gaps, and 'do not book me before noon' rules baked in. Clients only see the slots you'd actually agree to.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Consent forms, signed in advance",
+        "description": "ID check, medical questions, and release form done on the phone before they sit down — not scribbled on a clipboard while you glove up.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Aftercare that texts itself",
+        "description": "Automatic healing check-ins at day 3, 14, and 30, plus a nudge for the healed photo you keep forgetting to ask for.",
+        "icon": "bell"
+      },
+      {
+        "title": "Every client, one clean history",
+        "description": "Past pieces, allergies, deposits paid, and that one time they rescheduled four times — all in a profile you can actually read.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose two hours a day answering 'how much for a small one?' Now the deposit clears before I even see the reference photo. My DMs are quiet and my rent is early.",
+        "name": "Renata Voss",
+        "role": "Owner & Resident Artist",
+        "company": "Blackthorn Parlour"
+      },
+      {
+        "quote": "The no-show rate at our shop dropped off a cliff. Turns out people show up when they've already put money down. Who knew.",
+        "name": "Dominic Ashe",
+        "role": "Studio Manager",
+        "company": "Six Feathers Tattoo"
+      },
+      {
+        "quote": "Flash drops on Moth Chair sold out my whole Friday sheet in nine minutes. I've never felt more like a concert and less like a small business.",
+        "name": "Priya Nadkarni",
+        "role": "Independent Artist",
+        "company": "Ghost Marrow Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Seat",
+        "price": "$18",
+        "period": "per artist / month",
+        "blurb": "For the one-chair operation who is also the receptionist.",
+        "features": [
+          "Online booking page",
+          "Deposit collection",
+          "Digital consent forms",
+          "Automated aftercare texts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Full Chair",
+        "price": "$54",
+        "period": "per artist / month",
+        "blurb": "For working artists who want the whole book on autopilot.",
+        "features": [
+          "Everything in Solo Seat",
+          "Flash drops with waitlists",
+          "Custom scheduling rules & buffers",
+          "Client history & healed-photo library",
+          "No-show deposit enforcement"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Shop",
+        "price": "Custom",
+        "period": "billed per studio",
+        "blurb": "For multi-artist shops with a front desk and opinions.",
+        "features": [
+          "Everything in Full Chair",
+          "Multi-artist calendars & payouts",
+          "Front-desk & guest-spot accounts",
+          "Shop-wide reporting",
+          "Priority support from actual humans"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Moth Chair runs the boring half of tattooing so you can get back to the needle. Deposits, drops, and forms — handled."
+  }
+}

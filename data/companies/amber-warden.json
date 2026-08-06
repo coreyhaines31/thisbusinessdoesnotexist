@@ -1,0 +1,139 @@
+{
+  "name": "Amber Warden",
+  "slug": "amber-warden",
+  "industry": "cannabis compliance",
+  "tagline": "Every gram accounted for, every audit already won.",
+  "positioning": "Amber Warden turns seed-to-sale compliance into a calm, continuous ledger — so owner-operators stop firefighting and start building an empire.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F6EEE0",
+    "surface": "#FFFAF0",
+    "text": "#2C2119",
+    "primary": "#B5521E",
+    "accent": "#C79A3A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AW",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that runs itself while you run the shop",
+      "sub": "Amber Warden reconciles your METRC packages, flags variance before the state does, and keeps every manifest, COA, and transfer audit-ready — for the dispensary owner who does it all.",
+      "ctaLabel": "Start free audit",
+      "secondaryCtaLabel": "See a live ledger"
+    },
+    "features": [
+      {
+        "title": "METRC that reconciles itself",
+        "description": "Nightly sync catches package mismatches, orphaned tags, and untagged inventory, then hands you a one-tap fix list instead of a 40-tab spreadsheet.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Variance caught before the state calls",
+        "description": "Amber Warden watches weight loss, waste logs, and adjustments in real time and alerts you the moment a number drifts outside your license tolerance.",
+        "icon": "shield"
+      },
+      {
+        "title": "Every COA and manifest, one shelf",
+        "description": "Certificates of analysis, transfer manifests, and vendor licenses live in one searchable vault — pull any document for an inspector in under ten seconds.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Audit mode for inspection day",
+        "description": "Freeze a compliant snapshot, generate the exact report your state requires, and walk the inspector through it from your phone.",
+        "icon": "lock"
+      },
+      {
+        "title": "Multi-license, one command room",
+        "description": "Cultivation, manufacturing, and retail licenses roll up into a single dashboard so you see your whole operation without switching logins.",
+        "icon": "layers"
+      },
+      {
+        "title": "Rule changes, translated",
+        "description": "When your state amends packaging or testing rules, we push a plain-English changelog and update your checklists automatically.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We passed a surprise inspection in eleven minutes. Amber Warden had the manifests, COAs, and waste logs sorted before the inspector finished her coffee. It paid for itself that morning.",
+        "name": "Marisol Trejo",
+        "role": "Owner",
+        "company": "Cinder Row Cannabis"
+      },
+      {
+        "quote": "I used to spend every Sunday reconciling METRC by hand. Now the variance report is waiting for me and it's usually already clean. I got my weekends back.",
+        "name": "Devon Alcott",
+        "role": "Operations Lead",
+        "company": "Highland Leaf Collective"
+      },
+      {
+        "quote": "Running three licenses across two counties was a compliance nightmare. Amber Warden gave us one source of truth and our attorney fees dropped by half.",
+        "name": "Priya Ramaswamy",
+        "role": "Founder & CEO",
+        "company": "Terra Nine Gardens"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For a single-license shop that needs to stop guessing.",
+        "features": [
+          "1 license included",
+          "Automated METRC reconciliation",
+          "Variance alerts",
+          "COA & manifest vault",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cultivator",
+        "price": "$119",
+        "period": "per seat / month",
+        "blurb": "For growing operators juggling multiple licenses and staff.",
+        "features": [
+          "Up to 5 licenses",
+          "Real-time variance monitoring",
+          "Inspection audit mode",
+          "Rule-change changelog",
+          "Role-based staff access",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat, volume pricing",
+        "blurb": "For multi-state operators who need control at scale.",
+        "features": [
+          "Unlimited licenses & states",
+          "Dedicated compliance strategist",
+          "API & POS integrations",
+          "Custom audit reporting",
+          "SSO & advanced permissions",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Amber Warden keeps independent cannabis operators audit-ready every day of the year — one calm ledger for a hard-won license."
+  }
+}

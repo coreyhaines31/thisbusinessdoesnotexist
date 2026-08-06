@@ -1,0 +1,150 @@
+{
+  "name": "HearthBoard",
+  "slug": "hearthboard",
+  "industry": "HOA management",
+  "tagline": "The friendly command center for the community you actually manage.",
+  "positioning": "HearthBoard gives small HOA management shops one warm, organized place to run dues, violations, board packets, and homeowner requests.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FAF5EE",
+    "surface": "#FFFFFF",
+    "text": "#2F2A3D",
+    "primary": "#6B5AC4",
+    "accent": "#F0A6BC"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "HB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,6 18,11 18,18 6,18 6,11",
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 14,
+        "r": 1.7,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every HOA like it's your only one.",
+      "sub": "HearthBoard pulls dues, violation letters, board packets, and homeowner tickets into a single cheerful dashboard — so your two-person shop can manage forty communities without dropping a single one.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live board packet"
+    },
+    "features": [
+      {
+        "title": "Dues that collect themselves",
+        "description": "Auto-invoice every homeowner, chase late payments with gentle reminders, and reconcile to your operating account without exporting a single spreadsheet.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Violation letters in two clicks",
+        "description": "Snap a photo, pick the covenant, and HearthBoard drafts the compliant notice with photo, deadline, and mailing log attached.",
+        "icon": "shield"
+      },
+      {
+        "title": "Board packets, ready Friday",
+        "description": "Financials, open violations, and ARC requests auto-assemble into a clean PDF your board members can actually read on their phones.",
+        "icon": "layers"
+      },
+      {
+        "title": "A homeowner portal they'll use",
+        "description": "Residents pay dues, submit ARC requests, and check the pool schedule from one link — cutting your inbound calls by half.",
+        "icon": "users"
+      },
+      {
+        "title": "Reserve tracking that sleeps well",
+        "description": "Model your reserve fund against the study, flag underfunded line items, and show the board exactly where the roof money went.",
+        "icon": "chart"
+      },
+      {
+        "title": "Architectural reviews on a timer",
+        "description": "Route paint and fence requests to the ARC, track the response clock, and never blow a state-mandated approval window again.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was managing 22 associations out of a shared inbox and a wall of sticky notes. HearthBoard gave me back my Sundays — the board packets that used to take a full day now build themselves.",
+        "name": "Danielle Prewitt",
+        "role": "Owner & Community Manager",
+        "company": "Cypress Ridge Community Group"
+      },
+      {
+        "quote": "The violation workflow alone paid for us. Photo, covenant, letter, mailed log — all timestamped when a homeowner disputes it. Our attorney actually complimented the records.",
+        "name": "Marcus Elder",
+        "role": "Managing Partner",
+        "company": "Bluebonnet Association Services"
+      },
+      {
+        "quote": "Homeowners stopped calling to ask if their dues went through. The portal answers it. We added two new communities this quarter without hiring anyone.",
+        "name": "Renata Ochoa",
+        "role": "Operations Lead",
+        "company": "Harborview HOA Management"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the owner-operator running a handful of associations single-handed.",
+        "features": [
+          "Up to 8 associations",
+          "Dues collection & reconciliation",
+          "Violation letters & photo logs",
+          "Homeowner portal",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For the growing shop with a manager, a bookkeeper, and real volume.",
+        "features": [
+          "Unlimited associations",
+          "Auto-built board packets",
+          "ARC review workflows & timers",
+          "Reserve fund tracking",
+          "Role-based team permissions",
+          "Priority chat support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Firm",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For established management firms with dedicated onboarding needs.",
+        "features": [
+          "Everything in Studio",
+          "Custom covenant libraries",
+          "Accounting system integrations",
+          "Dedicated onboarding manager",
+          "Audit-ready record exports",
+          "SLA & phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "HearthBoard helps small HOA management shops run more communities with fewer late nights. Built by people who've sat through the board meetings."
+  }
+}

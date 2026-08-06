@@ -1,0 +1,135 @@
+{
+  "name": "Salaria",
+  "slug": "salaria",
+  "industry": "film production payroll",
+  "tagline": "Payroll built for the person actually cutting the checks on set.",
+  "positioning": "Salaria runs payroll for indie films, commercials, and one-person production companies — timecards, W-2s, and residuals without a payroll department.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#EAF3F1",
+    "surface": "#FFFFFF",
+    "text": "#08211F",
+    "primary": "#0C7C59",
+    "accent": "#1857C4"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "SA",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 3,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Pay your crew like a real studio, without becoming one.",
+      "sub": "Salaria turns crew deal memos into signed timecards, tax forms, and same-week payouts. Built for the director who is also the accountant, the producer, and the person answering emails at 1am.",
+      "ctaLabel": "Run your first payroll",
+      "secondaryCtaLabel": "See a sample timecard"
+    },
+    "features": [
+      {
+        "title": "Deal memo to paycheck",
+        "description": "Import a crew deal memo and Salaria builds the pay rules — daily rate, kit fee, overtime, meal penalties — so the timecard math is done before you ever open a spreadsheet.",
+        "icon": "layers"
+      },
+      {
+        "title": "Timecards from the field",
+        "description": "Your gaffer clocks in from a phone on location. You approve from the couch. No paper start slips, no photographing a clipboard at wrap.",
+        "icon": "clock"
+      },
+      {
+        "title": "Tax forms that just exist",
+        "description": "W-2s, 1099s, and state filings generate automatically at year end. Each crew member gets their forms in one link, not a frantic January email chain.",
+        "icon": "database"
+      },
+      {
+        "title": "Residuals you can track",
+        "description": "Log participation and deferred pay per project, so when a short finally sells you know exactly who is owed what — down to the PA who stayed late.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "One payout, many gigs",
+        "description": "Run a two-day commercial and a six-week feature from the same account. Every project keeps its own budget, crew, and paper trail.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Made for one operator",
+        "description": "No seats to buy, no HR module to configure. Salaria assumes you are the entire back office and hides everything you don't need.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I shot a 12-day feature with a crew of nine and did payroll from my hotel room. The W-2s went out in January and nobody emailed me confused. That has literally never happened before.",
+        "name": "Devon Marsh",
+        "role": "Writer-Director",
+        "company": "Halfmoon Pictures"
+      },
+      {
+        "quote": "We run three or four branded shorts a month. Salaria keeps each one's crew and rates separate, so I'm not reverse-engineering who worked which day at the end of the quarter.",
+        "name": "Priya Anand",
+        "role": "Line Producer",
+        "company": "Northgate Content"
+      },
+      {
+        "quote": "The meal penalty and overtime rules alone saved me a disputed timecard on my last commercial. It calculated it before the crew even asked.",
+        "name": "Marcus Vell",
+        "role": "Owner & Gaffer",
+        "company": "Vell Grip & Electric"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per project",
+        "blurb": "For the one-person shoot paying a small handful of crew.",
+        "features": [
+          "Up to 8 crew per project",
+          "Mobile timecards & approvals",
+          "Automatic W-2 and 1099 forms",
+          "Same-week payouts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Production",
+        "price": "$89",
+        "period": "per project",
+        "blurb": "For features and commercials with a full crew and real pay rules.",
+        "features": [
+          "Unlimited crew per project",
+          "Deal memo rate importing",
+          "Overtime, kit fees & meal penalties",
+          "Multi-state tax filing",
+          "Residuals & deferred pay tracking"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Slate",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For studios and prod companies running back-to-back projects.",
+        "features": [
+          "Unlimited active projects",
+          "Shared crew database",
+          "Consolidated year-end reporting",
+          "Priority payout processing",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Salaria is payroll for people who make things, not spreadsheets. Timecards, taxes, and payouts for the crew you actually hired."
+  }
+}

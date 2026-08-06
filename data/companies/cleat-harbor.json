@@ -1,0 +1,165 @@
+{
+  "name": "Cleat Harbor",
+  "slug": "cleat-harbor",
+  "industry": "marina management",
+  "tagline": "Run your marina without the clipboard, the whiteboard, or the shouting.",
+  "positioning": "Cleat Harbor is the operations software for small marinas — slips, waitlists, fuel dock, and seasonal contracts in one place your dockhands won't hate.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F3F0E8",
+    "surface": "#FBF9F4",
+    "text": "#221F1A",
+    "primary": "#37564F",
+    "accent": "#B0532B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CH",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your marina is not a spreadsheet with a view.",
+      "sub": "Cleat Harbor replaces the dockage binder, the sticky-note waitlist, and the group text nobody reads. Assign slips, bill seasonals, and run the fuel dock from one screen.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a dock tour"
+    },
+    "features": [
+      {
+        "title": "Slip assignments that make sense",
+        "description": "Drag boats onto a live map of your basin. Beam, draft, and length flags catch the 42-footer someone tried to squeeze into a 30-foot slip.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Waitlists people actually trust",
+        "description": "Rank transients and seasonal hopefuls by date, size, and priority. When a slip opens, Cleat Harbor texts the next in line so you don't have to.",
+        "icon": "users"
+      },
+      {
+        "title": "Dockage billing on autopilot",
+        "description": "Prorate seasonal contracts, meter electric, and bill transients by the night. Late fees apply themselves so you can stop being the bad guy.",
+        "icon": "chart"
+      },
+      {
+        "title": "Fuel dock and pump-outs",
+        "description": "Log gallons, print receipts, and reconcile the fuel dock till at close — instead of doing math on the back of a launch ticket.",
+        "icon": "database"
+      },
+      {
+        "title": "Storms don't wait for you",
+        "description": "Pull a hurricane haul-out list in one click: every boat, owner, and phone number, sorted by who needs to move first.",
+        "icon": "bell"
+      },
+      {
+        "title": "Works on the dock, not just the desk",
+        "description": "Dockhands check in arrivals from a phone with salt-water hands. No login gymnastics, no laptop by the gas pump.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 180 slips out of a three-ring binder and a whiteboard held together with tape. Cleat Harbor found four boats we'd been storing for free since 2021. It paid for itself by Memorial Day.",
+        "name": "DanaРечь",
+        "role": "Harbormaster",
+        "company": "Kestrel Point Marina"
+      },
+      {
+        "quote": "The transient waitlist used to be whoever yelled loudest on the VHF. Now it's a list, and I can point to it. My blood pressure sends its thanks.",
+        "name": "Marcus Whitfield",
+        "role": "Owner-Operator",
+        "company": "Two Rivers Boatworks"
+      },
+      {
+        "quote": "Our seasonal invoices went out on April 1 for the first time in the marina's history. My accountant asked if we hired someone. We didn't. We got software.",
+        "name": "Priya Anand",
+        "role": "Dockmaster",
+        "company": "Lantern Bay Yacht Basin"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Piling",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the small basin still escaping the binder.",
+        "features": [
+          "Up to 75 slips",
+          "Live slip map & assignments",
+          "Transient & seasonal billing",
+          "One waitlist",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fairway",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing marinas with a fuel dock and opinions.",
+        "features": [
+          "Unlimited slips",
+          "Fuel dock & pump-out logging",
+          "Metered electric billing",
+          "Storm haul-out lists",
+          "Dockhand mobile check-in",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Breakwater",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location operators and yacht clubs.",
+        "features": [
+          "Everything in Fairway",
+          "Multi-marina dashboards",
+          "Accounting integrations",
+          "Custom contract templates",
+          "Dedicated onboarding",
+          "SLA & phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cleat Harbor is marina operations software for owner-operators who'd rather be on the water than in a spreadsheet. Built by people who've untangled dock lines."
+  }
+}

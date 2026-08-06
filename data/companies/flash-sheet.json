@@ -1,0 +1,140 @@
+{
+  "name": "Flash Sheet",
+  "slug": "flash-sheet",
+  "industry": "tattoo studio booking",
+  "tagline": "Booking software that doesn't act like it's still 2009.",
+  "positioning": "The booking, deposits, and calendar system built for tattoo shops that are tired of running the front desk out of a DM inbox and a shoebox of cash.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0a1a24",
+    "surface": "#102a38",
+    "text": "#e7f4f2",
+    "primary": "#2ee6a6",
+    "accent": "#38b6ff"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "FS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 3,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M9 6 L9 18 L12 18 L12 13 L16 13 L16 10 L12 10 L12 9 L17 9 L17 6 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stop running your shop out of a DM inbox.",
+      "sub": "Flash Sheet takes deposits, fills chair time, and chases no-shows so you can actually tattoo. No more triple-booked Saturdays or ghosted consult replies.",
+      "ctaLabel": "Claim your shop",
+      "secondaryCtaLabel": "See a live shop"
+    },
+    "features": [
+      {
+        "title": "Deposits that stick",
+        "description": "Take a non-refundable deposit before the appointment exists. Auto-forfeit on no-shows, auto-apply to the final. Your chair time stops being free.",
+        "icon": "lock"
+      },
+      {
+        "title": "Per-artist calendars",
+        "description": "Every artist gets their own bookable calendar with their own rules, rates, and blackout days. The front desk sees all of it in one screen.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Flash drops",
+        "description": "Post a flash sheet, let clients claim designs first-come-first-served, and watch the slots fill without answering 40 messages.",
+        "icon": "zap"
+      },
+      {
+        "title": "No-show recovery",
+        "description": "Automatic reminders, deposit rules, and a waitlist that texts the next person the second a slot opens up.",
+        "icon": "bell"
+      },
+      {
+        "title": "Consent, signed",
+        "description": "Digital consent forms, ID capture, and aftercare sheets stored per client. Auditable, dated, and never in a shoebox.",
+        "icon": "shield"
+      },
+      {
+        "title": "Shop numbers",
+        "description": "Revenue per artist, chair utilization, deposit conversion. The stuff your accountant keeps asking for, finally in one place.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were losing a grand a week to no-shows. Flash Sheet's deposit rules killed that in the first month. I stopped policing my own calendar.",
+        "name": "Dana Reyes",
+        "role": "Owner",
+        "company": "Ironclad Tattoo Co."
+      },
+      {
+        "quote": "Flash drops are the only reason my Sundays are booked out. I post the sheet, go to bed, and wake up to a full day. It's almost insulting how easy it is.",
+        "name": "Marcus Vela",
+        "role": "Resident Artist",
+        "company": "Blackwater Ink"
+      },
+      {
+        "quote": "Onboarding four artists took an afternoon, not a meeting. Each one runs their own book and I still see the whole shop. That never happened with our old spreadsheet.",
+        "name": "Priya Ansari",
+        "role": "Shop Manager",
+        "company": "Ninth Street Tattoo"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per artist / month",
+        "blurb": "For one chair and no patience for admin.",
+        "features": [
+          "1 artist seat",
+          "Online booking & deposits",
+          "Digital consent forms",
+          "Automated reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Shop",
+        "price": "$24",
+        "period": "per artist / month",
+        "blurb": "For multi-artist shops that want one front desk.",
+        "features": [
+          "Unlimited artist seats",
+          "Per-artist calendars & rules",
+          "Flash drops",
+          "Waitlist & no-show recovery",
+          "Shop-wide reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio Group",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For owners running more than one location.",
+        "features": [
+          "Everything in Shop",
+          "Multi-location dashboard",
+          "Consolidated payouts",
+          "Role-based permissions",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Flash Sheet is booking software for tattoo shops that would rather tattoo. Deposits, calendars, and consent forms in one place."
+  }
+}

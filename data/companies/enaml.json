@@ -1,0 +1,136 @@
+{
+  "name": "Enaml",
+  "slug": "enaml",
+  "industry": "dental practice operations",
+  "tagline": "The operations layer for multi-site dental groups.",
+  "positioning": "Enaml unifies scheduling, claims, and chair utilization across every location so DSO operators can run practices on one operational source of truth.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F1EEE7",
+    "surface": "#FBFAF5",
+    "text": "#211F1A",
+    "primary": "#3C5A4E",
+    "accent": "#B0603A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 A5 5 0 0 0 12 17 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every dental location on one operational spine.",
+      "sub": "Enaml connects scheduling, claims, and chair utilization across all your practices — so regional managers stop reconciling spreadsheets and start reading one number they trust.",
+      "ctaLabel": "Book an operations review",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Chair utilization, live",
+        "description": "See open-chair minutes by location, provider, and hour. Enaml flags the schedule gaps that quietly cost a practice tens of thousands each month.",
+        "icon": "chart"
+      },
+      {
+        "title": "Claims that don't stall",
+        "description": "Automated eligibility checks and clean-claim scrubbing catch coding errors before submission, shrinking the days-in-AR your CFO reports to the board.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Cross-site scheduling",
+        "description": "Route patients to the nearest location with capacity. Recall lists and hygiene reappointments sync across every practice in the group.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Provider credentialing",
+        "description": "Track licenses, DEA registrations, and payer enrollments in one ledger, with renewal alerts before a provider ever drops out of network.",
+        "icon": "shield"
+      },
+      {
+        "title": "Standardized reporting",
+        "description": "One production, collections, and net-revenue report format across acquired practices — regardless of the PMS each location came in on.",
+        "icon": "layers"
+      },
+      {
+        "title": "Integration layer",
+        "description": "Bidirectional sync with Dentrix, Eaglesoft, and Open Dental, so your data platform stays current without manual exports.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We onboarded 41 practices onto Enaml in a quarter. For the first time our regional directors open the same dashboard and argue about the strategy, not the numbers.",
+        "name": "Priya Nadkarni",
+        "role": "VP of Operations",
+        "company": "Meridian Dental Partners"
+      },
+      {
+        "quote": "Days in AR dropped from 38 to 22 after the claims scrubbing went live. Our billing team stopped chasing rejections and started working denials that actually matter.",
+        "name": "Marcus Elliott",
+        "role": "Chief Financial Officer",
+        "company": "Crestline Dental Group"
+      },
+      {
+        "quote": "The chair-utilization view paid for the whole contract. We found 900 empty hygiene hours a month we didn't know we had across the Southeast region.",
+        "name": "Danielle Okafor",
+        "role": "Director of Practice Integration",
+        "company": "Harborlight DSO"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Regional",
+        "price": "$0.90",
+        "period": "per completed visit / month",
+        "blurb": "For growing groups standardizing their first cluster of locations.",
+        "features": [
+          "Up to 20 locations",
+          "Chair utilization dashboards",
+          "Claims eligibility checks",
+          "Standard PMS connectors"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$0.65",
+        "period": "per completed visit / month",
+        "blurb": "For established DSOs running unified operations across regions.",
+        "features": [
+          "Unlimited locations",
+          "Clean-claim scrubbing",
+          "Cross-site scheduling",
+          "Credentialing ledger",
+          "Volume-tiered rates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, usage-committed",
+        "blurb": "For national platforms with dedicated data and compliance needs.",
+        "features": [
+          "Committed-volume pricing",
+          "Custom PMS integrations",
+          "SSO and audit logging",
+          "Dedicated solutions engineer",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Enaml is the operations platform for multi-site dental groups — one source of truth for scheduling, claims, and utilization."
+  }
+}

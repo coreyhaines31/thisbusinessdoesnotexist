@@ -1,0 +1,143 @@
+{
+  "name": "Gaffr",
+  "slug": "gaffr",
+  "industry": "film production payroll",
+  "tagline": "Payroll built for the chaos of a shoot day",
+  "positioning": "Gaffr runs cast and crew payroll for studios and production companies — union math, timecards, and residuals handled from call sheet to wrap.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FBF5EA",
+    "surface": "#FFFFFF",
+    "text": "#2C2018",
+    "primary": "#BE4E27",
+    "accent": "#5E7B4E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "G",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 12 A9 9 0 0 1 21 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M21 13 A9 9 0 0 1 3 13 L12 13 Z",
+        "fill": "accent"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Payroll that keeps up with the shoot day",
+      "sub": "From day players to department heads, Gaffr turns timecards, union rates, and box rentals into clean, compliant paychecks — even when the schedule changes twice before lunch.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Union math, done for you",
+        "description": "IATSE, DGA, SAG-AFTRA, and Teamsters rate tables baked in. Meal penalties, turnaround, and golden hours calculate the moment a timecard lands.",
+        "icon": "shield"
+      },
+      {
+        "title": "Timecards from set",
+        "description": "UPMs and 2nd ADs approve digital timecards from the truck. No more chasing paper start slips through three departments after wrap.",
+        "icon": "clock"
+      },
+      {
+        "title": "Start paperwork in minutes",
+        "description": "Onboard a 400-person crew with pre-built deal memos, W-4s, and I-9s. Everything routes to the right coordinator automatically.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Loan-out and residuals ready",
+        "description": "Handle loan-out corporations, fringes, and residual reporting cleanly, so post and accounting aren't reconciling numbers six months later.",
+        "icon": "layers"
+      },
+      {
+        "title": "Production accounting sync",
+        "description": "Cost reports map straight to your general ledger and hot costs. Line producers see labor spend by department in real time.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-state, multi-shoot",
+        "description": "Run splits across states and incentives while Gaffr tracks withholding and location rules for every unit on every day.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We closed payroll on a 62-day feature without a single re-issue check. Our accountant used to lose a week to union reconciliation — now it's an afternoon.",
+        "name": "Marissa Delgado",
+        "role": "Head of Production Finance",
+        "company": "Kettle Row Pictures"
+      },
+      {
+        "quote": "The start paperwork alone paid for Gaffr. Onboarding a 300-person background day used to eat two coordinators. Now it's one person and a phone.",
+        "name": "Terrence Yoo",
+        "role": "Production Executive",
+        "company": "Harborlight Studios"
+      },
+      {
+        "quote": "Our line producers finally trust the labor numbers mid-week instead of waiting for the weekly. That changes how we make decisions on set.",
+        "name": "Bianca Osei",
+        "role": "VP, Physical Production",
+        "company": "Tallgrass Entertainment"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Short Form",
+        "price": "$3",
+        "period": "per paid crew member, per week",
+        "blurb": "For commercials, music videos, and single-unit shoots.",
+        "features": [
+          "Digital timecards and start paperwork",
+          "Standard union rate tables",
+          "Multi-state withholding",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Production",
+        "price": "$6",
+        "period": "per paid crew member, per week",
+        "blurb": "For features and series juggling multiple units.",
+        "features": [
+          "Everything in Short Form",
+          "Loan-out and fringe handling",
+          "Cost reports and GL sync",
+          "Incentive and location tracking",
+          "Dedicated payroll coordinator"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "volume pricing across your slate",
+        "blurb": "For studios running many productions at once.",
+        "features": [
+          "Everything in Production",
+          "Residual reporting and audits",
+          "SSO and role-based access",
+          "Portfolio-level cost dashboards",
+          "Named account team and SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Gaffr is film production payroll for studios that ship on schedule — union-fluent, set-ready, and built alongside the coordinators who live it."
+  }
+}

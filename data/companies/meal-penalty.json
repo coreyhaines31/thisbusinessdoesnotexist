@@ -1,0 +1,152 @@
+{
+  "name": "Meal Penalty",
+  "slug": "meal-penalty",
+  "industry": "film production payroll",
+  "tagline": "Film payroll that pays your crew before they revolt.",
+  "positioning": "Union-aware payroll built for the owner-operator running a lean production company, not a studio with a legal floor.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F3F3F8",
+    "primary": "#3BFFA6",
+    "accent": "#FF3D8B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MP",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 10,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 5,
+        "width": 4,
+        "height": 9,
+        "rx": 2,
+        "fill": "bg"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 16,
+        "width": 8,
+        "height": 2.4,
+        "rx": 1.2,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Payroll that survives a 14-hour shoot day.",
+      "sub": "Meal Penalty runs timecards, fringes, and union math for the two-person production company that can't afford a payroll department — or a lawsuit.",
+      "ctaLabel": "Cut your first check",
+      "secondaryCtaLabel": "See the math"
+    },
+    "features": [
+      {
+        "title": "Golden time, calculated",
+        "description": "We know when your grip crossed into double-time at 2am. Overtime, meal penalties, and turnaround are computed before the gaffer starts doing napkin math.",
+        "icon": "clock"
+      },
+      {
+        "title": "Union tables that update themselves",
+        "description": "IATSE, DGA, SAG-AFTRA minimums baked in and refreshed when the contracts change, so you stop bookmarking PDFs you'll never read again.",
+        "icon": "shield"
+      },
+      {
+        "title": "Kit fees without the spreadsheet",
+        "description": "Track equipment rentals, box fees, and reimbursements per person, per day, per project. It all lands in one clean deal memo.",
+        "icon": "layers"
+      },
+      {
+        "title": "Timecards from set, not email",
+        "description": "Your AD approves hours from their phone between setups. No screenshots of a legal pad at wrap.",
+        "icon": "zap"
+      },
+      {
+        "title": "Year-end that isn't a horror film",
+        "description": "W-2s, 1099s, and multi-state filings for the crew you flew in from three states away. We handle the paperwork you keep forgetting exists.",
+        "icon": "chart"
+      },
+      {
+        "title": "Deal memos that stick",
+        "description": "Rates, roles, and terms locked per hire, so nobody 'remembers' a different day rate on payday.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to reconcile timecards at 1am in a hotel parking lot. Now the meal penalties calculate themselves and I actually sleep during a shoot. Genuinely rude how easy this is.",
+        "name": "Danielle Rourke",
+        "role": "Owner / Line Producer",
+        "company": "Slow Fade Pictures"
+      },
+      {
+        "quote": "We're four people and a van. Meal Penalty is the only reason we can hire a union crew without a payroll company charging us like we're Warner Bros.",
+        "name": "Marcus Vellani",
+        "role": "Executive Producer",
+        "company": "Third Act Media"
+      },
+      {
+        "quote": "The union rate tables alone saved me from two grievances last quarter. It quietly knows more about my labor obligations than I do.",
+        "name": "Priya Anand",
+        "role": "Production Manager",
+        "company": "Northlight Commercial"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Day Player",
+        "price": "$18",
+        "period": "per seat / month",
+        "blurb": "For the solo producer running one project at a time.",
+        "features": [
+          "Up to 3 active seats",
+          "Timecards & approvals",
+          "Standard fringe calculations",
+          "W-2 & 1099 filing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Below the Line",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For working production companies juggling multiple crews.",
+        "features": [
+          "Unlimited projects",
+          "Full union rate tables",
+          "Meal penalty & golden time",
+          "Kit fee & box tracking",
+          "Multi-state filing",
+          "Deal memo builder"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Above the Line",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For established shops with a real accountant and real exposure.",
+        "features": [
+          "Everything in Below the Line",
+          "Dedicated payroll specialist",
+          "Custom fringe rules",
+          "API & accounting sync",
+          "Audit-ready records"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Meal Penalty is film payroll for people who'd rather be on set. Not affiliated with any union, but fluent in all of them."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Lark Belfry",
+  "slug": "lark-belfry",
+  "industry": "church admin software",
+  "tagline": "The command deck for the small congregation with a very large calling.",
+  "positioning": "Lark Belfry unifies membership rolls, giving, and the Sunday service order into one calm workspace built for the solo pastor and the volunteer-run parish.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F5F2FB",
+    "surface": "#FFFFFF",
+    "text": "#2A2640",
+    "primary": "#6C5CD1",
+    "accent": "#E79FC6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LB",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 L20 12 L15 12 L15 22 L9 22 L9 12 L4 12 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your whole ministry from one quiet screen.",
+      "sub": "Lark Belfry replaces the four spreadsheets, three group chats, and one anxious notebook that hold your church together. Membership, giving, and the order of service — finally in harmony.",
+      "ctaLabel": "Start your first Sunday",
+      "secondaryCtaLabel": "See a live demo"
+    },
+    "features": [
+      {
+        "title": "Living Membership Rolls",
+        "description": "Every family, baptism date, and pastoral note in one place. Search a name and see their entire story with your congregation instantly.",
+        "icon": "users"
+      },
+      {
+        "title": "Giving Without the Guilt Trip",
+        "description": "Track tithes, one-time gifts, and pledges, then generate year-end statements in a single click. No accounting degree required.",
+        "icon": "chart"
+      },
+      {
+        "title": "The Sunday Composer",
+        "description": "Drag hymns, readings, and sermon notes into an order of service your worship team actually reads on their phones.",
+        "icon": "layers"
+      },
+      {
+        "title": "Gentle Reminders",
+        "description": "Automated nudges for volunteer rotations, visitation follow-ups, and the flowers nobody remembered to reorder.",
+        "icon": "bell"
+      },
+      {
+        "title": "The Parish Calendar",
+        "description": "Weddings, funerals, potlucks, and building bookings on one shared timeline the whole leadership team can trust.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Your Data, Your Flock",
+        "description": "Encrypted records, granular permissions, and a full export anytime. Your congregation's trust is not a feature we rent back to you.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend Monday morning reconciling the offering count against a spreadsheet and a shoebox. Lark Belfry gave me those hours back to actually visit the sick.",
+        "name": "Rev. Marcus Elwood",
+        "role": "Solo Pastor",
+        "company": "Cornerstone Fellowship"
+      },
+      {
+        "quote": "Our year-end giving statements once took three volunteers a full weekend. Now I press one button and go home. The board thinks I hired someone.",
+        "name": "Diane Okafor",
+        "role": "Church Treasurer",
+        "company": "Grace Union Chapel"
+      },
+      {
+        "quote": "The Sunday Composer means my worship team stops texting me at 11pm asking what key the closing hymn is in. Worth it for that alone.",
+        "name": "Caleb Rhodes",
+        "role": "Worship Leader",
+        "company": "Riverstone Community Church"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "For the new plant or house church finding its footing.",
+        "features": [
+          "Up to 75 member records",
+          "Basic giving tracking",
+          "One order-of-service per week",
+          "Shared parish calendar"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parish",
+        "price": "$29",
+        "period": "per month, flat",
+        "blurb": "Everything a growing congregation needs to run itself.",
+        "features": [
+          "Unlimited member records",
+          "Full giving & year-end statements",
+          "Sunday Composer for the whole team",
+          "Automated reminders & rotations",
+          "Email & priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "$79",
+        "period": "per month, flat",
+        "blurb": "For multi-site ministries and networks of small churches.",
+        "features": [
+          "Everything in Parish",
+          "Up to 10 connected locations",
+          "Consolidated giving reporting",
+          "Custom roles & permissions",
+          "Dedicated onboarding call"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Lark Belfry is the calm operating system for small congregations everywhere. Built by people who have counted the offering by hand."
+  }
+}

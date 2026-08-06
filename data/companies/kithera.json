@@ -1,0 +1,136 @@
+{
+  "name": "Kithera",
+  "slug": "kithera",
+  "industry": "elder-care coordination",
+  "tagline": "Care coordination that stops falling through the cracks between shifts.",
+  "positioning": "Kithera is the operational layer for multi-facility elder care — one live record for every resident, so handoffs, meds, and family updates stop getting lost.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0E0E11",
+    "surface": "#1A1A1F",
+    "text": "#F4F4F5",
+    "primary": "#D8FF2E",
+    "accent": "#8A8A93"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,20 16,20 12,12 8,20 2,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,9 16.5,18 7.5,18",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grandma is not a spreadsheet. Stop treating her like one.",
+      "sub": "Kithera gives every caregiver, nurse, and anxious daughter the same live care record — across facilities, across shifts, across the 2am phone call nobody wants to make.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See the demo record"
+    },
+    "features": [
+      {
+        "title": "Handoffs that survive shift change",
+        "description": "The evening nurse inherits the full picture — not a sticky note that says 'ask Diane.' Care notes, med changes, and flags carry over automatically.",
+        "icon": "refresh"
+      },
+      {
+        "title": "One record, every facility",
+        "description": "Move a resident from assisted living to memory care without re-keying eight years of history into a new system. It just follows them.",
+        "icon": "layers"
+      },
+      {
+        "title": "Family updates on autopilot",
+        "description": "Relatives get a real summary instead of calling the front desk. Fewer angry voicemails, fewer 'why didn't anyone tell us.'",
+        "icon": "bell"
+      },
+      {
+        "title": "Escalations that actually escalate",
+        "description": "A missed medication doesn't sit in a queue. Kithera routes it to whoever is on shift and won't stop until a human says they've got it.",
+        "icon": "target"
+      },
+      {
+        "title": "Audit trails compliance will hug you for",
+        "description": "Every change is timestamped and attributed. When the state surveyor shows up, you export a report instead of a panic attack.",
+        "icon": "shield"
+      },
+      {
+        "title": "Staffing you can actually see",
+        "description": "Live view of who's on, who's stretched thin, and which wing is one call-out away from chaos.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 11 facilities on faxes, three EHRs, and a group text called 'DO NOT DELETE.' Kithera replaced all of it in a quarter. Our surveyor readiness went from a fire drill to a Tuesday.",
+        "name": "Priya Raman",
+        "role": "VP of Clinical Operations",
+        "company": "Marrow Ridge Senior Living"
+      },
+      {
+        "quote": "The family portal alone paid for the contract. Complaint calls to our administrators dropped by half because relatives can just see what's happening.",
+        "name": "Doug Feltner",
+        "role": "Chief Operating Officer",
+        "company": "Halvorsen Care Group"
+      },
+      {
+        "quote": "I stopped believing coordination software after the last three. Kithera's handoff feature is the first thing my night nurses didn't quietly abandon.",
+        "name": "Alicia Moreau",
+        "role": "Director of Nursing",
+        "company": "Cedarline Communities"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Wing",
+        "price": "$4",
+        "period": "per active resident / mo",
+        "blurb": "For single facilities done with faxes and duct-taped spreadsheets.",
+        "features": [
+          "Live resident records",
+          "Shift handoff module",
+          "Basic family updates",
+          "Standard audit export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$9",
+        "period": "per active resident / mo",
+        "blurb": "For multi-site operators who need one record to follow the resident.",
+        "features": [
+          "Everything in Wing",
+          "Cross-facility transfers",
+          "Smart escalation routing",
+          "Staffing visibility board",
+          "Survey-ready compliance reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume pricing across facilities",
+        "blurb": "For large operators and health systems with real integration needs.",
+        "features": [
+          "Everything in Network",
+          "EHR & pharmacy integrations",
+          "SSO and role-based access",
+          "Dedicated implementation team",
+          "Custom SLAs and BAAs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kithera keeps elder care coordinated across every shift, facility, and family — so nothing slips through the cracks."
+  }
+}

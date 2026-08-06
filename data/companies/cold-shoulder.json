@@ -1,0 +1,162 @@
+{
+  "name": "Cold Shoulder",
+  "slug": "cold-shoulder",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating system for people who charge money to freeze other people.",
+  "positioning": "Cold Shoulder runs the bookings, waivers, and water logs for your cold-plunge studio, so the only thing shivering is your members.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F4F4F4",
+    "text": "#0B0B0B",
+    "primary": "#0B0B0B",
+    "accent": "#0044FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your plunge studio without losing your cool.",
+      "sub": "Bookings, digital waivers, memberships, and tub temperature logs in one place. You handle the ice. Cold Shoulder handles the paperwork nobody warned you about.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See it in action"
+    },
+    "features": [
+      {
+        "title": "Slot booking that survives 6am",
+        "description": "Members book 12-minute plunge windows, get auto-reminders, and no-show fees fire on their own. Your front desk stops playing air traffic control.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Waivers before wet feet",
+        "description": "Signed liability waivers land in an inbox before anyone touches the water. No more clipboard hunts or 'I swear I signed one last week.'",
+        "icon": "inbox"
+      },
+      {
+        "title": "Temperature receipts",
+        "description": "Log every tub's temp on a schedule and keep a timestamped history. Great for the health inspector, greater for the guy who insists it 'felt warm.'",
+        "icon": "database"
+      },
+      {
+        "title": "Memberships that don't leak",
+        "description": "Plans, freezes, and family add-ons that actually bill correctly. Failed cards get chased automatically so you don't have to.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Staff seats, sane permissions",
+        "description": "Give each coach their own login without handing over the keys to your bank account. Roles for front desk, coaches, and owners.",
+        "icon": "users"
+      },
+      {
+        "title": "Numbers you'll actually check",
+        "description": "Utilization by tub, revenue per member, peak plunge hours. Know whether that 5am slot earns its ice bill.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running three studios off a shared spreadsheet and a group chat. Cold Shoulder cut our no-shows by half and I stopped dreaming about double-booked tubs.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "North Fjord Recovery"
+      },
+      {
+        "quote": "The waiver flow alone paid for itself. Every plunger signs before they're in the building, and our insurance guy finally stopped calling.",
+        "name": "Dev Okafor",
+        "role": "Studio Manager",
+        "company": "Below Zero Club"
+      },
+      {
+        "quote": "I gave my coaches their own seats and suddenly I'm not the only one who can check the schedule at 5am. Best per-seat money I spend.",
+        "name": "Hannah Re-Brandt",
+        "role": "Founder",
+        "company": "Glacier Bay Plunge Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Tub",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "One location, the basics, and zero clipboards.",
+        "features": [
+          "Up to 2 staff seats",
+          "Online booking & reminders",
+          "Digital waivers",
+          "Basic temperature logs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Full Studio",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For the studio that's actually busy at 6am.",
+        "features": [
+          "Unlimited staff seats billed monthly",
+          "Memberships & auto-billing",
+          "No-show & late fees",
+          "Utilization dashboards",
+          "Multi-tub scheduling"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Cold Chain",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "Many locations, one ice-cold command center.",
+        "features": [
+          "Multi-location rollups",
+          "Role-based permissions",
+          "API & POS integrations",
+          "Priority support",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cold Shoulder is the software for cold-plunge studios that would rather run the business than run around. Keep the water cold and the ops boring."
+  }
+}

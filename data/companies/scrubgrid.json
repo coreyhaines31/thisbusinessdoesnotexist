@@ -1,0 +1,162 @@
+{
+  "name": "ScrubGrid",
+  "slug": "scrubgrid",
+  "industry": "industrial cleaning",
+  "tagline": "The operations backbone for commercial cleaning crews",
+  "positioning": "ScrubGrid gives owner-operators one place to schedule crews, run job checklists, log safety compliance, and invoice—without another spreadsheet.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0C1F2B",
+    "surface": "#123243",
+    "text": "#E6F4F1",
+    "primary": "#1FB6C4",
+    "accent": "#34D399"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SG",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3.5,
+        "y": 3.5,
+        "width": 7.5,
+        "height": 7.5,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 3.5,
+        "width": 7.5,
+        "height": 7.5,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3.5,
+        "y": 13,
+        "width": 7.5,
+        "height": 7.5,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7.5,
+        "height": 7.5,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every cleaning job like your best one",
+      "sub": "ScrubGrid turns your crew schedule, site checklists, safety logs, and invoices into one system your team can actually follow on their phones.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Crew scheduling that sticks",
+        "description": "Assign crews to sites, set recurring routes, and text every tech their stops for the day—reshuffle in seconds when someone calls out sick.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Site checklists on the floor",
+        "description": "Build room-by-room task lists per contract. Techs check off work with photos, so you prove the restrooms were done before the client calls.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Safety and SDS logs",
+        "description": "Track chemical dilution ratios, equipment inspections, and OSHA-ready incident reports in one place instead of a binder in the van.",
+        "icon": "shield"
+      },
+      {
+        "title": "Invoice from the job",
+        "description": "Turn completed work orders into invoices without re-keying anything. Bill per visit, per square foot, or monthly retainer.",
+        "icon": "chart"
+      },
+      {
+        "title": "Client site portal",
+        "description": "Give property managers a login to see completed checklists, before-and-after photos, and their service history—fewer 'did you come?' emails.",
+        "icon": "users"
+      },
+      {
+        "title": "Route-ready mobile app",
+        "description": "Works offline in basements and stairwells, then syncs when the signal comes back. No lost job data at the end of a long shift.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose an hour every morning texting the crew their stops. Now they open ScrubGrid, see their route, and I get photo proof each site was cleaned before I'm even done with coffee.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Vega Commercial Cleaning"
+      },
+      {
+        "quote": "The safety log alone paid for it. When our warehouse client asked for chemical records during an audit, I exported everything in two minutes instead of digging through binders.",
+        "name": "Dwayne Ferris",
+        "role": "Operations Manager",
+        "company": "Ferris Facility Services"
+      },
+      {
+        "quote": "Invoicing straight from completed work orders cut our billing week down to an afternoon. My techs actually finish their checklists now because it's faster than the old paper sheets.",
+        "name": "Priya Nandakumar",
+        "role": "Owner-Operator",
+        "company": "BrightHaul Janitorial"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running a single crew and a handful of sites.",
+        "features": [
+          "Up to 3 seats",
+          "Crew scheduling & routes",
+          "Site checklists with photos",
+          "Basic invoicing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For growing companies juggling multiple crews and contracts.",
+        "features": [
+          "Unlimited seats",
+          "Recurring routes & shift swaps",
+          "Safety & SDS logging",
+          "Client site portal",
+          "Retainer & per-visit billing"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-branch operators with compliance and integration needs.",
+        "features": [
+          "Everything in Crew",
+          "SSO & role permissions",
+          "OSHA audit exports",
+          "QuickBooks & payroll sync",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "ScrubGrid is the operations platform built for commercial cleaning owner-operators—schedule, prove, and bill the work from one place."
+  }
+}

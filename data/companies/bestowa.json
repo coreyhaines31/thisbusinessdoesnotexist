@@ -1,0 +1,136 @@
+{
+  "name": "Bestowa",
+  "slug": "bestowa",
+  "industry": "B2B swag",
+  "tagline": "The enterprise standard for branded gifting at scale",
+  "positioning": "Bestowa is the operating system for corporate swag — sourcing, warehousing, and dispatching branded merchandise across every region your company touches.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#211a12",
+    "surface": "#2e251a",
+    "text": "#f3e9db",
+    "primary": "#d08b4a",
+    "accent": "#8fae82"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 0 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Branded merchandise, elevated to enterprise infrastructure",
+      "sub": "Bestowa turns the chaos of corporate gifting into a single governed pipeline — from vendor sourcing to global warehousing to same-week dispatch, all under one ledger.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Global fulfillment mesh",
+        "description": "Store inventory in eleven regional warehouses and dispatch to any address on Earth without redrawing your customs paperwork or your budget.",
+        "icon": "globe"
+      },
+      {
+        "title": "Brand governance layer",
+        "description": "Lock Pantone values, logo placement, and packaging specs so no regional team can ship an off-brand hoodie ever again.",
+        "icon": "shield"
+      },
+      {
+        "title": "Spend intelligence",
+        "description": "Every mug, notebook, and jacket rolls up into a single dashboard with cost-per-recipient and per-department attribution.",
+        "icon": "chart"
+      },
+      {
+        "title": "Recipient portals",
+        "description": "Let new hires and event guests pick their own sizes and colors from a curated, budget-capped storefront you control.",
+        "icon": "users"
+      },
+      {
+        "title": "Vendor orchestration",
+        "description": "Route production across our vetted supplier network and rebalance automatically when a factory lead time slips.",
+        "icon": "layers"
+      },
+      {
+        "title": "Programmatic dispatch",
+        "description": "Fire a swag kit the moment a deal closes or a milestone hits — one API call, tracked end to end.",
+        "icon": "zap"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to run swag through fourteen spreadsheets and a hopeful email chain. Bestowa gave us one ledger, one brand standard, and a 40% cut in warehousing spend within a quarter.",
+        "name": "Priya Vasquez",
+        "role": "VP of Brand Operations",
+        "company": "Northwind Logistics"
+      },
+      {
+        "quote": "Onboarding kits used to take three weeks to land. Now a new engineer in Lisbon gets a fully branded box the day they sign, and finance sees the cost instantly.",
+        "name": "Marcus Feld",
+        "role": "Head of People Experience",
+        "company": "Halberd Software"
+      },
+      {
+        "quote": "Bestowa is the first vendor that treated swag like real infrastructure. The brand governance controls alone justified the contract for our compliance team.",
+        "name": "Elena Broome",
+        "role": "Director of Global Marketing",
+        "company": "Cascadia Financial"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Launch",
+        "price": "$0.90",
+        "period": "per item dispatched",
+        "blurb": "For teams standardizing their first branded programs.",
+        "features": [
+          "Up to 2,500 items per month",
+          "Two regional warehouses",
+          "Core brand governance rules",
+          "Standard fulfillment SLAs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.55",
+        "period": "per item dispatched",
+        "blurb": "For multi-region companies running always-on gifting.",
+        "features": [
+          "Up to 40,000 items per month",
+          "Eight regional warehouses",
+          "Recipient portals & size self-select",
+          "Dispatch API and webhooks",
+          "Spend attribution dashboards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, negotiated annually",
+        "blurb": "For global programs with dedicated supply governance.",
+        "features": [
+          "Unlimited dispatch volume",
+          "All eleven warehouses plus custom hubs",
+          "Dedicated sourcing pod",
+          "SSO, audit logs, procurement review",
+          "White-glove implementation"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Bestowa is the enterprise operating system for branded merchandise — sourced, warehoused, and dispatched under one governed ledger."
+  }
+}

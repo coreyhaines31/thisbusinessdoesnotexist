@@ -7,10 +7,15 @@ import {
   englishRecommendedTransformers,
 } from "obscenity";
 
+const dataset = englishDataset.build();
 const profanity = new RegExpMatcher({
-  ...englishDataset.build(),
+  ...dataset,
   ...englishRecommendedTransformers,
 });
+
+// obscenity flags substrings ("artisanal", "analysis"); only trust matches that
+// aren't inside a benign word from this list.
+const BENIGN = /artisanal|analysis|analytics|analyze|canal|assess|assets|class|pass|bass|grass|glass|massage|cassette|shiitake|scunthorpe/i;
 
 export function levenshtein(a: string, b: string): number {
   const m = a.length,
@@ -53,7 +58,9 @@ export function validateCompany(
   // Name dedupe against pool
   for (const existing of existingNames) {
     const e = norm(existing);
-    if (e === name || levenshtein(e, name) < 3) {
+    const d = levenshtein(e, name);
+    // Strict only for short names; 6+ letter names two edits apart read as distinct
+    if (e === name || d < 2 || (d < 3 && name.length <= 5)) {
       errors.push(`name "${company.name}" too similar to existing "${existing}"`);
     }
   }
@@ -75,7 +82,11 @@ export function validateCompany(
     ...company.homepage.testimonials.flatMap((t) => [t.quote, t.name, t.company]),
   ];
   for (const field of textFields) {
-    if (profanity.hasMatch(field)) errors.push(`profanity detected in: "${field}"`);
+    if (profanity.hasMatch(field)) {
+      const words = field.split(/\s+/);
+      const offending = words.filter((w) => profanity.hasMatch(w) && !BENIGN.test(w));
+      if (offending.length) errors.push(`profanity detected in: "${field}"`);
+    }
   }
 
   // Logo geometry within 24x24 (±2 tolerance) for parametric shapes

@@ -1,0 +1,137 @@
+{
+  "name": "InkMantle",
+  "slug": "inkmantle",
+  "industry": "tattoo studio booking",
+  "tagline": "Enterprise-grade booking infrastructure for independent tattoo studios.",
+  "positioning": "InkMantle standardizes deposits, consent forms, and artist calendars into one operational system built for owner-operated tattoo studios.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#14121C",
+    "surface": "#211E2E",
+    "text": "#ECE9F5",
+    "primary": "#8E6BF2",
+    "accent": "#D98A4B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IM",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,8 16,12 12,16 8,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your tattoo studio like a real operation.",
+      "sub": "InkMantle unifies deposits, consent forms, and per-artist calendars into a single booking system — so owner-operators stop losing revenue to no-shows and spreadsheet chaos.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View pricing"
+    },
+    "features": [
+      {
+        "title": "Deposit enforcement, automated",
+        "description": "Require and collect non-refundable deposits at booking, with configurable forfeit rules per artist. Reconcile every session against your payout ledger.",
+        "icon": "lock"
+      },
+      {
+        "title": "Compliant consent capture",
+        "description": "Digital consent and aftercare forms are signed before the chair, timestamped, and archived per client for audit and liability requirements.",
+        "icon": "shield"
+      },
+      {
+        "title": "Per-artist calendars",
+        "description": "Each artist gets an isolated availability calendar, buffer rules, and flash-booking rates that sync to one studio-wide operational view.",
+        "icon": "calendar"
+      },
+      {
+        "title": "No-show recovery",
+        "description": "Automated reminder sequences and rebooking flows recapture cancelled slots and cut idle chair time across every seat you operate.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Revenue reporting",
+        "description": "Track deposits, tips, and completed sessions by artist, day, and style. Export clean statements for accounting and quarterly reviews.",
+        "icon": "chart"
+      },
+      {
+        "title": "Client records",
+        "description": "Every client's history, healed photos, and outstanding balances live in one profile your front desk can pull up in seconds.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were juggling three apps and a paper deposit book. InkMantle consolidated all of it — no-shows dropped 34% in our first quarter because deposits actually stick now.",
+        "name": "Marcus Delgado",
+        "role": "Owner",
+        "company": "Iron Ridge Tattoo Co."
+      },
+      {
+        "quote": "Onboarding six artists onto shared calendars used to take a week of friction. Now every seat is booked and reconciled without me chasing anyone for their numbers.",
+        "name": "Priya Novak",
+        "role": "Studio Manager",
+        "company": "Blackthorn Ink Collective"
+      },
+      {
+        "quote": "The consent archive alone was worth it. When an insurer asked for signed forms, I exported two years of records in under a minute.",
+        "name": "Devon Whitaker",
+        "role": "Founder",
+        "company": "Northgate Body Art Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chair",
+        "price": "$24",
+        "period": "per artist / month",
+        "blurb": "For single operators and small booths getting organized.",
+        "features": [
+          "1–2 artist seats",
+          "Online booking & deposits",
+          "Digital consent forms",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$39",
+        "period": "per artist / month",
+        "blurb": "For multi-artist studios that need shared operations.",
+        "features": [
+          "Unlimited artist seats",
+          "Per-artist calendars & buffers",
+          "No-show recovery flows",
+          "Revenue reporting by artist",
+          "Client records & healed photos",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / annual",
+        "blurb": "For multi-location groups with compliance needs.",
+        "features": [
+          "Multi-location management",
+          "SSO & role permissions",
+          "Audit-ready consent archive",
+          "Dedicated account manager",
+          "Custom onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "InkMantle is the operational backbone for independent tattoo studios — booking, deposits, and compliance in one enterprise-grade system."
+  }
+}

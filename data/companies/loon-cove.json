@@ -1,0 +1,126 @@
+{
+  "name": "Loon Cove",
+  "slug": "loon-cove",
+  "industry": "cold-plunge studios",
+  "tagline": "Freezing water, thoughtfully arranged. You provide the flinching.",
+  "positioning": "A membership network of cold-plunge studios for people who want the ritual without the garden-hose-and-chest-freezer phase of their life.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#08191E",
+    "surface": "#0F2B32",
+    "text": "#E9F6F3",
+    "primary": "#1FC7B0",
+    "accent": "#3F8EF0"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "LC",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold water. Warm design. No excuses left.",
+      "sub": "Loon Cove is a network of temperature-controlled plunge studios built for people who read one article about cold exposure and haven't shut up since. Book a tub, breathe, leave smug.",
+      "ctaLabel": "Find a cove",
+      "secondaryCtaLabel": "How cold, exactly"
+    },
+    "features": [
+      {
+        "title": "Verified 38°F, every time",
+        "description": "Our tubs are held at a real temperature by real chillers, not by you dumping a bag of gas-station ice and hoping. Every plunge logs its exact temp to your app.",
+        "icon": "target"
+      },
+      {
+        "title": "Book in 12 seconds",
+        "description": "Pick a studio, pick a tub, pick a time. No calling, no waitlist theater, no membership consultant named Kyle circling back. The slot is yours.",
+        "icon": "clock"
+      },
+      {
+        "title": "Streaks that actually mean something",
+        "description": "We track your plunges, duration, and recovery breaths so you can prove to your group chat that this personality trait has data behind it.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Studios that don't smell like a gym",
+        "description": "Cedar, quiet, good towels. Each cove is designed so the worst part of your visit is the water, which is the entire point.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I spent four months and $2,300 building a plunge setup in my garage. My wife asked me to leave. Loon Cove is closer, colder, and doesn't leak into the drywall.",
+        "name": "Marcus Fenn",
+        "role": "Founder & Recovering DIYer",
+        "company": "Northline Freight"
+      },
+      {
+        "quote": "I switched our whole run club to Loon Cove. The temp is consistent, the booking never fails, and nobody has to touch a mystery ice bag anymore. That last part sold everyone.",
+        "name": "Priya Raghunathan",
+        "role": "Run Club Organizer",
+        "company": "Eastbank Striders"
+      },
+      {
+        "quote": "I came for the anti-inflammatory whatever. I stayed because it's the only 40 minutes of my week where my phone genuinely cannot reach me. The cold is a bonus.",
+        "name": "Dana Whitlock",
+        "role": "Freelance UX Designer",
+        "company": "Self-employed"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dip",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For the curious who aren't ready to commit to a personality.",
+        "features": [
+          "4 plunges per month",
+          "Any single home studio",
+          "Temp & duration logging",
+          "App-based booking"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Regular",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For the person this is now becoming.",
+        "features": [
+          "Unlimited plunges",
+          "Access to every Loon Cove studio",
+          "Streaks & recovery tracking",
+          "Guest pass each month",
+          "Priority peak-hour booking"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Devotee",
+        "price": "$149",
+        "period": "per month",
+        "blurb": "For people who mention cold water on first dates.",
+        "features": [
+          "Everything in Regular",
+          "Reserved recurring time slots",
+          "Two guest passes monthly",
+          "Contrast sauna access",
+          "Early access to new coves",
+          "Free towel service (it's nice)"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Loon Cove operates cold-plunge studios for individuals who take recovery seriously and themselves slightly less so. Get in the water."
+  }
+}

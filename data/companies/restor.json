@@ -1,0 +1,136 @@
+{
+  "name": "Restor",
+  "slug": "restor",
+  "industry": "dental practice operations",
+  "tagline": "The operations backbone for multi-site dental groups and DSOs.",
+  "positioning": "Restor unifies scheduling, clinical throughput, and revenue-cycle data across every location so DSO operators run their portfolio from one source of truth.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0C0F",
+    "surface": "#13171C",
+    "text": "#F2F6F8",
+    "primary": "#37F5A6",
+    "accent": "#7B8CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,20 2,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,9 17.5,20 6.5,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every operatory like your best-performing location.",
+      "sub": "Restor connects chair utilization, provider schedules, and revenue-cycle events across your entire portfolio — giving DSO leadership real-time control over 5 or 500 practices.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform"
+    },
+    "features": [
+      {
+        "title": "Chair utilization intelligence",
+        "description": "See unbooked chair-time, provider idle gaps, and same-day cancellation exposure across every location, ranked by lost production dollars.",
+        "icon": "chart"
+      },
+      {
+        "title": "Portfolio-wide scheduling",
+        "description": "Standardize appointment templates, hygiene recall cadences, and provider block schedules across acquisitions without touching each PMS.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Revenue cycle telemetry",
+        "description": "Track claims from creation to remittance, flag aging A/R by payer, and surface denial patterns before they compound into write-offs.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Credentialing & compliance",
+        "description": "Monitor provider licensure, DEA renewals, and payer enrollment status with automated escalation before any lapse blocks billing.",
+        "icon": "shield"
+      },
+      {
+        "title": "Integration layer",
+        "description": "Bi-directional sync with Dentrix, Eaglesoft, and Open Dental keeps every practice management system reconciled in near real time.",
+        "icon": "layers"
+      },
+      {
+        "title": "Operator dashboards",
+        "description": "Board-ready views of production, collections, and case acceptance by region, DSO cohort, and individual doctor — refreshed nightly.",
+        "icon": "target"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Restor we reconciled 40 practices across three PMS platforms in spreadsheets. Now our regional VPs see chair utilization and A/R aging in one view every Monday morning.",
+        "name": "Danielle Prescott",
+        "role": "VP of Practice Operations",
+        "company": "Meridian Dental Partners"
+      },
+      {
+        "quote": "The credentialing escalations alone paid for the platform. We eliminated three months of billing holds tied to lapsed payer enrollments across our Southeast group.",
+        "name": "Marcus Holloway",
+        "role": "Chief Operating Officer",
+        "company": "Cornerstone Smile Group"
+      },
+      {
+        "quote": "Restor gave our board the production-by-cohort reporting we needed to model integration timelines. Diligence on new acquisitions dropped from weeks to days.",
+        "name": "Priya Ramanathan",
+        "role": "SVP Corporate Development",
+        "company": "Northlake Dental Holdings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Group",
+        "price": "$0.85",
+        "period": "per active chair, per day",
+        "blurb": "For emerging groups standardizing operations across their first locations.",
+        "features": [
+          "Up to 15 locations",
+          "Chair utilization dashboards",
+          "Two PMS integrations",
+          "Standard recall automation"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$0.62",
+        "period": "per active chair, per day",
+        "blurb": "For established DSOs scaling operations and revenue cycle at speed.",
+        "features": [
+          "Unlimited locations",
+          "Full revenue cycle telemetry",
+          "Credentialing & compliance suite",
+          "All PMS integrations",
+          "Regional operator dashboards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For national platforms with dedicated data and compliance requirements.",
+        "features": [
+          "Volume chair pricing",
+          "Dedicated integration engineering",
+          "SSO, SOC 2, and audit exports",
+          "Named success architect",
+          "Custom cohort reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Restor is the operations platform for multi-site dental organizations. One source of truth for every chair, provider, and claim."
+  }
+}

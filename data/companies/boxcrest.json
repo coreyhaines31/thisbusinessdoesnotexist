@@ -1,0 +1,136 @@
+{
+  "name": "Boxcrest",
+  "slug": "boxcrest",
+  "industry": "B2B swag",
+  "tagline": "The operating system for branded merchandise programs.",
+  "positioning": "Boxcrest gives owner-operators one governed platform to source, warehouse, and distribute company swag without the spreadsheet chaos.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4F2EC",
+    "surface": "#FBFAF6",
+    "text": "#23211C",
+    "primary": "#33475A",
+    "accent": "#A6785A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,8 16,12 12,16 8,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Corporate swag, operated like real infrastructure.",
+      "sub": "Boxcrest replaces the reorder spreadsheet, the closet full of unclaimed hoodies, and the vendor email thread with a single governed platform your whole team runs from.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See sample catalog"
+    },
+    "features": [
+      {
+        "title": "Governed swag catalog",
+        "description": "Publish an approved catalog with locked logos, colors, and budgets so no manager ever orders off-brand mugs at 11pm again.",
+        "icon": "layers"
+      },
+      {
+        "title": "On-demand kit fulfillment",
+        "description": "Trigger new-hire, event, and client-gift kits from one dashboard. We warehouse the inventory and ship the moment a request clears.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Spend controls per seat",
+        "description": "Assign per-seat budgets and approval rules so owner-operators keep merchandise spend inside plan without policing every request.",
+        "icon": "shield"
+      },
+      {
+        "title": "Live inventory ledger",
+        "description": "Track every unit across warehouses in real time, with low-stock alerts before your flagship quarter-zips run out.",
+        "icon": "database"
+      },
+      {
+        "title": "Recipient address capture",
+        "description": "Send a secure link and let recipients enter their own shipping details, eliminating the address-collection thread entirely.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Program reporting",
+        "description": "Export spend, redemption, and unit-cost reports your accountant will actually accept at close.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to store branded gear in a supply closet and guess at reorders. Boxcrest turned our swag into a line item we can forecast. New-hire kits ship themselves now.",
+        "name": "Marissa Kell",
+        "role": "Operations Director",
+        "company": "Halden Fixtures"
+      },
+      {
+        "quote": "As the owner, I was the bottleneck on every logo approval. The governed catalog gave my managers a lane, and I stopped getting texts about polo colors.",
+        "name": "Devon Achebe",
+        "role": "Founder & President",
+        "company": "Northrock Plumbing Co."
+      },
+      {
+        "quote": "Client gifting was a two-week scramble every December. With per-seat budgets and address capture, our account team runs it in an afternoon.",
+        "name": "Priya Venkataraman",
+        "role": "VP of Client Success",
+        "company": "Meridian Payroll Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Starter",
+        "price": "$14",
+        "period": "per seat / month",
+        "blurb": "For small teams standardizing their first swag program.",
+        "features": [
+          "Up to 15 seats",
+          "Governed catalog (1 brand)",
+          "On-demand kit shipping",
+          "Standard inventory ledger"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running swag across departments and events.",
+        "features": [
+          "Up to 100 seats",
+          "Per-seat budgets & approvals",
+          "Multi-warehouse inventory",
+          "Recipient address capture",
+          "Program reporting exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual per-seat contract",
+        "blurb": "For multi-brand organizations with procurement requirements.",
+        "features": [
+          "Unlimited seats",
+          "Multiple brand catalogs",
+          "SSO & audit logs",
+          "Dedicated program manager",
+          "Custom SLAs & integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Boxcrest is the branded merchandise platform for owner-operators who want their swag governed, warehoused, and accountable."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Marlin Range",
+  "slug": "marlin-range",
+  "industry": "ghost kitchens",
+  "tagline": "The operating system for the restaurant you run without a dining room.",
+  "positioning": "Marlin Range unifies menu deployment, delivery-app orchestration, and kitchen throughput so owner-operators can launch new virtual brands in days, not quarters.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A1E2B",
+    "surface": "#123141",
+    "text": "#E8F5F1",
+    "primary": "#17B6A4",
+    "accent": "#3C87F0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MR",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run five restaurants from one kitchen line.",
+      "sub": "Marlin Range turns a single prep station into a fleet of delivery brands — with unified menus, live order routing, and margin visibility down to the ticket.",
+      "ctaLabel": "Launch your first brand",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "One-tap brand deployment",
+        "description": "Spin up a new virtual concept across DoorDash, Uber Eats, and Grubhub from a single menu source — no re-typing item modifiers into four portals.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Unified order rail",
+        "description": "Every incoming ticket lands on one expo screen, sequenced by prep time so your line never juggles four tablets during the dinner rush.",
+        "icon": "layers"
+      },
+      {
+        "title": "Margin per ticket",
+        "description": "See commission, packaging, and food cost netted out on every order, so you kill unprofitable menu items before they drain a shift.",
+        "icon": "chart"
+      },
+      {
+        "title": "Throughput forecasting",
+        "description": "Predict your busiest 30-minute windows by brand and staff the line accordingly, without over-prepping product that ends up in the trash.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Menu sync engine",
+        "description": "Change a price once and it propagates to every platform and every brand in under a minute, with an audit trail of who changed what.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Downtime shield",
+        "description": "Auto-pause a brand across all apps the instant a key ingredient runs out, so you stop cancellations before the one-star reviews arrive.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running three delivery brands off eight tablets and losing tickets nightly. Marlin Range put everything on one rail — our cancellation rate dropped by two thirds in a month.",
+        "name": "Priya Nandakumar",
+        "role": "Owner-Operator",
+        "company": "Cardinal Provisions Kitchen"
+      },
+      {
+        "quote": "The margin-per-ticket view was a wake-up call. We cut four items that were quietly bleeding us and added two seats to cover a new lunch brand. Payback was immediate.",
+        "name": "Marcus Ovalle",
+        "role": "Managing Partner",
+        "company": "Fathom Foods Group"
+      },
+      {
+        "quote": "I launched a wings concept on a Tuesday and it was live across all three platforms by Thursday. That used to take us a month of copy-pasting menus.",
+        "name": "Danielle Boothe",
+        "role": "Culinary Director",
+        "company": "Harbor Line Hospitality"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Line",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For the single-location operator running one or two delivery brands.",
+        "features": [
+          "Up to 2 virtual brands",
+          "Unified expo screen",
+          "3 delivery-app integrations",
+          "Menu sync engine"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$119",
+        "period": "per seat / month",
+        "blurb": "For operators scaling multiple concepts from one kitchen.",
+        "features": [
+          "Up to 8 virtual brands",
+          "Margin-per-ticket analytics",
+          "Throughput forecasting",
+          "Downtime shield auto-pause",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Commissary",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For multi-site groups and commissary networks.",
+        "features": [
+          "Unlimited brands and locations",
+          "Cross-site inventory routing",
+          "Dedicated success manager",
+          "SSO and role controls",
+          "Custom platform integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Marlin Range is the command center for the delivery-native kitchen. Fewer tablets, tighter margins, more brands per line."
+  }
+}

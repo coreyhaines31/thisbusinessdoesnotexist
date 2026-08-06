@@ -1,0 +1,162 @@
+{
+  "name": "Fine Print",
+  "slug": "fine-print",
+  "industry": "cannabis compliance",
+  "tagline": "The compliance software that reads the regulations so you don't have to.",
+  "positioning": "Fine Print keeps dispensaries and grows audit-ready with automated METRC reconciliation, license tracking, and paperwork that actually files itself.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0B1F2A",
+    "surface": "#12303D",
+    "text": "#E7F3F0",
+    "primary": "#22B892",
+    "accent": "#3E8EF7"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "FP",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stay open. The regulators are not your friends.",
+      "sub": "Fine Print syncs your METRC tags, flags reconciliation gaps before the state does, and turns license renewals into a two-click chore. Compliance without the panic attack.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "METRC that reconciles itself",
+        "description": "We pull your seed-to-sale data every night, match tags against inventory, and surface the discrepancies that trigger audits — before an inspector ever does.",
+        "icon": "refresh"
+      },
+      {
+        "title": "License renewals on autopilot",
+        "description": "Every state, county, and local permit tracked in one calendar. We nag you 90 days out so your license never lapses on a Friday afternoon.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Audit binder, pre-assembled",
+        "description": "When the state shows up unannounced, export a complete, timestamped compliance packet in under a minute. No frantic printing.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Manifest checks that catch typos",
+        "description": "Transport manifests validated against weight, package tags, and destination rules so a fat-fingered gram doesn't cost you a suspension.",
+        "icon": "shield"
+      },
+      {
+        "title": "Rules that update when the law does",
+        "description": "Regulations change quarterly and nobody tells you. We track the bulletins and update your checklists automatically.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Real humans who speak regulator",
+        "description": "Former compliance officers on chat, not a bot regurgitating the FAQ. Ask them the dumb question you're afraid to ask the state.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We failed a state audit in 2022 over a 4-gram variance nobody could explain. With Fine Print the variance report lands in my inbox at 6am. I've stopped losing sleep over METRC.",
+        "name": "Dana Reyes",
+        "role": "Owner",
+        "company": "Highland Wellness Co."
+      },
+      {
+        "quote": "I run two storefronts and a cultivation license across three jurisdictions. Fine Print is the only reason I haven't hired a full-time compliance manager I can't afford.",
+        "name": "Marcus Thibodeaux",
+        "role": "Managing Partner",
+        "company": "Riverbend Cannabis"
+      },
+      {
+        "quote": "The renewal reminders alone paid for the subscription. We nearly let our cultivation permit expire during harvest. Never again.",
+        "name": "Priya Anand",
+        "role": "Operations Director",
+        "company": "North Fork Growers"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$44",
+        "period": "per seat / month",
+        "blurb": "For the single-location shop where the owner is also the compliance department.",
+        "features": [
+          "1 license tracked",
+          "Nightly METRC reconciliation",
+          "Renewal reminders",
+          "Standard audit export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators juggling storefronts and grows.",
+        "features": [
+          "Unlimited licenses",
+          "Manifest validation",
+          "Multi-jurisdiction rule updates",
+          "One-minute audit binder",
+          "Priority human support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For MSOs and vertically integrated operators with real legal exposure.",
+        "features": [
+          "Everything in Operator",
+          "Dedicated compliance advisor",
+          "Custom API + POS integrations",
+          "SSO and audit logs",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Fine Print is compliance software for cannabis operators who'd rather run a business than read regulatory bulletins. Not legal advice, but close enough."
+  }
+}

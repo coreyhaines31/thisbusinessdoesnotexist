@@ -1,0 +1,153 @@
+{
+  "name": "Requim",
+  "slug": "requim",
+  "industry": "funeral services",
+  "tagline": "The operating system for the modern funeral enterprise.",
+  "positioning": "Requim unifies case intake, disposition logistics, and family billing across every location in your funeral group — on one auditable platform.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0B0E",
+    "surface": "#15171E",
+    "text": "#EEF1F6",
+    "primary": "#22E39A",
+    "accent": "#9B7BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 6,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 8,
+        "width": 6,
+        "height": 12,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 4,
+        "width": 9,
+        "height": 3,
+        "rx": 1.5,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every location on one dignified platform.",
+      "sub": "Requim connects intake, transfer logistics, disposition, and family invoicing across your entire funeral group — so directors spend hours with families, not spreadsheets.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See platform tour"
+    },
+    "features": [
+      {
+        "title": "Unified case intake",
+        "description": "Capture first-call details once and sync them to every downstream form, permit, and vendor request across all your homes.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Disposition logistics",
+        "description": "Coordinate transfers, crematory slots, and cemetery scheduling with real-time capacity and chain-of-custody tracking.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Family billing that reconciles",
+        "description": "Generate GPL-compliant statements, itemized contracts, and installment plans that post straight to your ledger.",
+        "icon": "chart"
+      },
+      {
+        "title": "Compliance by default",
+        "description": "Every signature, permit, and authorization is timestamped and audit-ready for state boards and FTC reviews.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-location visibility",
+        "description": "Roll up case volume, at-need vs. pre-need mix, and margin across regions from a single executive dashboard.",
+        "icon": "layers"
+      },
+      {
+        "title": "Vendor network sync",
+        "description": "Push orders to crematories, vault suppliers, and floral partners with confirmed pricing and delivery windows.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated eleven locations onto Requim in a quarter. First-call to signed contract dropped from three days to under four hours, and our board audits finally take an afternoon instead of a week.",
+        "name": "Margaret Ellery",
+        "role": "VP of Operations",
+        "company": "Halloway Memorial Group"
+      },
+      {
+        "quote": "The chain-of-custody tracking alone justified the platform. Our directors trust it, our controllers trust it, and our compliance officer stopped chasing paper.",
+        "name": "Daniel Krupa",
+        "role": "Chief Operating Officer",
+        "company": "Northfield Care Services"
+      },
+      {
+        "quote": "Usage-based pricing meant we onboarded without a capital request. Requim scales with our case volume instead of forcing us to guess a seat count.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Finance",
+        "company": "Cedarline Funeral Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single Home",
+        "price": "$4",
+        "period": "per completed case",
+        "blurb": "For independent funeral homes standardizing their core workflow.",
+        "features": [
+          "Unified case intake & forms",
+          "GPL-compliant billing",
+          "Chain-of-custody tracking",
+          "Standard state permit templates"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$3",
+        "period": "per completed case, volume tiered",
+        "blurb": "For multi-location operators who need rollups and vendor sync.",
+        "features": [
+          "Everything in Single Home",
+          "Multi-location dashboards",
+          "Vendor network integrations",
+          "Pre-need & at-need reporting",
+          "Role-based access controls"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual volume",
+        "blurb": "For regional and national groups with complex compliance needs.",
+        "features": [
+          "Everything in Group",
+          "Dedicated implementation team",
+          "SSO & custom audit exports",
+          "SLA & priority support",
+          "Board-ready compliance reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Requim is the enterprise platform for funeral groups — unifying care, logistics, and finance so families are served with dignity and precision."
+  }
+}

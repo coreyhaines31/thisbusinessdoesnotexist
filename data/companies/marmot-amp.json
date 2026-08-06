@@ -1,0 +1,131 @@
+{
+  "name": "Marmot Amp",
+  "slug": "marmot-amp",
+  "industry": "micro-mobility charging",
+  "tagline": "Charging for e-bikes and scooters, minus the parking-garage cosplay.",
+  "positioning": "Marmot Amp turns your outlet, your building, and 40,000 curbside points into one tidy charging network for the ride you actually own.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F3F0E8",
+    "surface": "#FBFAF5",
+    "text": "#232019",
+    "primary": "#3F5347",
+    "accent": "#B0603A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MA",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M13 2 L4 13 H11 L9 22 L20 10 H13 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your battery is thirsty. We know a place.",
+      "sub": "Marmot Amp finds a legit charger near you, remembers where you left off, and stops nagging once your e-bike is full. It's charging for people who ride, not utilities for people who bill.",
+      "ctaLabel": "Claim your outlet",
+      "secondaryCtaLabel": "See the map"
+    },
+    "features": [
+      {
+        "title": "One map, every plug",
+        "description": "Home outlet, office bike room, that one café with a suspiciously nice power strip — all in one map, sorted by how far you'd rather not walk.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Stops at full",
+        "description": "We cut the current when your pack hits 100%, so you stop cooking a cell you paid €600 for. Your future self says a quiet thank you.",
+        "icon": "zap"
+      },
+      {
+        "title": "Charged, not pinged",
+        "description": "One notification when it's done. Not four. Not a weekly digest. We are physically incapable of sending a weekly digest.",
+        "icon": "bell"
+      },
+      {
+        "title": "Battery health, plainly",
+        "description": "See cycle count, temperature, and true remaining range without a spreadsheet, a forum, or a guy named Dennis.",
+        "icon": "chart"
+      },
+      {
+        "title": "Pay per plug, or don't",
+        "description": "Guest sessions bill by the kWh. Your home charger is free forever, obviously — it's your electricity.",
+        "icon": "lock"
+      },
+      {
+        "title": "Works with what you have",
+        "description": "E-bikes, scooters, that questionable second-hand moped. If it takes a battery and a plug, it takes Marmot Amp.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to babysit my charger like a suspicious houseplant. Now it tells me when it's done and shuts itself off. I've reclaimed roughly nine minutes of anxiety per day.",
+        "name": "Priya Vasan",
+        "role": "Bike commuter",
+        "company": "Overleaf Studio"
+      },
+      {
+        "quote": "I run four delivery scooters out of a garage. Marmot Amp is the first thing I've used that didn't assume I'm a municipal transit authority with a procurement team.",
+        "name": "Tomás Reiner",
+        "role": "Owner",
+        "company": "Kettle Courier Co."
+      },
+      {
+        "quote": "The battery health screen quietly told me one pack was on its last legs before it stranded me on a bridge. That is the entire product, and it's worth it.",
+        "name": "Noor Haddad",
+        "role": "Weekend everything-rider",
+        "company": "Freelance"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "€0",
+        "period": "forever, one ride",
+        "blurb": "For the one bike or scooter you actually love.",
+        "features": [
+          "1 vehicle",
+          "Home charger control",
+          "Charge-complete alerts",
+          "Basic battery health"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Plus",
+        "price": "€7",
+        "period": "per month",
+        "blurb": "For the person whose hallway is slowly becoming a garage.",
+        "features": [
+          "Up to 4 vehicles",
+          "Full public charger map",
+          "Session cost tracking",
+          "Full battery health history",
+          "Range forecasting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Stable",
+        "price": "€19",
+        "period": "per month",
+        "blurb": "For the prosumer running a small, tasteful fleet.",
+        "features": [
+          "Up to 15 vehicles",
+          "Shared access for helpers",
+          "Per-vehicle billing exports",
+          "Priority curbside routing",
+          "Health alerts before failures"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Marmot Amp keeps small electric rides charged, healthy, and out of your anxiety. Built by people who forget to charge things too."
+  }
+}

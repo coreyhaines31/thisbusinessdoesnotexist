@@ -1,0 +1,138 @@
+{
+  "name": "Voltane",
+  "slug": "voltane",
+  "industry": "micro-mobility charging",
+  "tagline": "The charging network your scooter fleet stops complaining about.",
+  "positioning": "Usage-based charging infrastructure and uptime telemetry for enterprise micro-mobility operators managing thousands of e-bikes and scooters.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A0A0B",
+    "surface": "#16161A",
+    "text": "#F4F4F6",
+    "primary": "#C6FF2E",
+    "accent": "#FF2E88"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,5 12,19 20,5 15,5 12,11 9,5",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,5 12,11 15,5",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Dead batteries don't file support tickets. Your riders do.",
+      "sub": "Voltane meters every kilowatt across your scooter and e-bike fleet, kills swap-team guesswork, and bills you only for the juice that actually moved a wheel.",
+      "ctaLabel": "Book a fleet audit",
+      "secondaryCtaLabel": "See the meter"
+    },
+    "features": [
+      {
+        "title": "Per-Watt Metering",
+        "description": "We count every kilowatt-hour down to the individual dock, so your finance team stops arguing with your ops team about the electricity bill.",
+        "icon": "zap"
+      },
+      {
+        "title": "Uptime You Can Cite",
+        "description": "Live dock health and 99.95% availability SLAs with receipts. Export the raw telemetry when procurement inevitably asks.",
+        "icon": "chart"
+      },
+      {
+        "title": "Swap Route Autopilot",
+        "description": "We tell your street team which 40 vehicles to grab before they hit dead, ranked by charge deficit and rider demand. No more scavenger hunts.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Fleet-Wide Firmware",
+        "description": "Push charging profiles to 12,000 docks at once. Battery chemistry changed mid-contract? Reconfigure without a truck roll.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Grid-Aware Throttling",
+        "description": "Charge hard on cheap off-peak power, back off when the utility spikes. Your energy spend drops without anyone touching a dashboard.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Audit-Grade Ledger",
+        "description": "Every charge session timestamped, signed, and immutable. When the city audits your emissions claims, hand them a file, not an apology.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were losing 18% of our fleet to overnight battery death. Voltane's swap routing clawed that back in three weeks. I stopped getting 6am calls from the depot.",
+        "name": "Priya Ramanathan",
+        "role": "VP of Fleet Operations",
+        "company": "Kervo Mobility"
+      },
+      {
+        "quote": "Usage billing meant I could finally attribute charging cost per vehicle per city. My board asked for that metric for two years. Now it's a dropdown.",
+        "name": "Marcus Feld",
+        "role": "Chief Financial Officer",
+        "company": "Drift Urban Transit"
+      },
+      {
+        "quote": "The telemetry export saved our municipal contract renewal. The city wanted proof of uptime and we handed them a signed ledger the same afternoon.",
+        "name": "Elena Vasquez",
+        "role": "Director of City Partnerships",
+        "company": "Loop Rideshare"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Depot",
+        "price": "$0.09",
+        "period": "per kWh delivered",
+        "blurb": "For single-city operators still charging in a warehouse and praying.",
+        "features": [
+          "Up to 500 active docks",
+          "Per-Watt metering dashboard",
+          "Swap route suggestions",
+          "Email support (business hours)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Metro",
+        "price": "$0.06",
+        "period": "per kWh delivered",
+        "blurb": "For multi-city fleets that treat downtime as a line item, not a surprise.",
+        "features": [
+          "Up to 8,000 active docks",
+          "Grid-aware throttling",
+          "99.9% uptime SLA",
+          "Audit-grade ledger export",
+          "Priority swap autopilot",
+          "Slack + phone support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Grid",
+        "price": "Custom",
+        "period": "volume kWh + platform fee",
+        "blurb": "For national operators who negotiate directly with utilities.",
+        "features": [
+          "Unlimited docks",
+          "99.95% SLA with penalties",
+          "Dedicated energy strategist",
+          "Custom firmware pipelines",
+          "SSO, SOC 2, and the whole binder",
+          "24/7 on-call engineering"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Voltane meters, routes, and bills every electron your micro-mobility fleet burns. Charge less. Complain less."
+  }
+}

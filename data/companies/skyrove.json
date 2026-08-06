@@ -1,0 +1,139 @@
+{
+  "name": "Skyrove",
+  "slug": "skyrove",
+  "industry": "drone inspection",
+  "tagline": "Inspect everything. Climb nothing.",
+  "positioning": "Autonomous drone inspections that turn towers, turbines, and tank farms into tidy reports — without sending a human up a ladder they'll regret.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F2EEE5",
+    "surface": "#FBF9F3",
+    "text": "#242119",
+    "primary": "#B14A32",
+    "accent": "#5B6A57"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "2,7 12,15 22,7 22,12 12,20 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,3 17,8 7,8",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your inspectors deserve fewer near-death experiences.",
+      "sub": "Skyrove flies the asset, spots the crack, and writes the report before your team finishes their coffee. Enterprise-grade drone inspections, minus the harnesses and the hero mentality.",
+      "ctaLabel": "Book a demo flight",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Flights that fly themselves",
+        "description": "Pre-mapped autonomous missions across towers, turbines, and tank farms. Pilots optional, coffee mandatory, no PhD in aviation required.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Defects, caught mid-air",
+        "description": "Our models flag corrosion, cracks, and loose bolts frame-by-frame, then rank them by how much they'll ruin your quarter if ignored.",
+        "icon": "target"
+      },
+      {
+        "title": "Reports nobody has to write",
+        "description": "Every flight becomes an annotated, audit-ready PDF with GPS-tagged findings. The kind your integrity engineer stops dreading.",
+        "icon": "layers"
+      },
+      {
+        "title": "Compliance that behaves",
+        "description": "Findings map to your inspection intervals and regulatory codes, so audits become a boring formality instead of a fire drill.",
+        "icon": "shield"
+      },
+      {
+        "title": "One fleet, one dashboard",
+        "description": "Track every drone, site, and open defect from a single view. Filter by severity, asset, or the site manager who keeps calling.",
+        "icon": "database"
+      },
+      {
+        "title": "Trends before they trend",
+        "description": "Compare inspections over time to see which assets are quietly falling apart. Fix them on your schedule, not the failure's.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to rope-access every turbine blade twice a year. Now Skyrove flies them monthly and I get a defect ledger instead of a stack of clipboard photos. My rope crew is thrilled to be doing literally anything else.",
+        "name": "Marta Vandeveld",
+        "role": "Head of Asset Integrity",
+        "company": "Northwind Renewables"
+      },
+      {
+        "quote": "The reports are the whole thing. Our old telecom tower inspections took nine days to reach my inbox. Skyrove has them signed, tagged, and audit-ready before I've closed the work order.",
+        "name": "Devin Osei",
+        "role": "Director of Tower Operations",
+        "company": "Latitude Towers"
+      },
+      {
+        "quote": "Refinery inspections are where optimism goes to die. Skyrove flagged a corrosion spot on a flare stack we'd have missed until it was expensive. Paid for the year in one flight.",
+        "name": "Priya Raman",
+        "role": "Mechanical Integrity Lead",
+        "company": "Cardinal Midstream"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Preflight",
+        "price": "$0.45",
+        "period": "per flight-minute",
+        "blurb": "For teams testing the theory that drones beat ladders.",
+        "features": [
+          "Pay only for minutes actually flown",
+          "Autonomous mission planning",
+          "Annotated PDF reports",
+          "Up to 3 active sites",
+          "Email support (real humans)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cruise",
+        "price": "$0.29",
+        "period": "per flight-minute, volume-tiered",
+        "blurb": "For operations running regular inspections across many assets.",
+        "features": [
+          "Volume discounts that kick in automatically",
+          "AI defect detection & severity ranking",
+          "Unlimited sites and users",
+          "Compliance interval tracking",
+          "API + data warehouse export",
+          "Priority support with an SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleetwide",
+        "price": "Custom",
+        "period": "annual usage commitment",
+        "blurb": "For enterprises with more assets than sane inspection budgets.",
+        "features": [
+          "Committed-volume rates, negotiated",
+          "Dedicated flight ops team",
+          "On-prem or private cloud deployment",
+          "Custom defect models for your assets",
+          "SOC 2 + regulatory reporting packs",
+          "Named account engineer"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Skyrove flies your infrastructure so your people don't have to. Fewer ladders, faster reports, and inspections that actually finish on time."
+  }
+}

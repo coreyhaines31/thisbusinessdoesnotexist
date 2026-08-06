@@ -1,0 +1,135 @@
+{
+  "name": "Nightjar Needle",
+  "slug": "nightjar-needle",
+  "industry": "tattoo studio booking",
+  "tagline": "The command center every serious tattoo artist has been waiting for.",
+  "positioning": "Nightjar Needle unifies bookings, deposits, consent forms, and client memory into one luminous platform built for independent tattoo artists and studios.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0A10",
+    "surface": "#15151F",
+    "text": "#F4F4FA",
+    "primary": "#22E3C6",
+    "accent": "#FF2D8A"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "NN",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your tattoo studio like the institution it deserves to be.",
+      "sub": "From the first DM to the healed-photo follow-up, Nightjar Needle orchestrates every booking, deposit, and consent form so you can stay at the machine, not the inbox.",
+      "ctaLabel": "Claim your studio",
+      "secondaryCtaLabel": "See a live booking"
+    },
+    "features": [
+      {
+        "title": "Deposits that never ghost",
+        "description": "Collect non-refundable deposits the moment a client picks a slot. Automatic reminders, reschedule rules, and no-show forfeits protect your day rate.",
+        "icon": "lock"
+      },
+      {
+        "title": "Living client memory",
+        "description": "Every stencil, healed photo, allergy note, and touch-up date lives on one profile. Walk into each session knowing exactly where you left off.",
+        "icon": "database"
+      },
+      {
+        "title": "Flash drops on your terms",
+        "description": "Publish flash sheets with claim limits, waitlists, and per-piece pricing. Sell out a Friday drop before you finish your coffee.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Consent, digitized",
+        "description": "State-aware consent forms, ID capture, and aftercare receipts signed on the client's phone and archived for years, not shoeboxes.",
+        "icon": "shield"
+      },
+      {
+        "title": "The calendar that thinks",
+        "description": "Buffer times, setup blocks, and travel days are baked in. Guest-spot residencies and multi-artist chairs stay perfectly deconflicted.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Revenue in full view",
+        "description": "Track chair utilization, deposit capture, and per-artist take-home with dashboards that make studio decisions obvious.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I killed three apps and a paper binder the week I switched. My deposit no-shows went from weekly to basically never, and my consult inbox finally hit zero.",
+        "name": "Marisol Vega",
+        "role": "Owner & Resident Artist",
+        "company": "Ironwing Tattoo Collective"
+      },
+      {
+        "quote": "Guest spots used to be a scheduling nightmare across four cities. Nightjar Needle keeps every chair, waitlist, and deposit straight while I'm on the road.",
+        "name": "Dorian Ash",
+        "role": "Traveling Blackwork Artist",
+        "company": "Coldwater Ink"
+      },
+      {
+        "quote": "Our healed-photo library and consent archive are audit-proof now. When the health inspector asked, I pulled two years of records in under a minute.",
+        "name": "Priya Raman",
+        "role": "Studio Manager",
+        "company": "Lantern & Lark Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per month, one artist",
+        "blurb": "For the independent artist running their own chair and their own rules.",
+        "features": [
+          "Unlimited bookings & waitlists",
+          "Deposit collection with no-show rules",
+          "Digital consent & aftercare forms",
+          "One flash drop at a time"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per month, up to 6 artists",
+        "blurb": "For working studios coordinating multiple artists and guest spots.",
+        "features": [
+          "Everything in Solo",
+          "Multi-chair conflict-free calendar",
+          "Per-artist revenue dashboards",
+          "Unlimited flash drops & waitlists",
+          "Guest-spot residency management"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Institution",
+        "price": "Custom",
+        "period": "unlimited artists & locations",
+        "blurb": "For multi-location shops and franchises that treat ink as an enterprise.",
+        "features": [
+          "Everything in Studio",
+          "Cross-location scheduling",
+          "Role-based staff permissions",
+          "Priority support & onboarding",
+          "API access & custom reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Nightjar Needle is the operating system for serious tattoo studios — bookings, deposits, consent, and client memory, luminous and in one place."
+  }
+}

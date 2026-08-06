@@ -1,0 +1,139 @@
+{
+  "name": "LoupeLedger",
+  "slug": "loupeledger",
+  "industry": "luxury resale authentication",
+  "tagline": "Authenticate every consignment before it hits your shelf.",
+  "positioning": "LoupeLedger gives resale shops a shared authentication workspace — capture, verify, and log every luxury item with an audit trail buyers actually trust.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#14161F",
+    "text": "#EEF1F7",
+    "primary": "#3BF5A6",
+    "accent": "#B98BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LL",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Prove it's real before you price it.",
+      "sub": "LoupeLedger walks your team through a structured authentication check for every handbag, watch, and pair of sneakers — then hands your buyer a verifiable record they can trust.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Guided check by brand",
+        "description": "Step-by-step prompts for date codes, hardware, stitching, and serials — tailored to each maison so a new hire can authenticate like a ten-year veteran.",
+        "icon": "target"
+      },
+      {
+        "title": "Photo evidence, timestamped",
+        "description": "Capture the microstamp, heat stamp, and receipt in one flow. Every image is logged, dated, and locked to the item's record.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Shareable certificates",
+        "description": "Generate a clean authentication summary with a scannable code your buyer can verify — cuts the 'is this legit?' emails to zero.",
+        "icon": "shield"
+      },
+      {
+        "title": "Consignment audit trail",
+        "description": "See who checked what, when, and why an item passed or got flagged. Settle disputes with a record instead of a memory.",
+        "icon": "database"
+      },
+      {
+        "title": "Counterfeit flag alerts",
+        "description": "Known fake indicators surface mid-check, so a suspect serial gets held before it ever reaches your floor or your listing.",
+        "icon": "bell"
+      },
+      {
+        "title": "Multi-location inventory",
+        "description": "Run one authentication standard across every storefront and back room, whether you have one appraiser or a bench of six.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to keep authentication notes in a shared spreadsheet and pray. Now every Chanel flap has a full record with photos. Our repeat buyers stopped second-guessing us.",
+        "name": "Marisol Fenn",
+        "role": "Owner",
+        "company": "Vestibule Resale"
+      },
+      {
+        "quote": "Training seasonal staff on Hermès hardware took weeks. LoupeLedger's guided checks got a new hire authenticating confidently in two days.",
+        "name": "Darnell Boyce",
+        "role": "Head of Authentication",
+        "company": "Second Spire Luxury"
+      },
+      {
+        "quote": "A customer disputed a watch six months after purchase. I pulled the timestamped serial photos in thirty seconds. Case closed, no chargeback.",
+        "name": "Priya Vasquez",
+        "role": "Managing Partner",
+        "company": "Meridian Consignment Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the single-shop owner who authenticates everything themselves.",
+        "features": [
+          "1 seat included",
+          "Guided checks for 40+ brands",
+          "Timestamped photo evidence",
+          "Shareable certificates",
+          "500 items / month"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Boutique",
+        "price": "$32",
+        "period": "per seat / month, billed annually",
+        "blurb": "For growing teams that need one standard across the bench.",
+        "features": [
+          "3+ seats",
+          "Everything in Solo",
+          "Counterfeit flag alerts",
+          "Full audit trail & roles",
+          "Unlimited items",
+          "Multi-location inventory"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-store operators and franchise resale groups.",
+        "features": [
+          "10+ seats",
+          "Everything in Boutique",
+          "SSO & advanced permissions",
+          "API and POS integrations",
+          "Dedicated onboarding",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "LoupeLedger is the authentication workspace for luxury resale shops that stake their name on being right the first time."
+  }
+}

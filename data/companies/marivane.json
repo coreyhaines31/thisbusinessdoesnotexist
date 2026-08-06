@@ -1,0 +1,136 @@
+{
+  "name": "Marivane",
+  "slug": "marivane",
+  "industry": "marina management",
+  "tagline": "The operating system for the modern working waterfront.",
+  "positioning": "Marivane unifies berth allocation, fuel, utilities metering, and compliance into one command layer for enterprise marina operators.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F3F0E8",
+    "surface": "#E6E1D5",
+    "text": "#211F1A",
+    "primary": "#33574F",
+    "accent": "#B0503A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,8 22,12 12,6 2,12 2,8",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,11 22,17 22,21 12,15 2,21 2,17",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Command every slip, meter, and manifest from one deck.",
+      "sub": "Marivane replaces the clipboard and the spreadsheet with a single operating layer for berthing, fuel dispensing, utilities billing, and harbor compliance across your entire portfolio.",
+      "ctaLabel": "Request a pilot",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Dynamic berth allocation",
+        "description": "Assign, reroute, and price slips in real time as vessels arrive. Marivane reads draft, beam, and LOA against your live bathymetry to prevent grounding disputes.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Metered fuel and utilities",
+        "description": "Every dockside pump, shore-power pedestal, and water spigot streams usage to a single ledger, so a 42-foot transient's power draw bills itself before departure.",
+        "icon": "database"
+      },
+      {
+        "title": "Harbor compliance ledger",
+        "description": "Auto-generate spill logs, hazmat manifests, and Coast Guard inspection records from the same events your staff already log at the fuel dock.",
+        "icon": "shield"
+      },
+      {
+        "title": "Portfolio command view",
+        "description": "Roll up occupancy, revenue-per-linear-foot, and dwell time across every marina you operate, from a single estuary to forty-one basins.",
+        "icon": "chart"
+      },
+      {
+        "title": "Transient reservation engine",
+        "description": "Publish live availability to booking channels and hold slips with deposit capture, ending the radio-call scramble every summer weekend.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Storm and haul-out planning",
+        "description": "Sequence haul-outs by tide window and yard capacity, then notify berth holders automatically when a named storm enters your forecast cone.",
+        "icon": "compass"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We manage 2,400 slips across the Gulf Coast. Marivane collapsed our fuel reconciliation from a three-day month-end ritual into a number I trust by Tuesday morning.",
+        "name": "Dana Kolstad",
+        "role": "VP of Marina Operations",
+        "company": "Windward Harbor Group"
+      },
+      {
+        "quote": "The berth engine caught a beam conflict our dockmaster would have waved through. That single prevented grounding paid for the platform for the year.",
+        "name": "Marcus Feld",
+        "role": "Regional Harbormaster",
+        "company": "Coastal Berths Partners"
+      },
+      {
+        "quote": "Compliance used to live in a filing cabinet nobody opened until an inspector arrived. Now our spill and hazmat logs generate themselves off the fuel dock.",
+        "name": "Priya Ansel",
+        "role": "Director of Waterfront Safety",
+        "company": "Meridian Marinas"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Basin",
+        "price": "$0.14",
+        "period": "per occupied slip / day",
+        "blurb": "For single-marina operators bringing their first waterfront online.",
+        "features": [
+          "Up to 300 metered slips",
+          "Berth allocation engine",
+          "Fuel and utilities metering",
+          "Standard compliance logs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.09",
+        "period": "per occupied slip / day",
+        "blurb": "For multi-basin operators standardizing across the portfolio.",
+        "features": [
+          "Unlimited slips, volume-tiered",
+          "Portfolio command view",
+          "Transient reservation engine",
+          "Storm and haul-out planning",
+          "API and channel connectors"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Admiralty",
+        "price": "Custom",
+        "period": "negotiated usage floor",
+        "blurb": "For national operators and port authorities with bespoke governance.",
+        "features": [
+          "Dedicated infrastructure",
+          "Custom compliance jurisdictions",
+          "SSO, audit, and data residency",
+          "Named implementation crew",
+          "24/7 harbor-hours support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Marivane is the command layer for the working waterfront — turning every slip, pump, and pedestal into a single line of defensible revenue."
+  }
+}

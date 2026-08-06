@@ -1,0 +1,162 @@
+{
+  "name": "Onyx Meridian",
+  "slug": "onyx-meridian",
+  "industry": "dental practice operations",
+  "tagline": "The operating system for the practice you were meant to build.",
+  "positioning": "Onyx Meridian unifies scheduling, recall, claims, and chairside ops into one command center built for independent dental practices.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0D1017",
+    "surface": "#161B24",
+    "text": "#E9EDF3",
+    "primary": "#7C6CFF",
+    "accent": "#D4A93A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "OM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your practice like an empire, not an emergency.",
+      "sub": "Onyx Meridian pulls scheduling, recall, insurance verification, and daily production into a single command center — so owner-dentists stop firefighting and start compounding.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Recall that never sleeps",
+        "description": "Automated hygiene recall chases every overdue patient across text, email, and voicemail until the chair is filled — no front-desk reminders required.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Instant eligibility checks",
+        "description": "Verify insurance benefits and remaining maximums in seconds, before the patient sits down, so no claim gets written off as a surprise.",
+        "icon": "shield"
+      },
+      {
+        "title": "Production at a glance",
+        "description": "See daily production, collections, and open chair time across every operatory on one live dashboard built for the owner, not the software vendor.",
+        "icon": "chart"
+      },
+      {
+        "title": "Fill the schedule automatically",
+        "description": "Smart waitlists backfill last-minute cancellations by texting the right patient the moment a slot opens, protecting your hourly production goal.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Claims that actually get paid",
+        "description": "Auto-attach x-rays and perio charts, scrub for coding errors, and track every claim from submission to deposit without leaving the platform.",
+        "icon": "inbox"
+      },
+      {
+        "title": "One login for every chair",
+        "description": "Front desk, hygienists, associates, and you share the same source of truth — with per-seat permissions tuned to each role.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We recovered $41K in unbilled hygiene in the first quarter. Onyx Meridian didn't just tidy our schedule — it changed how I think about running the practice.",
+        "name": "Dr. Priya Nadkarni",
+        "role": "Owner & Lead Dentist",
+        "company": "Cedar Crossing Dental"
+      },
+      {
+        "quote": "My front desk stopped playing phone tag with insurers. Eligibility is verified before I ever pick up an explorer. It feels like adding a full-time coordinator.",
+        "name": "Dr. Marcus Bellini",
+        "role": "Practice Owner",
+        "company": "Northgate Family Dentistry"
+      },
+      {
+        "quote": "I finally have one dashboard that tells me production, collections, and open time without exporting three reports. It's the closest thing to a co-pilot I've had in 18 years.",
+        "name": "Dr. Elena Ruiz",
+        "role": "Owner-Operator",
+        "company": "Willow Bend Smiles"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$149",
+        "period": "per seat / month",
+        "blurb": "For single-doctor practices ready to stop losing recall.",
+        "features": [
+          "Automated recall & reminders",
+          "Live production dashboard",
+          "Insurance eligibility checks",
+          "Email & chat support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$129",
+        "period": "per seat / month",
+        "blurb": "For growing offices running multiple chairs and staff.",
+        "features": [
+          "Everything in Solo",
+          "Claims scrubbing & tracking",
+          "Smart waitlist backfill",
+          "Role-based seat permissions",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "volume per-seat pricing",
+        "blurb": "For DSOs and multi-location owner-operators.",
+        "features": [
+          "Everything in Practice",
+          "Cross-location reporting",
+          "Dedicated onboarding lead",
+          "API & PMS integrations",
+          "SLA-backed support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Onyx Meridian is the command center for independent dental practices — recall, claims, and production, unified. Built for owners with ambition."
+  }
+}

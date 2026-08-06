@@ -1,0 +1,136 @@
+{
+  "name": "Obsidra",
+  "slug": "obsidra",
+  "industry": "industrial cleaning",
+  "tagline": "The operating system for industrial hygiene at planetary scale.",
+  "positioning": "Obsidra unifies sanitation across every facility, shift, and surface — turning industrial cleaning from a cost center into measurable, auditable infrastructure.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0D1017",
+    "surface": "#161B26",
+    "text": "#E9EEF6",
+    "primary": "#5AD1C6",
+    "accent": "#E0864B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "O",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M11 4 A8 8 0 0 0 11 20 L11 4 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 4 A8 8 0 0 1 13 20 L13 4 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Command every clean across your entire industrial footprint.",
+      "sub": "Obsidra turns sanitation crews, chemistry, and compliance into one live system — so plant managers stop reconstructing what happened and start proving it happened.",
+      "ctaLabel": "Request a facility demo",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Surface-level telemetry",
+        "description": "Track every zone, from clean-in-place lines to loading docks, with sensor-verified completion instead of clipboard signatures nobody can audit.",
+        "icon": "database"
+      },
+      {
+        "title": "Chemistry orchestration",
+        "description": "Dose, dilute, and log sanitizer usage automatically. Obsidra reconciles chemical draw against square footage cleaned, flagging waste before finance does.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit-ready in one click",
+        "description": "Generate FDA, USDA, and internal HACCP records from live data. Your next inspection becomes a filter, not a fire drill.",
+        "icon": "shield"
+      },
+      {
+        "title": "Shift intelligence",
+        "description": "See which crews, sites, and hours run clean and which drift. Obsidra learns your baselines and escalates anomalies to the right supervisor.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-site command",
+        "description": "One control plane for 3 plants or 300. Standardize SOPs globally, adapt them locally, and roll changes out without another all-hands memo.",
+        "icon": "globe"
+      },
+      {
+        "title": "Predictive re-clean",
+        "description": "Model contamination risk from traffic, temperature, and cycle history so you re-sanitize before a swab test — not after a recall.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to reconstruct our sanitation record from three binders and a group text. With Obsidra, our overnight validation shrank from six hours to forty minutes — and it survived a surprise audit untouched.",
+        "name": "Dana Escobar",
+        "role": "VP of Plant Operations",
+        "company": "Meridian Protein Group"
+      },
+      {
+        "quote": "The chemistry reconciliation alone paid for the platform. We were over-dosing sanitizer across nine facilities and had no idea until Obsidra put it on one screen.",
+        "name": "Rui Takahashi",
+        "role": "Director of Environmental Health & Safety",
+        "company": "Corallian Foods"
+      },
+      {
+        "quote": "Obsidra made our cleaning program legible to the board for the first time. Sanitation stopped being a mystery line item and became a metric we manage.",
+        "name": "Priya Vandermeer",
+        "role": "Chief Operating Officer",
+        "company": "Northgate Beverage Works"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Facility",
+        "price": "$0.014",
+        "period": "per sq ft cleaned / month",
+        "blurb": "For single-site operators standardizing their sanitation record.",
+        "features": [
+          "Up to 1 facility",
+          "Sensor-verified task logs",
+          "HACCP & SOP templates",
+          "Standard audit exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.009",
+        "period": "per sq ft cleaned / month",
+        "blurb": "For multi-plant enterprises unifying crews, chemistry, and compliance.",
+        "features": [
+          "Up to 25 facilities",
+          "Chemistry reconciliation",
+          "Predictive re-clean models",
+          "Multi-site command console",
+          "Priority integration support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For global operators running sanitation as core infrastructure.",
+        "features": [
+          "Unlimited facilities",
+          "Dedicated success architect",
+          "Custom regulatory workflows",
+          "SSO, SLAs & data residency",
+          "Executive assurance reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Obsidra is the industrial hygiene platform for enterprises that treat clean as infrastructure. Measurable. Auditable. Absolute."
+  }
+}

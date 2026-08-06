@@ -1,0 +1,135 @@
+{
+  "name": "Pelican Slip",
+  "slug": "pelican-slip",
+  "industry": "marina management",
+  "tagline": "Run your docks without drowning in paperwork.",
+  "positioning": "Slip assignments, waitlists, and invoices for small marinas and the people who somehow got put in charge of them.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F0ECE3",
+    "surface": "#FBF9F4",
+    "text": "#232733",
+    "primary": "#356A6B",
+    "accent": "#E79FC0"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "PS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 4,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your marina runs on a whiteboard. That's adorable.",
+      "sub": "Pelican Slip handles slip assignments, the waitlist nobody wants to admit exists, and the invoices your uncle keeps forgetting to send. One screen. No sea shanties.",
+      "ctaLabel": "Claim your dock",
+      "secondaryCtaLabel": "Watch the 2-min demo"
+    },
+    "features": [
+      {
+        "title": "Drag-a-boat slip map",
+        "description": "A live map of every finger, T-head, and mooring ball. Drag a vessel to a slip and the paperwork writes itself. Double-booking is now impossible, not just frowned upon.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "The waitlist, weaponized",
+        "description": "Stop losing the sticky note. Rank applicants by loyalty, boat length, and how many times they've called. Auto-notify the next in line when a slip frees up.",
+        "icon": "users"
+      },
+      {
+        "title": "Invoices that actually leave",
+        "description": "Metered power, storage, pump-outs, and that one guy's kayak rack — billed automatically. ACH and card payments hit your account before he finds an excuse.",
+        "icon": "database"
+      },
+      {
+        "title": "Weather-aware alerts",
+        "description": "Small craft advisory rolling in? Blast every liveaboard and transient with one tap. Log who acknowledged it, for when the insurance adjuster asks.",
+        "icon": "bell"
+      },
+      {
+        "title": "Fuel & pump-out log",
+        "description": "Track every gallon and every gray tank without a clipboard glued to the dock. Reconcile the fuel dock at close instead of at midnight.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Occupancy you can prove",
+        "description": "Real numbers on turnover, seasonal vs. transient, and revenue per foot — so your dock expansion pitch stops being a vibe.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 88 slips off a laminated spreadsheet and my memory. Pelican Slip found four boats we'd been letting stay for free since 2019. It paid for itself by Tuesday.",
+        "name": "Dana Okafor",
+        "role": "Harbormaster",
+        "company": "Cutter Bay Marina"
+      },
+      {
+        "quote": "The waitlist tool ended a decade-long feud between two members who both thought they were next for B-14. I sent one email and it was over. Genuinely miraculous.",
+        "name": "Rich Vandermolen",
+        "role": "Dockmaster",
+        "company": "Sawtooth Point Yacht Basin"
+      },
+      {
+        "quote": "I inherited the marina from my dad and a shoebox of receipts. Now I invoice from my phone while the boat's still fueling. My accountant almost cried.",
+        "name": "Priya Castellano",
+        "role": "Owner",
+        "company": "Little Egret Landing"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dinghy",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For one small dock and one tired human.",
+        "features": [
+          "Up to 30 slips",
+          "Slip map & waitlist",
+          "Card & ACH invoicing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cruiser",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For a real marina with real headaches.",
+        "features": [
+          "Up to 150 slips",
+          "Fuel & pump-out logging",
+          "Weather alert broadcasts",
+          "Occupancy & revenue reports",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For multi-dock operations and control freaks.",
+        "features": [
+          "Unlimited slips",
+          "Multiple locations",
+          "Staff roles & audit log",
+          "API access",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Pelican Slip is marina software for people who'd rather be on the water. Built by ex-dockhands, tested in actual crosswinds."
+  }
+}

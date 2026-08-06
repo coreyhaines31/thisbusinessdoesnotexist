@@ -1,0 +1,136 @@
+{
+  "name": "Dock Comet",
+  "slug": "dock-comet",
+  "industry": "marina management",
+  "tagline": "The command deck for the modern marina.",
+  "positioning": "Dock Comet unifies slip assignments, dockage billing, and dockmaster operations into one luminous platform — so independent marinas run like flagship harbors.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A0E15",
+    "surface": "#141B27",
+    "text": "#EAF2FF",
+    "primary": "#19E6C4",
+    "accent": "#FF3D8B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "DC",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your marina like it's the future of the waterfront.",
+      "sub": "Dock Comet retires the dry-erase board, the tangled spreadsheet, and the shoebox of paper contracts — replacing them with one radiant system for slips, billing, and boaters.",
+      "ctaLabel": "Launch your harbor",
+      "secondaryCtaLabel": "Take the dock tour"
+    },
+    "features": [
+      {
+        "title": "Living slip map",
+        "description": "Drag every vessel onto a real-time harbor map. Reassign slips, track LOA and beam, and see open water before the phone even rings.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Dockage bills itself",
+        "description": "Recurring slip fees, metered electric, and seasonal contracts invoice on autopilot. Overdue boaters get nudged automatically — you just get paid.",
+        "icon": "zap"
+      },
+      {
+        "title": "Waitlist that works the phones",
+        "description": "Turn your slip waitlist into a revenue engine. When a berth opens, Dock Comet offers it down the line and closes the deal by text.",
+        "icon": "users"
+      },
+      {
+        "title": "Transient reservations",
+        "description": "Let passing captains book an overnight slip online with the exact dimensions that fit. Deposits, gate codes, and dock maps go out instantly.",
+        "icon": "calendar"
+      },
+      {
+        "title": "The document vault",
+        "description": "Insurance certificates, vessel registrations, and signed contracts live in one place, and Dock Comet flags every expiration before it bites.",
+        "icon": "shield"
+      },
+      {
+        "title": "Occupancy you can steer by",
+        "description": "Watch dockage revenue, seasonal turnover, and berth utilization update live — the numbers a dockmaster used to guess at, now on the bridge.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We onboarded 214 slips in a weekend and killed the whiteboard for good. My dockhands finally know which vessel goes where without radioing me twice an hour.",
+        "name": "Marcus Alderton",
+        "role": "Owner & Dockmaster",
+        "company": "Foxglove Point Marina"
+      },
+      {
+        "quote": "Dockage used to be a shoebox and a prayer every April. Dock Comet invoices the whole season automatically — collections are up nineteen percent and I stopped chasing checks.",
+        "name": "Priya Venkataraman",
+        "role": "General Manager",
+        "company": "Blue Heron Boatyard"
+      },
+      {
+        "quote": "The transient booking flow pays for itself. Weekenders reserve the right-sized slip online, prepay, and roll in with a gate code. My dock feels ten years ahead.",
+        "name": "Dale Krupinski",
+        "role": "Harbormaster",
+        "company": "Cormorant Landing"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Deckhand",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the solo owner-operator finally ditching the dry-erase board.",
+        "features": [
+          "Up to 75 slips",
+          "Living slip map",
+          "Online transient reservations",
+          "Automated dockage invoicing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbormaster",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing marinas running a real dock crew and a real waitlist.",
+        "features": [
+          "Unlimited slips",
+          "Everything in Deckhand",
+          "Waitlist automation & texting",
+          "Document & insurance vault",
+          "Occupancy and revenue dashboards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Admiral",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location harbor groups steering a whole fleet of marinas.",
+        "features": [
+          "Multi-marina rollups",
+          "Role-based crew permissions",
+          "Accounting & POS integrations",
+          "Dedicated launch captain",
+          "Priority support line"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Dock Comet is the command deck for independent marinas — slips, dockage, and boaters in one luminous system built for owner-operators."
+  }
+}

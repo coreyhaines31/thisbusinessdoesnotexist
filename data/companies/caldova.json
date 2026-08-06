@@ -1,0 +1,153 @@
+{
+  "name": "Caldova",
+  "slug": "caldova",
+  "industry": "HVAC field service",
+  "tagline": "The operating system for climate infrastructure at continental scale.",
+  "positioning": "Caldova orchestrates every rooftop unit, technician, and service contract across enterprise HVAC fleets — from dispatch to warranty reconciliation.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4EDE1",
+    "surface": "#E8DCC7",
+    "text": "#2A1E14",
+    "primary": "#B24A26",
+    "accent": "#C08A2C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 4,
+        "width": 14,
+        "height": 4,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 5,
+        "y": 10,
+        "width": 14,
+        "height": 4,
+        "rx": 0,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 16,
+        "width": 14,
+        "height": 4,
+        "rx": 0,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Command every unit of climate infrastructure you own.",
+      "sub": "Caldova unifies dispatch, asset telemetry, and contract economics into one system of record — so a 40,000-rooftop portfolio behaves like a single machine.",
+      "ctaLabel": "Request a deployment",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Fleet-wide asset ledger",
+        "description": "Every compressor, coil, and RTU tracked from install date to end-of-life, with warranty windows and refrigerant charge logged against each serial number.",
+        "icon": "database"
+      },
+      {
+        "title": "Autonomous dispatch engine",
+        "description": "Route the right technician to the right site by skill, certification, and drive time — rebalancing thousands of work orders the moment an SLA is at risk.",
+        "icon": "compass"
+      },
+      {
+        "title": "Predictive failure signals",
+        "description": "Ingest BAS and sensor telemetry to flag failing equipment weeks ahead, converting emergency truck rolls into scheduled maintenance visits.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Contract economics engine",
+        "description": "Reconcile labor, parts, and refrigerant against every service agreement automatically — see margin per site, per contract, per technician in real time.",
+        "icon": "chart"
+      },
+      {
+        "title": "EPA & F-gas compliance",
+        "description": "Refrigerant tracking, leak-rate reporting, and audit-ready records generated as work happens — no clipboard reconciliation at quarter end.",
+        "icon": "shield"
+      },
+      {
+        "title": "Portfolio command view",
+        "description": "A single console spanning every region, subcontractor, and building — built for the VP who owns uptime across a national footprint.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated eleven regional dispatch tools into Caldova in one quarter. Emergency call volume dropped 34% because the platform caught failing units before our tenants did.",
+        "name": "Marianne Delacroix",
+        "role": "VP, Facilities Operations",
+        "company": "Northbridge Retail Group"
+      },
+      {
+        "quote": "The contract economics engine exposed which service agreements were quietly losing us money. That visibility alone paid for the deployment inside a fiscal year.",
+        "name": "Terrence Okafor",
+        "role": "Director of Mechanical Services",
+        "company": "Halden Building Systems"
+      },
+      {
+        "quote": "Our refrigerant compliance used to be a quarterly fire drill. Now the audit trail assembles itself. Caldova is the closest thing our industry has to an operating system.",
+        "name": "Priya Venkataraman",
+        "role": "Chief Operating Officer",
+        "company": "Cascade Facility Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Regional",
+        "price": "$0.90",
+        "period": "per active asset / month",
+        "blurb": "For operators standardizing a single region on one platform.",
+        "features": [
+          "Up to 5,000 tracked assets",
+          "Autonomous dispatch engine",
+          "Asset ledger & work orders",
+          "Standard compliance reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "National",
+        "price": "$0.65",
+        "period": "per active asset / month",
+        "blurb": "For multi-region enterprises running fleets at scale.",
+        "features": [
+          "Unlimited tracked assets",
+          "Predictive failure signals",
+          "Contract economics engine",
+          "BAS & sensor telemetry ingest",
+          "Priority SLA orchestration"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "volume-based enterprise agreement",
+        "blurb": "For continental portfolios with bespoke integration needs.",
+        "features": [
+          "Everything in National",
+          "Dedicated deployment engineers",
+          "Custom ERP & CMMS integrations",
+          "On-prem telemetry gateways",
+          "24/7 command-center support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Caldova is the system of record for enterprise climate infrastructure — orchestrating fleets that would otherwise run on spreadsheets and hope."
+  }
+}

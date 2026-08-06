@@ -1,0 +1,156 @@
+{
+  "name": "Vantge",
+  "slug": "vantge",
+  "industry": "drone inspection",
+  "tagline": "Aerial inspection data your engineers can actually trust.",
+  "positioning": "Vantge turns routine drone flights into structured, defect-tagged inspection records for the teams that maintain critical infrastructure.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F6EFE4",
+    "surface": "#EBE0CF",
+    "text": "#2B231B",
+    "primary": "#B4552C",
+    "accent": "#7C6A3A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 11,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 9,
+        "y": 10,
+        "width": 11,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 5,
+        "y": 15,
+        "width": 11,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every inspection flight, documented to the millimeter.",
+      "sub": "Vantge plans the mission, flies the pattern, and returns georeferenced imagery with defects already tagged — so your reliability engineers stop scrubbing raw footage and start making decisions.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Autonomous flight plans",
+        "description": "Import an asset from your GIS and Vantge generates a repeatable flight path with the overlap and standoff your inspection standard requires — no manual waypointing.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Defect detection you can audit",
+        "description": "Corrosion, cracking, and thermal anomalies are flagged with confidence scores and pinned to exact coordinates, with the source image one click away for review.",
+        "icon": "target"
+      },
+      {
+        "title": "Inspection records, not folders",
+        "description": "Each flight becomes a versioned record with timestamps, pilot, weather, and sign-off — the audit trail your regulators and insurers ask for.",
+        "icon": "database"
+      },
+      {
+        "title": "Change over time",
+        "description": "Overlay this quarter's scan against last year's to watch a defect propagate, and export the delta straight into your maintenance backlog.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Fits your stack",
+        "description": "Push findings into SAP, Maximo, or ArcGIS through a documented API so inspection data lands where your planners already work.",
+        "icon": "layers"
+      },
+      {
+        "title": "Certified operations",
+        "description": "BVLOS-ready workflows, chain-of-custody logging, and role-based access keep every flight inside your compliance envelope.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose two engineers for a week reviewing tower footage after every campaign. Vantge hands us tagged defects with coordinates the same afternoon the drone lands.",
+        "name": "Priya Ramanathan",
+        "role": "Director of Asset Reliability",
+        "company": "Meridian Grid Partners"
+      },
+      {
+        "quote": "The versioned records were the deciding factor. When our insurer asked to see the inspection history on a flare stack, we exported it in minutes instead of chasing SD cards.",
+        "name": "Daniel Okafor",
+        "role": "VP of Integrity Engineering",
+        "company": "Coastline Refining"
+      },
+      {
+        "quote": "It reads like it was built by people who've actually stood at the base of a wind turbine in February. The flight plans just match how we inspect.",
+        "name": "Hanne Vestergaard",
+        "role": "Head of O&M",
+        "company": "Nordwater Renewables"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$0.90",
+        "period": "per inspected asset",
+        "blurb": "For teams validating drone inspection on a single site or asset class.",
+        "features": [
+          "Autonomous flight planning",
+          "Defect tagging with confidence scores",
+          "Standard PDF and CSV exports",
+          "30-day record retention",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.55",
+        "period": "per inspected asset, volume tiered",
+        "blurb": "For programs running recurring campaigns across multiple sites.",
+        "features": [
+          "Everything in Pilot",
+          "Change-over-time comparisons",
+          "API and GIS/CMMS integrations",
+          "Chain-of-custody audit trails",
+          "Role-based access",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual volume",
+        "blurb": "For operators standardizing inspection across a national asset base.",
+        "features": [
+          "Everything in Scale",
+          "BVLOS workflow support",
+          "Custom defect models",
+          "Dedicated solutions engineer",
+          "SSO and data residency",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vantge helps infrastructure operators turn drone flights into inspection records their engineers, insurers, and regulators can trust."
+  }
+}

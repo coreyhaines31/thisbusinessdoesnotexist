@@ -1,0 +1,137 @@
+{
+  "name": "Starling Vestry",
+  "slug": "starling-vestry",
+  "industry": "church admin software",
+  "tagline": "Church admin that doesn't require a seminary degree.",
+  "positioning": "The tithe-tracking, volunteer-wrangling, bulletin-building backend for small congregations run by one very tired person.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F7F6F2",
+    "surface": "#FFFFFF",
+    "text": "#121212",
+    "primary": "#121212",
+    "accent": "#FF3B1E"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "SV",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run the whole church from one boring, beautiful dashboard.",
+      "sub": "Tithes, rosters, room bookings, and the weekly bulletin — all in one place, so you can stop maintaining nine spreadsheets and a group text named 'Elders (NEW).'",
+      "ctaLabel": "Start free",
+      "secondaryCtaLabel": "See a live pew"
+    },
+    "features": [
+      {
+        "title": "Giving without guilt trips",
+        "description": "Track pledges, one-time gifts, and recurring tithes. Auto-generate year-end statements so nobody emails you about their taxes in April.",
+        "icon": "chart"
+      },
+      {
+        "title": "Volunteer roulette, solved",
+        "description": "Schedule greeters, nursery, and worship teams. When someone bails at 7am Sunday, one tap finds a replacement who actually said yes.",
+        "icon": "users"
+      },
+      {
+        "title": "Bulletins in five minutes",
+        "description": "Drop in announcements, hymns, and the sermon title. We lay it out cleanly and print-ready — no more wrestling Publisher at midnight.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Members you can actually find",
+        "description": "A directory that knows the Johnsons moved, remembers whose kid is allergic to what, and doesn't leak everyone's phone number.",
+        "icon": "database"
+      },
+      {
+        "title": "Rooms that don't double-book",
+        "description": "Fellowship Hall can't host a funeral and a youth pizza night at once. Starling checks so your deacons don't have to.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Reminders that reach humans",
+        "description": "Text and email nudges for events, giving, and 'please return the sanctuary chairs.' Set once, stop nagging forever.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend Saturday nights formatting the bulletin and crying a little. Now it's done before dinner and I have a hobby again.",
+        "name": "Pastor Dana Whitfield",
+        "role": "Solo Pastor",
+        "company": "Cedar Fork Community Church"
+      },
+      {
+        "quote": "Our giving statements used to be a January nightmare. Starling spat out 214 of them in about forty seconds. The board thinks I'm a wizard.",
+        "name": "Marcus Ojukwu",
+        "role": "Church Administrator",
+        "company": "Grace & Anchor Fellowship"
+      },
+      {
+        "quote": "The volunteer scheduler alone paid for itself. No more 6:45am panic texts hunting for a nursery worker.",
+        "name": "Renee Calloway",
+        "role": "Ministry Coordinator",
+        "company": "St. Alban's Parish"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$0",
+        "period": "forever, seriously",
+        "blurb": "For tiny congregations and one heroic volunteer.",
+        "features": [
+          "Up to 75 members",
+          "Giving tracker & receipts",
+          "Basic directory",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parish",
+        "price": "$29",
+        "period": "per month, flat",
+        "blurb": "For a real church with real Sundays.",
+        "features": [
+          "Up to 500 members",
+          "Volunteer scheduling",
+          "Bulletin builder",
+          "Room & event booking",
+          "Text + email reminders",
+          "Year-end statements"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "$79",
+        "period": "per month, flat",
+        "blurb": "For multi-site or unreasonably organized folks.",
+        "features": [
+          "Unlimited members",
+          "Multi-campus support",
+          "Custom giving categories",
+          "Advanced reporting",
+          "Priority support",
+          "Data export whenever"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Starling Vestry keeps the office running so you can get back to the actual ministry. Built for churches that don't have an IT department."
+  }
+}

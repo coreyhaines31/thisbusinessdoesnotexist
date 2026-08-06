@@ -1,0 +1,139 @@
+{
+  "name": "Osprey Atlas",
+  "slug": "osprey-atlas",
+  "industry": "drone inspection",
+  "tagline": "Every roofline, tower, and turbine — surveyed from above, understood on the ground.",
+  "positioning": "Osprey Atlas turns your consumer drone into a professional inspection instrument, generating structured reports from a single guided flight.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F3EFE8",
+    "surface": "#FBF9F4",
+    "text": "#252119",
+    "primary": "#3C4A3E",
+    "accent": "#A9572F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "OA",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 13 A9 9 0 0 1 21 13 L16.5 13 A4.5 4.5 0 0 0 7.5 13 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19,
+        "cy": 13,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "See your property the way the sky sees it.",
+      "sub": "Osprey Atlas guides a single automated flight, then hands you a surveyor-grade inspection report — cracked flashing, corroded mounts, blocked gutters, all pinpointed and priced.",
+      "ctaLabel": "Begin your first survey",
+      "secondaryCtaLabel": "Watch a flight"
+    },
+    "features": [
+      {
+        "title": "Guided flight, hands off",
+        "description": "Draw a boundary on the map and Osprey Atlas plans the orbit, altitude, and overlap for you. Your drone flies the pattern; you just watch it work.",
+        "icon": "compass"
+      },
+      {
+        "title": "Findings, not just footage",
+        "description": "Instead of 400 raw photos, you receive an annotated report: each defect flagged, measured, and mapped to a spot on your 3D model.",
+        "icon": "target"
+      },
+      {
+        "title": "The report your insurer wants",
+        "description": "Export a timestamped, geotagged PDF that adjusters, roofers, and HOAs actually accept — no professional license required.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Change over time",
+        "description": "Re-fly the same route each season and Osprey Atlas overlays the results, so you catch the hairline crack before it becomes a claim.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Works with your drone",
+        "description": "Compatible with the mainstream consumer platforms you already own. No proprietary hardware, no dealer, no runway.",
+        "icon": "layers"
+      },
+      {
+        "title": "Yours, kept private",
+        "description": "Flights and models stay in your personal vault. Share a single read-only link when you choose, revoke it when you're done.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I inspected a chimney I hadn't safely reached in nine years. The report caught a spalling course of brick and gave me photos my mason trusted. Osprey Atlas paid for itself before lunch.",
+        "name": "Daniel Reyes",
+        "role": "Homeowner",
+        "company": "Private residence, Asheville"
+      },
+      {
+        "quote": "We manage twelve small commercial roofs. Sending someone up a ladder for each was a liability nightmare. Now one person flies the whole portfolio in a morning and the findings land in my inbox.",
+        "name": "Priya Venkataraman",
+        "role": "Property Manager",
+        "company": "Cedarline Holdings"
+      },
+      {
+        "quote": "As a solo home inspector, this quietly upgraded my entire offering. Clients see the orbital model and think I brought a crew. It's just me and Osprey Atlas.",
+        "name": "Marcus Boyd",
+        "role": "Independent Home Inspector",
+        "company": "Boyd Structural Reviews"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per month",
+        "blurb": "For the curious homeowner surveying one property a season.",
+        "features": [
+          "3 guided flights per month",
+          "Annotated defect reports",
+          "Standard PDF export",
+          "30-day flight history"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Steward",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For prosumers and hands-on managers watching several structures.",
+        "features": [
+          "Unlimited guided flights",
+          "3D orbital models",
+          "Season-over-season change tracking",
+          "Insurer-ready exports",
+          "Shareable read-only links",
+          "2-year flight history"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atlas",
+        "price": "$99",
+        "period": "per month",
+        "blurb": "For serious independents inspecting portfolios professionally.",
+        "features": [
+          "Everything in Steward",
+          "Batch flights across sites",
+          "Branded report templates",
+          "Priority processing",
+          "Full archival vault"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Osprey Atlas gives every individual the vantage once reserved for survey crews. One flight, one report, the whole picture."
+  }
+}

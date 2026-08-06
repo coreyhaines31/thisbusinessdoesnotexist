@@ -1,0 +1,136 @@
+{
+  "name": "Sojrn",
+  "slug": "sojrn",
+  "industry": "corporate offsites",
+  "tagline": "The operating system for company offsites",
+  "positioning": "Sojrn helps enterprise People and Ops teams plan, budget, and run multi-team offsites without spreadsheets, back-and-forth threads, or last-minute chaos.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A1E28",
+    "surface": "#123241",
+    "text": "#E8F5F1",
+    "primary": "#1BB597",
+    "accent": "#3B8FE0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 0 12 21 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run offsites your teams actually remember",
+      "sub": "Sojrn replaces the 40-tab planning spreadsheet with one system for venues, travel, budgets, and agendas — so Ops runs offsites like a program, not a fire drill.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Venue sourcing, sourced for you",
+        "description": "Match team size, budget, and travel radius to vetted venues in minutes, with real availability and negotiated enterprise rates — no cold-emailing sales managers.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Live budgets per offsite",
+        "description": "Track flights, lodging, catering, and facilitation against an approved cap. Finance sees committed spend the moment a room block is confirmed.",
+        "icon": "chart"
+      },
+      {
+        "title": "Agenda builder",
+        "description": "Assemble session blocks, owners, and room assignments into a shareable run-of-show your leads can edit without breaking the master schedule.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Travel logistics that reconcile",
+        "description": "Import attendee flights and arrival windows, auto-flag conflicts, and hand transport vendors a clean manifest instead of a messy thread.",
+        "icon": "compass"
+      },
+      {
+        "title": "Approvals that don't stall",
+        "description": "Route each offsite through People, Finance, and Legal with a clear audit trail. No more chasing sign-off in Slack the week before.",
+        "icon": "shield"
+      },
+      {
+        "title": "Post-offsite reporting",
+        "description": "Every offsite closes with spend-per-head, attendance, and survey results your CFO and CHRO can compare across quarters.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran 14 offsites across four regions last year on Sojrn. The first thing that changed: I stopped rebuilding the same budget spreadsheet every single time.",
+        "name": "Priya Nadkarni",
+        "role": "Director of People Operations",
+        "company": "Halvorsen Systems"
+      },
+      {
+        "quote": "Finance used to find out about offsite spend a month after the invoices landed. Now committed cost shows up the day we book. That alone paid for the platform.",
+        "name": "Marcus Feld",
+        "role": "VP Finance",
+        "company": "Northbridge Analytics"
+      },
+      {
+        "quote": "The agenda builder let our regional leads own their sessions without wrecking the master schedule. It made a 300-person kickoff feel manageable.",
+        "name": "Elena Sørensen",
+        "role": "Head of Employee Experience",
+        "company": "Cordell & Wray"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Team",
+        "price": "$6",
+        "period": "per attendee, per offsite",
+        "blurb": "For a single team standing up its first structured offsites.",
+        "features": [
+          "Up to 60 attendees per offsite",
+          "Venue sourcing and booking",
+          "Live budget tracking",
+          "Shared agenda builder"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Program",
+        "price": "$4",
+        "period": "per attendee, per offsite",
+        "blurb": "For People and Ops teams running offsites across the org.",
+        "features": [
+          "Unlimited attendees",
+          "Multi-offsite budget rollups",
+          "Approval routing and audit trail",
+          "Travel manifest exports",
+          "Post-offsite reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based per attendee",
+        "blurb": "For global orgs with procurement, security, and SSO needs.",
+        "features": [
+          "Negotiated volume rates",
+          "SSO, SCIM, and SOC 2 controls",
+          "Dedicated sourcing partner",
+          "Custom finance integrations",
+          "SLA and priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sojrn is the offsite operating system for enterprise People and Ops teams. Plan, budget, and run every gathering from one place."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "name": "Vestrybook",
+  "slug": "vestrybook",
+  "industry": "Church administration software",
+  "tagline": "The operating system for the modern congregation office.",
+  "positioning": "Vestrybook consolidates membership records, giving statements, and volunteer scheduling into one governed system built for small church staffs.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F6EFE3",
+    "surface": "#FBF7EF",
+    "text": "#2E2416",
+    "primary": "#B05A34",
+    "accent": "#7B7A3E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M8 19 L8 11 Q8 6 12 6 Q16 6 16 11 L16 19 Z",
+        "fill": "bg"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 13,
+        "width": 2,
+        "height": 6,
+        "rx": 0,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run the church office like the operation it actually is.",
+      "sub": "Vestrybook replaces the shared spreadsheet, the paper directory, and the year-end giving scramble with one auditable record your whole staff can trust.",
+      "ctaLabel": "Start a guided setup",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Unified member ledger",
+        "description": "Every household, contact, and sacramental record in one governed profile — no more reconciling three lists before a mailing goes out.",
+        "icon": "database"
+      },
+      {
+        "title": "Giving statements on autopilot",
+        "description": "Generate IRS-ready contribution statements in bulk, flag missing tax IDs, and email or print the entire batch in a single reviewed run.",
+        "icon": "chart"
+      },
+      {
+        "title": "Volunteer & rota scheduling",
+        "description": "Fill nursery, greeter, and worship slots with conflict checks, auto-reminders, and a confirmation trail your coordinator can defend.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Role-based access control",
+        "description": "Give the treasurer numbers, the pastor pastoral notes, and volunteers only their own schedule — with a full audit log on every field.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We closed our giving statements in one afternoon instead of the usual two weeks of cross-checking envelopes against the spreadsheet. Our treasurer nearly cried.",
+        "name": "Marissa Coleman",
+        "role": "Executive Pastor",
+        "company": "Cedar Ridge Fellowship"
+      },
+      {
+        "quote": "The access controls finally let me hand scheduling to a volunteer without exposing giving records. That separation alone was worth the switch.",
+        "name": "Daniel Whitfield",
+        "role": "Church Administrator",
+        "company": "Grace Covenant Assembly"
+      },
+      {
+        "quote": "Onboarding took a morning. Vestrybook mapped our old membership export cleanly and flagged forty duplicate households we'd been mailing twice for years.",
+        "name": "Priya Nathan",
+        "role": "Operations Director",
+        "company": "Hillside Community Church"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Parish",
+        "price": "$12",
+        "period": "per seat / month",
+        "blurb": "For solo administrators running a single small congregation.",
+        "features": [
+          "Up to 500 member records",
+          "Giving statements & receipts",
+          "Basic volunteer scheduling",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Congregation",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For multi-staff offices that need governance and audit trails.",
+        "features": [
+          "Unlimited member records",
+          "Role-based access control",
+          "Full audit logging",
+          "Automated rota reminders",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "Custom",
+        "period": "per seat, billed annually",
+        "blurb": "For multi-site networks and denominational offices.",
+        "features": [
+          "Multi-campus consolidation",
+          "SSO & SCIM provisioning",
+          "Custom giving categories",
+          "Dedicated success manager",
+          "Data residency options"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vestrybook is administrative software for congregations — built for the people who keep the office running, not just the platform."
+  }
+}

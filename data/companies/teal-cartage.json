@@ -1,0 +1,132 @@
+{
+  "name": "Teal Cartage",
+  "slug": "teal-cartage",
+  "industry": "artisanal logistics",
+  "tagline": "White-glove passage for the objects that matter most to one person at a time.",
+  "positioning": "Teal Cartage moves single precious items — heirlooms, prototypes, handmade instruments — with a curated courier network and a manifest built for one.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#eef5f5",
+    "surface": "#ffffff",
+    "text": "#0a2427",
+    "primary": "#0e7490",
+    "accent": "#10a37f"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "TC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M2 18 C 6 6 14 4 22 8 C 15 9 9 13 6 20 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every parcel deserves a pilgrimage, not a pipeline.",
+      "sub": "Teal Cartage is the world's first courier network engineered for the single, irreplaceable object — the one you would never trust to a bulk carrier's conveyor belt.",
+      "ctaLabel": "Book a passage",
+      "secondaryCtaLabel": "See how it moves"
+    },
+    "features": [
+      {
+        "title": "The Manifest of One",
+        "description": "A living dossier for your item — condition photos, provenance notes, handling rituals — that travels with every hand that touches it, from doorstep to doorstep.",
+        "icon": "layers"
+      },
+      {
+        "title": "Hand-picked couriers",
+        "description": "No anonymous drivers. Each leg is assigned to a vetted specialist who signs for your object and stays reachable until it arrives.",
+        "icon": "users"
+      },
+      {
+        "title": "Chain-of-custody clarity",
+        "description": "Every transfer is timestamped, geo-pinned, and photographed. You watch your heirloom advance across the map, checkpoint by checkpoint.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Bespoke crating",
+        "description": "Custom-cut foam, moisture control, and shock telemetry for fragile ceramics, vintage synths, and framed originals — measured to the millimeter.",
+        "icon": "shield"
+      },
+      {
+        "title": "Climate-honest routing",
+        "description": "We plan around heat, humidity, and altitude, not just distance, so a lacquered guitar never sees a hot loading dock.",
+        "icon": "compass"
+      },
+      {
+        "title": "One human, always",
+        "description": "A named concierge owns your shipment end to end. No queue, no ticket number — just the person who knows exactly where your thing is.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I sold a 1962 archtop to a collector three countries away. Teal Cartage crated it, tracked the humidity in transit, and sent me a photo of it resting in his studio. I have never exhaled like that.",
+        "name": "Marisol Devereux",
+        "role": "Independent Luthier",
+        "company": "Devereux Stringworks"
+      },
+      {
+        "quote": "Galleries treat a single canvas like freight. Teal Cartage treated it like the only object in the world. The Manifest of One is now a condition report my insurer actually trusts.",
+        "name": "Anders Kwon",
+        "role": "Private Art Advisor",
+        "company": "Kwon & Meridian"
+      },
+      {
+        "quote": "My grandmother's porcelain crossed the Atlantic with a named courier and zero drama. Watching each checkpoint light up on the map felt less like shipping and more like an escort.",
+        "name": "Priya Ravensworth",
+        "role": "Estate Curator",
+        "company": "Ravensworth Heritage"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per shipment",
+        "blurb": "For the one-off treasure that simply cannot go in a bin.",
+        "features": [
+          "Single named courier",
+          "Manifest of One dossier",
+          "Live checkpoint tracking",
+          "Photo proof at every handoff"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For makers and sellers who ship precious pieces every week.",
+        "features": [
+          "Up to 8 passages monthly",
+          "Bespoke crating included",
+          "Dedicated concierge",
+          "Shock & climate telemetry",
+          "Priority courier assignment"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "$129",
+        "period": "per month",
+        "blurb": "For studios and collections moving irreplaceable inventory at pace.",
+        "features": [
+          "Unlimited passages",
+          "White-glove packing on-site",
+          "Provenance-grade documentation",
+          "Insurance liaison support",
+          "Named lead concierge",
+          "Custom routing protocols"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Teal Cartage carries the objects a spreadsheet can't measure — one irreplaceable thing, moved with the reverence it was made with."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Corvane",
+  "slug": "corvane",
+  "industry": "fleet telematics",
+  "tagline": "The living intelligence layer for the world's moving fleets",
+  "positioning": "Corvane fuses every vehicle signal into one predictive telemetry grid, so enterprise fleets stop reacting to breakdowns and start commanding them.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0B0F17",
+    "surface": "#151B27",
+    "text": "#E7ECF3",
+    "primary": "#4F9DFF",
+    "accent": "#F2A93B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 6,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 8,
+        "width": 6,
+        "height": 11,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 18,
+        "y": 11,
+        "width": 2.5,
+        "height": 8,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every vehicle, every second, one intelligence grid",
+      "sub": "Corvane ingests raw telematics from 40,000-vehicle fleets and turns it into decisions — predicting failures, rerouting assets, and settling disputes before your dispatchers finish their coffee.",
+      "ctaLabel": "Request a grid demo",
+      "secondaryCtaLabel": "Read the platform brief"
+    },
+    "features": [
+      {
+        "title": "Predictive failure horizon",
+        "description": "Corvane models each drivetrain against 2 billion telemetry hours and flags the exact component failing 9 days out — with the work order pre-filled for your shop.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Unified signal fabric",
+        "description": "OBD-II, CAN bus, dashcam, ELD, and fuel-card data collapse into one canonical vehicle record. No more reconciling four dashboards at 2 a.m.",
+        "icon": "layers"
+      },
+      {
+        "title": "Live dispute ledger",
+        "description": "Every hard-brake, geofence breach, and idle event is timestamped and cryptographically sealed, so damage claims resolve from evidence, not memory.",
+        "icon": "shield"
+      },
+      {
+        "title": "Autonomous rerouting",
+        "description": "When a lane closes or a trailer overheats, Corvane recomputes the network and pushes new routes to drivers before dispatch even sees the alert.",
+        "icon": "compass"
+      },
+      {
+        "title": "Fleet-wide energy map",
+        "description": "Track fuel and kWh per mile across mixed diesel and EV fleets, and forecast charging load against your depot's grid capacity.",
+        "icon": "chart"
+      },
+      {
+        "title": "Command-grade uptime",
+        "description": "A 99.99% SLA, region-isolated ingestion, and SOC 2 Type II controls built for fleets that cannot afford a dark dashboard.",
+        "icon": "zap"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Corvane cut our unplanned roadside events by 41% in two quarters. The failure-horizon alerts land in our maintenance queue with the part number already attached — that changed how the whole shop operates.",
+        "name": "Dana Whitfield",
+        "role": "VP of Fleet Operations",
+        "company": "Meridian Haulage Group"
+      },
+      {
+        "quote": "We ripped out three telematics vendors and consolidated onto Corvane's signal fabric. For the first time our safety, ops, and finance teams argue from the same numbers.",
+        "name": "Marcus Oyelaran",
+        "role": "Chief Logistics Officer",
+        "company": "Cascade Freight Systems"
+      },
+      {
+        "quote": "The sealed dispute ledger paid for the platform in one contested collision claim. Legal had timestamped evidence in minutes instead of subpoenaing dashcams for weeks.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Risk & Compliance",
+        "company": "Northwind Distribution"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Signal",
+        "price": "$0.09",
+        "period": "per active vehicle-hour",
+        "blurb": "For growing fleets consolidating their first telemetry sources.",
+        "features": [
+          "Unified signal fabric",
+          "7-day telemetry retention",
+          "Standard failure alerts",
+          "Email and chat support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Command",
+        "price": "$0.21",
+        "period": "per active vehicle-hour",
+        "blurb": "Predictive operations for fleets that run the road as one network.",
+        "features": [
+          "Everything in Signal",
+          "Predictive failure horizon",
+          "Autonomous rerouting",
+          "Live dispute ledger",
+          "90-day retention",
+          "Dedicated success engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "volume metered",
+        "blurb": "For global enterprises with region-isolated data mandates.",
+        "features": [
+          "Everything in Command",
+          "Region-isolated ingestion",
+          "99.99% uptime SLA",
+          "Unlimited retention",
+          "On-prem edge relays",
+          "24/7 command-desk support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Corvane is the intelligence grid for the world's moving fleets — turning raw telemetry into command over every mile."
+  }
+}

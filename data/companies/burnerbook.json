@@ -1,0 +1,136 @@
+{
+  "name": "BurnerBook",
+  "slug": "burnerbook",
+  "industry": "ghost kitchens",
+  "tagline": "One kitchen. Every delivery brand. One tidy ticket rail.",
+  "positioning": "BurnerBook is the operating system for owner-operators running delivery-only brands out of a single kitchen — menus, orders, and margins in one place.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F2EF",
+    "text": "#0D0D0D",
+    "primary": "#141414",
+    "accent": "#FF4A1C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BB",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run four delivery brands from one line — without the tablet pile.",
+      "sub": "BurnerBook syncs your menus across DoorDash, Uber Eats, and Grubhub, funnels every order to one ticket rail, and shows you which virtual brand is actually making money.",
+      "ctaLabel": "Launch your first brand",
+      "secondaryCtaLabel": "Watch a live kitchen"
+    },
+    "features": [
+      {
+        "title": "One menu, every marketplace",
+        "description": "Edit a price or swap a photo once and it pushes to all your apps in seconds. No more re-typing the same wings menu into four dashboards.",
+        "icon": "layers"
+      },
+      {
+        "title": "Kill the tablet wall",
+        "description": "Orders from every platform land on a single ticket rail and print to one kitchen printer, sorted by fire time so your line never guesses which app it came from.",
+        "icon": "inbox"
+      },
+      {
+        "title": "86 it everywhere at once",
+        "description": "Sold out of short rib? Tap once and it goes dark across every brand and every app instantly — before the next order slips through.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Spin up a new brand by Friday",
+        "description": "Our launch kit builds the menu, logo, and marketplace listings for a new virtual concept in an afternoon, so you can test demand without a new lease.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Prep forecasts that hold up",
+        "description": "BurnerBook reads last week's tickets and tomorrow's weather to tell your prep cook how many portions to pull. Less waste, fewer weeds.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Margin by brand, not just sales",
+        "description": "See true profit per brand after commissions, packaging, and labor — so you cut the concept that looks busy but bleeds cash.",
+        "icon": "target"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running three brands off two iPads taped to the hood. Now every order hits one rail and my line cooks stopped cursing at me during the dinner rush.",
+        "name": "Marisol Reyes",
+        "role": "Owner-Operator",
+        "company": "Corner Stove Collective"
+      },
+      {
+        "quote": "The margin-by-brand report showed our 'famous' birria brand was actually our worst earner after fees. We killed it, doubled down on smash burgers, and rent got easy again.",
+        "name": "Devon Achebe",
+        "role": "Founder",
+        "company": "Ninth Ave Kitchens"
+      },
+      {
+        "quote": "Launching a new brand used to eat my whole weekend. With BurnerBook I built a wings concept Thursday and took its first order Saturday. That still feels illegal.",
+        "name": "Priya Nandakumar",
+        "role": "Managing Partner",
+        "company": "Halsted Hospitality Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Line Cook",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For a single kitchen testing one or two delivery brands.",
+        "features": [
+          "Up to 2 virtual brands",
+          "Menu sync across 3 marketplaces",
+          "One unified ticket rail",
+          "One-tap 86 across all apps"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Kitchen",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For owner-operators juggling a full stack of brands from one address.",
+        "features": [
+          "Unlimited virtual brands",
+          "New-brand launch kit",
+          "Prep forecasting",
+          "Margin-by-brand reporting",
+          "Priority ticket support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Multi-Unit",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For operators scaling the same playbook across several locations.",
+        "features": [
+          "Everything in Kitchen",
+          "Multi-location dashboards",
+          "Central commissary planning",
+          "Roles & permissions",
+          "Dedicated onboarding lead"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "BurnerBook helps independent kitchen operators run delivery-only brands like grown-up restaurants — organized, profitable, and off the tablet wall."
+  }
+}

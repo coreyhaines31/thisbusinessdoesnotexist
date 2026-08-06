@@ -1,0 +1,153 @@
+{
+  "name": "Immrse",
+  "slug": "immrse",
+  "industry": "cold-plunge studios",
+  "tagline": "Enterprise cold-immersion infrastructure, measured to the second.",
+  "positioning": "Immrse operates and instruments corporate cold-plunge studios so people teams can offer recovery as a metered benefit — with utilization data, safety logs, and per-session billing that fits procurement.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F4F2ED",
+    "surface": "#FBFAF7",
+    "text": "#22262A",
+    "primary": "#2E4A57",
+    "accent": "#9A6A4F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 16,
+        "height": 3.6,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 10.2,
+        "width": 12,
+        "height": 3.6,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 15.4,
+        "width": 8,
+        "height": 3.6,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold-immersion recovery, operated as enterprise infrastructure.",
+      "sub": "Immrse designs, staffs, and instruments on-site cold-plunge studios for large organizations — turning a wellness amenity into a governed, per-session service line with full utilization reporting.",
+      "ctaLabel": "Request a facility assessment",
+      "secondaryCtaLabel": "View the operations brief"
+    },
+    "features": [
+      {
+        "title": "Metered per-session billing",
+        "description": "Every plunge is logged, timestamped, and reconciled to a cost center. Finance receives a single monthly invoice with department-level utilization, not a flat retainer nobody can defend.",
+        "icon": "chart"
+      },
+      {
+        "title": "Temperature & safety compliance",
+        "description": "Continuous water-temp telemetry, sanitation cycles, and staffed supervision logs are captured automatically and exported to your EHS and audit systems on demand.",
+        "icon": "shield"
+      },
+      {
+        "title": "Occupancy scheduling",
+        "description": "Employees book slots through SSO; capacity, cooldown intervals, and contraindication screening are enforced before the door unlocks.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Multi-site standardization",
+        "description": "Roll out identical studio specifications across campuses with centralized provisioning, so a plunge in Austin performs exactly like one in Frankfurt.",
+        "icon": "globe"
+      },
+      {
+        "title": "Utilization analytics",
+        "description": "Track adoption by team, cost-per-session trends, and peak-load windows in a dashboard your people ops leaders can present to the board.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Managed operations",
+        "description": "Certified attendants, water treatment, and maintenance are handled under one SLA. You approve the program; we run the floor.",
+        "icon": "wrench"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We replaced a chaotic vendor patchwork with one metered contract. Immrse gives our CFO a defensible cost-per-session line and our EHS team the compliance logs they used to chase manually.",
+        "name": "Dana Reinholt",
+        "role": "VP, Total Rewards",
+        "company": "Vantor Systems"
+      },
+      {
+        "quote": "Rolling recovery studios across six campuses used to be impossible to standardize. Immrse delivered identical specs and telemetry everywhere, and our utilization data finally holds up in leadership reviews.",
+        "name": "Marcus Feld",
+        "role": "Director of Workplace Experience",
+        "company": "Halden Grove"
+      },
+      {
+        "quote": "The per-session model changed the conversation entirely. We stopped guessing at ROI and started reporting it. Adoption on our engineering floors is now a metric we actually watch.",
+        "name": "Priya Anand",
+        "role": "Chief People Officer",
+        "company": "Northmark Labs"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$0.90",
+        "period": "per session, single site",
+        "blurb": "Instrument one studio and prove adoption before scaling.",
+        "features": [
+          "One managed cold-plunge studio",
+          "Per-session metering and monthly invoice",
+          "Temperature and sanitation logs",
+          "SSO scheduling for up to 500 employees"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Program",
+        "price": "$0.65",
+        "period": "per session, volume tiered",
+        "blurb": "Standardized studios across multiple campuses with unified reporting.",
+        "features": [
+          "Up to 12 managed studios",
+          "Volume-tiered per-session rate",
+          "Department-level utilization analytics",
+          "EHS and audit-system exports",
+          "Dedicated operations manager"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual volume",
+        "blurb": "Global deployment with negotiated rates and procurement terms.",
+        "features": [
+          "Unlimited sites and regions",
+          "Committed-volume pricing floor",
+          "Custom SLAs and security review",
+          "API access to session and telemetry data",
+          "Quarterly executive utilization briefings"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Immrse operates enterprise cold-immersion studios as metered infrastructure — governed, instrumented, and billed by the session. Recovery your finance, EHS, and people teams can all sign off on."
+  }
+}

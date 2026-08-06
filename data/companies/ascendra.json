@@ -1,0 +1,154 @@
+{
+  "name": "Ascendra",
+  "slug": "ascendra",
+  "industry": "esports coaching",
+  "tagline": "The performance intelligence layer for competitive gaming organizations.",
+  "positioning": "Ascendra turns raw scrim footage and telemetry into structured coaching decisions for enterprise esports programs and their talent pipelines.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F3F1EC",
+    "surface": "#FBFAF6",
+    "text": "#22201C",
+    "primary": "#3D4A46",
+    "accent": "#A56A47"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 14,
+        "width": 5,
+        "height": 6,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 9,
+        "width": 5,
+        "height": 11,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 4,
+        "width": 5,
+        "height": 16,
+        "rx": 1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching intelligence, engineered for the podium.",
+      "sub": "Ascendra unifies scrim review, player telemetry, and roster development into one decision system — so your coaching staff stops chasing VODs and starts compounding wins.",
+      "ctaLabel": "Request a program review",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Scrim-to-signal pipeline",
+        "description": "Ingest every scrim block and match VOD, then surface the three decisions that actually moved win probability — timestamped, tagged, and ready for the debrief.",
+        "icon": "chart"
+      },
+      {
+        "title": "Player development ledgers",
+        "description": "Track each athlete against role-specific benchmarks across a season, with objective mechanical and macro trendlines your directors can defend in review.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Roster telemetry hub",
+        "description": "Connect client, tracker, and scrim data into one governed layer so analysts stop stitching spreadsheets the night before a bootcamp.",
+        "icon": "database"
+      },
+      {
+        "title": "Coaching workflow engine",
+        "description": "Assign film homework, confirm completion, and close the loop from insight to practiced habit — auditable across your entire coaching org.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Talent scouting index",
+        "description": "Evaluate prospects and academy players with the same rubric as your starters, ranked by projected fit against your existing roster's shape.",
+        "icon": "target"
+      },
+      {
+        "title": "Enterprise governance",
+        "description": "SSO, role-based access, and per-team data isolation built for multi-title organizations and their compliance requirements.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were paying three analysts to rebuild the same scrim report every week. Ascendra collapsed that into a single review artifact our head coach trusts before he even opens the VOD.",
+        "name": "Marek Halvorsen",
+        "role": "Director of Performance",
+        "company": "Northlane Esports"
+      },
+      {
+        "quote": "The player development ledgers ended the argument about who was actually improving. We renewed two contracts and released one on data our owners could read in five minutes.",
+        "name": "Priya Venkatraman",
+        "role": "General Manager",
+        "company": "Meridian Gaming Group"
+      },
+      {
+        "quote": "Onboarding four academy teams onto one governed telemetry layer used to take a full split. With Ascendra it took an afternoon, and the isolation controls passed our security review.",
+        "name": "Tobias Krause",
+        "role": "VP of Competitive Operations",
+        "company": "Halcyon Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Program",
+        "price": "$0.60",
+        "period": "per analyzed match hour",
+        "blurb": "For single-title organizations formalizing their coaching workflow.",
+        "features": [
+          "Up to 3 active rosters",
+          "Scrim-to-signal pipeline",
+          "Player development ledgers",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Federation",
+        "price": "$0.42",
+        "period": "per analyzed match hour",
+        "blurb": "For multi-title orgs scaling analysts across an academy pipeline.",
+        "features": [
+          "Unlimited active rosters",
+          "Roster telemetry hub",
+          "Talent scouting index",
+          "SSO and role-based access",
+          "Volume-tiered rates",
+          "Dedicated success partner"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "committed annual usage",
+        "blurb": "For leagues and enterprise ownership groups with governance mandates.",
+        "features": [
+          "Per-team data isolation",
+          "Custom benchmark modeling",
+          "On-prem or private cloud",
+          "Audit and compliance exports",
+          "24/7 priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ascendra is the performance intelligence layer behind competitive gaming's most disciplined coaching organizations."
+  }
+}

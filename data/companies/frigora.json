@@ -1,0 +1,131 @@
+{
+  "name": "Frigora",
+  "slug": "frigora",
+  "industry": "cold-plunge studios",
+  "tagline": "The cold-plunge studio built for people who take recovery seriously.",
+  "positioning": "Frigora runs membership cold-plunge studios with app-based booking, verified water temps, and guided protocols for individuals building a real recovery habit.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#eef4f7",
+    "surface": "#ffffff",
+    "text": "#1b2a33",
+    "primary": "#3b6f8a",
+    "accent": "#8fb9c9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 3 H18 V7 H11 V11 H16 V15 H11 V21 H6 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold plunges that actually track your progress.",
+      "sub": "Book a plunge at any Frigora studio, follow a guided protocol, and see every session logged with verified water temperature and duration — no guesswork.",
+      "ctaLabel": "Find a studio",
+      "secondaryCtaLabel": "See membership plans"
+    },
+    "features": [
+      {
+        "title": "Verified cold, every time",
+        "description": "Every Frigora tub is monitored to the tenth of a degree. Your app shows the exact temperature before you step in and logs it against your session.",
+        "icon": "target"
+      },
+      {
+        "title": "Guided plunge protocols",
+        "description": "Follow structured breath-and-timer protocols on the in-studio screen — from your first 60-second exposure to full contrast cycles with the sauna.",
+        "icon": "compass"
+      },
+      {
+        "title": "Book in under ten seconds",
+        "description": "Reserve a plunge slot at any location from your phone. Walk in, scan, and your protocol is already loaded on the station display.",
+        "icon": "clock"
+      },
+      {
+        "title": "Your recovery history",
+        "description": "See streaks, total cold minutes, and average temperature over time. Export a clean monthly summary for your coach or your own records.",
+        "icon": "chart"
+      },
+      {
+        "title": "Studios near your routine",
+        "description": "Frigora locations sit near gyms and transit, open early and late so a plunge fits before work or after training.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Hygiene you can verify",
+        "description": "Water is filtered and turned over between sessions, with sanitation logs visible in-app for every tub you use.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to fight an ice bath in my garage that was never the right temperature. Frigora just works — I book, I plunge, and the whole session is logged. My contrast recovery finally feels consistent.",
+        "name": "Marcus Reyes",
+        "role": "Amateur triathlete",
+        "company": "Northgate Endurance Club"
+      },
+      {
+        "quote": "As a physio I send clients to Frigora because the temperature is verified and the protocols are sensible. The exportable history means I can actually see whether they're doing the work between sessions.",
+        "name": "Dr. Lena Voss",
+        "role": "Sports Physiotherapist",
+        "company": "Meridian Movement Clinic"
+      },
+      {
+        "quote": "The booking flow is faster than ordering coffee. I do a 3-minute plunge before my 7am calls three days a week, and the streak tracking is weirdly motivating.",
+        "name": "Priya Anand",
+        "role": "Product Lead",
+        "company": "Halden Software"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Drop-in",
+        "price": "$29",
+        "period": "per single session",
+        "blurb": "For visitors and first-timers who want to try the cold before committing.",
+        "features": [
+          "One plunge session at any studio",
+          "Guided beginner protocol",
+          "Verified temperature logging",
+          "App session summary"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Member",
+        "price": "$149",
+        "period": "per month",
+        "blurb": "For individuals building a steady weekly recovery habit.",
+        "features": [
+          "Unlimited plunge bookings",
+          "All guided protocols",
+          "Sauna contrast access",
+          "Full recovery history & export",
+          "Priority peak-hour slots"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio Plus",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For serious athletes who want every location and add-on.",
+        "features": [
+          "Everything in Member",
+          "Access to all city locations",
+          "Guest passes each month",
+          "1:1 protocol review sessions",
+          "Early access to new studios"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Frigora operates membership cold-plunge studios with verified temperatures, guided protocols, and honest session tracking for everyday recovery."
+  }
+}

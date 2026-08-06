@@ -1,0 +1,156 @@
+{
+  "name": "Meravia",
+  "slug": "meravia",
+  "industry": "elder-care coordination",
+  "tagline": "The coordination fabric for the world's aging population.",
+  "positioning": "Meravia unifies caregivers, clinicians, and families onto one orchestration layer — turning fragmented elder-care into a single, auditable continuum of care across every facility you operate.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4F2FB",
+    "surface": "#FFFFFF",
+    "text": "#2A2839",
+    "primary": "#6B5CE0",
+    "accent": "#E58BB2"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 6,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 8,
+        "width": 6,
+        "height": 12,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 18,
+        "y": 11,
+        "width": 2,
+        "height": 9,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every hand of care, moving as one.",
+      "sub": "Meravia is the orchestration layer for enterprise elder-care — connecting home aides, care managers, clinicians, and families into a single living record. Coordinate thousands of care journeys with the precision of one.",
+      "ctaLabel": "Request a briefing",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Unified care continuum",
+        "description": "Replace the shift-notes binder and the group text with one authoritative timeline. Every visit, medication change, and family message lands in a single record your entire network can trust.",
+        "icon": "layers"
+      },
+      {
+        "title": "Signal before crisis",
+        "description": "Meravia reads patterns across visits — missed meals, gait changes, escalating pain scores — and surfaces the resident who needs attention before the 2 a.m. call ever comes.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Family in the loop",
+        "description": "Give adult children a calm, real-time window into their parent's day. Fewer anxious phone calls to your care managers, higher renewal on your premium plans.",
+        "icon": "users"
+      },
+      {
+        "title": "Regulatory-grade audit trail",
+        "description": "Every action is timestamped, attributed, and export-ready. Survey season becomes a query, not a fire drill across seventeen facilities.",
+        "icon": "shield"
+      },
+      {
+        "title": "Staffing that self-heals",
+        "description": "When an aide calls out, Meravia rebalances the route, notifies the covering caregiver, and preserves care continuity — no dispatcher scrambling.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Network intelligence",
+        "description": "Benchmark outcomes, response times, and cost-per-journey across your entire portfolio from one command view built for regional and system leaders.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Meravia, coordinating 4,200 home-care journeys meant nine disconnected systems and a prayer. Now it's one continuum. Our hospitalization rate dropped 19% in the first two quarters.",
+        "name": "Dana Whitfield",
+        "role": "VP of Care Operations",
+        "company": "Northlight Senior Living"
+      },
+      {
+        "quote": "The audit trail alone justified the contract. What used to take my team three weeks to assemble for a state survey now exports in an afternoon.",
+        "name": "Marcus Elrey",
+        "role": "Chief Compliance Officer",
+        "company": "Cedarwell Care Group"
+      },
+      {
+        "quote": "Families finally stopped calling our care managers ten times a day. The transparency layer changed the entire tenor of our relationships — and our renewals.",
+        "name": "Priya Natarajan",
+        "role": "Director of Family Experience",
+        "company": "Harborview Elder Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Network",
+        "price": "$0.90",
+        "period": "per active care journey / month",
+        "blurb": "For regional operators bringing their first facilities onto one continuum.",
+        "features": [
+          "Up to 1,500 active journeys",
+          "Unified care timeline",
+          "Family transparency portal",
+          "Standard audit exports",
+          "Email & chat support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$0.65",
+        "period": "per active journey / month",
+        "blurb": "For multi-site systems standardizing care across the portfolio.",
+        "features": [
+          "Volume-tiered journey pricing",
+          "Predictive risk signals",
+          "Self-healing staffing engine",
+          "Regulatory-grade audit suite",
+          "Network benchmarking dashboards",
+          "Dedicated success architect"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continuum",
+        "price": "Custom",
+        "period": "volume + platform license",
+        "blurb": "For national systems running Meravia as core infrastructure.",
+        "features": [
+          "Unlimited facilities & journeys",
+          "Custom outcome models",
+          "EHR & claims integrations",
+          "Private cloud or on-prem",
+          "99.99% SLA & 24/7 response",
+          "Executive governance reviews"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Meravia is building the coordination fabric for the world's aging population — one continuous, humane record of care across every hand that touches a life."
+  }
+}

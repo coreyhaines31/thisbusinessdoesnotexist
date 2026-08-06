@@ -1,0 +1,135 @@
+{
+  "name": "Altispex",
+  "slug": "altispex",
+  "industry": "drone inspection",
+  "tagline": "Certified aerial inspections, without the crew or the guesswork.",
+  "positioning": "Altispex turns a single consumer drone into an audit-grade inspection suite — guided flights, defect detection, and signed PDF reports.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F5EEE2",
+    "surface": "#FCF8F1",
+    "text": "#2C2318",
+    "primary": "#9E4A28",
+    "accent": "#7C6A34"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "AX",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Inspect any roof, tower, or facade like a licensed firm.",
+      "sub": "Altispex plans the flight, captures every angle, flags the defects, and hands you a stamped inspection report — all from the drone already sitting in your garage.",
+      "ctaLabel": "Start free inspection",
+      "secondaryCtaLabel": "View sample report"
+    },
+    "features": [
+      {
+        "title": "Guided flight plans",
+        "description": "Draw your structure and Altispex generates a compliant, overlap-perfect flight path so you capture inspection-grade imagery on the first pass.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Automated defect detection",
+        "description": "Our vision models flag cracked shingles, corrosion, delamination, and missing fasteners, then rank each finding by severity and repair urgency.",
+        "icon": "target"
+      },
+      {
+        "title": "Signed PDF reports",
+        "description": "Every inspection compiles into a timestamped, geotagged report you can hand to clients, insurers, or adjusters with confidence.",
+        "icon": "database"
+      },
+      {
+        "title": "Airspace compliance",
+        "description": "Live LAANC checks and no-fly overlays keep every mission inside the rules before your props ever spin.",
+        "icon": "shield"
+      },
+      {
+        "title": "Change tracking",
+        "description": "Re-fly a site months later and Altispex overlays the results, surfacing exactly what degraded since your last visit.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Shareable client portals",
+        "description": "Give homeowners and property managers a clean, branded view of findings, photos, and recommended next steps.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I quoted three roof jobs in a morning without climbing a single ladder. The stamped report closed every one of them on the spot.",
+        "name": "Marcus Delroy",
+        "role": "Independent Roofing Contractor",
+        "company": "Delroy Exteriors"
+      },
+      {
+        "quote": "As a solo home inspector, Altispex gave me the polish of a firm ten times my size. Adjusters take my reports seriously now.",
+        "name": "Priya Nandakumar",
+        "role": "Licensed Home Inspector",
+        "company": "Northgate Property Inspections"
+      },
+      {
+        "quote": "The defect ranking caught corrosion on a cell tower flange I would have flown right past. It paid for itself the first week.",
+        "name": "Tobias Reinhardt",
+        "role": "Telecom Field Technician",
+        "company": "Summit Vertical Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For individuals inspecting their own property or a handful of sites.",
+        "features": [
+          "5 inspections per month",
+          "Guided flight planning",
+          "Basic defect detection",
+          "Standard PDF reports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Professional",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For prosumers and independent contractors billing real clients.",
+        "features": [
+          "Unlimited inspections",
+          "Advanced defect ranking",
+          "Signed, branded reports",
+          "Change tracking across visits",
+          "Client sharing portals"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Firm",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For small crews standardizing inspections across a team.",
+        "features": [
+          "Everything in Professional",
+          "Up to 8 team seats",
+          "Shared site library",
+          "LAANC airspace automation",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Altispex gives independent inspectors the reach, rigor, and reporting of a full aerial engineering firm — from a single drone."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Sanctora",
+  "slug": "sanctora",
+  "industry": "church admin software",
+  "tagline": "The quiet software your congregation runs on",
+  "positioning": "Sanctora gives solo pastors and small church administrators one calm place to manage members, giving, and the Sunday schedule.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FCFAF5",
+    "text": "#23211C",
+    "primary": "#42544B",
+    "accent": "#A05A3C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 21 L6 11 Q6 3 12 3 Q18 3 18 11 L18 21 L14 21 L14 11.5 Q14 7.5 12 7.5 Q10 7.5 10 11.5 L10 21 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your church without the spreadsheet sprawl",
+      "sub": "Sanctora keeps your membership directory, weekly giving, and volunteer rota in one place — so the person who does everything at your church can finally stop rebuilding the same tabs every Sunday.",
+      "ctaLabel": "Start your church free",
+      "secondaryCtaLabel": "See a live directory"
+    },
+    "features": [
+      {
+        "title": "A directory that stays current",
+        "description": "Family groups, contact histories, and pastoral notes in one record. Members update their own details, so your directory stops going stale between Christmas and Easter.",
+        "icon": "users"
+      },
+      {
+        "title": "Giving without the shoebox",
+        "description": "Log envelope, plate, and online gifts against each household, then generate year-end contribution statements in a single afternoon instead of a full week.",
+        "icon": "chart"
+      },
+      {
+        "title": "The Sunday rota, solved",
+        "description": "Schedule greeters, readers, and worship teams, send confirmations, and let volunteers swap slots themselves. Fewer 8am 'who's on today?' texts.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Announcements people read",
+        "description": "Send email and SMS to any group — small groups, new members, the whole parish — from templates that already sound like your church, not a marketing blast.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Attendance you can trust",
+        "description": "Check-in for services, classes, and children's ministry with printable name tags and simple trend reports for your elder board.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Your records, your keys",
+        "description": "Encrypted member data, role-based access for staff and volunteers, and a full export button. Sanctora holds your congregation's information in trust, not hostage.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend the last two weeks of December stitching giving totals together from three spreadsheets. This year Sanctora printed every contribution statement in one sitting. I cried a little, honestly.",
+        "name": "Marlene Okafor",
+        "role": "Church Administrator",
+        "company": "Grace Hill Fellowship"
+      },
+      {
+        "quote": "We're a congregation of 140 with no full-time office staff. Sanctora is the only reason our volunteer rota doesn't collapse the week someone goes on holiday.",
+        "name": "Reverend Tom Halvorsen",
+        "role": "Lead Pastor",
+        "company": "Cornerstone Community Church"
+      },
+      {
+        "quote": "New families update their own contact cards now, and the directory is finally accurate. Our elders actually trust the attendance reports for the first time in years.",
+        "name": "Priya Sundaram",
+        "role": "Volunteer Coordinator",
+        "company": "St. Aldan's Parish"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$9",
+        "period": "per month, one church",
+        "blurb": "For solo pastors and church plants keeping the essentials in order.",
+        "features": [
+          "Up to 100 member records",
+          "Directory & pastoral notes",
+          "Basic giving log",
+          "Email announcements"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Congregation",
+        "price": "$29",
+        "period": "per month, one church",
+        "blurb": "For the administrator who quietly runs everything on a Sunday.",
+        "features": [
+          "Up to 750 member records",
+          "Giving with year-end statements",
+          "Volunteer rota & self-swaps",
+          "Email + SMS communications",
+          "Attendance & check-in"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Parish Network",
+        "price": "$79",
+        "period": "per month, up to 5 sites",
+        "blurb": "For multi-site churches and small denominational offices.",
+        "features": [
+          "Unlimited member records",
+          "Multi-site giving & reporting",
+          "Role-based staff access",
+          "Priority support",
+          "Full data export & backups"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sanctora is admin software for the person who does everything at your church — so the work stays quiet and the people stay first."
+  }
+}

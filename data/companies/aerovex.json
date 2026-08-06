@@ -1,0 +1,156 @@
+{
+  "name": "Aerovex",
+  "slug": "aerovex",
+  "industry": "drone inspection",
+  "tagline": "The autonomous inspection layer for infrastructure that cannot fail.",
+  "positioning": "Aerovex turns raw drone flight into audit-ready defect intelligence — one platform for capture, analysis, and compliance across every asset you own.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#14161F",
+    "text": "#F3F6FF",
+    "primary": "#00F5A0",
+    "accent": "#FF3E88"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AX",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 4,
+        "width": 6,
+        "height": 16,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 8,
+        "width": 6,
+        "height": 12,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 17,
+        "y": 11,
+        "width": 4,
+        "height": 9,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "See every flaw before it becomes a failure.",
+      "sub": "Aerovex flies, sees, and certifies your critical infrastructure autonomously — transforming millions of drone frames into a single defect ledger your engineers and regulators both trust.",
+      "ctaLabel": "Request a flight demo",
+      "secondaryCtaLabel": "Read the manifesto"
+    },
+    "features": [
+      {
+        "title": "Autonomous capture grids",
+        "description": "Program a corridor, a substation, or a 400m stack once. Aerovex flies the mission repeatably, holding centimeter GPS lock so every inspection is comparable frame-to-frame.",
+        "icon": "compass"
+      },
+      {
+        "title": "Defect intelligence engine",
+        "description": "Corrosion, spalling, hotspots, and vegetation encroachment are detected, ranked by severity, and geotagged to the exact asset component — no analyst scrubbing footage at 2x.",
+        "icon": "target"
+      },
+      {
+        "title": "Audit-ready evidence chain",
+        "description": "Every finding ships with raw imagery, flight metadata, and a timestamped signature, exporting straight into the compliance formats your regulators already demand.",
+        "icon": "shield"
+      },
+      {
+        "title": "Digital twin drift tracking",
+        "description": "Compare this quarter's scan against the last. Aerovex surfaces millimeter changes in structures so degradation is caught as a trend, not a catastrophe.",
+        "icon": "layers"
+      },
+      {
+        "title": "Fleet orchestration",
+        "description": "Coordinate hundreds of pilots and platforms across regions from one console, with airspace clearance, battery telemetry, and mission status in a single live view.",
+        "icon": "globe"
+      },
+      {
+        "title": "Engineering-grade API",
+        "description": "Push findings into your CMMS, ERP, or asset registry the moment a drone lands. Work orders open themselves before the pilot has packed the case.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We inspected 1,200 transmission towers in a single season with a two-person team. Aerovex flagged three anchor-bolt failures our ground crews had walked past for years.",
+        "name": "Priya Ramachandran",
+        "role": "VP of Asset Integrity",
+        "company": "Meridian Grid Partners"
+      },
+      {
+        "quote": "The evidence chain is what sold our regulators. Every defect comes with proof no auditor can argue with. Our inspection cycle dropped from eleven weeks to nine days.",
+        "name": "Dennis Whitlock",
+        "role": "Director of Reliability Engineering",
+        "company": "Cascade Pipeline Systems"
+      },
+      {
+        "quote": "Aerovex doesn't sell us footage — it sells us decisions. The severity ranking tells my planners exactly which of forty bridges gets crews on Monday.",
+        "name": "Sofia Bergstrom",
+        "role": "Head of Infrastructure Operations",
+        "company": "Nordhaven Transit Authority"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Launch",
+        "price": "$0.90",
+        "period": "per flight-minute captured",
+        "blurb": "For teams standing up their first autonomous inspection program.",
+        "features": [
+          "Up to 500 flight-minutes / month",
+          "Core defect detection models",
+          "Standard evidence exports",
+          "2 concurrent missions",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.55",
+        "period": "per flight-minute, volume-tiered",
+        "blurb": "For operators scaling inspections across regions and asset classes.",
+        "features": [
+          "Unlimited flight-minutes, tiered rates",
+          "Full defect intelligence engine",
+          "Digital twin drift tracking",
+          "CMMS & ERP integrations",
+          "Unlimited concurrent missions",
+          "Priority support & SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "committed annual capacity",
+        "blurb": "For national-scale operators with strict data residency needs.",
+        "features": [
+          "Dedicated capture & compute capacity",
+          "On-prem or air-gapped deployment",
+          "Custom defect models per asset type",
+          "Regulator-specific compliance packs",
+          "Named reliability engineer",
+          "24/7 mission-critical response"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Aerovex is the autonomous inspection layer for the infrastructure the modern world depends on. Fly less. See everything."
+  }
+}

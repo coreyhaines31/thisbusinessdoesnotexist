@@ -1,0 +1,162 @@
+{
+  "name": "KinBridge",
+  "slug": "kinbridge",
+  "industry": "elder-care coordination",
+  "tagline": "The coordination layer for independent home-care agencies.",
+  "positioning": "KinBridge unifies care plans, caregiver schedules, and family updates into one operational record — built for owner-operators running lean home-care businesses.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#EAF5F4",
+    "surface": "#FFFFFF",
+    "text": "#0A2E33",
+    "primary": "#0E7C86",
+    "accent": "#1FA05B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "KB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your entire home-care agency from one clear record.",
+      "sub": "KinBridge connects care plans, caregiver shifts, and family communication so nothing falls through the cracks between visits — no spreadsheets, no group texts, no guessing.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Live care plans",
+        "description": "Every client's medication schedule, mobility notes, and standing instructions in one versioned record every caregiver sees before the shift starts.",
+        "icon": "layers"
+      },
+      {
+        "title": "Shift handoffs that stick",
+        "description": "Outgoing caregivers log observations and open tasks; the next caregiver arrives already briefed. No more 7am phone calls to catch up.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Family updates on autopilot",
+        "description": "Adult children get a clean daily summary of visits, meals, and mood — so your office phone stops ringing with the same three questions.",
+        "icon": "users"
+      },
+      {
+        "title": "Incident reporting",
+        "description": "Falls, missed doses, and hospital transfers documented with timestamps and photos, ready for audits and payer reviews.",
+        "icon": "shield"
+      },
+      {
+        "title": "Schedule coverage",
+        "description": "See open shifts, credential gaps, and overtime risk across your roster before they become a Monday-morning emergency.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Compliance-ready records",
+        "description": "Export EVV logs and visit documentation that hold up to state and payer scrutiny without a scramble.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from four disconnected tools to one. My coordinators stopped chasing caregivers for notes, and I finally trust that the family updates actually went out.",
+        "name": "Marisol Vega",
+        "role": "Owner & Administrator",
+        "company": "Cedarline Home Care"
+      },
+      {
+        "quote": "The shift handoff feature paid for itself in the first month. Our caregivers show up informed, and our client retention has never been higher.",
+        "name": "Darnell Foster",
+        "role": "Director of Operations",
+        "company": "Wellspring Senior Services"
+      },
+      {
+        "quote": "When our state audit came, we exported everything in under an hour. Before KinBridge that would have been a two-week paper hunt.",
+        "name": "Priya Nair",
+        "role": "Founder",
+        "company": "Harbor Oak Caregivers"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Starter",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For solo owner-operators and small teams getting organized.",
+        "features": [
+          "Up to 25 active clients",
+          "Live care plans & shift notes",
+          "Daily family summaries",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Growth",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For growing agencies coordinating multiple caregivers per client.",
+        "features": [
+          "Unlimited active clients",
+          "Shift handoffs & coverage view",
+          "Incident reporting",
+          "EVV & visit documentation export",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location agencies with payer and audit requirements.",
+        "features": [
+          "Multi-branch roles & permissions",
+          "Custom compliance exports",
+          "API & EHR integrations",
+          "Dedicated onboarding",
+          "SLA & account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "KinBridge is the operational backbone for independent home-care agencies — coordinating care, caregivers, and families in one trusted record."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Field Day",
+  "slug": "field-day",
+  "industry": "corporate offsites",
+  "tagline": "Turn your team offsite into the moment your company outgrows itself.",
+  "positioning": "Field Day is the end-to-end offsite platform for owner-operators — venues, agendas, logistics, and outcomes in one command center.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#14161F",
+    "text": "#EEF1F7",
+    "primary": "#3DF5A6",
+    "accent": "#B36BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "FD",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every great company has a before and after offsite.",
+      "sub": "Field Day gives owner-operators one platform to plan, run, and measure the offsite that resets the entire trajectory of the business — no spreadsheets, no chaos, no regrets.",
+      "ctaLabel": "Plan your Field Day",
+      "secondaryCtaLabel": "See a sample agenda"
+    },
+    "features": [
+      {
+        "title": "Venue command center",
+        "description": "Compare 4,000+ vetted retreat venues by budget, headcount, and vibe. Hold dates, sign contracts, and track deposits without leaving the tab.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda that earns its keep",
+        "description": "Build hour-by-hour agendas from proven offsite templates. Assign owners, attach docs, and keep every session tied to a real business objective.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Logistics on autopilot",
+        "description": "Flights, rooming lists, dietary needs, and ground transport reconcile themselves. Your ops person gets their weekend back.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Live headcount & budget",
+        "description": "Watch RSVPs, costs, and per-seat spend update in real time. No surprise invoices three weeks after everyone flew home.",
+        "icon": "chart"
+      },
+      {
+        "title": "Outcome tracking",
+        "description": "Capture decisions and action items in the room, then push them to owners with due dates the moment the offsite ends.",
+        "icon": "target"
+      },
+      {
+        "title": "Post-offsite pulse",
+        "description": "Automated surveys and a one-page recap prove ROI to yourself, your board, and your team — before momentum fades.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to plan our annual offsite in six frantic email threads. Field Day turned it into two afternoons of setup — and it was the first retreat where every decision actually shipped.",
+        "name": "Marisol Vega",
+        "role": "Founder & CEO",
+        "company": "Northbend Contracting"
+      },
+      {
+        "quote": "The budget dashboard alone paid for itself. I knew our per-seat cost to the dollar before I approved a single deposit.",
+        "name": "Daniel Okafor",
+        "role": "Managing Partner",
+        "company": "Halyard Design Studio"
+      },
+      {
+        "quote": "My team came back from the offsite aligned for the first time in years. Field Day made me look like I'd hired a full events department.",
+        "name": "Priya Raman",
+        "role": "Owner-Operator",
+        "company": "Silvertide Logistics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Camp",
+        "price": "$12",
+        "period": "per seat / offsite",
+        "blurb": "For first-time offsites and lean teams running one retreat a year.",
+        "features": [
+          "Up to 25 seats",
+          "Venue search & booking",
+          "Agenda builder",
+          "Basic logistics tracking"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Base Camp",
+        "price": "$29",
+        "period": "per seat / offsite",
+        "blurb": "For growing teams that treat offsites as a strategic ritual.",
+        "features": [
+          "Up to 150 seats",
+          "Everything in Solo Camp",
+          "Live budget & headcount",
+          "Outcome & action tracking",
+          "Post-offsite pulse surveys"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Summit",
+        "price": "Custom",
+        "period": "annual, per seat",
+        "blurb": "For multi-location operators running offsites across the year.",
+        "features": [
+          "Unlimited seats",
+          "Dedicated offsite strategist",
+          "Multi-event planning",
+          "SSO & advanced controls",
+          "Priority venue holds"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Field Day is the offsite platform for owner-operators who believe a room full of the right people can change everything."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Sodalis",
+  "slug": "sodalis",
+  "industry": "pet-tech",
+  "tagline": "The companion animal record, kept with institutional precision.",
+  "positioning": "Sodalis unifies your pet's health history, care schedule, and provider communications into a single verified profile you actually control.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F5F2FA",
+    "surface": "#FFFFFF",
+    "text": "#2C2836",
+    "primary": "#7A69B4",
+    "accent": "#E7A9C2"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every detail of your pet's care, formally documented.",
+      "sub": "Sodalis maintains a verified, chronological record of vaccinations, medications, weight, and vet correspondence — so nothing is lost between appointments, clinics, or households.",
+      "ctaLabel": "Create a profile",
+      "secondaryCtaLabel": "View a sample record"
+    },
+    "features": [
+      {
+        "title": "The Unified Ledger",
+        "description": "Consolidate vaccine certificates, prescriptions, and diagnostic results into one authoritative timeline instead of a folder of photographed paperwork.",
+        "icon": "layers"
+      },
+      {
+        "title": "Verified Provenance",
+        "description": "Each record is tagged with its issuing clinic and date, producing a defensible history you can hand to any new veterinarian in seconds.",
+        "icon": "shield"
+      },
+      {
+        "title": "Care Cadence",
+        "description": "Automated reminders for boosters, flea and tick renewals, and dosage windows — scheduled to your pet's actual protocol, not a generic calendar.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Household Access",
+        "description": "Grant sitters, family members, or co-owners scoped, time-limited access to the exact records they require and nothing more.",
+        "icon": "users"
+      },
+      {
+        "title": "Portable Export",
+        "description": "Generate a clinic-ready PDF summary or a boarding-facility intake sheet with one action, formatted to industry expectations.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Longitudinal Trends",
+        "description": "Track weight, appetite notes, and medication adherence over years to surface patterns worth raising with your veterinarian.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "When we relocated across state lines, our new clinic accepted the Sodalis export without a single follow-up request. It replaced a shoebox of receipts and three panicked phone calls.",
+        "name": "Marguerite Halloran",
+        "role": "Owner, two Bengals",
+        "company": "Independent"
+      },
+      {
+        "quote": "As a foster coordinator I manage records for a dozen animals at once. The scoped household access alone justified the subscription within the first week.",
+        "name": "Devon Achebe",
+        "role": "Foster Coordinator",
+        "company": "Cedarline Rescue Collective"
+      },
+      {
+        "quote": "My vet complimented the medication timeline. That has genuinely never happened with any spreadsheet I built myself.",
+        "name": "Priya Venkataraman",
+        "role": "Prosumer client",
+        "company": "Northgate Feline Care"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$6",
+        "period": "per month",
+        "blurb": "A complete verified record for a single companion animal.",
+        "features": [
+          "One pet profile",
+          "Unified health ledger",
+          "Care cadence reminders",
+          "Clinic-ready PDF export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Household",
+        "price": "$14",
+        "period": "per month",
+        "blurb": "For multi-pet homes that need shared, scoped access.",
+        "features": [
+          "Up to six pet profiles",
+          "Scoped household access",
+          "Boarding intake sheets",
+          "Longitudinal trend reports",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Steward",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For fosters and breeders managing larger populations.",
+        "features": [
+          "Unlimited pet profiles",
+          "Bulk records import",
+          "Delegated caretaker roles",
+          "Provenance audit history",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sodalis is the system of record for the animals you are responsible for. Precise, portable, and entirely yours."
+  }
+}

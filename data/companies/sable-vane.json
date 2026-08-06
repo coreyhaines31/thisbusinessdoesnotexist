@@ -1,0 +1,140 @@
+{
+  "name": "Sable Vane",
+  "slug": "sable-vane",
+  "industry": "fleet telematics",
+  "tagline": "Command every vehicle you own from a single, luminous horizon.",
+  "positioning": "Sable Vane brings aerospace-grade telematics to the driveways of individuals and prosumers — tracking, diagnosing, and protecting personal fleets in real time.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F6F4FA",
+    "surface": "#FFFFFF",
+    "text": "#2B2740",
+    "primary": "#5A4BC0",
+    "accent": "#F1A7C0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SV",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18.36 5.64 A 9 9 0 1 0 18.36 18.36 L16.24 16.24 A 6 6 0 1 1 16.24 7.76 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 18,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your fleet was never meant to be invisible.",
+      "sub": "Sable Vane unifies your cars, trucks, boats, and RVs into one living map — with live location, engine health, and theft alerts refined for people who own their machines, not just manage them.",
+      "ctaLabel": "Claim your horizon",
+      "secondaryCtaLabel": "Watch the demo"
+    },
+    "features": [
+      {
+        "title": "Live constellation map",
+        "description": "Every vehicle you own rendered as a moving point of light — refreshed every second, whether it's in the garage or halfway across the continent.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Engine foresight",
+        "description": "We read the OBD-II bus so you don't have to. Sable Vane surfaces a failing alternator or slipping transmission weeks before the dashboard light ever blinks.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Sovereign geofences",
+        "description": "Draw a boundary around home, the marina, or the ski cabin. The instant a vehicle crosses it, your phone knows — and so does the record.",
+        "icon": "target"
+      },
+      {
+        "title": "Guardian anti-theft",
+        "description": "Motion at 3 a.m. triggers an immediate alert and a shareable live trail you can hand straight to police, no subscription escalation required.",
+        "icon": "shield"
+      },
+      {
+        "title": "The eternal logbook",
+        "description": "Mileage, fuel, service history, and trip purpose captured automatically — the immaculate maintenance ledger your classic car deserves.",
+        "icon": "database"
+      },
+      {
+        "title": "One calm dashboard",
+        "description": "No enterprise clutter. A single, elegant view built for the person who reads it themselves, on a Sunday morning, with coffee.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I keep three classics and a work truck across two states. Before Sable Vane I tracked service on napkins. Now the whole fleet reports to me like it's mission control.",
+        "name": "Diego Marchetti",
+        "role": "Owner",
+        "company": "Marchetti Restorations"
+      },
+      {
+        "quote": "The foresight alerts caught a coolant leak on our overland rig two days before a 900-mile trip. That single warning paid for a decade of the subscription.",
+        "name": "Priya Anand",
+        "role": "Independent Fleet Operator",
+        "company": "Northbound Expeditions"
+      },
+      {
+        "quote": "I bought it to watch my daughter's first car. I stayed for the anti-theft trail — it recovered a stolen trailer in under an hour.",
+        "name": "Wesley Okafor",
+        "role": "Private Owner",
+        "company": "Okafor Marine Holdings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Trailhead",
+        "price": "$12",
+        "period": "per vehicle / month",
+        "blurb": "For the single, cherished machine you refuse to lose sight of.",
+        "features": [
+          "1 vehicle",
+          "Live map & trip history",
+          "Engine health alerts",
+          "30-day location archive"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Convoy",
+        "price": "$29",
+        "period": "per month, up to 5 vehicles",
+        "blurb": "For the household or prosumer running a small, serious stable.",
+        "features": [
+          "Up to 5 vehicles",
+          "Sovereign geofences",
+          "Guardian anti-theft trails",
+          "Automatic maintenance ledger",
+          "1-year archive",
+          "Priority alerts"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet Sovereign",
+        "price": "$79",
+        "period": "per month, up to 20 vehicles",
+        "blurb": "For the collector or operator whose horizon keeps expanding.",
+        "features": [
+          "Up to 20 vehicles",
+          "Unlimited geofences",
+          "Full-history archive",
+          "Multi-driver profiles",
+          "API & export access",
+          "White-glove onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sable Vane — telematics with a longer view. Every vehicle you own, held in a single steady horizon."
+  }
+}

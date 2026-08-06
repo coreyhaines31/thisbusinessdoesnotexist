@@ -1,0 +1,136 @@
+{
+  "name": "Portuna",
+  "slug": "portuna",
+  "industry": "marina management",
+  "tagline": "The system of record for every slip, vessel, and berth you steward.",
+  "positioning": "Portuna gives independent slip holders and small marina operators one authoritative ledger for berth assignments, dockage billing, and compliance.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#EEF4F6",
+    "surface": "#FFFFFF",
+    "text": "#082733",
+    "primary": "#0B6E6D",
+    "accent": "#1668A8"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 3 12 A 9 9 0 0 1 21 12 L 18 12 A 6 6 0 0 0 6 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M 6 14 A 6 6 0 0 0 18 14 L 15 14 A 3 3 0 0 1 9 14 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Marina operations, held to a single source of truth.",
+      "sub": "Portuna consolidates berth assignments, dockage invoicing, and vessel documentation into one auditable platform — built for the boat owner and the operator managing forty slips alike.",
+      "ctaLabel": "Request access",
+      "secondaryCtaLabel": "View the platform"
+    },
+    "features": [
+      {
+        "title": "Berth Assignment Ledger",
+        "description": "Assign, reserve, and reconcile every slip against LOA, beam, and draft. Portuna flags conflicts before a vessel ever reaches the fairway.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Dockage & Utility Billing",
+        "description": "Generate itemized dockage, power, and pump-out invoices on a fixed cycle. Meter reads, proration, and late fees calculate without a spreadsheet.",
+        "icon": "chart"
+      },
+      {
+        "title": "Documentation Compliance",
+        "description": "Track insurance certificates, registration, and hull survey expirations per vessel, with automated notices before any lapse becomes a liability.",
+        "icon": "shield"
+      },
+      {
+        "title": "Tide & Weather Advisories",
+        "description": "Berth-level alerts for storm surge, low-water windows, and NOAA advisories, routed to the tenants and vessels actually affected.",
+        "icon": "bell"
+      },
+      {
+        "title": "Tenant Portal",
+        "description": "Give slip holders a self-service record of statements, contracts, and vessel details — replacing the shared inbox and the clipboard at the fuel dock.",
+        "icon": "users"
+      },
+      {
+        "title": "Occupancy Reporting",
+        "description": "Standing reports on occupancy, waitlist velocity, and revenue per linear foot, exportable for your board, lender, or accountant.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We managed 62 slips out of a binder and two spreadsheets. Portuna gave us a defensible ledger — when a tenant disputes a dockage charge, I pull the record in seconds.",
+        "name": "Diane Kellerman",
+        "role": "Harbormaster",
+        "company": "Wexford Point Marina"
+      },
+      {
+        "quote": "I keep my sloop at three different harbors seasonally. Having every registration, insurance cert, and invoice in one authoritative place ended a genuinely tedious chore.",
+        "name": "Marcus Vellani",
+        "role": "Vessel Owner",
+        "company": "Independent"
+      },
+      {
+        "quote": "The documentation expiry alerts alone paid for the year. We haven't had a single lapsed insurance certificate slip through since we onboarded.",
+        "name": "Priya Anand",
+        "role": "Operations Director",
+        "company": "Talloway Boatyards"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Skipper",
+        "price": "$18",
+        "period": "per month, billed annually",
+        "blurb": "For the individual owner tracking one to three vessels across any harbor.",
+        "features": [
+          "Up to 3 vessel records",
+          "Document expiry tracking",
+          "Personal statement archive",
+          "Tide & weather advisories"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbormaster",
+        "price": "$79",
+        "period": "per month, billed annually",
+        "blurb": "For operators running a single marina with a real waitlist.",
+        "features": [
+          "Up to 120 berths",
+          "Dockage & utility billing",
+          "Tenant portal access",
+          "Occupancy & revenue reporting",
+          "Compliance documentation ledger"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Port Authority",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For multi-facility operators and municipal harbor districts.",
+        "features": [
+          "Unlimited berths & facilities",
+          "Consolidated cross-site reporting",
+          "SSO & role-based permissions",
+          "Dedicated implementation manager",
+          "Audit-grade data export"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Portuna is the authoritative system of record for marina operations — from a single slip to a multi-facility port district."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Stipendia",
+  "slug": "stipendia",
+  "industry": "film production payroll",
+  "tagline": "Production payroll, settled with institutional precision.",
+  "positioning": "Stipendia is the payroll and compliance system of record for independent filmmakers, unit producers, and freelance crew who need studio-grade paycheck accuracy without a studio-sized accounting department.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F4EDE1",
+    "surface": "#FBF6EC",
+    "text": "#2B2318",
+    "primary": "#A85A2C",
+    "accent": "#7C7A45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 6 L18 6 L18 10 L10 10 L10 12 L18 12 L18 18 L6 18 L6 14 L14 14 L14 12 L6 12 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every crew hour, correctly compensated.",
+      "sub": "Stipendia converts your call sheets, deal memos, and timecards into compliant paychecks, W-2s, and residual-ready records — governed by the same rate rules the majors use, on a budget an independent production can actually approve.",
+      "ctaLabel": "Open an account",
+      "secondaryCtaLabel": "Request a briefing"
+    },
+    "features": [
+      {
+        "title": "Union and non-union rate logic",
+        "description": "Encode IATSE, DGA, and SAG-AFTRA rate schedules alongside your own flat deals. Meal penalties, turnaround, and overtime tiers calculate automatically on every timecard.",
+        "icon": "layers"
+      },
+      {
+        "title": "Deal memo to paycheck",
+        "description": "Upload a signed deal memo and Stipendia extracts the rate, kit fee, and box rental, then holds them as the governing terms for that crew member across the entire shoot.",
+        "icon": "target"
+      },
+      {
+        "title": "Multi-state withholding",
+        "description": "Location shoots trigger the correct state and local withholding automatically, with reciprocity handled and quarterly filings prepared for your signature.",
+        "icon": "globe"
+      },
+      {
+        "title": "Wrap-ready reporting",
+        "description": "Close out a production with a single ledger: cost reports by department, 1099 and W-2 packages, and a documented audit trail for financiers and completion bonds.",
+        "icon": "chart"
+      },
+      {
+        "title": "Residual-ready records",
+        "description": "Every payment is tagged with role, project, and rights metadata, so future residuals and reuse calculations start from clean, defensible data.",
+        "icon": "database"
+      },
+      {
+        "title": "Same-day disbursement",
+        "description": "Approve a batch and crew are paid the same business day, with itemized digital stubs that explain every fringe, deduction, and penalty in plain language.",
+        "icon": "zap"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run three commercial spots a month with rotating crews. Stipendia replaced the spreadsheet I dreaded every Friday. Timecards in, compliant checks out, and my accountant stopped calling.",
+        "name": "Marisol Vega",
+        "role": "Line Producer",
+        "company": "Meridian Reel Co."
+      },
+      {
+        "quote": "We shot across four states last quarter. The withholding and the SAG-AFTRA math simply resolved themselves. The wrap report was the first one my financier accepted without a single follow-up question.",
+        "name": "Declan Faircloth",
+        "role": "Unit Production Manager",
+        "company": "Northgate Features"
+      },
+      {
+        "quote": "As a freelance gaffer who also hires my own crew, I needed something that treated a one-person LLC seriously. Stipendia gave me clean W-2s and stubs my team actually trusts.",
+        "name": "Priya Anand",
+        "role": "Owner & Chief Lighting Technician",
+        "company": "Anand Grip & Electric"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For freelance crew and single-owner production companies.",
+        "features": [
+          "Up to 5 payees per pay run",
+          "Union and non-union rate logic",
+          "Single-state withholding",
+          "Digital stubs and year-end W-2s"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Production",
+        "price": "$149",
+        "period": "per month",
+        "blurb": "For active shoots running recurring, multi-department payroll.",
+        "features": [
+          "Up to 60 payees per pay run",
+          "Multi-state withholding and filings",
+          "Deal memo extraction and rate holds",
+          "Same-day disbursement",
+          "Departmental cost reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For production houses and financiers with portfolio-scale needs.",
+        "features": [
+          "Unlimited payees and productions",
+          "Residual-ready rights metadata",
+          "Completion bond audit trails",
+          "Dedicated payroll analyst",
+          "SSO and role-based approvals"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Stipendia is payroll infrastructure for the people who actually make the picture. Institutional accuracy, independent scale — from first call sheet to final wrap report."
+  }
+}

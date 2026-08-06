@@ -1,0 +1,131 @@
+{
+  "name": "Amarris",
+  "slug": "amarris",
+  "industry": "marina management",
+  "tagline": "Every slip, mooring, and maintenance log in one calm harbor.",
+  "positioning": "Amarris is the marina operations tool for independent dock owners and small harbor hosts who still run their bookings on a whiteboard and a shoebox of receipts.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0E13",
+    "surface": "#121A24",
+    "text": "#E7F1F5",
+    "primary": "#1FE9C0",
+    "accent": "#FF6B9A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 C9 2 7 4 7 7 C7 9 8 10 10 11 L10 14 L6 14 L8 17 C9 20 15 20 16 17 L18 14 L14 14 L14 11 C16 10 17 9 17 7 C17 4 15 2 12 2 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your dock like a real harbor, not a group chat.",
+      "sub": "Amarris keeps your slip assignments, seasonal dues, haul-out schedules, and weather holds in one place — so your boaters know where to tie up and you know who still owes for winter storage.",
+      "ctaLabel": "Chart your first slip",
+      "secondaryCtaLabel": "See a sample harbor"
+    },
+    "features": [
+      {
+        "title": "Live slip board",
+        "description": "Drag boats onto a visual dock map. See open slips, rafted vessels, and seasonal reservations at a glance instead of squinting at a laminated grid.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Dues that collect themselves",
+        "description": "Auto-invoice monthly moorage, electric, and pump-out fees. Boaters pay from a link; you stop chasing checks left under the office door.",
+        "icon": "database"
+      },
+      {
+        "title": "Haul-out & maintenance logs",
+        "description": "Track bottom paint, zinc swaps, and engine service per hull. Every boat carries its own history, so nothing gets serviced twice or missed entirely.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Weather & tide holds",
+        "description": "Get flagged when a small-craft advisory or spring tide hits your harbor, and notify affected slip holders before the wind does the talking.",
+        "icon": "bell"
+      },
+      {
+        "title": "Waitlist that ranks itself",
+        "description": "Applicants queue by length, draft, and request date. When a slip frees up, Amarris surfaces the right boat instead of the loudest email.",
+        "icon": "users"
+      },
+      {
+        "title": "Season rollover in minutes",
+        "description": "Roll agreements, rates, and slip assignments into a new season without re-typing a single contract or renegotiating every handshake.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to keep the whole marina in a spiral notebook and my head. Amarris put the slip map on my phone, and now my dockhands stop calling me at dinner to ask which finger pier is open.",
+        "name": "Dana Whitcomb",
+        "role": "Owner & Harbormaster",
+        "company": "Cormorant Point Docks"
+      },
+      {
+        "quote": "The dues invoicing paid for itself in one season. We recovered four unpaid winter storage balances I'd honestly written off, and no more awkward conversations at the fuel dock.",
+        "name": "Marcus Reyburn",
+        "role": "Marina Manager",
+        "company": "Little Neck Boatyard"
+      },
+      {
+        "quote": "As a guy with six moorings and a good stretch of dock, I didn't want enterprise software. Amarris feels built for someone my size — the maintenance log alone keeps my regulars coming back.",
+        "name": "Priya Ellison",
+        "role": "Independent Dock Host",
+        "company": "Harbor 9 Moorings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Skipper",
+        "price": "$14",
+        "period": "per month",
+        "blurb": "For a handful of slips or moorings you run on the side.",
+        "features": [
+          "Up to 12 slips or moorings",
+          "Visual slip board",
+          "Basic maintenance logs",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbor",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For the working dock owner who needs to get paid on time.",
+        "features": [
+          "Up to 80 slips",
+          "Automated dues & invoicing",
+          "Weather & tide holds",
+          "Self-ranking waitlist",
+          "Season rollover"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estuary",
+        "price": "$129",
+        "period": "per month",
+        "blurb": "For multi-dock harbors and small marina groups.",
+        "features": [
+          "Unlimited slips & moorings",
+          "Multiple dock maps",
+          "Dockhand roles & permissions",
+          "Fuel & pump-out tracking",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Amarris is built for the people who actually walk the docks. Fewer whiteboards, fewer shoeboxes, more time on the water."
+  }
+}

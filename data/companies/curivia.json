@@ -1,0 +1,128 @@
+{
+  "name": "Curivia",
+  "slug": "curivia",
+  "industry": "artisanal logistics",
+  "tagline": "White-glove logistics infrastructure for the things you make by hand.",
+  "positioning": "Curivia is the flat-rate logistics platform for makers and collectors who ship singular objects — routed, insured, and handled with documented care.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F1EEF7",
+    "surface": "#FBF9FD",
+    "text": "#292339",
+    "primary": "#6B5BD1",
+    "accent": "#E7A3C6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 12 A8 8 0 0 1 20 12 L16.5 12 A4.5 4.5 0 0 0 7.5 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 19,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Logistics infrastructure for objects that cannot be replaced.",
+      "sub": "One ceramic vase. One restored guitar. One signed first edition. Curivia routes, insures, and hand-documents singular shipments end to end — with a flat rate you set before you pack.",
+      "ctaLabel": "Open an account",
+      "secondaryCtaLabel": "View coverage terms"
+    },
+    "features": [
+      {
+        "title": "Custody chain of record",
+        "description": "Every handoff is photographed, timestamped, and signed. Your item carries a verifiable custody ledger from studio door to recipient's hands.",
+        "icon": "shield"
+      },
+      {
+        "title": "Carrier arbitration engine",
+        "description": "We benchmark specialist fine-art couriers against freight partners on route, climate, and fragility — then book the one that clears your risk threshold.",
+        "icon": "target"
+      },
+      {
+        "title": "Declared-value insurance",
+        "description": "Set the true worth of a one-of-one piece. Coverage is underwritten per shipment, not capped by generic parcel schedules.",
+        "icon": "lock"
+      },
+      {
+        "title": "Condition attestation",
+        "description": "Standardized intake reports document material, dimensions, and pre-existing wear, so damage disputes resolve on evidence, not memory.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to hold my breath every time a commissioned piece left the studio. Curivia's custody ledger meant the one time a crate was dropped, the claim closed in four days with photos to prove it.",
+        "name": "Marguerite Vollmer",
+        "role": "Studio Ceramicist",
+        "company": "Vollmer Clayworks"
+      },
+      {
+        "quote": "We ship restored instruments to buyers who've paid five figures sight unseen. The condition attestation reports have effectively ended post-delivery disputes for us.",
+        "name": "Desmond Achterberg",
+        "role": "Head of Fulfillment",
+        "company": "Northlute Restoration"
+      },
+      {
+        "quote": "Flat-rate pricing let me quote shipping to collectors before I finish a print run. No more guessing at courier surcharges after the fact.",
+        "name": "Priya Anand-Rusk",
+        "role": "Owner",
+        "company": "Aperture & Ash Editions"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Maker",
+        "price": "$29",
+        "period": "per month, flat",
+        "blurb": "For individual makers shipping a handful of pieces each month.",
+        "features": [
+          "Up to 10 documented shipments monthly",
+          "Standard custody chain of record",
+          "Declared-value coverage to $2,500",
+          "Email support within one business day"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Atelier",
+        "price": "$89",
+        "period": "per month, flat",
+        "blurb": "For established studios with steady commission and collector volume.",
+        "features": [
+          "Up to 60 documented shipments monthly",
+          "Carrier arbitration engine",
+          "Declared-value coverage to $25,000",
+          "Condition attestation reports",
+          "Priority handling windows"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Consignor",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For galleries, auction desks, and high-value private collections.",
+        "features": [
+          "Unlimited documented shipments",
+          "Dedicated logistics coordinator",
+          "Bespoke insurance underwriting",
+          "Climate-controlled routing guarantees",
+          "Custom custody and audit exports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Curivia is white-glove logistics infrastructure for singular objects — documented, insured, and delivered with verifiable care."
+  }
+}

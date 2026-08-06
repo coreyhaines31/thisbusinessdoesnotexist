@@ -1,0 +1,136 @@
+{
+  "name": "Fluora",
+  "slug": "fluora",
+  "industry": "dental practice operations",
+  "tagline": "The operating system for the modern multi-location dental enterprise.",
+  "positioning": "Fluora unifies scheduling, insurance eligibility, and chairside operations across every location into one measurable, usage-priced platform.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F5F1FB",
+    "surface": "#FFFFFF",
+    "text": "#2B2542",
+    "primary": "#6C58D6",
+    "accent": "#F49AC1"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 A10 10 0 0 1 12 22 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 A5 5 0 0 0 12 17 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every operatory like it shares one nervous system.",
+      "sub": "Fluora connects front-desk scheduling, real-time insurance eligibility, and chairside charting across all your locations — so a 40-practice group operates with the precision of a single chair.",
+      "ctaLabel": "Book a platform tour",
+      "secondaryCtaLabel": "See the live demo"
+    },
+    "features": [
+      {
+        "title": "Eligibility that never surprises you",
+        "description": "Fluora pings payers the moment an appointment is booked, flagging coverage gaps and prior-auth needs before the patient reclines. No more end-of-day claim reversals.",
+        "icon": "shield"
+      },
+      {
+        "title": "One schedule, every chair",
+        "description": "Balance provider load across locations in real time. Fluora reroutes cancellations to nearby operatories and fills gaps from the shared waitlist automatically.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Chairside charting without the clicks",
+        "description": "Perio charts, treatment plans, and clinical notes sync to the ledger instantly. Assistants dictate; Fluora structures it into billable codes.",
+        "icon": "zap"
+      },
+      {
+        "title": "Operations intelligence for the C-suite",
+        "description": "See production per chair-hour, no-show cost, and unbilled treatment across every practice in one board-ready dashboard.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-location governance",
+        "description": "Standardize fee schedules, consent forms, and clinical protocols across the group while letting each office tune what's theirs.",
+        "icon": "layers"
+      },
+      {
+        "title": "Recall that runs itself",
+        "description": "Fluora predicts which hygiene patients will lapse and launches the outreach cadence that brings them back into the chair.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We rolled Fluora across 31 offices in a quarter. Unbilled treatment dropped 22% because eligibility gets caught before the patient sits down. It genuinely feels like one clinic now.",
+        "name": "Dr. Marisol Trevino",
+        "role": "Chief Clinical Officer",
+        "company": "Brightwater Dental Partners"
+      },
+      {
+        "quote": "The chair-hour production view changed how our board thinks. We stopped guessing which locations were underperforming and started seeing it, live, every morning.",
+        "name": "Aaron Delgado",
+        "role": "VP of Operations",
+        "company": "Northline Dental Group"
+      },
+      {
+        "quote": "Our front desks used to spend afternoons on hold with payers. Fluora automated that entire loop. My teams get their evenings back and our claims clear cleaner.",
+        "name": "Priya Vasan",
+        "role": "Director of Revenue Cycle",
+        "company": "Cadence Smiles"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Growth",
+        "price": "$4",
+        "period": "per completed appointment",
+        "blurb": "For emerging groups standardizing operations across their first locations.",
+        "features": [
+          "Real-time eligibility checks",
+          "Shared scheduling & waitlist",
+          "Chairside charting sync",
+          "Up to 8 locations"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$3",
+        "period": "per completed appointment",
+        "blurb": "For established DSOs running dozens of practices as one enterprise.",
+        "features": [
+          "Everything in Growth",
+          "Multi-location governance",
+          "Operations intelligence suite",
+          "Automated recall engine",
+          "Volume-tiered rates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "negotiated per-appointment rate",
+        "blurb": "For national groups with bespoke integration and compliance needs.",
+        "features": [
+          "Everything in Scale",
+          "Dedicated integration engineers",
+          "Custom payer connections",
+          "SSO, audit logs & SLAs",
+          "Executive analytics API"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Fluora is the operating system for the modern dental enterprise — one nervous system for every chair, every location, every claim."
+  }
+}

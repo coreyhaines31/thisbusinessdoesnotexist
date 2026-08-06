@@ -1,0 +1,149 @@
+{
+  "name": "Salad Bunker",
+  "slug": "salad-bunker",
+  "industry": "vertical farming",
+  "tagline": "The operating system for people who grow lettuce in a warehouse.",
+  "positioning": "Salad Bunker runs the crop schedules, harvest logs, and buyer invoices for small indoor farms so you can stop keeping it all in a damp notebook.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#EDEAE2",
+    "surface": "#F8F6F0",
+    "text": "#211F1B",
+    "primary": "#3F5140",
+    "accent": "#A9583F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "21,3 21,15 9,3",
+        "fill": "bg"
+      },
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 15,
+        "width": 10,
+        "height": 3,
+        "rx": 1,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "You grow the greens. We handle the spreadsheet hell.",
+      "sub": "Salad Bunker is the boring back office for indoor farms: seeding calendars, rack-by-rack yields, and restaurant invoices that actually get paid. No agronomy PhD required.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Watch the 3-min demo"
+    },
+    "features": [
+      {
+        "title": "Rack-level yield tracking",
+        "description": "Log grams per tray, per light, per week. Spot the shelf that's quietly underperforming before it eats your margin.",
+        "icon": "chart"
+      },
+      {
+        "title": "Seed-to-invoice in one place",
+        "description": "Every batch links from germination to the chef who bought it. When a restaurant disputes an order, you have the paper trail.",
+        "icon": "layers"
+      },
+      {
+        "title": "Recipes that don't drift",
+        "description": "Lock your nutrient dosing, photoperiod, and airflow per crop. New hire on day one runs the exact same basil as your best grower.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Harvest schedules that nag",
+        "description": "Salad Bunker pings the crew when a tray hits maturity, so you stop discovering bolted arugula on a Sunday.",
+        "icon": "bell"
+      },
+      {
+        "title": "Buyer standing orders",
+        "description": "Weekly wholesale orders auto-generate pick lists and invoices. Fewer 6am texts asking 'you got mizuna this week?'",
+        "icon": "inbox"
+      },
+      {
+        "title": "Climate log that remembers",
+        "description": "Pull temp, humidity, and CO2 history for any room and any day, for the health inspector who shows up unannounced.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Salad Bunker my yield data lived on three whiteboards and a texting thread. Now I know exactly which rack is freeloading. Fired that rack.",
+        "name": "Danielle Osei",
+        "role": "Owner & Head Grower",
+        "company": "Ninth Street Greens"
+      },
+      {
+        "quote": "We onboarded two part-timers last month and they ran our microgreens without me hovering. The recipe lock is the only reason I sleep.",
+        "name": "Marco Tillman",
+        "role": "Founder",
+        "company": "Cellar Crop Co."
+      },
+      {
+        "quote": "The restaurant invoicing alone paid for the seats. Chefs stopped 'forgetting' orders once everything was on a real pick list.",
+        "name": "Priya Raman",
+        "role": "Operations Lead",
+        "company": "Loft Leaf Farms"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$18",
+        "period": "per seat / month",
+        "blurb": "For the one-room operation still doing math on a napkin.",
+        "features": [
+          "Up to 2 grow rooms",
+          "Rack-level yield tracking",
+          "Seeding & harvest calendar",
+          "Email support (we do reply)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$32",
+        "period": "per seat / month",
+        "blurb": "For farms with staff, standing orders, and opinions about airflow.",
+        "features": [
+          "Unlimited grow rooms",
+          "Crop recipe locking",
+          "Buyer standing orders & invoicing",
+          "Climate history export",
+          "Role-based permissions"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Warehouse",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-site operators who've outgrown heroics.",
+        "features": [
+          "Multi-facility dashboards",
+          "API & POS integrations",
+          "Dedicated onboarding human",
+          "Audit-ready compliance logs",
+          "Priority support line"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Salad Bunker is software for small indoor farms. We are not a farm. Please stop mailing us seeds."
+  }
+}

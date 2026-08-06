@@ -1,0 +1,137 @@
+{
+  "name": "Stencl",
+  "slug": "stencl",
+  "industry": "tattoo studio booking",
+  "tagline": "The booking and deposit platform for multi-location tattoo studios.",
+  "positioning": "Stencl runs scheduling, deposits, consent forms, and artist payouts for studio groups — so every chair stays booked and every dollar is accounted for.",
+  "vibe": "corporate",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F3F1",
+    "text": "#0B0B0C",
+    "primary": "#0B0B0C",
+    "accent": "#FF3B24"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M11 3 A9 9 0 0 0 11 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 3 A9 9 0 0 1 13 21 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every chair booked. Every deposit reconciled.",
+      "sub": "Stencl gives studio groups one system for online booking, refundable deposits, consent and aftercare forms, and same-day artist payouts across every location.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Multi-location booking",
+        "description": "Route clients to the right artist and chair across every studio, with per-location hours, deposit rules, and cancellation windows enforced automatically.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Deposits that reconcile",
+        "description": "Collect refundable deposits at booking, apply them at checkout, and match every transaction to a payout — no more spreadsheet math at month-end.",
+        "icon": "database"
+      },
+      {
+        "title": "Consent & aftercare forms",
+        "description": "Digital consent, medical intake, and aftercare sign-off captured before the needle drops, timestamped and stored for your compliance team.",
+        "icon": "shield"
+      },
+      {
+        "title": "Artist payouts",
+        "description": "Split revenue by commission or booth rent, then pay artists same-day with a full ledger they can actually read and trust.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Chair utilization reporting",
+        "description": "See fill rate, no-show cost, and revenue per chair by location and artist — the numbers your regional managers ask for every Monday.",
+        "icon": "chart"
+      },
+      {
+        "title": "Roles for franchise ops",
+        "description": "Give owners, managers, and front-desk staff exactly the access they need, with audit logs across the entire studio network.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We rolled Stencl across 14 studios in a quarter. No-shows dropped because deposits finally stick, and our month-end reconciliation went from three days to an afternoon.",
+        "name": "Marisol Vega",
+        "role": "VP of Studio Operations",
+        "company": "Ironhand Collective"
+      },
+      {
+        "quote": "Our artists were skeptical about another system. Then they saw payouts land same-day with a ledger they could read. Adoption stopped being a fight.",
+        "name": "Derek Ostrowski",
+        "role": "Regional Studio Director",
+        "company": "North Meridian Tattoo Group"
+      },
+      {
+        "quote": "Consent and aftercare forms used to live in binders per shop. Stencl gave our compliance team one timestamped record across every location. That closed a real audit gap.",
+        "name": "Priya Ramachandran",
+        "role": "Head of Compliance",
+        "company": "Blackline Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per completed booking",
+        "blurb": "For single studios moving off paper and generic calendar tools.",
+        "features": [
+          "Online booking & deposits",
+          "Digital consent + aftercare",
+          "Up to 12 artists",
+          "Standard reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$0.55",
+        "period": "per completed booking",
+        "blurb": "For multi-location groups that need shared operations and payouts.",
+        "features": [
+          "Everything in Studio",
+          "Multi-location routing",
+          "Artist payouts & commissions",
+          "Chair utilization reporting",
+          "Role-based access"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based per booking",
+        "blurb": "For franchise networks with procurement, SSO, and audit needs.",
+        "features": [
+          "Everything in Group",
+          "Volume booking rates",
+          "SSO & audit logs",
+          "Custom integrations",
+          "Dedicated success manager",
+          "SLA & priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Stencl is the operations platform for professional tattoo studio groups — booking, deposits, consent, and payouts in one accountable system."
+  }
+}

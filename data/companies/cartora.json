@@ -1,0 +1,136 @@
+{
+  "name": "Cartora",
+  "slug": "cartora",
+  "industry": "artisanal logistics",
+  "tagline": "The freight network built for things made by hand.",
+  "positioning": "Cartora is the logistics fabric for the maker economy — routing small-batch, high-value, irreplaceable goods across an enterprise supply chain that treats every crate like a commission, not a pallet.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#f6efe3",
+    "surface": "#fdf9f1",
+    "text": "#2c2116",
+    "primary": "#b25522",
+    "accent": "#7c7a45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "2,4 8,4 14,12 8,20 2,20 8,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "10,4 16,4 22,12 16,20 10,20 16,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Logistics worthy of the things it carries.",
+      "sub": "Kiln-fired ceramics, hand-loomed textiles, small-batch spirits — the goods that built your brand were never meant for a generic pallet network. Cartora routes them across a chain-of-custody built for the singular and the irreplaceable.",
+      "ctaLabel": "Request a route audit",
+      "secondaryCtaLabel": "See the network"
+    },
+    "features": [
+      {
+        "title": "Provenance-grade tracking",
+        "description": "Every crate carries a signed manifest from the maker's bench to the buyer's dock — humidity, handling, and custody logged as a permanent artifact, not a status ping.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Handling tiers by object",
+        "description": "Define fragility, orientation, and climate rules per SKU. Cartora matches each shipment to carriers and packers certified for that exact class of craft.",
+        "icon": "layers"
+      },
+      {
+        "title": "Fulfillment for the finite",
+        "description": "Made-to-order and limited-run inventory demands its own logic. Reserve, route, and release single units without forcing them into wholesale batch flows.",
+        "icon": "target"
+      },
+      {
+        "title": "Climate-aware routing",
+        "description": "Our engine reroutes around heat waves, freeze lines, and humidity spikes before your lacquer, wax, or fiber ever meets them.",
+        "icon": "compass"
+      },
+      {
+        "title": "Restoration guarantee",
+        "description": "On the rare loss, we don't cut a check and move on — we coordinate re-commission with the original maker and cover the lead time.",
+        "icon": "shield"
+      },
+      {
+        "title": "Buyer-facing narrative",
+        "description": "Ship a story, not a tracking number. Every delivery arrives with the maker's origin record ready for your customer.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We moved 4,000 hand-thrown vessels across three continents last quarter with zero breakage claims. Our old 3PL treated them like coffee mugs. Cartora treats them like the six-week commissions they are.",
+        "name": "Marisol Etxeberria",
+        "role": "VP of Global Supply",
+        "company": "Kilnhouse Editions"
+      },
+      {
+        "quote": "The provenance manifest closed a deal for us. A luxury buyer wanted proof of custody on every loom, and Cartora handed us a signed record before we even asked.",
+        "name": "Desmond Achebe",
+        "role": "Head of Fulfillment",
+        "company": "Vellara Textile Collective"
+      },
+      {
+        "quote": "Usage-based pricing means our seasonal spikes don't punish us. We ship 40 barrels one month and 4,000 the next, and the invoice finally makes sense.",
+        "name": "Petra Lindqvist",
+        "role": "Director of Operations",
+        "company": "Nordvel Distilling"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$0.90",
+        "period": "per handled unit",
+        "blurb": "For studios and small houses scaling their first national routes.",
+        "features": [
+          "Provenance-grade manifest per shipment",
+          "Standard handling tiers",
+          "Climate-aware routing",
+          "Email support within 24h"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Guild",
+        "price": "$0.55",
+        "period": "per handled unit",
+        "blurb": "For growing brands moving finite inventory at real volume.",
+        "features": [
+          "Everything in Atelier",
+          "Custom per-SKU handling rules",
+          "Restoration guarantee included",
+          "Buyer-facing origin records",
+          "Dedicated route strategist"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Consortium",
+        "price": "Custom",
+        "period": "volume-based, negotiated",
+        "blurb": "For enterprise portfolios spanning multiple maker networks.",
+        "features": [
+          "Everything in Guild",
+          "Multi-brand custody governance",
+          "Private carrier certification program",
+          "SLA-backed climate reroute guarantees",
+          "Embedded logistics architect"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cartora is the freight network for the maker economy — treating every hand-made object as the irreplaceable artifact it is, from the bench to the buyer's door."
+  }
+}

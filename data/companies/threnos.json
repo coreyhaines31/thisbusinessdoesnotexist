@@ -1,0 +1,137 @@
+{
+  "name": "Threnos",
+  "slug": "threnos",
+  "industry": "funeral services",
+  "tagline": "The operating system for the memorial economy.",
+  "positioning": "Threnos unifies intake, logistics, and remembrance into one platform so funeral networks can honor every life at enterprise scale.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F3EFE9",
+    "surface": "#FBF8F3",
+    "text": "#2A2833",
+    "primary": "#7A6AA4",
+    "accent": "#E4A2AE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "T",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,3 22,21 15,21 12,15 9,21 2,21",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,3 15.5,9 8.5,9",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Dignity, engineered for scale.",
+      "sub": "Threnos is the connective infrastructure beneath modern funeral networks — orchestrating intake, transport, care, and remembrance across every location from a single command layer.",
+      "ctaLabel": "Request a briefing",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Unified case intake",
+        "description": "Replace the fax-and-clipboard first call. Every arrangement enters one record — family details, faith requirements, deadlines — routed to the right chapel instantly.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Fleet & transfer logistics",
+        "description": "Coordinate removals, embalming windows, and cross-facility transfers on a live map. No more phone-tree dispatch between locations at 3am.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Compliance ledger",
+        "description": "Every disposition permit, cremation authorization, and chain-of-custody signature captured, timestamped, and audit-ready across all 50 states.",
+        "icon": "shield"
+      },
+      {
+        "title": "Remembrance studio",
+        "description": "Generate memorial pages, order-of-service sheets, and tribute streams in minutes — templated to each brand in your network.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Capacity forecasting",
+        "description": "Model volume, staffing, and cold-storage against seasonal mortality trends so no facility is caught short during surge weeks.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Network analytics",
+        "description": "Roll up service margins, caseload, and family satisfaction across every location into one executive dashboard.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Threnos we ran forty-one homes on twelve different systems. Now a director in Ohio and a director in Arizona see the same case in real time. It changed how we think about scale.",
+        "name": "Marguerite Delacroix",
+        "role": "VP of Operations",
+        "company": "Evermount Care Group"
+      },
+      {
+        "quote": "The compliance ledger alone paid for the rollout. During our last state audit, we exported every authorization in an afternoon instead of six weeks of pulling paper files.",
+        "name": "Harold Ashby",
+        "role": "Chief Compliance Officer",
+        "company": "Sterling Memorial Partners"
+      },
+      {
+        "quote": "Threnos treats remembrance as infrastructure, not an afterthought. Families feel the difference, and our directors finally have time to be present with them.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Family Services",
+        "company": "Halcyon Funeral Network"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$3",
+        "period": "per case, billed monthly",
+        "blurb": "For single and small multi-location homes stepping into one system.",
+        "features": [
+          "Unified intake & case records",
+          "Remembrance studio",
+          "Standard compliance ledger",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cathedral",
+        "price": "$1.90",
+        "period": "per case, volume tiered",
+        "blurb": "For regional networks coordinating logistics across many facilities.",
+        "features": [
+          "Everything in Chapel",
+          "Fleet & transfer dispatch",
+          "Capacity forecasting",
+          "Network analytics dashboard",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Basilica",
+        "price": "Custom",
+        "period": "negotiated per-case rate",
+        "blurb": "For national operators and consolidators with bespoke requirements.",
+        "features": [
+          "Everything in Cathedral",
+          "Dedicated onboarding pod",
+          "SSO & custom data residency",
+          "White-label remembrance",
+          "Named account engineer",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Threnos is the operating system for the memorial economy — infrastructure for those entrusted with the end of every story."
+  }
+}

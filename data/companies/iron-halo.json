@@ -1,0 +1,162 @@
+{
+  "name": "Iron Halo",
+  "slug": "iron-halo",
+  "industry": "tattoo studio booking",
+  "tagline": "The booking backbone for studios building legacies, not just filling chairs.",
+  "positioning": "Iron Halo is the reservation and client platform for independent tattoo studios ready to run like the institutions they're destined to become.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F4EBDD",
+    "surface": "#FBF6EC",
+    "text": "#2B221A",
+    "primary": "#A8532A",
+    "accent": "#B98A34"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IH",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every booking, deposit, and consult under one gilded roof.",
+      "sub": "Iron Halo turns the chaos of DMs, sticky-note deposits, and no-show gambles into a calm, deliberate operation worthy of the art you make.",
+      "ctaLabel": "Open your studio",
+      "secondaryCtaLabel": "See a live chair"
+    },
+    "features": [
+      {
+        "title": "Deposits that stick",
+        "description": "Collect non-refundable deposits the moment a consult is booked, auto-applied to the final session. No more chasing Venmo screenshots the night before.",
+        "icon": "lock"
+      },
+      {
+        "title": "Per-artist calendars",
+        "description": "Give each artist their own bookable calendar with custom session lengths, healing gaps, and flash-day blocks — all rolling up into one studio view.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Consult-to-chair pipeline",
+        "description": "Track every inquiry from first reference photo to healed reveal, with stencil notes, aftercare templates, and touch-up reminders built in.",
+        "icon": "target"
+      },
+      {
+        "title": "No-show shield",
+        "description": "Automated reminders, waitlist backfill, and deposit forfeiture rules recover the revenue that used to walk out the door.",
+        "icon": "shield"
+      },
+      {
+        "title": "Studio revenue clarity",
+        "description": "See per-seat earnings, deposit float, and booth-rent settlements without a single spreadsheet or shoebox of receipts.",
+        "icon": "chart"
+      },
+      {
+        "title": "Client vault",
+        "description": "Consent forms, ID scans, allergy notes, and past-work galleries live on each client's profile — pulled up before the machine even turns on.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from four full-time hours a day on DMs to zero. Iron Halo runs the front desk so my artists can actually tattoo. Deposits alone paid for the year.",
+        "name": "Marisol Vega",
+        "role": "Owner & Resident Artist",
+        "company": "Copperwing Tattoo Collective"
+      },
+      {
+        "quote": "Booth-rent settlements used to be a monthly argument. Now every artist sees their own numbers and I just approve. It made the studio feel like a real business.",
+        "name": "Deacon Ruiz",
+        "role": "Studio Manager",
+        "company": "Old Meridian Ink"
+      },
+      {
+        "quote": "The consult pipeline is the thing. References, stencil notes, and aftercare all follow the client. My repeat rate is up 30% and clients think we're wizards.",
+        "name": "Priya Chandra",
+        "role": "Lead Artist",
+        "company": "Saltmarsh Tattoo House"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chair",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the solo artist or the one-chair studio finding its footing.",
+        "features": [
+          "1 bookable artist calendar",
+          "Online deposits & consults",
+          "Automated reminders",
+          "Client vault & consent forms"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$24",
+        "period": "per seat / month, 3+ seats",
+        "blurb": "For growing studios coordinating a full roster of artists.",
+        "features": [
+          "Everything in Chair",
+          "Unlimited artist calendars",
+          "Booth-rent settlements",
+          "No-show shield & waitlists",
+          "Per-artist revenue reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Legacy",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location studios building a name that outlasts them.",
+        "features": [
+          "Everything in Studio",
+          "Multi-location dashboards",
+          "Custom consent & payout rules",
+          "Priority onboarding",
+          "Dedicated success partner"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Iron Halo is the booking backbone for independent tattoo studios ready to run like institutions. Deposits, consults, and revenue — held in one place."
+  }
+}

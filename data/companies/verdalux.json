@@ -1,0 +1,136 @@
+{
+  "name": "Verdalux",
+  "slug": "verdalux",
+  "industry": "vertical farming",
+  "tagline": "The operating system for indoor agriculture at industrial scale.",
+  "positioning": "Verdalux unifies climate, irrigation, and yield telemetry across every growth tower so enterprise farms run like precision manufacturing lines.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F4F2ED",
+    "surface": "#FBFAF7",
+    "text": "#22241F",
+    "primary": "#3B5B45",
+    "accent": "#B06A3C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 A10 10 0 0 1 12 22 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 0 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grow like a factory. Yield like a farm.",
+      "sub": "Verdalux turns every vertical growth tower into a governed, measurable production line — from seedling to shipment — with one control plane your entire operation trusts.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Unified climate control",
+        "description": "Orchestrate temperature, humidity, CO2, and airflow across thousands of racks from a single recipe engine — no more per-room spreadsheets.",
+        "icon": "layers"
+      },
+      {
+        "title": "Yield telemetry",
+        "description": "Track grams-per-watt and harvest variance by tower, tray, and cultivar in real time. Every anomaly traced to a root cause.",
+        "icon": "chart"
+      },
+      {
+        "title": "Irrigation governance",
+        "description": "Nutrient dosing and water reuse loops enforced by policy, logged for audit, and tuned automatically against target EC and pH.",
+        "icon": "database"
+      },
+      {
+        "title": "Predictive interventions",
+        "description": "Verdalux flags a failing pump or drifting canopy before yield drops, routing a work order to the right technician's queue.",
+        "icon": "bell"
+      },
+      {
+        "title": "Compliance by default",
+        "description": "Generate GAP and food-safety records automatically. Every batch carries an immutable trace from seed lot to pallet.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-site scale",
+        "description": "Roll out standardized grow recipes across facilities on three continents and compare performance site by site.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated four disconnected control systems into Verdalux in a quarter. Our grams-per-watt is up 19% and I finally trust a single number for yield.",
+        "name": "Marta Feldkamp",
+        "role": "VP of Cultivation Operations",
+        "company": "Aeronova Greens"
+      },
+      {
+        "quote": "The audit trail alone paid for the platform. What used to be a two-week records scramble before certification is now a report I export in minutes.",
+        "name": "Dev Ramanathan",
+        "role": "Director of Food Safety",
+        "company": "Stratum Harvest Co."
+      },
+      {
+        "quote": "Verdalux gave us a common operating language across seven facilities. Our best-performing site's recipe is now everyone's baseline.",
+        "name": "Clara Ostberg",
+        "role": "Chief Operating Officer",
+        "company": "Vantage Vertical Farms"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Facility",
+        "price": "$0.014",
+        "period": "per active tray-day",
+        "blurb": "For single-site operators standardizing their first production line.",
+        "features": [
+          "Up to 1 facility",
+          "Climate + irrigation control",
+          "Yield telemetry dashboards",
+          "Standard compliance exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.009",
+        "period": "per active tray-day",
+        "blurb": "For multi-site enterprises running standardized recipes at scale.",
+        "features": [
+          "Unlimited facilities",
+          "Cross-site benchmarking",
+          "Predictive interventions",
+          "Role-based access & SSO",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Industrial",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For global growers with custom integrations and dedicated capacity.",
+        "features": [
+          "Volume tray-day pricing",
+          "Dedicated deployment engineer",
+          "Custom hardware integrations",
+          "99.9% uptime SLA",
+          "On-prem control gateways"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Verdalux is the operating system for industrial indoor agriculture — one control plane for climate, water, and yield across every facility."
+  }
+}

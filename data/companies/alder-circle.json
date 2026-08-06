@@ -1,0 +1,138 @@
+{
+  "name": "Alder Circle",
+  "slug": "alder-circle",
+  "industry": "elder-care coordination",
+  "tagline": "One orbit for everyone caring for the people who raised us.",
+  "positioning": "Alder Circle turns the chaos of caring for an aging parent into a single, calm command center your whole family can actually run.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F2EF",
+    "text": "#101010",
+    "primary": "#101010",
+    "accent": "#FF4A1C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 18.36 5.64 A 9 9 0 1 0 18.36 18.36 L 15.54 15.54 A 5 5 0 1 1 15.54 8.46 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19,
+        "cy": 12,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The command center for caring for the people who raised you.",
+      "sub": "Medications, appointments, aides, and siblings — one shared orbit that keeps every caregiver on the same page, at 2pm and at 2am. This is the future of the family, coordinated.",
+      "ctaLabel": "Start your circle",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "The living care timeline",
+        "description": "Every dose, doctor's note, and fall lands on one timeline the whole family sees in real time. No more 40-message group chats reconstructing what happened Tuesday.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Handoffs that never drop",
+        "description": "When the day aide leaves and your sister takes over, the shift notes, meds, and mood pass cleanly. Nothing falls through the cracks between caregivers again.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Medication radar",
+        "description": "Track prescriptions, refills, and interactions in one place. Alder Circle pings the right person before a bottle runs empty — not after.",
+        "icon": "bell"
+      },
+      {
+        "title": "The whole circle, roles and all",
+        "description": "Invite siblings, aides, and Mom's neighbor with exactly the permissions each should have. Everyone contributes; nobody sees more than they need.",
+        "icon": "users"
+      },
+      {
+        "title": "Documents, finally findable",
+        "description": "Insurance cards, the DNR, the pharmacy number, the WiFi password for the aide. Every vital artifact lives one tap away for the person who needs it.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Privacy worthy of family",
+        "description": "Health details are encrypted and access is logged. We treat your parent's record with the gravity it deserves.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I have three siblings in three time zones and a mother with early Alzheimer's. Alder Circle is the first thing that made us feel like one team instead of four people guessing. It genuinely gave me back my evenings.",
+        "name": "Priya Raghavan",
+        "role": "Primary family caregiver",
+        "company": "Coordinating care for her mother"
+      },
+      {
+        "quote": "We manage aides for eleven families now, and the shift handoff notes alone eliminated the frantic morning phone calls. Every caregiver walks in already knowing the night before.",
+        "name": "Dana Whitfield",
+        "role": "Owner",
+        "company": "Whitfield Home Care Partners"
+      },
+      {
+        "quote": "After Dad's second hospitalization I stopped keeping his meds in my head and started keeping them in Alder Circle. When the ER asked what he was taking, I turned my phone around. That moment sold me.",
+        "name": "Marcus Bell",
+        "role": "Adult son and caregiver",
+        "company": "Managing his father's recovery"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$18",
+        "period": "per month",
+        "blurb": "For one person quietly holding it all together.",
+        "features": [
+          "One care recipient",
+          "Shared timeline & document vault",
+          "Medication tracking & reminders",
+          "Up to 3 circle members"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Family",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For the whole family running care as a team.",
+        "features": [
+          "Up to 2 care recipients",
+          "Unlimited circle members & roles",
+          "Caregiver shift handoffs",
+          "Appointment & task coordination",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Concierge",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For complex care with professional help in the loop.",
+        "features": [
+          "Up to 5 care recipients",
+          "Aide scheduling & access logs",
+          "Insurance & benefits organizer",
+          "Dedicated onboarding specialist",
+          "Phone support 7 days a week"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Alder Circle is the shared orbit for family caregiving — one calm place for the whole circle to keep the people who raised us safe, seen, and well."
+  }
+}

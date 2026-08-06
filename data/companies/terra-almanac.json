@@ -1,0 +1,149 @@
+{
+  "name": "Terra Almanac",
+  "slug": "terra-almanac",
+  "industry": "soil analytics",
+  "tagline": "The living record of every acre you steward.",
+  "positioning": "Terra Almanac turns raw soil samples into a decisive field playbook, so owner-operators can farm the next decade instead of the last one.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F7F4EC",
+    "surface": "#FFFFFF",
+    "text": "#2C3327",
+    "primary": "#5C8A67",
+    "accent": "#D89A6C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "TA",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 8,
+        "r": 6,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 8,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know your ground before it decides your season.",
+      "sub": "Terra Almanac reads your soil the way a great agronomist would — sample by sample, block by block — and hands you a clear plan for what to plant, amend, and protect this year.",
+      "ctaLabel": "Map your first field",
+      "secondaryCtaLabel": "See a sample almanac"
+    },
+    "features": [
+      {
+        "title": "From lab report to field plan",
+        "description": "Drop in a raw lab PDF and Terra Almanac translates nitrogen, pH, and organic matter into a plain-language plan for each block — no agronomy degree required.",
+        "icon": "layers"
+      },
+      {
+        "title": "The almanac that remembers",
+        "description": "Every sample, amendment, and yield builds a permanent record per acre, so you finally see how last year's decisions moved this year's dirt.",
+        "icon": "database"
+      },
+      {
+        "title": "Amendment math, done for you",
+        "description": "Enter your target and Terra Almanac calculates lime, compost, and fertilizer rates by block, with cost per acre before you spend a dollar.",
+        "icon": "target"
+      },
+      {
+        "title": "Moisture and season windows",
+        "description": "Pair soil texture with local weather to catch the exact planting and tillage windows for each field, pushed to your phone.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Zones that pay for themselves",
+        "description": "Variable-rate zones drawn straight from your sample grid, exportable to any spreader or planter monitor.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Share with your crew",
+        "description": "Give your operator, agronomist, and lender their own seat with the right level of access — one source of ground truth for everyone.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I stopped guessing at lime rates across forty blocks. Terra Almanac told me which three fields were actually starving my beans, and my yield map proved it by fall.",
+        "name": "Dwayne Florek",
+        "role": "Owner-Operator",
+        "company": "Florek Row Crops"
+      },
+      {
+        "quote": "We used to keep soil history in a shoebox of lab printouts. Now every acre has a page, and I can hand my agronomist a login instead of a phone call.",
+        "name": "Renata Bishop",
+        "role": "Managing Partner",
+        "company": "Bishop & Sons Farms"
+      },
+      {
+        "quote": "The amendment cost projections paid for the subscription in one spring. I saw exactly where compost beat synthetic before I ordered a single ton.",
+        "name": "Marcus Ade",
+        "role": "Farm Manager",
+        "company": "Cold Creek Produce"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Grower",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the single operator who wants their ground on record.",
+        "features": [
+          "Up to 25 sampled acres",
+          "Lab report import & parsing",
+          "Per-block amendment math",
+          "Mobile field windows"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operation",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For working farms with a crew and an agronomist on speed dial.",
+        "features": [
+          "Unlimited sampled acres",
+          "Variable-rate zone export",
+          "Multi-year yield overlays",
+          "Role-based crew access",
+          "Cost-per-acre projections"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-farm operations and cooperatives managing many books.",
+        "features": [
+          "Multiple farm entities",
+          "API & monitor integrations",
+          "Dedicated agronomy onboarding",
+          "Priority support",
+          "Custom lab connectors"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Terra Almanac keeps the permanent record of your soil — so every acre you steward gets smarter, season after season."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Idle Hands",
+  "slug": "idle-hands",
+  "industry": "fleet telematics",
+  "tagline": "Your trucks are lying to you. We've got the receipts.",
+  "positioning": "GPS, engine, and idle-time telematics built for owner-operators who don't have a fleet manager — because they ARE the fleet manager.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0D0F13",
+    "surface": "#181B22",
+    "text": "#F4F1E9",
+    "primary": "#FF5A33",
+    "accent": "#57D9B0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "IH",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every idling engine is quietly setting your money on fire.",
+      "sub": "Idle Hands plugs into your rig, watches the diesel burn, the routes wander, and the odometer creep — then tells you exactly where your margin went. No dispatcher required.",
+      "ctaLabel": "Plug in a truck",
+      "secondaryCtaLabel": "Watch the burn"
+    },
+    "features": [
+      {
+        "title": "Idle time, itemized",
+        "description": "See every minute an engine ran while going nowhere, priced out in dollars. Show it to the driver who swears he 'barely idled.'",
+        "icon": "clock"
+      },
+      {
+        "title": "Routes that make sense",
+        "description": "Live GPS with playback so you can settle the 'traffic was insane' debate without a shouting match.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Engine faults, translated",
+        "description": "We turn cryptic OBD codes into plain English before the check-engine light becomes a $4,000 tow.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Fuel receipts that add up",
+        "description": "Match card swipes to actual tank levels and catch the gallons that mysteriously never made it into the truck.",
+        "icon": "chart"
+      },
+      {
+        "title": "IFTA without tears",
+        "description": "Miles-per-state logged automatically. Your quarterly fuel tax report writes itself while you sleep.",
+        "icon": "globe"
+      },
+      {
+        "title": "Alerts you can mute",
+        "description": "Speeding, hard braking, after-hours movement — flagged instantly, and we won't spam you at 3am unless you asked.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Turns out one of my drivers idled 31 hours in a week. Idle Hands did the math, I did the firing. Fuel bill dropped 18% the next month.",
+        "name": "Dale Prokop",
+        "role": "Owner-Operator",
+        "company": "Prokop Hauling"
+      },
+      {
+        "quote": "IFTA used to eat a full weekend every quarter. Now I export a PDF and go fishing. That alone paid for the seats.",
+        "name": "Renata Colón",
+        "role": "Managing Partner",
+        "company": "Colón & Sons Freight"
+      },
+      {
+        "quote": "The engine-fault translations caught a failing turbo before it stranded a load in Amarillo. Saved the customer, saved the truck, saved my sanity.",
+        "name": "Marcus Whitfield",
+        "role": "Fleet Owner",
+        "company": "Whitfield Logistics LLC"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "One driver, one login, zero excuses. For the truly independent operator.",
+        "features": [
+          "Live GPS + route playback",
+          "Idle-time dollar tracking",
+          "Engine fault alerts",
+          "30-day trip history"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For the shop with a handful of rigs and no patience for spreadsheets.",
+        "features": [
+          "Everything in Solo",
+          "Automatic IFTA reporting",
+          "Fuel card reconciliation",
+          "1-year history + exports",
+          "Driver scorecards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Yard",
+        "price": "Custom",
+        "period": "volume per-seat pricing",
+        "blurb": "Twenty-plus trucks and a dispatcher who wants their own login.",
+        "features": [
+          "Everything in Crew",
+          "Unlimited history",
+          "Custom geofences + alerts",
+          "API + accounting sync",
+          "Priority phone support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Idle Hands is telematics for people who drive the truck, sign the checks, and answer the phone. Usually all before noon."
+  }
+}

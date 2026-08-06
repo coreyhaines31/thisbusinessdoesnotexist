@@ -1,0 +1,153 @@
+{
+  "name": "Noctra",
+  "slug": "noctra",
+  "industry": "tattoo studio booking",
+  "tagline": "Enterprise booking for tattoo studios that outgrew the sticky-note calendar.",
+  "positioning": "Noctra runs scheduling, deposits, consent, and aftercare across multi-location tattoo studios so your artists tattoo instead of chasing Instagram DMs.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F3F1FA",
+    "primary": "#FF2E6B",
+    "accent": "#22E0D6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "N",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 12,
+        "height": 3.2,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 10.4,
+        "width": 12,
+        "height": 3.2,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 15.8,
+        "width": 12,
+        "height": 3.2,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The booking stack for tattoo studios that operate like a business.",
+      "sub": "Noctra handles scheduling, deposits, consent forms, and aftercare across every chair and every location — so your front desk stops running on screenshots and vibes.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See usage pricing"
+    },
+    "features": [
+      {
+        "title": "Chairs, not chaos",
+        "description": "Live availability across artists and locations, with buffers for stencils, breaks, and the client who is always fifteen minutes late.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Deposits that stick",
+        "description": "Automated deposits, no-show fees, and rebooking rules enforced at checkout. Ghosting an appointment now costs the client, not you.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Consent, signed and stored",
+        "description": "Digital consent, medical intake, and ID capture per session — versioned, timestamped, and exportable when your legal team asks.",
+        "icon": "shield"
+      },
+      {
+        "title": "Aftercare on autopilot",
+        "description": "Healing instructions, touch-up reminders, and review prompts sent automatically. Fewer 'is this normal?' texts at 2am.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Artist payouts, sorted",
+        "description": "Commission splits, booth rent, and product usage tracked per artist. Payday math stops living in a spreadsheet named final_v3.",
+        "icon": "users"
+      },
+      {
+        "title": "Numbers you can act on",
+        "description": "Utilization, rebooking rate, and revenue per chair across the whole group, benchmarked location by location.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We run eleven studios. Before Noctra, reconciling deposits and artist splits took a full week each month. Now it takes an afternoon and nobody rage-quits.",
+        "name": "Dana Reyes",
+        "role": "VP of Operations",
+        "company": "Ironline Collective"
+      },
+      {
+        "quote": "The consent and intake trail is the part our insurers actually care about. Every session is documented the same way, whether it's Berlin or Brooklyn.",
+        "name": "Marcus Holt",
+        "role": "Chief Compliance Officer",
+        "company": "Blackfleet Studios"
+      },
+      {
+        "quote": "No-shows dropped almost a third once deposits were enforced at booking. The artists stopped hating the booking software, which honestly felt impossible.",
+        "name": "Priya Nandakumar",
+        "role": "Director of Studio Experience",
+        "company": "Vestige Tattoo Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per completed booking",
+        "blurb": "For single-location studios ready to retire the paper diary.",
+        "features": [
+          "Up to 6 artist calendars",
+          "Deposits and no-show fees",
+          "Digital consent and intake",
+          "Automated aftercare messages"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$0.55",
+        "period": "per completed booking",
+        "blurb": "For multi-location operators who need one source of truth.",
+        "features": [
+          "Unlimited locations and artists",
+          "Commission and booth-rent payouts",
+          "Cross-studio reporting",
+          "Role-based access controls",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based per booking",
+        "blurb": "For franchises and studio networks with real compliance stakes.",
+        "features": [
+          "Committed-volume pricing",
+          "SSO and audit logging",
+          "Consent retention policies",
+          "Dedicated success manager",
+          "API and data warehouse sync"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Noctra is the operating system for serious tattoo studios. Book chairs, collect deposits, prove consent, keep artists paid."
+  }
+}

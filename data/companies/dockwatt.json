@@ -1,0 +1,162 @@
+{
+  "name": "Dockwatt",
+  "slug": "dockwatt",
+  "industry": "micro-mobility charging",
+  "tagline": "The charging backbone for e-bike and scooter fleet operators.",
+  "positioning": "Dockwatt turns idle curb space and back rooms into revenue-grade charging stations for the SMBs that keep micro-mobility moving.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0E1218",
+    "surface": "#181F29",
+    "text": "#E7ECF3",
+    "primary": "#4C8DFF",
+    "accent": "#28D7A6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "DW",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 3,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 8,
+        "height": 8,
+        "rx": 2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Charging infrastructure that pays for its own floor space.",
+      "sub": "Dockwatt gives independent e-bike shops, scooter rental operators, and delivery hubs a metered charging network they can bill, monitor, and scale — without a facilities team.",
+      "ctaLabel": "Book a deployment call",
+      "secondaryCtaLabel": "View live dashboard"
+    },
+    "features": [
+      {
+        "title": "Metered per-dock billing",
+        "description": "Every charge event is logged to the amp-hour, so you can bill riders, staff, or franchise partners from a single reconciled ledger.",
+        "icon": "database"
+      },
+      {
+        "title": "Load-balanced dispatch",
+        "description": "Dockwatt throttles draw across your bank so a full rack never trips the breaker or spikes your demand charges during peak turnover.",
+        "icon": "zap"
+      },
+      {
+        "title": "Battery health telemetry",
+        "description": "Cell-level diagnostics flag swollen or degrading packs before they leave the dock, keeping unsafe batteries off your floor and your fleet.",
+        "icon": "shield"
+      },
+      {
+        "title": "Uptime SLAs by station",
+        "description": "Track dock availability and mean-time-to-charge per location, with alerts routed to the operator on shift instead of a shared inbox.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-site operator console",
+        "description": "Run three storefronts or thirty depots from one console with role-based seats for owners, shift leads, and regional managers.",
+        "icon": "layers"
+      },
+      {
+        "title": "Permit-ready reporting",
+        "description": "Export electrical draw and safety logs formatted for municipal fire-code and utility incentive filings in a single click.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were charging forty scooters off power strips in a storage closet. Dockwatt gave us metered docks, killed our breaker trips, and now we bill our franchise riders automatically. It paid for itself in a quarter.",
+        "name": "Marisol Reyes",
+        "role": "Owner-Operator",
+        "company": "Crosstown Wheels"
+      },
+      {
+        "quote": "The battery telemetry alone is worth the seats. Dockwatt flagged two failing packs before they ever went back out, and our insurance underwriter now treats us as a lower-risk facility.",
+        "name": "Devin Osei",
+        "role": "Fleet Operations Lead",
+        "company": "Harborline Scooter Co."
+      },
+      {
+        "quote": "Managing charging across our four delivery hubs used to be a group chat. Now every shift lead gets their own console seat and I finally see uptime per station without calling anyone.",
+        "name": "Priya Anand",
+        "role": "Managing Director",
+        "company": "Rapid Spoke Logistics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Storefront",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For single-location shops standardizing their charging bench.",
+        "features": [
+          "Up to 12 metered docks",
+          "Per-dock billing exports",
+          "Battery health alerts",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing operators running multiple sites and shift teams.",
+        "features": [
+          "Unlimited metered docks",
+          "Multi-site operator console",
+          "Load-balanced dispatch",
+          "Role-based seat permissions",
+          "Permit-ready reporting",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Depot",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For regional fleets with SLA and compliance requirements.",
+        "features": [
+          "Dedicated uptime SLAs",
+          "Utility incentive filing support",
+          "SSO and audit logging",
+          "Named deployment engineer"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Dockwatt is the metered charging platform for micro-mobility operators. Bill every amp-hour, protect every battery, run every dock from one console."
+  }
+}

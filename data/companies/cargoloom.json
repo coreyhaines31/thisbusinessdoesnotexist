@@ -1,0 +1,149 @@
+{
+  "name": "CargoLoom",
+  "slug": "cargoloom",
+  "industry": "artisanal logistics",
+  "tagline": "Freight infrastructure built for makers who ship what they make.",
+  "positioning": "CargoLoom gives owner-operated workshops enterprise-grade shipping, provenance, and carrier logic without a full-time logistics team.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F3F0E9",
+    "surface": "#FBFAF6",
+    "text": "#26241F",
+    "primary": "#4A5240",
+    "accent": "#9E6B4A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CL",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 5.6,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Ship handmade goods like a Fortune 500 logistics desk.",
+      "sub": "CargoLoom turns fragile, high-value, made-to-order inventory into a controlled shipping operation — carrier rates, insured provenance, and packing specs your two-person shop can actually run.",
+      "ctaLabel": "Request a workspace",
+      "secondaryCtaLabel": "View carrier coverage"
+    },
+    "features": [
+      {
+        "title": "Provenance-grade manifests",
+        "description": "Every crate ships with a signed record of maker, materials, and handling class — the paperwork galleries, wholesalers, and insurers keep asking your studio for.",
+        "icon": "database"
+      },
+      {
+        "title": "Fragility-aware rate engine",
+        "description": "Score each order by dimensions, breakability, and declared value, then compare live carrier quotes that already price in insurance and freight class.",
+        "icon": "chart"
+      },
+      {
+        "title": "Packing specs that scale",
+        "description": "Codify how a specific piece gets wrapped, braced, and boxed once — then hand any bench assistant a repeatable spec instead of tribal knowledge.",
+        "icon": "layers"
+      },
+      {
+        "title": "Damage claim recovery",
+        "description": "Auto-assemble photos, manifests, and carrier tracking into a claim packet the moment a delivery scan flags an exception. No more lost reimbursements.",
+        "icon": "shield"
+      },
+      {
+        "title": "Lead-time honesty",
+        "description": "Bind production status to shipping estimates so the date a customer sees is the date they get — even when a kiln run slips a week.",
+        "icon": "clock"
+      },
+      {
+        "title": "Wholesale routing",
+        "description": "Split a single studio batch into retail, wholesale, and consignment lanes with the right labels, terms, and documents on each pallet.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose a full afternoon a week reconstructing shipping paperwork for wholesale buyers. CargoLoom generates the manifest the moment a piece leaves the bench. That afternoon is back on the pottery wheel.",
+        "name": "Marguerite Osei",
+        "role": "Owner & Lead Potter",
+        "company": "Kilnhouse Ceramics"
+      },
+      {
+        "quote": "Damaged-in-transit used to mean eating the cost. Their claim packets got us three reimbursements last quarter that we'd have written off. It paid for the seats twice over.",
+        "name": "Daniel Reyes",
+        "role": "Studio Operations Manager",
+        "company": "Northfold Woodcraft"
+      },
+      {
+        "quote": "I run a five-person glass studio, not a logistics department. CargoLoom lets my apprentices pack to spec and quote freight without me hovering over every crate.",
+        "name": "Priya Kalman",
+        "role": "Founder",
+        "company": "Ember & Flux Glassworks"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Bench",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For solo makers formalizing how they ship their first wholesale orders.",
+        "features": [
+          "Up to 3 seats",
+          "Provenance manifests",
+          "Live carrier rate compare",
+          "Standard packing specs"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$58",
+        "period": "per seat / month",
+        "blurb": "For growing workshops running retail, wholesale, and consignment at once.",
+        "features": [
+          "Unlimited seats billed monthly",
+          "Fragility-aware rate engine",
+          "Damage claim recovery",
+          "Wholesale & consignment routing",
+          "Lead-time binding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For multi-location makers and cooperatives with dedicated shipping staff.",
+        "features": [
+          "Volume seat pricing",
+          "Multi-workshop routing",
+          "Carrier contract integration",
+          "Dedicated logistics advisor",
+          "SLA & priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "CargoLoom is shipping infrastructure for the people who still make things by hand. Own the craft. We'll own the crate."
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Campwell",
+  "slug": "campwell",
+  "industry": "corporate offsites",
+  "tagline": "Offsites your whole team actually looks forward to.",
+  "positioning": "Campwell helps small teams plan, book, and run corporate offsites without a full-time events person — from venue to agenda to the ride home.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#FBF4E9",
+    "surface": "#F3E7D2",
+    "text": "#3A2E22",
+    "primary": "#C56B3E",
+    "accent": "#7C8A4E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CW",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 5.5,
+        "y": 5.5,
+        "width": 5.5,
+        "height": 5.5,
+        "rx": 1.6,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 5.5,
+        "width": 5.5,
+        "height": 5.5,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 5.5,
+        "y": 13,
+        "width": 5.5,
+        "height": 5.5,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 5.5,
+        "height": 5.5,
+        "rx": 1.6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Plan the offsite without becoming the offsite planner.",
+      "sub": "Campwell turns the chaos of venue emails, dietary spreadsheets, and last-minute flight changes into one calm checklist — so owner-operators can lead the retreat instead of babysitting it.",
+      "ctaLabel": "Start planning free",
+      "secondaryCtaLabel": "See a sample itinerary"
+    },
+    "features": [
+      {
+        "title": "Venue matchmaking",
+        "description": "Tell us your headcount, budget, and vibe. Campwell surfaces vetted cabins, lodges, and meeting spaces with real availability — no more 14-email back-and-forth per property.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda builder",
+        "description": "Drag sessions, meals, and free time onto a shared schedule. Everyone sees the same living itinerary, and changes sync to their phones instantly.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Budget tracker",
+        "description": "Every deposit, flight, and dinner rolls into one running total against your cap. Export a clean summary your bookkeeper will actually thank you for.",
+        "icon": "chart"
+      },
+      {
+        "title": "Travel & logistics",
+        "description": "Collect arrival times, assign rides, and hand out room keys digitally. Campwell flags the person landing at 11pm before it becomes your problem.",
+        "icon": "compass"
+      },
+      {
+        "title": "Headcount & dietary",
+        "description": "One RSVP link captures allergies, room preferences, and plus-ones. No more decoding a spreadsheet at the caterer's counter.",
+        "icon": "users"
+      },
+      {
+        "title": "Reusable playbooks",
+        "description": "Save last year's retreat as a template. Next offsite starts at 80% done instead of a blank page and a knot in your stomach.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We're 22 people and I'm also the CEO. Campwell took the annual retreat off my plate in a weekend. The budget tracker alone kept us from blowing past our cap like last year.",
+        "name": "Marisol Vega",
+        "role": "Founder & CEO",
+        "company": "Northbend Roasters"
+      },
+      {
+        "quote": "The shared itinerary ended the endless 'wait, when's dinner?' Slack pings. My team showed up rested, on time, and genuinely excited. That never happened when I ran it on spreadsheets.",
+        "name": "Danny Okafor",
+        "role": "Owner",
+        "company": "Trellis Home Services"
+      },
+      {
+        "quote": "I planned our first offsite in eight years because Campwell made it feel doable. The venue matchmaking found us a lodge under budget in about ten minutes.",
+        "name": "Priya Raman",
+        "role": "Managing Partner",
+        "company": "Fieldstone Accounting"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$6",
+        "period": "per seat / month",
+        "blurb": "For small teams running one offsite a year.",
+        "features": [
+          "Up to 15 seats",
+          "1 active offsite",
+          "Venue matchmaking",
+          "Agenda builder",
+          "RSVP & dietary collection"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Basecamp",
+        "price": "$11",
+        "period": "per seat / month",
+        "blurb": "For growing teams that gather more than once.",
+        "features": [
+          "Up to 60 seats",
+          "Unlimited offsites",
+          "Budget tracker & exports",
+          "Travel & logistics tools",
+          "Reusable playbooks",
+          "Priority chat support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Summit",
+        "price": "Custom",
+        "period": "annual, billed per seat",
+        "blurb": "For multi-location companies with recurring retreats.",
+        "features": [
+          "Unlimited seats",
+          "Multi-team workspaces",
+          "Vendor contract management",
+          "SSO & admin controls",
+          "Dedicated offsite advisor"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Campwell is the offsite planner for owner-operators who'd rather lead the retreat than run the logistics. Warmer gatherings, fewer spreadsheets."
+  }
+}

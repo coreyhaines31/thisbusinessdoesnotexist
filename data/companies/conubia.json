@@ -1,0 +1,131 @@
+{
+  "name": "Conubia",
+  "slug": "conubia",
+  "industry": "wedding vendor CRM",
+  "tagline": "The operating system of record for wedding professionals.",
+  "positioning": "Conubia consolidates leads, contracts, timelines, and payments into a single governed workflow for the modern wedding vendor.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0E1015",
+    "surface": "#181B24",
+    "text": "#EDEFF5",
+    "primary": "#C6A15B",
+    "accent": "#7C8AE0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18 5 C13 2 6 3 5 9 C4 15 9 21 15 20 C17 19.6 18 18.5 18.5 17 C16.5 18 13 18.2 11 16 C8.5 13 9 8 12 6.5 C14 5.5 16.5 5.5 18 7 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every booking, contract, and vow — under one system of record.",
+      "sub": "Conubia gives independent planners, photographers, and venues an enterprise-grade CRM built for the wedding lifecycle: inquiry to final payment, fully auditable.",
+      "ctaLabel": "Request access",
+      "secondaryCtaLabel": "View the platform"
+    },
+    "features": [
+      {
+        "title": "Inquiry-to-contract pipeline",
+        "description": "Convert website inquiries into signed agreements without leaving the platform. Templated proposals, e-signatures, and version history on every document.",
+        "icon": "layers"
+      },
+      {
+        "title": "Milestone payment ledger",
+        "description": "Automate deposit schedules, retainer reminders, and final balances. Every transaction reconciled against the couple's contract.",
+        "icon": "chart"
+      },
+      {
+        "title": "Ceremony timeline builder",
+        "description": "Assemble minute-by-minute run-of-show timelines and distribute them to couples, vendors, and your second shooter in one governed link.",
+        "icon": "clock"
+      },
+      {
+        "title": "Vendor referral registry",
+        "description": "Track the florists, officiants, and caterers you recommend, with performance notes and reciprocal-referral attribution.",
+        "icon": "users"
+      },
+      {
+        "title": "Seasonal capacity planning",
+        "description": "Model your booking calendar against peak-season demand so you never double-book a Saturday in June again.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Client portal of record",
+        "description": "Give each couple a single branded portal for documents, invoices, and approvals — no more scattered email threads.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Conubia I ran my studio out of three spreadsheets and a shared inbox. Now every couple's contract, payment schedule, and timeline lives in one auditable place. My close rate went up in a single season.",
+        "name": "Delphine Marchetti",
+        "role": "Principal Photographer",
+        "company": "Marchetti & Vale Studio"
+      },
+      {
+        "quote": "The milestone payment ledger alone paid for the subscription. I stopped chasing final balances by text message, and my books reconcile themselves.",
+        "name": "Harrison Boyd",
+        "role": "Owner",
+        "company": "Northgate Estate Weddings"
+      },
+      {
+        "quote": "We coordinate forty weddings a year with two planners. Conubia's timeline builder and vendor registry are the only reason that math works.",
+        "name": "Priya Anand",
+        "role": "Lead Planner",
+        "company": "Anand Occasions"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month, billed annually",
+        "blurb": "For the independent vendor running the whole operation alone.",
+        "features": [
+          "Up to 40 active events",
+          "Inquiry-to-contract pipeline",
+          "Milestone payment ledger",
+          "Branded client portal"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$79",
+        "period": "per month, billed annually",
+        "blurb": "For growing studios with a small team and a full calendar.",
+        "features": [
+          "Unlimited active events",
+          "Up to 5 team seats",
+          "Ceremony timeline builder",
+          "Vendor referral registry",
+          "Seasonal capacity planning"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Firm",
+        "price": "$189",
+        "period": "per month, billed annually",
+        "blurb": "For multi-planner firms and venues managing high volume.",
+        "features": [
+          "Unlimited team seats",
+          "Multi-location calendars",
+          "Advanced audit logging",
+          "Priority onboarding",
+          "Dedicated success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Conubia is the system of record for wedding professionals — governing every inquiry, contract, and payment from first hello to final dance."
+  }
+}

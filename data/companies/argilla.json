@@ -1,0 +1,153 @@
+{
+  "name": "Argilla",
+  "slug": "argilla",
+  "industry": "soil analytics",
+  "tagline": "The intelligence layer beneath every acre you own.",
+  "positioning": "Argilla turns raw core samples and sensor telemetry into a living map of soil health — so enterprise agronomy teams stop guessing what's underground.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0D0D0F",
+    "surface": "#1A1A1E",
+    "text": "#F4F4F2",
+    "primary": "#E8FF3A",
+    "accent": "#7A5CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 8,
+        "width": 12,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 3,
+        "width": 8,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every layer of your soil, finally on the record.",
+      "sub": "Argilla unifies lab cores, in-field probes, and satellite indices into one interrogable model of what's actually happening beneath your operation — down to the horizon.",
+      "ctaLabel": "Map your first field",
+      "secondaryCtaLabel": "See the model"
+    },
+    "features": [
+      {
+        "title": "Core-to-cloud ingestion",
+        "description": "Pipe lab results, LoRa moisture probes, and NDVI passes into one schema. No more reconciling three spreadsheets and a PDF from the testing lab.",
+        "icon": "layers"
+      },
+      {
+        "title": "Horizon-level modeling",
+        "description": "We reconstruct each soil profile layer by layer, so your agronomists reason about the O, A, and B horizons instead of a single blended average.",
+        "icon": "chart"
+      },
+      {
+        "title": "Carbon-grade audit trail",
+        "description": "Every reading is timestamped, geo-locked, and versioned to survive a verifier's scrutiny — the artifact your carbon program actually asks for.",
+        "icon": "shield"
+      },
+      {
+        "title": "Yield-risk forecasting",
+        "description": "Argilla flags compaction, salinity, and nutrient drift weeks before they show up in a harvest report you can't undo.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Fleet-wide benchmarking",
+        "description": "Compare 40,000 acres across regions on the same axis. Find the outlier quarter-section dragging your whole basin down.",
+        "icon": "globe"
+      },
+      {
+        "title": "Sampling that plans itself",
+        "description": "Argilla proposes the next round of core sites to shrink uncertainty fastest — so your field crews stop over-sampling the easy corners.",
+        "icon": "target"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to wait six weeks for lab PDFs, then hand-key them into a legacy GIS. Argilla collapsed that into a dashboard our whole agronomy desk trusts before the field crew is back to the truck.",
+        "name": "Dana Okafor",
+        "role": "VP of Agronomy",
+        "company": "Meridian Farmlands"
+      },
+      {
+        "quote": "The horizon-level modeling is the part our carbon verifier stopped arguing with. It's the first soil dataset we've handed over that didn't come back with a page of questions.",
+        "name": "Henrik Vasser",
+        "role": "Director of Sustainability",
+        "company": "Cascade Row Crop Partners"
+      },
+      {
+        "quote": "Argilla told us which 300 acres were quietly compacting a full season before yield would have. That single flag paid for the contract three times over.",
+        "name": "Priya Raman",
+        "role": "Head of Land Operations",
+        "company": "Longfurrow Estates"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Field",
+        "price": "$0.90",
+        "period": "per acre / season monitored",
+        "blurb": "For single-region teams standardizing their first soil program.",
+        "features": [
+          "Up to 5,000 monitored acres",
+          "Core & probe ingestion",
+          "Horizon profile modeling",
+          "Standard export & API"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Basin",
+        "price": "$0.55",
+        "period": "per acre / season monitored",
+        "blurb": "For multi-region operators who benchmark across the portfolio.",
+        "features": [
+          "Up to 60,000 monitored acres",
+          "Fleet-wide benchmarking",
+          "Yield-risk forecasting",
+          "Adaptive sampling planner",
+          "Carbon-grade audit trail"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For agribusinesses running soil intelligence as core infrastructure.",
+        "features": [
+          "Unlimited monitored acres",
+          "Dedicated data pipeline",
+          "On-prem lab integrations",
+          "SSO & role-based access",
+          "Named solutions engineer"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Argilla is the system of record for what's underground. Map the first field free — the rest of the acreage tends to follow."
+  }
+}

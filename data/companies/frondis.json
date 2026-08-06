@@ -1,0 +1,131 @@
+{
+  "name": "Frondis",
+  "slug": "frondis",
+  "industry": "vertical farming",
+  "tagline": "Managed vertical horticulture, provisioned for the individual operator.",
+  "positioning": "Frondis delivers enterprise-grade climate, nutrient, and harvest orchestration to the countertop grow unit — no agronomy degree required.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A1722",
+    "surface": "#12242F",
+    "text": "#E9F4EE",
+    "primary": "#15B87C",
+    "accent": "#2E8BE6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2C7 7 4.5 13.5 8 22C13 17 19.5 11.5 12 2Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Industrial horticulture, provisioned in your kitchen.",
+      "sub": "Frondis operates your countertop grow unit end to end — dosing nutrients, tuning spectrum, and scheduling harvests — so a single household can run a compliant, high-yield micro-farm.",
+      "ctaLabel": "Provision a Unit",
+      "secondaryCtaLabel": "Review the Spec Sheet"
+    },
+    "features": [
+      {
+        "title": "Autonomous Nutrient Dosing",
+        "description": "Frondis meters pH and EC on a 90-second interval and corrects the reservoir automatically, retiring the manual test-strip ritual for good.",
+        "icon": "database"
+      },
+      {
+        "title": "Spectrum Orchestration",
+        "description": "Per-tray lighting profiles for 40+ cultivars — basil, arugula, dwarf tomato — calibrated against a growth-stage model, not a guess.",
+        "icon": "zap"
+      },
+      {
+        "title": "Harvest Scheduling",
+        "description": "Every germination event books a harvest window in your calendar and reorders the matching seed pods before you run dry.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Remote Telemetry",
+        "description": "Canopy temperature, humidity, and yield-per-tray stream to a single dashboard — auditable from anywhere, exportable on demand.",
+        "icon": "chart"
+      },
+      {
+        "title": "Fault Escalation",
+        "description": "Pump stalls, sensor drift, and reservoir low-water events trigger tiered alerts with a documented remediation path.",
+        "icon": "bell"
+      },
+      {
+        "title": "Provisioned Supply Chain",
+        "description": "Seed pods, nutrient concentrate, and replacement wicks ship on a subscription cadence indexed to your actual consumption.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We replaced a chaotic pantry-shelf setup with two Frondis units. Yield-per-tray is now a number I actually trust, and the reorder automation means I have not thought about seed pods in four months.",
+        "name": "Marisol Devane",
+        "role": "Owner-Operator",
+        "company": "Devane Household Greens"
+      },
+      {
+        "quote": "The escalation logs are what sold me. When a pump stalled at 2am, Frondis flagged it, isolated the tray, and had a remediation step waiting. That is enterprise discipline at a residential footprint.",
+        "name": "Anders Kohl",
+        "role": "Prosumer Grower",
+        "company": "Kohl Kitchen Farm"
+      },
+      {
+        "quote": "I run six cultivars across a wall of trays for a supper club. Frondis's spectrum profiles took my basil from inconsistent to spec, harvest after harvest. The telemetry export goes straight into my costing sheet.",
+        "name": "Priya Ramanathan",
+        "role": "Culinary Lead",
+        "company": "Ferment & Frond"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$24",
+        "period": "per month, one unit",
+        "blurb": "Single-tray provisioning for the first-time countertop operator.",
+        "features": [
+          "1 managed grow unit",
+          "Autonomous nutrient dosing",
+          "Spectrum profiles for 12 cultivars",
+          "Monthly seed-pod shipment"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per month, up to four units",
+        "blurb": "Full orchestration for the serious household micro-farm.",
+        "features": [
+          "Up to 4 managed grow units",
+          "Harvest scheduling & calendar sync",
+          "40+ cultivar spectrum library",
+          "Fault escalation with remediation logs",
+          "Consumption-indexed supply chain"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "$129",
+        "period": "per month, up to twelve units",
+        "blurb": "Multi-station telemetry and reporting for prosumer growers.",
+        "features": [
+          "Up to 12 managed grow units",
+          "Yield-per-tray analytics & CSV export",
+          "Priority fault escalation",
+          "Custom nutrient concentrate blends",
+          "Dedicated provisioning contact"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Frondis provisions industrial-grade vertical horticulture for the individual operator. Compliant. Auditable. Deployed on your counter."
+  }
+}

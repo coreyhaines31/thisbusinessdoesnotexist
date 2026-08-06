@@ -1,0 +1,125 @@
+{
+  "name": "Ermine Proof",
+  "slug": "ermine-proof",
+  "industry": "luxury resale authentication",
+  "tagline": "Prove your Birkin is a Birkin before some stranger on the internet decides for you.",
+  "positioning": "Ermine Proof authenticates luxury goods for the people actually selling them — not white-glove concierges, just you and a phone camera at your kitchen table.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F4EADC",
+    "surface": "#FBF5EC",
+    "text": "#2C2118",
+    "primary": "#B04E22",
+    "accent": "#6E7A4A"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "EP",
+    "shapes": []
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Fakes are getting good. So are we.",
+      "sub": "Snap eight photos, wait about ninety seconds, and get a signed authentication report you can staple to any listing. No shipping your handbag to a warehouse in another timezone.",
+      "ctaLabel": "Authenticate something",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Ninety-second verdicts",
+        "description": "Photo-based authentication for handbags, sneakers, watches and jewelry. You get a real, defensible verdict before the buyer's cold feet set in.",
+        "icon": "zap"
+      },
+      {
+        "title": "Reports buyers trust",
+        "description": "Every pass ships with a shareable certificate, confidence score, and the exact stitch-count and hardware notes our model flagged. No vibes, receipts.",
+        "icon": "shield"
+      },
+      {
+        "title": "A grader who's seen it all",
+        "description": "Borderline cases get bumped to a human authenticator with fashion-house credentials. They've handled 400,000 bags and still gasp at nothing.",
+        "icon": "users"
+      },
+      {
+        "title": "Provenance that follows the item",
+        "description": "Each report gets a permanent ID. Resell it in three years and the certificate is still valid, still linked, still yours.",
+        "icon": "database"
+      },
+      {
+        "title": "Dispute armor",
+        "description": "Sold something and got hit with a 'this is fake' chargeback? Forward the report. We back it with a resolution guarantee up to your item's value.",
+        "icon": "lock"
+      },
+      {
+        "title": "Batch mode for the closet-flippers",
+        "description": "Uploading forty items from an estate sale? Queue them all, grab coffee, come back to a spreadsheet of verdicts.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I flip vintage Chanel on the side and used to sweat every listing. Now I attach an Ermine Proof report and buyers stop haggling. The dispute guarantee paid for itself the first month.",
+        "name": "Priya Raghunathan",
+        "role": "Independent reseller",
+        "company": "The Quiet Closet"
+      },
+      {
+        "quote": "We route every intake through Ermine Proof before it hits our floor. Their human graders caught a superfake Rolex our old vendor waved through. That alone justified switching.",
+        "name": "Marcus Devlin",
+        "role": "Buyer, Pre-Owned Watches",
+        "company": "Meridian Consignment"
+      },
+      {
+        "quote": "I bought a 'deadstock' Jordan pair, ran the photos, and got a polite 'absolutely not' in under two minutes. Chargeback filed, money back, ego intact.",
+        "name": "Sofia Bianchi",
+        "role": "Sneaker collector",
+        "company": "self-employed"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dabbler",
+        "price": "$0",
+        "period": "3 checks/month",
+        "blurb": "For the once-in-a-while seller cleaning out a closet.",
+        "features": [
+          "3 photo authentications per month",
+          "Standard confidence report",
+          "Shareable certificate link",
+          "Handbags & sneakers only"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Reseller",
+        "price": "$29",
+        "period": "per month, 40 checks",
+        "blurb": "For side-hustlers who list every week and hate chargebacks.",
+        "features": [
+          "40 authentications per month",
+          "All categories incl. watches & jewelry",
+          "Human review on borderline cases",
+          "Dispute guarantee up to $2,500",
+          "Batch upload"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Vault",
+        "price": "$89",
+        "period": "per month, unlimited",
+        "blurb": "For full-time flippers and small consignment shops.",
+        "features": [
+          "Unlimited authentications",
+          "Priority human grading queue",
+          "Dispute guarantee up to $15,000",
+          "Team seats & shared history",
+          "API access for your listings"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ermine Proof authenticates luxury goods for the people selling them. Real reports, real graders, no warehouse road trips for your handbag."
+  }
+}

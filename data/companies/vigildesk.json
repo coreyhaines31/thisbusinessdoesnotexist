@@ -1,0 +1,136 @@
+{
+  "name": "VigilDesk",
+  "slug": "vigildesk",
+  "industry": "funeral services",
+  "tagline": "The operating system for the modern funeral home.",
+  "positioning": "VigilDesk gives owner-operated funeral homes one place to run arrangements, filings, and family follow-up — without another binder or spreadsheet.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A0B0D",
+    "surface": "#16181D",
+    "text": "#F3F5F7",
+    "primary": "#39FF9C",
+    "accent": "#B98CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every case handled. Nothing slips through.",
+      "sub": "VigilDesk runs the whole arrangement — intake, GPL pricing, death certificate filing, and family follow-up — so your team spends time with families, not paperwork.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Arrangement rooms",
+        "description": "Guide each family through selections, sign the SFGS at the table, and generate the itemized statement the moment the conference ends.",
+        "icon": "layers"
+      },
+      {
+        "title": "Funeral Rule compliance",
+        "description": "Your General Price List, itemized authorizations, and mandatory disclosures stay current and auditable — no more outdated PDFs in a drawer.",
+        "icon": "shield"
+      },
+      {
+        "title": "Certificate & permit tracking",
+        "description": "File death certificates and burial-transit permits with a live status board, so you always know what the county has and hasn't returned.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Obituaries & memorial pages",
+        "description": "Draft the obituary, publish a memorial page, and collect condolences and RSVPs — all linked back to the case record.",
+        "icon": "globe"
+      },
+      {
+        "title": "Scheduling & staff calendar",
+        "description": "Coordinate visitations, services, removals, and crematory windows across your directors without double-booking the prep room.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Statements & at-need billing",
+        "description": "Send families a clear invoice, apply insurance assignments, and reconcile deposits without leaving the case.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to rebuild the price list every time the FTC guidance changed. Now VigilDesk keeps our GPL clean and every authorization is signed at the table. Two directors, one system.",
+        "name": "Miriam Whitlock",
+        "role": "Owner & Funeral Director",
+        "company": "Whitlock & Reyes Funeral Home"
+      },
+      {
+        "quote": "The certificate board alone paid for it. I can see exactly which permits the county hasn't returned instead of calling around at 4pm on a Friday.",
+        "name": "Daniel Osei",
+        "role": "Managing Director",
+        "company": "Cedar Hollow Memorial"
+      },
+      {
+        "quote": "Families notice the difference. The obituary and memorial page go live the same day, and every RSVP flows straight into our service schedule.",
+        "name": "Rosa Petrangeli",
+        "role": "Owner-Operator",
+        "company": "Petrangeli Family Funeral Care"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$45",
+        "period": "per seat / month",
+        "blurb": "For single-director homes running everything themselves.",
+        "features": [
+          "Unlimited cases",
+          "Arrangement rooms & itemized statements",
+          "GPL & Funeral Rule disclosures",
+          "Obituary and memorial pages"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Home",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For owner-operated homes with a small team of directors.",
+        "features": [
+          "Everything in Solo",
+          "Certificate & permit tracking board",
+          "Staff calendar & service scheduling",
+          "At-need billing with insurance assignments",
+          "Family follow-up workflows"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location groups and shared prep facilities.",
+        "features": [
+          "Everything in Home",
+          "Multi-location reporting",
+          "Crematory & vendor coordination",
+          "SSO and role controls",
+          "Dedicated onboarding specialist"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "VigilDesk is the case, compliance, and family-care platform built for independent funeral homes. Earnest software for serious work."
+  }
+}

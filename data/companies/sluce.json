@@ -1,0 +1,137 @@
+{
+  "name": "Sluce",
+  "slug": "sluce",
+  "industry": "industrial cleaning",
+  "tagline": "The operating system for industrial sanitation at scale.",
+  "positioning": "Sluce gives enterprise facilities teams verifiable proof that every clean-in-place cycle, wash bay, and sanitation shift met spec — auditable to the minute.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#071A24",
+    "surface": "#0E2A38",
+    "text": "#EAF6F4",
+    "primary": "#17C3B2",
+    "accent": "#2E7DD1"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,5 12,11 12,16 4,10",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "20,5 12,11 12,16 20,10",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Prove every clean. Down to the cycle.",
+      "sub": "Sluce turns sanitation from a clipboard liability into a live, defensible record — CIP loops, chemical dosing, and crew verification unified across every facility you run.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "View compliance specs"
+    },
+    "features": [
+      {
+        "title": "Verified clean-in-place cycles",
+        "description": "Sensor-tied logs capture temperature, flow, and dwell time for every CIP loop, then flag any cycle that drifts from your sanitation SOP before the line restarts.",
+        "icon": "shield"
+      },
+      {
+        "title": "Chemical dosing ledger",
+        "description": "Track concentration, lot, and consumption per wash bay so procurement, EHS, and auditors read from a single source of truth instead of reconciled spreadsheets.",
+        "icon": "database"
+      },
+      {
+        "title": "Shift verification",
+        "description": "Crews sign off zones on a mobile console; supervisors approve exceptions. Every signature is timestamped, geo-stamped, and locked to the work order.",
+        "icon": "users"
+      },
+      {
+        "title": "Audit-ready exports",
+        "description": "Generate FDA, USDA, or ISO 22000 evidence packets for any date range in seconds — no more reassembling paper logs the night before an inspection.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Downtime intelligence",
+        "description": "See sanitation time as a cost center. Sluce quantifies changeover minutes per line and surfaces where cleaning throughput is throttling production.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-site rollups",
+        "description": "Standardize SOPs across plants, then benchmark compliance rate, rework, and consumption facility by facility from one executive dashboard.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Sluce our sanitation records lived in three binders and two email threads. Our last audit closed in a single afternoon because every CIP cycle was already documented and defensible.",
+        "name": "Marissa Kohl",
+        "role": "VP of Quality & Food Safety",
+        "company": "Northfold Provisions"
+      },
+      {
+        "quote": "We cut sanitation-driven changeover time by 19% in two quarters. Sluce showed us exactly which lines were over-cleaning and which crews needed retraining.",
+        "name": "Devin Aramburu",
+        "role": "Director of Plant Operations",
+        "company": "Sterlik Manufacturing"
+      },
+      {
+        "quote": "The chemical dosing ledger alone paid for itself. We caught a mis-calibrated dispenser wasting concentrate across four wash bays within the first month.",
+        "name": "Priya Venkataraman",
+        "role": "Head of EHS Compliance",
+        "company": "Halverson Industrial Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Facility",
+        "price": "$0.42",
+        "period": "per verified clean cycle",
+        "blurb": "For single-site operations formalizing their sanitation record.",
+        "features": [
+          "Up to 1 facility",
+          "CIP and wash-bay logging",
+          "Mobile crew sign-off",
+          "Standard audit exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.28",
+        "period": "per verified clean cycle",
+        "blurb": "Volume-tiered pricing for multi-plant enterprises standardizing SOPs.",
+        "features": [
+          "Unlimited facilities",
+          "Chemical dosing ledger",
+          "Downtime intelligence",
+          "Multi-site benchmarking",
+          "SSO and role-based access",
+          "Priority support SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual committed volume",
+        "blurb": "For regulated global operators with bespoke compliance regimes.",
+        "features": [
+          "Custom cycle-rate contract",
+          "Dedicated solutions engineer",
+          "ERP and MES integrations",
+          "Validation and IQ/OQ support",
+          "Regional data residency"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sluce is the sanitation system of record for regulated manufacturing, food, and beverage operators. Verifiable clean, every cycle, every site."
+  }
+}

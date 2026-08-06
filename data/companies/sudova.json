@@ -1,0 +1,153 @@
+{
+  "name": "Sudova",
+  "slug": "sudova",
+  "industry": "industrial cleaning",
+  "tagline": "Industrial cleaning that doesn't leave a mess in your spreadsheet.",
+  "positioning": "Sudova coordinates crews, chemicals, and compliance for plants and warehouses — so facilities teams stop babysitting clipboards and start trusting the floor.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F5F3FB",
+    "surface": "#FFFFFF",
+    "text": "#2B2A3C",
+    "primary": "#6B5DD3",
+    "accent": "#F2A6C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 13,
+        "height": 4,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 10,
+        "width": 13,
+        "height": 4,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 15,
+        "width": 13,
+        "height": 4,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The grime is inevitable. The paperwork isn't.",
+      "sub": "Sudova runs the unglamorous side of industrial cleaning — crew dispatch, chemical logs, and audit-ready proof — across every site you're responsible for.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Dispatch that reads the floor",
+        "description": "Assign crews by shift, zone, and hazard level. Sudova reshuffles jobs the second a line goes down, so nobody scrubs a tank that's still running.",
+        "icon": "target"
+      },
+      {
+        "title": "Chemical logs that don't lie",
+        "description": "Every dilution, batch, and MSDS lookup is timestamped at the point of use. When an auditor asks, you export the record instead of inventing it.",
+        "icon": "database"
+      },
+      {
+        "title": "Proof of clean, on demand",
+        "description": "Crews snap before-and-after photos tied to each work order. Managers approve from their phone and the sign-off sticks to the job forever.",
+        "icon": "shield"
+      },
+      {
+        "title": "One dashboard, every site",
+        "description": "Roll up 3 plants or 300. Filter by facility, contractor, or SLA breach without stitching together twelve different spreadsheets.",
+        "icon": "layers"
+      },
+      {
+        "title": "Alerts before the fine",
+        "description": "Set thresholds for missed rounds, expired certs, and overdue deep cleans. Sudova pings the right person while it's still cheap to fix.",
+        "icon": "bell"
+      },
+      {
+        "title": "Usage that adds up",
+        "description": "Track labor hours, chemical draw, and equipment runtime per square foot. Bill clients or charge back departments with numbers you can defend.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to reconstruct sanitation logs the night before every audit. Now the record already exists. Our last USDA visit took forty minutes instead of two days.",
+        "name": "Marisol Reyes",
+        "role": "Director of Facilities",
+        "company": "Northgate Protein"
+      },
+      {
+        "quote": "Sudova caught that a contractor skipped 14 deep-clean cycles across three warehouses. That's the kind of thing you find out during a recall, not a Tuesday. We found out on a Tuesday.",
+        "name": "Devon Achterberg",
+        "role": "VP of Operations",
+        "company": "Cascade Logistics Group"
+      },
+      {
+        "quote": "Our chemical spend dropped 19% once we could see who was over-diluting and who was flooding the floor. Turns out 'a little extra' costs six figures.",
+        "name": "Priya Nandakumar",
+        "role": "Plant Manager",
+        "company": "Meridian Fabrication"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single Site",
+        "price": "$0.04",
+        "period": "per sq ft cleaned / month",
+        "blurb": "For one facility that's tired of clipboards and screenshots.",
+        "features": [
+          "Up to 2 sites",
+          "Crew dispatch & work orders",
+          "Photo proof-of-clean",
+          "90-day log retention"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multi-Site",
+        "price": "$0.028",
+        "period": "per sq ft cleaned / month",
+        "blurb": "For ops teams juggling contractors across a region.",
+        "features": [
+          "Unlimited sites",
+          "Chemical & MSDS logging",
+          "SLA and compliance alerts",
+          "Chargeback & client billing",
+          "2-year retention"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed quarterly",
+        "blurb": "For national footprints with auditors who don't knock.",
+        "features": [
+          "Everything in Multi-Site",
+          "SSO & role controls",
+          "Custom retention & data residency",
+          "API and ERP integrations",
+          "Dedicated success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sudova keeps industrial cleaning honest — clean floors, clean records, and one less spreadsheet to explain to a regulator."
+  }
+}

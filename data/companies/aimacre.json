@@ -1,0 +1,149 @@
+{
+  "name": "AimAcre",
+  "slug": "aimacre",
+  "industry": "esports coaching",
+  "tagline": "The quiet workbench for coaches who take their players' improvement personally.",
+  "positioning": "AimAcre gives independent esports coaches one calm place to run VOD reviews, track rank progress, and schedule scrims — so the craft of coaching stops getting buried under spreadsheets and Discord threads.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F5EEE3",
+    "surface": "#FBF6EE",
+    "text": "#2E241B",
+    "primary": "#B15230",
+    "accent": "#7C8A55"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AA",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 6.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching that actually stays with your players",
+      "sub": "You didn't start coaching to babysit spreadsheets and lost VOD links. AimAcre keeps every review, rank note, and scrim block in one place, so your players feel the progress — and remember who got them there.",
+      "ctaLabel": "Start your first roster",
+      "secondaryCtaLabel": "See a live review"
+    },
+    "features": [
+      {
+        "title": "VOD reviews that leave a mark",
+        "description": "Drop a timestamped note straight onto the replay, tag the mistake, and send players a clean recap they'll actually reopen before the next match. No more 'go back to minute twelve.'",
+        "icon": "target"
+      },
+      {
+        "title": "Rank progress you can point to",
+        "description": "Track each player's ladder climb, win conditions, and the habits you're drilling. When a parent or a player asks 'is this working?', you have the answer on one page.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Scrims without the group-chat chaos",
+        "description": "Post availability, lock scrim blocks, and confirm five-stacks without forty Discord pings. Everyone sees the same schedule, in their own timezone.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Session notes that carry forward",
+        "description": "Every drill, correction, and homework assignment lives on the player's timeline, so week nine picks up exactly where week eight ended.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Billing built for one-person shops",
+        "description": "Per-seat plans, automatic renewals, and tidy receipts. You coach; AimAcre handles the awkward 'did you pay for this month' conversation.",
+        "icon": "database"
+      },
+      {
+        "title": "Your studio, your name",
+        "description": "Custom booking page, your logo on the recaps, your colors on the ladder. Players remember your academy, not the software behind it.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose an hour every night re-finding replay clips across three chats. Now the recap writes itself while I review, and my players show up to the next session having actually watched it.",
+        "name": "Marcus Delaney",
+        "role": "Head Coach & Owner",
+        "company": "Northlane Valorant Academy"
+      },
+      {
+        "quote": "The rank timeline sold me. When a player's parent wanted proof the lessons were paying off, I turned the laptop around and let the ladder do the talking.",
+        "name": "Priya Venkatesan",
+        "role": "Founder",
+        "company": "Lotus Peak Coaching"
+      },
+      {
+        "quote": "Running scrims for four squads used to eat my weekends. AimAcre put every block on one calendar and my no-show rate dropped in a month.",
+        "name": "Diego Farrow",
+        "role": "Owner-Operator",
+        "company": "Underhand Esports Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$18",
+        "period": "per seat / month",
+        "blurb": "For the coach running the whole operation out of one notebook and sheer will.",
+        "features": [
+          "Up to 3 active player seats",
+          "VOD review with timestamped notes",
+          "Rank progress timeline",
+          "Personal booking page"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$15",
+        "period": "per seat / month",
+        "blurb": "For the small academy with a real roster and a name to protect.",
+        "features": [
+          "Up to 25 active player seats",
+          "Everything in Solo",
+          "Scrim scheduling across squads",
+          "Branded recaps and ladder",
+          "Automated per-seat billing"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Academy",
+        "price": "Custom",
+        "period": "billed per seat, annually",
+        "blurb": "For multi-coach programs coordinating dozens of players.",
+        "features": [
+          "Unlimited player seats",
+          "Multiple coach accounts",
+          "Shared drill and playbook library",
+          "Roster analytics exports",
+          "Priority onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "AimAcre is the workbench for independent esports coaches — VOD reviews, rank tracking, scrims, and billing in one calm place, so the craft of coaching outlasts the group chat."
+  }
+}

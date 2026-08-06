@@ -1,0 +1,149 @@
+{
+  "name": "ArborVault",
+  "slug": "arborvault",
+  "industry": "funeral services",
+  "tagline": "The operating system for the modern funeral home.",
+  "positioning": "ArborVault gives funeral home owner-operators one console for case files, family communication, compliance, and payments.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#EEF4F3",
+    "surface": "#FFFFFF",
+    "text": "#0E2129",
+    "primary": "#0C7A6A",
+    "accent": "#1E5FA8"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AV",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 9,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 17,
+        "cy": 7,
+        "r": 7.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 9,
+        "cy": 15,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every case with the composure families expect.",
+      "sub": "ArborVault unifies intake, arrangement conferences, product selection, and billing into a single system built for independent funeral homes — no spreadsheets, no double entry.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See a case walkthrough"
+    },
+    "features": [
+      {
+        "title": "Case files that never lose a detail",
+        "description": "Track each decedent from first call through interment with a structured record: authorizations, service logistics, and family contacts in one timeline.",
+        "icon": "layers"
+      },
+      {
+        "title": "Arrangement conferences, guided",
+        "description": "Present caskets, urns, and packages on a shared screen, capture selections instantly, and generate an itemized General Price List that stays FTC-compliant.",
+        "icon": "target"
+      },
+      {
+        "title": "Family portal & e-signatures",
+        "description": "Let families review arrangements, upload photos for tributes, and sign authorizations remotely — cutting a full day off every arrangement.",
+        "icon": "users"
+      },
+      {
+        "title": "Compliance without the binder",
+        "description": "Automated GPL versioning, embalming consents, and state filing checklists keep your firm audit-ready across every jurisdiction you serve.",
+        "icon": "shield"
+      },
+      {
+        "title": "Billing tied to the case",
+        "description": "Send statements, collect deposits, and reconcile insurance assignments the moment a service is finalized — no re-keying into accounting.",
+        "icon": "chart"
+      },
+      {
+        "title": "Scheduling across your locations",
+        "description": "Coordinate viewings, chapel time, staff, and fleet in one calendar so nothing double-books during your busiest weeks.",
+        "icon": "calendar"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We replaced four disconnected tools with ArborVault. Arrangement conferences that used to take two hours now take fifty minutes, and our GPL is finally accurate every single time.",
+        "name": "Margaret Halloran",
+        "role": "Owner & Licensed Funeral Director",
+        "company": "Halloran & Sons Funeral Home"
+      },
+      {
+        "quote": "The family portal changed how we serve. Relatives across three states signed authorizations overnight, and our arranging staff stopped chasing paperwork.",
+        "name": "Daniel Okafor",
+        "role": "Managing Director",
+        "company": "Cedarline Memorial Services"
+      },
+      {
+        "quote": "Onboarding took a weekend. Within a month our billing reconciled to the penny and I could finally see case volume across both locations from my phone.",
+        "name": "Theresa Vance",
+        "role": "Owner-Operator",
+        "company": "Vance Family Funeral Care"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For single-location firms handling their first cases in one system.",
+        "features": [
+          "Unlimited case files",
+          "Guided arrangement conferences",
+          "FTC-compliant GPL builder",
+          "Family portal & e-signatures"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$129",
+        "period": "per seat / month",
+        "blurb": "For growing funeral homes coordinating staff, chapels, and billing.",
+        "features": [
+          "Everything in Solo",
+          "Multi-location scheduling",
+          "Integrated billing & deposits",
+          "Insurance assignment tracking",
+          "Priority onboarding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Network",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-firm groups needing centralized oversight and controls.",
+        "features": [
+          "Everything in Practice",
+          "Cross-firm reporting",
+          "Role-based access controls",
+          "Dedicated account director",
+          "SSO & audit exports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "ArborVault is the operations platform for independent funeral homes — dignified service, disciplined back office, one system."
+  }
+}

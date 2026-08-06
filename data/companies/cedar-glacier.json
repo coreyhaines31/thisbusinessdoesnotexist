@@ -1,0 +1,141 @@
+{
+  "name": "Cedar Glacier",
+  "slug": "cedar-glacier",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating system for the temperature revolution.",
+  "positioning": "Cedar Glacier is the software backbone for cold-plunge studios — bookings, water intelligence, and membership billing in one calm command center.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#E9F1F3",
+    "surface": "#FBFCFA",
+    "text": "#1C2A31",
+    "primary": "#4F8AA6",
+    "accent": "#E7A69C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CG",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,6.5 17.5,12 12,17.5 6.5,12",
+        "fill": "bg"
+      },
+      {
+        "type": "polygon",
+        "points": "12,9.5 14.5,12 12,14.5 9.5,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run the cold like you own the weather.",
+      "sub": "Cedar Glacier turns the chaos of managing a plunge studio — no-shows, water swaps, unpaid memberships — into one quiet, exact dashboard. This is infrastructure for the recovery era.",
+      "ctaLabel": "Claim your studio",
+      "secondaryCtaLabel": "See it move"
+    },
+    "features": [
+      {
+        "title": "Plunge-Aware Booking",
+        "description": "Sell timed immersion slots by tub and temperature. Cedar Glacier holds capacity, staggers entries, and kills double-bookings before your front desk ever sees them.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Water Intelligence",
+        "description": "Log chill cycles, filtration, and sanitation against every plunge. When an inspector asks for the record, you hand over a timestamped ledger, not a clipboard.",
+        "icon": "database"
+      },
+      {
+        "title": "Membership Billing",
+        "description": "Recurring plans, class packs, and freeze requests bill themselves. Failed cards recover automatically so revenue stops leaking on the 3rd of the month.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Temperature Presets",
+        "description": "Save protocols — 39°F contrast, 50°F intro, guided breath sets — and assign them to sessions so every operator runs the exact same experience.",
+        "icon": "target"
+      },
+      {
+        "title": "Front-Desk Command",
+        "description": "Check-ins, waivers, and towel counts on one screen. New staff learn the whole opening ritual in a single shift, not a single quarter.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Studio Analytics",
+        "description": "See utilization per tub, peak plunge hours, and member retention curves. Decide when to add capacity with numbers instead of a hunch.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were managing four tubs on a whiteboard and losing sixty bookings a week to overlap. Cedar Glacier gave us the utilization data to open a second room — it paid for itself in a month.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Northshore Plunge Co."
+      },
+      {
+        "quote": "The water ledger alone is worth it. Our health inspector actually complimented the sanitation records. I have never once been complimented by an inspector before Cedar Glacier.",
+        "name": "Derek Halloran",
+        "role": "Studio Director",
+        "company": "Basalt Recovery Rooms"
+      },
+      {
+        "quote": "Membership recovery quietly clawed back eleven hundred dollars in the first billing cycle. My front desk stopped chasing cards and started running the floor.",
+        "name": "Priya Anand",
+        "role": "Founder",
+        "company": "Still Water Immersion"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Attendant",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For a single-location studio getting off the whiteboard.",
+        "features": [
+          "1 studio location",
+          "Plunge-aware booking",
+          "Digital waivers",
+          "Water & sanitation ledger"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$54",
+        "period": "per seat / month",
+        "blurb": "For growing studios running multiple tubs and staff shifts.",
+        "features": [
+          "Everything in Attendant",
+          "Membership & recurring billing",
+          "Temperature presets",
+          "Studio analytics dashboard",
+          "Automated card recovery"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Empire",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location groups building the cold-plunge future.",
+        "features": [
+          "Everything in Operator",
+          "Unlimited locations",
+          "Cross-studio reporting",
+          "Role-based access controls",
+          "Dedicated onboarding architect"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cedar Glacier is the operating system for cold-plunge studios. Book the cold, prove the water, bill the members — from one calm command center."
+  }
+}

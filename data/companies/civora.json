@@ -1,0 +1,153 @@
+{
+  "name": "Civora",
+  "slug": "civora",
+  "industry": "HOA management",
+  "tagline": "The operating system for the governed community.",
+  "positioning": "Civora unifies board governance, reserves, and resident operations into one intelligent platform built for portfolios of a thousand communities.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#071A24",
+    "surface": "#0E2E3B",
+    "text": "#EAF6F4",
+    "primary": "#22C1A6",
+    "accent": "#4FB0E0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 16,
+        "height": 4,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 10,
+        "width": 11,
+        "height": 4,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 16,
+        "width": 16,
+        "height": 4,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Govern every community as one.",
+      "sub": "Civora replaces the patchwork of spreadsheets, email chains, and legacy portals with a single command center for the largest HOA and community-association portfolios on earth.",
+      "ctaLabel": "Request a briefing",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Board Chambers",
+        "description": "Run motions, quorums, and minutes from one room. Agendas, votes, and signed resolutions become an auditable record your counsel can trust.",
+        "icon": "users"
+      },
+      {
+        "title": "Reserve Intelligence",
+        "description": "Model 30-year reserve studies across thousands of associations and see funding gaps before they become special assessments.",
+        "icon": "chart"
+      },
+      {
+        "title": "Resident Fabric",
+        "description": "Every violation notice, ARC request, and dues ledger for every homeowner, unified into a profile your managers can act on instantly.",
+        "icon": "layers"
+      },
+      {
+        "title": "Compliance Grid",
+        "description": "Track state statutes, CC&R deadlines, and audit windows across jurisdictions with alerts that reach the right board seat.",
+        "icon": "shield"
+      },
+      {
+        "title": "Dues Rails",
+        "description": "Automated assessments, delinquency workflows, and lien pipelines that move money and paperwork without a single manual reminder.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Portfolio Horizon",
+        "description": "One dashboard spanning every community you manage, surfacing risk, cash position, and open work across the entire portfolio.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We manage 640 associations across four states. Before Civora, our reserve studies lived in eleven different systems. Now every board sees the same numbers, and our special-assessment surprises dropped to near zero.",
+        "name": "Danielle Ferraro",
+        "role": "VP of Community Operations",
+        "company": "Meridian Association Partners"
+      },
+      {
+        "quote": "The Board Chambers module turned our two-week minutes backlog into a same-night signed record. Our general counsel actually asked how we did it.",
+        "name": "Marcus Whitfield",
+        "role": "Director of Governance",
+        "company": "Cascade Residential Group"
+      },
+      {
+        "quote": "Civora is the first platform that treats a 12,000-door portfolio like one organism instead of 300 separate fires. Our managers finally have time to manage.",
+        "name": "Priya Raghunathan",
+        "role": "Chief Operating Officer",
+        "company": "Northgate Community Management"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Cohort",
+        "price": "$2.40",
+        "period": "per door / month",
+        "blurb": "For regional managers consolidating their first portfolios onto one system.",
+        "features": [
+          "Up to 50 associations",
+          "Board Chambers & minutes",
+          "Dues Rails automation",
+          "Standard reserve modeling"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$1.80",
+        "period": "per door / month",
+        "blurb": "For established firms running multi-state operations at scale.",
+        "features": [
+          "Unlimited associations",
+          "Reserve Intelligence forecasting",
+          "Compliance Grid across jurisdictions",
+          "Portfolio Horizon dashboards",
+          "Priority migration team"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "volume-based per door",
+        "blurb": "For the largest managers governing hundreds of thousands of doors.",
+        "features": [
+          "Custom usage rate tiers",
+          "Dedicated data residency",
+          "SSO, audit logs & SOC 2 pack",
+          "Named success architect",
+          "Bespoke integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Civora is the operating system for the governed community — unifying boards, reserves, and residents across the world's largest association portfolios."
+  }
+}

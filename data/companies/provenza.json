@@ -1,0 +1,134 @@
+{
+  "name": "Provenza",
+  "slug": "provenza",
+  "industry": "luxury resale authentication",
+  "tagline": "Every piece deserves a paper trail worthy of the piece.",
+  "positioning": "Provenza authenticates and documents pre-owned luxury goods so individual sellers and collectors can prove what they own — before it ever hits the market.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#12100F",
+    "surface": "#1E1A18",
+    "text": "#F3ECE4",
+    "primary": "#C9A24B",
+    "accent": "#7FA9A0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 3 L6 21 L10 21 L10 15 C17 15 20 12 20 8 C20 5 17 3 12 3 Z M10 6 L12 6 C15 6 16 7 16 9 C16 11 15 12 12 12 L10 12 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Prove it's real before you sell it.",
+      "sub": "Provenza gives your handbag, watch, or sneakers a verifiable authentication record — photographed, expert-reviewed, and permanently linked to a certificate buyers actually trust.",
+      "ctaLabel": "Authenticate an item",
+      "secondaryCtaLabel": "See a sample certificate"
+    },
+    "features": [
+      {
+        "title": "Human experts, not just AI guesses",
+        "description": "Category specialists review your submission — stitching, hardware, serials, weight — and sign off personally. No black-box verdicts, just a name and a rationale you can read.",
+        "icon": "shield"
+      },
+      {
+        "title": "A certificate buyers respect",
+        "description": "Each authenticated item gets a shareable digital certificate with photos, findings, and a scannable code — the thing that ends 'is this legit?' haggling for good.",
+        "icon": "database"
+      },
+      {
+        "title": "48-hour turnaround",
+        "description": "Snap the guided photos, ship if we need hands-on, and get your verdict in two business days. Most closet-clearing sellers finish a whole batch in a weekend.",
+        "icon": "clock"
+      },
+      {
+        "title": "Your permanent locker",
+        "description": "Every piece you've authenticated lives in one place — receipts, care history, resale value estimates — so re-listing next season takes minutes, not archaeology.",
+        "icon": "lock"
+      },
+      {
+        "title": "Transfer it with the item",
+        "description": "When you sell, the certificate transfers to the new owner in one tap. Provenance follows the piece, not your inbox, building real resale value over time.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Honest value estimates",
+        "description": "See what comparable authenticated pieces actually resold for — grounded in real transactions, not wishful listing prices — so you price with confidence.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I inherited three Cartier pieces and had no idea what was real. Provenza's watch specialist walked me through every finding. I sold two with certificates and got 40% more than my first offers.",
+        "name": "Marisol Reyes",
+        "role": "Private seller",
+        "company": "Independent collector"
+      },
+      {
+        "quote": "As a small consignment shop, I can't keep an in-house authenticator for every brand. Provenza's certificates are the reason my buyers stopped disputing and started repeat-purchasing.",
+        "name": "Daniel Okafor",
+        "role": "Owner",
+        "company": "Second Story Luxe"
+      },
+      {
+        "quote": "I flip sneakers on the side. Having a signed authentication record attached to each pair basically ended the fake accusations in my DMs. Worth every dollar of the flat fee.",
+        "name": "Priya Venkataraman",
+        "role": "Reseller",
+        "company": "Grail Room"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single",
+        "price": "$29",
+        "period": "per item",
+        "blurb": "One piece, one verdict, one certificate. Perfect for a first sale.",
+        "features": [
+          "1 item authentication",
+          "Digital certificate with photos",
+          "Expert-signed findings",
+          "48-hour turnaround",
+          "One free transfer"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Closet",
+        "price": "$99",
+        "period": "per month",
+        "blurb": "For serious sellers clearing a collection or flipping regularly.",
+        "features": [
+          "Up to 8 items per month",
+          "Priority 24-hour review",
+          "Permanent item locker",
+          "Resale value estimates",
+          "Unlimited certificate transfers",
+          "Batch photo submission"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Boutique",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For consignment shops and dealers authenticating at volume.",
+        "features": [
+          "Unlimited authentications",
+          "Dedicated brand specialists",
+          "Branded certificates",
+          "API + inventory sync",
+          "Bulk pricing",
+          "Account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Provenza authenticates and documents pre-owned luxury goods for the people who actually own them. Real experts, permanent records, honest values."
+  }
+}

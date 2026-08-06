@@ -1,0 +1,143 @@
+{
+  "name": "Steeplewell",
+  "slug": "steeplewell",
+  "industry": "church admin software",
+  "tagline": "The quiet system behind a well-run congregation.",
+  "positioning": "Steeplewell gives small churches one calm place for members, giving, and Sunday logistics — so your team spends less time in spreadsheets.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#eef4f3",
+    "surface": "#ffffff",
+    "text": "#0e2a2c",
+    "primary": "#0d6e6a",
+    "accent": "#1e5fd6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,6 18,12 12,18 6,12",
+        "fill": "bg"
+      },
+      {
+        "type": "polygon",
+        "points": "12,9 15,12 12,15 9,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your church like the ministry it is, not the paperwork it became.",
+      "sub": "Steeplewell keeps your directory, giving records, and weekly service plan in sync — so the pastor, the treasurer, and the volunteer coordinator all see the same truth.",
+      "ctaLabel": "Start free for 30 days",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "A directory that stays current",
+        "description": "Families update their own contact details and photos. New-visitor cards flow straight into follow-up, so nobody slips through after their first Sunday.",
+        "icon": "users"
+      },
+      {
+        "title": "Giving without the reconciliation dread",
+        "description": "Track envelopes, online gifts, and pledges in one ledger. Year-end contribution statements generate in a click, correct to the cent.",
+        "icon": "chart"
+      },
+      {
+        "title": "Sunday, planned in one place",
+        "description": "Build the order of service, assign readers and greeters, and confirm the nursery rota — then publish it to every volunteer's phone.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Messages people actually read",
+        "description": "Send the weekly bulletin by email or text, segment by ministry, and see who opened it. No more forwarding chains from the office inbox.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Volunteers who know their shift",
+        "description": "Automated reminders and easy swaps mean fewer empty spots on the coffee table and the sound board come Sunday morning.",
+        "icon": "bell"
+      },
+      {
+        "title": "Records you can trust at review time",
+        "description": "Every membership change, gift, and baptism is logged with a date and a name — ready for the board meeting or the annual report.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Our treasurer used to spend two full evenings each January on contribution statements. This year it took her twenty minutes, and not one family called with a correction.",
+        "name": "Marcus Ellery",
+        "role": "Executive Pastor",
+        "company": "Cedarbrook Community Church"
+      },
+      {
+        "quote": "I run the office for a 180-member parish alone. Steeplewell is the first tool that didn't assume I had an IT department. I set up giving and the directory in an afternoon.",
+        "name": "Diane Okafor",
+        "role": "Parish Administrator",
+        "company": "St. Aidan's Fellowship"
+      },
+      {
+        "quote": "Volunteer scheduling was chaos on paper. Now greeters, ushers, and nursery workers confirm their own shifts, and I can finally see gaps before Sunday instead of during it.",
+        "name": "Wesley Tran",
+        "role": "Ministry Coordinator",
+        "company": "Grace Harbor Church"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$8",
+        "period": "per seat / month",
+        "blurb": "For small churches getting the office out of spreadsheets.",
+        "features": [
+          "Up to 250 member records",
+          "Member directory & visitor follow-up",
+          "Online and envelope giving",
+          "Email bulletins",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parish",
+        "price": "$14",
+        "period": "per seat / month",
+        "blurb": "For growing congregations coordinating staff and volunteers.",
+        "features": [
+          "Unlimited member records",
+          "Everything in Chapel",
+          "Volunteer scheduling & reminders",
+          "Service planning & order of worship",
+          "Text messaging & segments",
+          "Year-end contribution statements"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For multi-site churches and networks with shared oversight.",
+        "features": [
+          "Multiple campuses & shared reporting",
+          "Everything in Parish",
+          "Role-based permissions",
+          "Data migration & onboarding",
+          "Dedicated account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Steeplewell is church administration software for small congregations who'd rather tend their people than their paperwork."
+  }
+}

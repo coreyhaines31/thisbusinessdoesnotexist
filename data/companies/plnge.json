@@ -1,0 +1,138 @@
+{
+  "name": "Plnge",
+  "slug": "plnge",
+  "industry": "cold-plunge studios",
+  "tagline": "Enterprise cold-plunge recovery, metered by the minute.",
+  "positioning": "Plnge operates on-site cold-plunge studios for large employers and campuses, billing only for immersion minutes actually used — with facility telemetry, safety logs, and utilization reporting your HR and facilities teams can audit.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0B1014",
+    "surface": "#151E26",
+    "text": "#E7EEF4",
+    "primary": "#3DA8C7",
+    "accent": "#63E6D0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,6 12,14 20,6 20,11 12,19 4,11",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,4 12,7 15,4",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cold-plunge recovery your whole workforce can actually book.",
+      "sub": "Plnge builds, staffs, and monitors on-site cold-plunge studios for enterprises — then bills you only for the immersion minutes your people use. No idle-tub overhead, no per-seat guessing.",
+      "ctaLabel": "Request a site walkthrough",
+      "secondaryCtaLabel": "See utilization sample"
+    },
+    "features": [
+      {
+        "title": "Metered immersion, not flat rent",
+        "description": "Every plunge is logged by badge tap and water sensor. You pay for verified immersion minutes — the same line item shows up in your facilities ledger and our invoice.",
+        "icon": "clock"
+      },
+      {
+        "title": "Temperature and safety telemetry",
+        "description": "Each tub streams water temperature, dwell time, and occupancy to a dashboard your EHS team can export. Incident flags and cooldown logs are retained for seven years.",
+        "icon": "shield"
+      },
+      {
+        "title": "Utilization reporting for HR",
+        "description": "See adoption by building, shift, and department without touching PII. Roll it into your wellness ROI deck with a single export.",
+        "icon": "chart"
+      },
+      {
+        "title": "Staffed or self-serve modes",
+        "description": "Run attended sessions during peak hours and badge-gated self-serve overnight. Plnge attendants are trained and insured under our master policy.",
+        "icon": "users"
+      },
+      {
+        "title": "Multi-site standardization",
+        "description": "Deploy identical studios across campuses so a plunge in Austin feels like a plunge in Rotterdam — same protocols, same sensors, same invoice format.",
+        "icon": "globe"
+      },
+      {
+        "title": "Facilities-friendly install",
+        "description": "Skid-mounted chillers, sealed drainage, and a documented load spec your building engineers sign off on before the first fill.",
+        "icon": "wrench"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We stopped paying for tubs nobody used. Plnge's per-minute billing dropped our recovery spend 34% while adoption actually went up across three plants.",
+        "name": "Dana Reyes",
+        "role": "VP of Total Rewards",
+        "company": "Halden Manufacturing"
+      },
+      {
+        "quote": "The EHS telemetry sealed it for us. Every dwell time and cooldown is logged, so our safety review took an afternoon instead of a quarter.",
+        "name": "Marcus Feld",
+        "role": "Director of Environmental Health & Safety",
+        "company": "Orne Logistics"
+      },
+      {
+        "quote": "Standardizing plunge protocols across six campuses used to be impossible. Now every site invoices the same way and reports the same metrics.",
+        "name": "Priya Nandakumar",
+        "role": "Head of Workplace Experience",
+        "company": "Verith Bioscience"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$1,900",
+        "period": "per month base + usage",
+        "blurb": "One studio, one building, metered minutes for a proof-of-concept quarter.",
+        "features": [
+          "1 two-tub studio installed",
+          "$0.42 per immersion minute",
+          "Self-serve badge access",
+          "Standard telemetry dashboard",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Campus",
+        "price": "$6,500",
+        "period": "per month base + usage",
+        "blurb": "Multi-building rollout with staffed peak hours and full EHS reporting.",
+        "features": [
+          "Up to 6 studios",
+          "$0.31 per immersion minute",
+          "Attended + self-serve modes",
+          "EHS logs with 7-year retention",
+          "Utilization exports by department",
+          "Dedicated success manager"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-metered, billed monthly",
+        "blurb": "Global deployment with negotiated per-minute rates and SSO.",
+        "features": [
+          "Unlimited sites",
+          "Negotiated per-minute pricing",
+          "SSO and HRIS integration",
+          "Master insurance coverage",
+          "Custom SLAs and audit support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Plnge designs, staffs, and meters on-site cold-plunge studios for enterprise employers — so recovery is a measurable utility, not a sunk cost."
+  }
+}

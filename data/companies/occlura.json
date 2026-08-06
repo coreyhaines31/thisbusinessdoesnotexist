@@ -1,0 +1,138 @@
+{
+  "name": "Occlura",
+  "slug": "occlura",
+  "industry": "dental practice operations",
+  "tagline": "The operating layer for the modern independent dental practice.",
+  "positioning": "Occlura unifies scheduling, patient recall, and claims into one operations console built for owner-operators and small dental teams.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F4F2ED",
+    "surface": "#FBFAF6",
+    "text": "#2A2825",
+    "primary": "#4B5A56",
+    "accent": "#B07A56"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "O",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3C6.5 3 3 6.8 3 12C3 17.2 6.5 21 12 21C15 21 17.3 19.6 18.7 17.3L14.6 15.1C13.9 16.1 13.1 16.6 12 16.6C9.7 16.6 8.2 14.7 8.2 12C8.2 9.3 9.7 7.4 12 7.4C13.1 7.4 13.9 7.9 14.6 8.9L18.7 6.7C17.3 4.4 15 3 12 3Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 18.2,
+        "cy": 12,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your practice on one operations console.",
+      "sub": "Occlura replaces the tangle of scheduling spreadsheets, recall reminders, and claims portals with a single system built for independent dental owner-operators.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Recall that never lapses",
+        "description": "Automated six-month recall sequences pull from your chart notes and re-book overdue hygiene patients before the chair sits empty.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Claims without the portal maze",
+        "description": "Submit, track, and reconcile insurance claims across payers from one queue — with denial reasons decoded in plain language.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Chair-time analytics",
+        "description": "See production per operatory, no-show rates, and provider utilization on a single dashboard updated after every appointment.",
+        "icon": "chart"
+      },
+      {
+        "title": "Smart schedule fills",
+        "description": "When a patient cancels, Occlura offers the slot to your waitlist and confirms the swap by text in seconds.",
+        "icon": "calendar"
+      },
+      {
+        "title": "HIPAA-grade by default",
+        "description": "Encrypted patient records, audit logs, and role-based access come standard — no add-on, no separate compliance vendor.",
+        "icon": "lock"
+      },
+      {
+        "title": "Front-desk automations",
+        "description": "Intake forms, insurance verification, and balance reminders run on their own so your team stops chasing paperwork.",
+        "icon": "zap"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We cut our monthly no-show rate from 18% to under 6% in one quarter. Occlura's waitlist fills the chair before I even notice the gap.",
+        "name": "Dr. Marissa Cardenas",
+        "role": "Owner Dentist",
+        "company": "Cardenas Family Dental"
+      },
+      {
+        "quote": "Claims used to eat two afternoons a week. Now denials come back tagged with a reason and a fix. My office manager got her time back.",
+        "name": "Dr. Anthony Weller",
+        "role": "Practice Owner",
+        "company": "Northgate Dental Studio"
+      },
+      {
+        "quote": "I run a two-operatory office without an office administrator. Occlura is effectively my operations team. The recall engine alone paid for the year.",
+        "name": "Dr. Priya Raman",
+        "role": "Solo Practitioner",
+        "company": "Elmhurst Smile Care"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$149",
+        "period": "per month, one provider",
+        "blurb": "For single-chair practices ready to retire the spreadsheets.",
+        "features": [
+          "Automated patient recall",
+          "Online booking & confirmations",
+          "Basic claims submission",
+          "Single provider dashboard"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$389",
+        "period": "per month, up to four providers",
+        "blurb": "For growing offices that need scheduling and claims in one place.",
+        "features": [
+          "Everything in Solo",
+          "Waitlist auto-fill & smart scheduling",
+          "Multi-payer claims reconciliation",
+          "Chair-time & production analytics",
+          "Insurance verification automation"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "billed annually per location",
+        "blurb": "For multi-location groups and DSOs with central operations.",
+        "features": [
+          "Everything in Practice",
+          "Cross-location reporting",
+          "Dedicated onboarding manager",
+          "Role-based access controls",
+          "API & PMS integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Occlura is the operations console for independent dental practices — recall, scheduling, and claims in one system built for owner-operators."
+  }
+}

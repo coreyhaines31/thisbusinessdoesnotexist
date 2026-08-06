@@ -1,0 +1,131 @@
+{
+  "name": "Magpie Board",
+  "slug": "magpie-board",
+  "industry": "HOA management",
+  "tagline": "Run your HOA without becoming the villain of the neighborhood group chat.",
+  "positioning": "Magpie Board is HOA software for the volunteer board members and homeowners who never asked for this job but got it anyway.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F3EFE7",
+    "surface": "#FBF9F4",
+    "text": "#2A2824",
+    "primary": "#4E5A3C",
+    "accent": "#B8623E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 20 L4 5 L12 12 L20 5 L20 20 L15 20 L15 12.5 L12 15.5 L9 12.5 L9 20 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "HOA management that won't make you the block's most hated person.",
+      "sub": "Collect dues, log violations, publish minutes, and answer the same three questions 40 times — all in one place your neighbors can't argue with. Probably.",
+      "ctaLabel": "Start a free board",
+      "secondaryCtaLabel": "See a live demo"
+    },
+    "features": [
+      {
+        "title": "Dues that collect themselves",
+        "description": "Auto-invoice every unit, chase the chronic late payers with polite-but-firm reminders, and see who owes what without opening a single spreadsheet named 'FINAL_v7'.",
+        "icon": "database"
+      },
+      {
+        "title": "Violations, minus the drama",
+        "description": "Log the rogue trampoline or the beige-that-should've-been-taupe with photos, timestamps, and a paper trail that holds up at the next shouting match, sorry, meeting.",
+        "icon": "shield"
+      },
+      {
+        "title": "Minutes people actually read",
+        "description": "Turn a two-hour meeting into a clean, shareable recap in minutes. Attach the budget, tag decisions, and stop the 'wait, what did we vote on?' emails.",
+        "icon": "inbox"
+      },
+      {
+        "title": "A vote nobody can dispute",
+        "description": "Run online ballots for bylaws, budgets, and that eternal pool-hours debate. Every vote is logged, quorum is counted for you, and Karen can check the receipts.",
+        "icon": "chart"
+      },
+      {
+        "title": "Requests in one inbox",
+        "description": "Maintenance tickets, ARC requests, and gate-code pleas land in a single queue instead of your personal cell phone at 11pm on a Sunday.",
+        "icon": "bell"
+      },
+      {
+        "title": "Documents that don't vanish",
+        "description": "Bylaws, insurance, reserve studies, and vendor contracts live in one searchable vault — not on the last treasurer's dead laptop.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I inherited three binders and a shoebox of checks. Two weeks with Magpie Board and I finally know who paid dues and who's just very confident they did.",
+        "name": "Dana Reyes",
+        "role": "Board Treasurer",
+        "company": "Willow Bend Homeowners Assoc."
+      },
+      {
+        "quote": "Our violation letters used to start neighborhood feuds. Now there's a timestamp and a photo, so the arguing happens with the facts instead of me.",
+        "name": "Marcus Feld",
+        "role": "Board President",
+        "company": "Cypress Point HOA"
+      },
+      {
+        "quote": "We ran our first online budget vote and got 71% turnout. Previously our record was nine people and a folding table in the clubhouse.",
+        "name": "Priya Malhotra",
+        "role": "Secretary",
+        "company": "Elm Court Condominiums"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Volunteer",
+        "price": "$0",
+        "period": "free forever, no catch",
+        "blurb": "For the tiny association run entirely on goodwill and one exhausted neighbor.",
+        "features": [
+          "Up to 15 units",
+          "Dues tracking & reminders",
+          "Shared document vault",
+          "Meeting minutes"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Board",
+        "price": "$39",
+        "period": "per month, flat",
+        "blurb": "For a real HOA that wants dues, votes, and violations in one honest place.",
+        "features": [
+          "Up to 150 units",
+          "Online voting & quorum counting",
+          "Violation logging with photos",
+          "Maintenance & ARC request inbox",
+          "Vendor contract vault"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Association",
+        "price": "$99",
+        "period": "per month, flat",
+        "blurb": "For larger communities or the manager juggling several at once.",
+        "features": [
+          "Unlimited units",
+          "Multiple properties in one login",
+          "Reserve study & budget tracking",
+          "Custom violation workflows",
+          "Priority support from actual humans"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Magpie Board — HOA software for people who'd rather not be doing this. Built for boards, treasurers, and the neighbor who volunteered by accident."
+  }
+}

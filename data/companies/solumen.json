@@ -1,0 +1,138 @@
+{
+  "name": "Solumen",
+  "slug": "solumen",
+  "industry": "soil analytics",
+  "tagline": "Lab-grade soil science for the ground you actually tend.",
+  "positioning": "Solumen turns a mail-in soil sample into a clear, seasonal reading of your plot — so home growers can amend with intention, not guesswork.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F5F2EA",
+    "surface": "#FCFBF6",
+    "text": "#2C3A2E",
+    "primary": "#4E7157",
+    "accent": "#D3A08F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "So",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 4 A 8 8 0 1 0 20 12 A 5.5 5.5 0 1 1 12 6.5 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 18.5,
+        "cy": 6.5,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know exactly what your soil is asking for.",
+      "sub": "Mail us a small sample and Solumen returns a lab-grade reading of pH, nutrients, and organic matter — paired with an amendment plan written for your beds, not a spreadsheet.",
+      "ctaLabel": "Order a test kit",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Lab-grade soil reports",
+        "description": "Every sample runs through certified labs for pH, N-P-K, micronutrients, and organic matter — returned as a plain-language report you can actually act on.",
+        "icon": "chart"
+      },
+      {
+        "title": "Amendment plans that fit your plot",
+        "description": "Get precise quantities of compost, lime, or gypsum for each bed — measured to your square footage, so you stop over-applying and guessing.",
+        "icon": "target"
+      },
+      {
+        "title": "Season-over-season tracking",
+        "description": "Watch your soil improve. Solumen charts every test against your last one, showing how last spring's amendments moved the numbers.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Plant-specific guidance",
+        "description": "Tell us you're growing tomatoes, blueberries, or a native meadow, and recommendations shift to the pH and nutrient window each crop prefers.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Prepaid mail-in kits",
+        "description": "A soil probe, sample bags, and a postage-paid return mailer arrive at your door. Scoop, seal, and drop it in the mail — results in five days.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Regional benchmarks",
+        "description": "See how your soil compares to gardens in your county, so you know whether that low potassium is your plot or your whole region.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I'd been dumping lime on my beds for years on a hunch. Solumen showed my pH was already fine and my real problem was phosphorus. One report saved me a whole season of guessing.",
+        "name": "Marguerite Halloran",
+        "role": "Backyard market gardener",
+        "company": "Thistledown Plots"
+      },
+      {
+        "quote": "We test four blocks of the vineyard every spring. The season-over-season charts are the only reason I finally understand what our cover crops are doing to organic matter.",
+        "name": "Dario Fenwick",
+        "role": "Owner & grower",
+        "company": "Little Merle Vineyard"
+      },
+      {
+        "quote": "As an urban grower on reclaimed lots, I need to trust the numbers. The lab reports and plain-English amendment plans made our raised beds usable in one season.",
+        "name": "Priya Ostrander",
+        "role": "Founder",
+        "company": "Ninth Street Grows"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Plot",
+        "price": "$12",
+        "period": "per month, billed yearly",
+        "blurb": "For a single garden or a few raised beds.",
+        "features": [
+          "2 mail-in soil tests per year",
+          "Full pH & nutrient report",
+          "Basic amendment plan",
+          "Season-over-season history"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Garden",
+        "price": "$24",
+        "period": "per month, billed yearly",
+        "blurb": "For serious home growers tending several zones.",
+        "features": [
+          "6 mail-in soil tests per year",
+          "Plant-specific recommendations",
+          "Per-bed amendment quantities",
+          "Regional benchmark comparisons",
+          "Micronutrient panel included"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "$48",
+        "period": "per month, billed yearly",
+        "blurb": "For homesteads, small orchards, and hobby vineyards.",
+        "features": [
+          "15 mail-in soil tests per year",
+          "Multi-block tracking & maps",
+          "Priority lab turnaround",
+          "Advanced organic-matter analysis",
+          "Annual soil-health review call"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Solumen brings certified lab analysis to the people who actually get their hands dirty. Better soil, one honest reading at a time."
+  }
+}

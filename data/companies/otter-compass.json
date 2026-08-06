@@ -1,0 +1,138 @@
+{
+  "name": "Otter Compass",
+  "slug": "otter-compass",
+  "industry": "pet-tech",
+  "tagline": "One compass for your pet's whole life — health, whereabouts, and everything left unsaid.",
+  "positioning": "Otter Compass fuses collar sensors, vet records, and daily habits into one predictive map that tells you what your animal can't.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#07202E",
+    "surface": "#0E3345",
+    "text": "#E9F6F4",
+    "primary": "#18C2A8",
+    "accent": "#3E9BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "OC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 4 A 8 8 0 1 1 4 12 L 7 12 A 5 5 0 1 0 12 7 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 4,
+        "cy": 12,
+        "r": 2.2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every heartbeat, step, and secret your pet keeps — finally mapped.",
+      "sub": "Otter Compass turns collar sensors, vet history, and quiet daily habits into one living map of your animal's wellbeing — so you spot the storm days before the first symptom.",
+      "ctaLabel": "Claim your compass",
+      "secondaryCtaLabel": "Watch the orbit"
+    },
+    "features": [
+      {
+        "title": "Whereabouts, to the pawstep",
+        "description": "Live GPS with geo-fenced safe zones and a breadcrumb trail of every wander, so a bolted back gate becomes a notification, not a night of searching.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Vitals that see ahead",
+        "description": "Resting heart rate, temperature, and activity curves are modeled nightly. When a trend drifts from your pet's normal, we flag it before the limp appears.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Behavior, decoded",
+        "description": "Our model reads sleep fragmentation, scratching, and pacing to translate restlessness into plain language you can bring to the vet.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "One record, every clinic",
+        "description": "Vaccines, meds, allergies, and past visits live in a single shareable dossier — no more digging through email for the rabies certificate.",
+        "icon": "database"
+      },
+      {
+        "title": "Alerts before it hurts",
+        "description": "Set thresholds once and let Compass watch around the clock, nudging you the moment something meaningful changes.",
+        "icon": "bell"
+      },
+      {
+        "title": "A map for the whole pack",
+        "description": "Track dogs, cats, and the occasional house rabbit side by side, with a shared timeline the whole family can see.",
+        "icon": "compass"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Compass flagged my greyhound's resting heart rate climbing for four straight nights. The vet caught early cardiomyopathy. I would never have noticed on my own.",
+        "name": "Priya Raman",
+        "role": "Owner, two rescue greyhounds",
+        "company": "Hollowbrook Kennels"
+      },
+      {
+        "quote": "I foster six cats at a time. The shared dossier and per-pet alerts mean I finally hand off a full medical timeline to adopters instead of a shoebox of receipts.",
+        "name": "Marcus Ellery",
+        "role": "Foster coordinator",
+        "company": "Tidewater Cat Rescue"
+      },
+      {
+        "quote": "The behavior translations are uncanny. Compass told me my terrier's pacing spiked every evening — turned out to be separation anxiety we're now treating.",
+        "name": "Dr. Lena Vossberg",
+        "role": "Companion veterinarian",
+        "company": "Northgate Animal Clinic"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Explorer",
+        "price": "$9",
+        "period": "per pet, monthly",
+        "blurb": "Live location and the essentials for one curious companion.",
+        "features": [
+          "Real-time GPS & safe zones",
+          "30-day activity history",
+          "Two custom alerts",
+          "Shared vet dossier"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Navigator",
+        "price": "$19",
+        "period": "per pet, monthly",
+        "blurb": "Predictive health and behavior intelligence for the devoted.",
+        "features": [
+          "Everything in Explorer",
+          "Nightly vitals modeling",
+          "Behavior decoding & mood signals",
+          "Unlimited alerts",
+          "1-year history & trend reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Constellation",
+        "price": "$39",
+        "period": "per household, monthly",
+        "blurb": "The full pack on one map, for multi-pet homes and fosters.",
+        "features": [
+          "Everything in Navigator",
+          "Up to 10 pets",
+          "Family & caregiver access",
+          "Priority anomaly review",
+          "Exportable clinic-ready records"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Otter Compass is the intelligence layer for every life you love with a heartbeat and a tail. See the whole animal, sooner."
+  }
+}

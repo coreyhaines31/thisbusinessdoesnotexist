@@ -1,0 +1,140 @@
+{
+  "name": "RetreatForge",
+  "slug": "retreatforge",
+  "industry": "corporate offsites",
+  "tagline": "The operating system for company offsites that actually pay off.",
+  "positioning": "RetreatForge turns the chaos of planning a team offsite into one repeatable, budgeted, ROI-tracked workflow built for owner-operators.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F2F0EB",
+    "surface": "#FFFFFF",
+    "text": "#111111",
+    "primary": "#141414",
+    "accent": "#FF4A1C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 6,
+        "width": 12,
+        "height": 12,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,3 21,12 12,21 3,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Offsites, run like a supply chain.",
+      "sub": "RetreatForge gives SMB owner-operators one system to scope venues, lock budgets, assign owners, and prove ROI on every company offsite — no spreadsheet graveyard required.",
+      "ctaLabel": "Start planning",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Venue pipeline",
+        "description": "Compare vetted venues by headcount, drive time, and per-head cost. Lock a hold, generate the contract, and route it for signature in one thread.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Budget ledger",
+        "description": "Every line item — travel, catering, facilitation — ties to a cap you set. Overages flag before they clear, not after the offsite is over.",
+        "icon": "chart"
+      },
+      {
+        "title": "Owner assignments",
+        "description": "Turn the agenda into accountable tasks. Each session, meal, and transfer has a named owner and a deadline your team can see.",
+        "icon": "users"
+      },
+      {
+        "title": "ROI report",
+        "description": "Auto-build a one-page recap: spend per attendee, attendance, survey scores, and follow-up actions your board can actually read.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Logistics timeline",
+        "description": "Flights, ground transfers, and check-ins map to a single hour-by-hour run sheet the whole crew can pull up offline.",
+        "icon": "clock"
+      },
+      {
+        "title": "Approval controls",
+        "description": "Set who signs off at which dollar threshold. Requests route, escalate, and log — so nothing gets booked on a whim.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to run our annual offsite off four spreadsheets and a group text. RetreatForge cut planning from six weeks to nine days and kept us $11k under budget.",
+        "name": "Danielle Portmann",
+        "role": "Owner",
+        "company": "Northbend Millwork"
+      },
+      {
+        "quote": "The ROI report alone justified the seats. I finally walked into a partner meeting with a real number on what our leadership retreat delivered.",
+        "name": "Marcus Ojеda",
+        "role": "Managing Partner",
+        "company": "Cedar & Vale Advisory"
+      },
+      {
+        "quote": "Assigning owners to every session stopped the day-of scramble. Our 40-person offsite ran on the run sheet, not on me answering texts.",
+        "name": "Priya Raghunathan",
+        "role": "Founder & CEO",
+        "company": "Latchkey Logistics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running one or two offsites a year.",
+        "features": [
+          "Up to 3 planning seats",
+          "Venue pipeline + holds",
+          "Budget ledger with caps",
+          "1 ROI report per event"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing teams running quarterly offsites across sites.",
+        "features": [
+          "Up to 25 planning seats",
+          "Approval controls & thresholds",
+          "Logistics run sheets, offline",
+          "Unlimited ROI reports",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / year, billed annually",
+        "blurb": "For multi-brand operators with procurement requirements.",
+        "features": [
+          "Unlimited seats",
+          "SSO & audit logging",
+          "Custom approval workflows",
+          "Dedicated success manager",
+          "Procurement & MSA support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "RetreatForge is the offsite operating system for owner-operators who expect their retreats to run like the rest of the business."
+  }
+}

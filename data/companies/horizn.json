@@ -1,0 +1,153 @@
+{
+  "name": "Horizn",
+  "slug": "horizn",
+  "industry": "soil analytics",
+  "tagline": "Every soil sample, resolved into decisions your agronomists trust.",
+  "positioning": "Horizn turns raw lab panels and spectral scans into a single, auditable soil model for enterprise farming and carbon programs.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#12140F",
+    "surface": "#1D2016",
+    "text": "#EDEFE0",
+    "primary": "#9BC53D",
+    "accent": "#D08A3E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "H",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 5,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 5,
+        "y": 11,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 17,
+        "width": 13,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stop reconciling soil data in spreadsheets.",
+      "sub": "Horizn ingests lab panels, VNIR scans, and field logs into one soil horizon model — so your agronomy and sustainability teams argue about strategy, not which nitrogen number is real.",
+      "ctaLabel": "Book a soil audit",
+      "secondaryCtaLabel": "See the data model"
+    },
+    "features": [
+      {
+        "title": "One model per field",
+        "description": "Merge lab chemistry, spectral scans, and probe readings into a single versioned soil profile — depth by depth, sample by sample.",
+        "icon": "layers"
+      },
+      {
+        "title": "Carbon you can defend",
+        "description": "Quantify soil organic carbon with uncertainty bounds and full sample lineage, formatted for Verra and CDR registry review.",
+        "icon": "chart"
+      },
+      {
+        "title": "Lab-agnostic ingestion",
+        "description": "Drop in CSVs from any accredited lab. Horizn maps units, flags outliers, and reconciles method drift automatically.",
+        "icon": "database"
+      },
+      {
+        "title": "Audit trail on every value",
+        "description": "Trace any nutrient reading back to the tube, the technician, and the method. Nothing in the model is unsourced.",
+        "icon": "shield"
+      },
+      {
+        "title": "Zone-level recommendations",
+        "description": "Turn variability maps into per-zone amendment plans your agronomists can approve, override, and export to equipment.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "API into your stack",
+        "description": "Push resolved soil metrics into your FMIS, ERP, or carbon platform. Horizn is the source of truth, not another silo.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were stitching together twelve lab formats by hand every quarter. Horizn gave us one soil model across 40,000 hectares and cut our reporting cycle from six weeks to four days.",
+        "name": "Marisol Reyes",
+        "role": "Director of Agronomy",
+        "company": "Cordera Farms"
+      },
+      {
+        "quote": "The carbon buyers wanted lineage on every organic carbon figure. Horizn produced sample-level provenance our verifier accepted without a single follow-up.",
+        "name": "Thomas Okonkwo",
+        "role": "Head of Sustainability",
+        "company": "Greenmarsh Estates"
+      },
+      {
+        "quote": "Method drift between labs used to quietly wreck our nitrogen trends. Horizn caught it, normalized it, and showed us the correction. That kind of honesty is rare in this space.",
+        "name": "Ingrid Vasseur",
+        "role": "VP Soil Science",
+        "company": "Terravale Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Field",
+        "price": "$4",
+        "period": "per sample resolved",
+        "blurb": "For single-operation teams standardizing their soil data.",
+        "features": [
+          "Up to 5,000 samples/year",
+          "Lab ingestion & unit mapping",
+          "Versioned soil profiles",
+          "Standard export formats"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$2.40",
+        "period": "per sample resolved",
+        "blurb": "For multi-region operators and carbon programs at scale.",
+        "features": [
+          "Volume pricing above 25,000 samples",
+          "Carbon lineage & registry exports",
+          "Zone-level recommendations",
+          "API + FMIS/ERP integration",
+          "Method-drift reconciliation"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Program",
+        "price": "Custom",
+        "period": "annual platform agreement",
+        "blurb": "For registries and agribusiness groups aggregating many operators.",
+        "features": [
+          "Unlimited resolved samples",
+          "Dedicated soil-science support",
+          "Custom uncertainty modeling",
+          "SSO, audit logs, SLAs",
+          "On-prem or private cloud"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Horizn is the auditable soil model for enterprise agriculture and carbon programs. Built by soil scientists who got tired of spreadsheets."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Cyclora",
+  "slug": "cyclora",
+  "industry": "micro-mobility charging",
+  "tagline": "Enterprise-grade charging infrastructure for the two-wheel commuter.",
+  "positioning": "Cyclora operates a managed charging network for e-bikes and scooters, giving individuals and prosumers institutional-grade uptime, billing, and battery health.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "text": "#0B0B0C",
+    "primary": "#111113",
+    "accent": "#D6FF2E"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Cy",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The charging network your commute deserves.",
+      "sub": "Cyclora manages docking, billing, and battery diagnostics for personal e-bikes and scooters — the same reliability standards fleets pay a fortune for, provisioned for one rider.",
+      "ctaLabel": "Provision a dock",
+      "secondaryCtaLabel": "View coverage map"
+    },
+    "features": [
+      {
+        "title": "Guaranteed uptime docks",
+        "description": "Every Cyclora dock reports live status to our operations center. If a bay faults, we reroute you to the nearest available charger before you arrive.",
+        "icon": "zap"
+      },
+      {
+        "title": "Battery health telemetry",
+        "description": "We track charge cycles, cell temperature, and degradation on your registered battery and flag anomalies before they strand you mid-commute.",
+        "icon": "chart"
+      },
+      {
+        "title": "Consolidated billing",
+        "description": "One monthly statement across every dock you touch — itemized by session, kilowatt-hour, and location, exportable for expense reimbursement.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Reserved bays",
+        "description": "Lock a charging window at your home station or office plaza so a bay is waiting when you roll up, verified by license-plate NFC.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Network coverage",
+        "description": "Over 4,200 managed bays across 38 metro corridors, with new sites audited to the same Cyclora hardware and safety spec.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Incident response",
+        "description": "A staffed support desk handles disputes, refunds, and hardware faults with a four-hour resolution commitment on every tier.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I retired my apartment charging setup entirely. My Cyclora statement replaced three separate app subscriptions and I finally trust the battery report on my cargo bike.",
+        "name": "Marisol Reyes",
+        "role": "Daily bike commuter",
+        "company": "Independent"
+      },
+      {
+        "quote": "We equipped our sales riders with Cyclora reserved bays. Downtime on charging complaints dropped to effectively zero and the billing exports drop straight into our expense system.",
+        "name": "Tomas Verhoeven",
+        "role": "Operations Lead",
+        "company": "Meridian Courier Group"
+      },
+      {
+        "quote": "The battery telemetry caught a failing cell two weeks before it would have left me stranded. That single alert paid for a year of the subscription.",
+        "name": "Priya Anand",
+        "role": "Scooter prosumer",
+        "company": "Independent"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Commuter",
+        "price": "$19",
+        "period": "per month",
+        "blurb": "For a single rider on a home and office corridor.",
+        "features": [
+          "1 registered vehicle",
+          "Pay-per-session dock access",
+          "Basic battery health reports",
+          "Consolidated monthly billing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Prosumer",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For power riders who depend on their vehicle daily.",
+        "features": [
+          "Up to 3 registered vehicles",
+          "Reserved charging bays",
+          "Full battery telemetry & alerts",
+          "Priority incident response",
+          "Included kWh allowance"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Syndicate",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For building managers and small rider collectives.",
+        "features": [
+          "Unlimited registered vehicles",
+          "Dedicated dock provisioning",
+          "Custom SLA & uptime guarantee",
+          "Account management desk",
+          "API access to session data"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cyclora operates managed micro-mobility charging infrastructure to institutional reliability standards — provisioned for the individual rider."
+  }
+}

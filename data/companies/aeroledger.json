@@ -1,0 +1,164 @@
+{
+  "name": "AeroLedger",
+  "slug": "aeroledger",
+  "industry": "drone inspection",
+  "tagline": "Audit-ready aerial inspections for the owner-operator.",
+  "positioning": "AeroLedger turns drone flights into signed, timestamped inspection records SMB contractors can hand straight to insurers, clients, and code officials.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4F1FA",
+    "surface": "#FFFFFF",
+    "text": "#2B2740",
+    "primary": "#6E5BD1",
+    "accent": "#E79BB4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AL",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every flight becomes a defensible inspection record.",
+      "sub": "AeroLedger captures your drone footage, geotags each finding, and compiles a signed PDF report your clients and insurers accept — before you land the aircraft.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Chain-of-custody reports",
+        "description": "Each roof, tower, or facade capture is timestamped, geotagged, and locked into an audit trail no claims adjuster can dispute.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fly-to-report in minutes",
+        "description": "Upload from the field and AeroLedger assembles a branded inspection dossier — annotations, measurements, and cover page included.",
+        "icon": "zap"
+      },
+      {
+        "title": "Findings that hold up",
+        "description": "Flag cracks, corrosion, and moisture intrusion against a standardized severity scale your whole crew applies the same way.",
+        "icon": "target"
+      },
+      {
+        "title": "Client-ready delivery",
+        "description": "Send a secure link or PDF that property owners, GCs, and carriers open without an account or a login wall.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Airspace on record",
+        "description": "Attach LAANC authorizations and flight logs to every job so compliance questions answer themselves.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "One library, every asset",
+        "description": "Search past inspections by address, date, or defect type to quote repeat work and prove condition over time.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose a full day assembling roof reports in a spreadsheet. AeroLedger hands the adjuster a signed dossier the same afternoon we fly. Our claims approval rate went up, not our headcount.",
+        "name": "Marcus Devlin",
+        "role": "Owner & Part 107 Pilot",
+        "company": "Devlin Aerial Surveys"
+      },
+      {
+        "quote": "The chain-of-custody trail settled two disputes before they became lawsuits. For a three-person shop, that's the difference between a good year and a bad one.",
+        "name": "Priya Anand",
+        "role": "Operations Lead",
+        "company": "Ridgeline Roof Inspections"
+      },
+      {
+        "quote": "I bought two seats, put my nephew on the second, and we doubled the tower jobs we can turn around each week. The reports look like they came from a firm ten times our size.",
+        "name": "Trent Kowalczyk",
+        "role": "Founder",
+        "company": "Summit Structure Checks"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For the single-pilot operator running their own inspections.",
+        "features": [
+          "1 pilot seat",
+          "Unlimited inspection reports",
+          "LAANC & flight log attachments",
+          "Branded PDF delivery",
+          "30-day capture storage"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$129",
+        "period": "per seat / month",
+        "blurb": "For growing shops standardizing findings across a small team.",
+        "features": [
+          "Everything in Solo",
+          "Shared inspection library",
+          "Standardized severity templates",
+          "Client portal links",
+          "2-year capture storage",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "volume seat pricing",
+        "blurb": "For multi-crew operators with insurer and enterprise clients.",
+        "features": [
+          "Everything in Crew",
+          "SSO & role controls",
+          "API & carrier integrations",
+          "Custom retention policy",
+          "Dedicated success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "AeroLedger is the inspection system of record for independent drone operators — turning every flight into proof."
+  }
+}

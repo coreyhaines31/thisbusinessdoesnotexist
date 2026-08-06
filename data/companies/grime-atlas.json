@@ -1,0 +1,138 @@
+{
+  "name": "Grime Atlas",
+  "slug": "grime-atlas",
+  "industry": "industrial cleaning",
+  "tagline": "Run the whole filthy operation from one screen. Mop optional.",
+  "positioning": "Grime Atlas is the job and crew platform for industrial cleaning shops — scheduling, quotes, and proof-of-clean for owner-operators who'd rather be scrubbing.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#12100F",
+    "surface": "#1F1B18",
+    "text": "#F3ECE2",
+    "primary": "#E4682C",
+    "accent": "#7FB4AA"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GA",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 C 17 9 20 12 20 16 A 8 8 0 1 1 4 16 C 4 12 7 9 12 2 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 15,
+        "r": 4.2,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The mess is the business. This is the paperwork.",
+      "sub": "Grime Atlas runs quotes, crews, routes, and proof-of-clean for industrial cleaning shops — so you spend less time chasing invoices and more time chasing grease traps.",
+      "ctaLabel": "Start scrubbing",
+      "secondaryCtaLabel": "See a demo job"
+    },
+    "features": [
+      {
+        "title": "Quotes that don't take a Tuesday",
+        "description": "Walk the floor, tap the surfaces, send a branded estimate before you've packed the pressure washer. Your crew rate does the math.",
+        "icon": "zap"
+      },
+      {
+        "title": "Crews where you left them",
+        "description": "Drag jobs onto techs, watch clock-ins hit the map, and know who's on the third-shift warehouse without a single 'you there?' text.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Proof-of-clean, timestamped",
+        "description": "Before-and-after photos, checklists, and site sign-off attach to the job automatically. Disputes end where the receipts begin.",
+        "icon": "shield"
+      },
+      {
+        "title": "Invoices that actually collect",
+        "description": "Auto-send on completion, nudge the slow payers, and reconcile against the deposit — no spreadsheet named final_FINAL_v3.",
+        "icon": "chart"
+      },
+      {
+        "title": "Recurring routes on autopilot",
+        "description": "Nightly floors, weekly kitchens, monthly ducts — set the cadence once and Grime Atlas rebuilds the schedule while you sleep.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Chemicals and gear, counted",
+        "description": "Track degreaser by the drum and log SDS sheets per site, so the compliance binder writes itself before the audit does.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose two jobs a month to quotes I forgot to send. Now the estimate goes out before I've climbed off the scissor lift. Cleared 40 grand of ghost pipeline in a quarter.",
+        "name": "Dwayne Petro",
+        "role": "Owner-Operator",
+        "company": "Petro Facility Services"
+      },
+      {
+        "quote": "My crews stopped texting me photos to a group chat that nobody could find at invoice time. Everything lives on the job now. The dispute emails just... stopped.",
+        "name": "Renata Voss",
+        "role": "Operations Lead",
+        "company": "Cornerstone Industrial Clean"
+      },
+      {
+        "quote": "I bought it as a joke because the sign-up page insulted my spreadsheet. Then it saved my payroll math on a 22-person night shift. I'm not laughing anymore, but I did keep the mascot.",
+        "name": "Marcus Idle",
+        "role": "Founder",
+        "company": "Blackstone Sanitation Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Push Broom",
+        "price": "$22",
+        "period": "per seat / month",
+        "blurb": "For the solo operator and a helper who answers the phone.",
+        "features": [
+          "Unlimited quotes and invoices",
+          "Job scheduling and calendar",
+          "Before-and-after photo proof",
+          "Mobile clock-in for the crew"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Deep Clean",
+        "price": "$44",
+        "period": "per seat / month",
+        "blurb": "For growing shops with real routes and real payroll.",
+        "features": [
+          "Everything in Push Broom",
+          "Recurring route automation",
+          "Live crew map and time tracking",
+          "SDS and chemical inventory logs",
+          "Automated payment reminders"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Crew",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-site outfits that audit their auditors.",
+        "features": [
+          "Everything in Deep Clean",
+          "Multi-branch dashboards",
+          "Compliance export packs",
+          "API and payroll integrations",
+          "A human who answers the phone"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Grime Atlas — the unglamorous software for the unglamorous work. Built for owner-operators who'd rather run the job than the paperwork."
+  }
+}

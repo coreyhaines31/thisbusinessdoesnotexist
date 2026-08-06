@@ -1,0 +1,138 @@
+{
+  "name": "Vernalis",
+  "slug": "vernalis",
+  "industry": "vertical farming",
+  "tagline": "The countertop farm that actually feeds you dinner.",
+  "positioning": "Vernalis is a self-watering vertical garden and companion app that grows herbs, greens, and micro-veg on your kitchen counter — no green thumb required.",
+  "vibe": "playful",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0F0B",
+    "surface": "#131B15",
+    "text": "#E8FBEC",
+    "primary": "#4DFF8A",
+    "accent": "#B78BFF"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grow real food where your fruit bowl used to be.",
+      "sub": "Vernalis is a three-tier hydroponic garden the size of a toaster. Drop in a seed pod, fill the tank, and harvest basil, kale, and cherry tomatoes in weeks — the app handles the rest.",
+      "ctaLabel": "Start your garden",
+      "secondaryCtaLabel": "See how it grows"
+    },
+    "features": [
+      {
+        "title": "Pods, not seeds packets",
+        "description": "Pre-sown biodegradable pods snap into any tier. No soil, no measuring, no guessing which seedling is a weed.",
+        "icon": "layers"
+      },
+      {
+        "title": "It waters itself",
+        "description": "The 2.4L reservoir feeds nutrients on a schedule tuned to each plant. You'll get a nudge when it's thirsty — roughly every 10 days.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Light that follows the sun",
+        "description": "Full-spectrum LEDs ramp up at dawn and dim at dusk, so your parsley thinks it's on a Tuscan hillside, not your counter.",
+        "icon": "zap"
+      },
+      {
+        "title": "Harvest reminders that land",
+        "description": "The app tells you when each pod peaks — 'your arugula is ready, eat it in the next 3 days' — so nothing bolts or wilts unpicked.",
+        "icon": "bell"
+      },
+      {
+        "title": "Grow logs you'll actually keep",
+        "description": "Every batch gets a timeline: germination, first true leaves, first snip. Repeat what worked, retire what bolted.",
+        "icon": "chart"
+      },
+      {
+        "title": "Pods for every craving",
+        "description": "From Thai basil to rainbow chard to wildflower mixes for pollinators — over 60 varieties, delivered to fit right in the tray.",
+        "icon": "sparkles"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I killed four store-bought basil plants before this. Vernalis is on its ninth harvest and I've stopped buying herbs entirely. My pesto game is genuinely out of control now.",
+        "name": "Priya Nadkarni",
+        "role": "Home cook & recipe blogger",
+        "company": "The Weeknight Kitchen"
+      },
+      {
+        "quote": "We put one in the break room as a joke. Now the whole team fights over the mint for their tea and nobody remembers whose turn it is to top up the tank.",
+        "name": "Marcus Feld",
+        "role": "Office Manager",
+        "company": "Halden Studio"
+      },
+      {
+        "quote": "As someone in a fourth-floor apartment with north-facing windows, this is the first time I've grown anything edible indoors that didn't turn into a sad stick.",
+        "name": "Dana Okoro",
+        "role": "Renter & first-time grower",
+        "company": "Rowan Court Apartments"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$149",
+        "period": "one-time + pods",
+        "blurb": "A single-tier garden for herbs and greens — perfect for one counter.",
+        "features": [
+          "6-pod single tier",
+          "Self-watering 1.2L tank",
+          "Full-spectrum grow light",
+          "Vernalis app & grow logs",
+          "Starter pack: basil, mint, lettuce"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harvest",
+        "price": "$279",
+        "period": "one-time + pods",
+        "blurb": "The three-tier flagship for people who want salad, not garnish.",
+        "features": [
+          "18-pod three-tier tower",
+          "2.4L reservoir & auto-dosing",
+          "Sunrise-to-sunset light schedule",
+          "Harvest reminders & yield tracking",
+          "12-pod welcome bundle",
+          "Free shipping on pod refills"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Homestead",
+        "price": "$499",
+        "period": "one-time + pods",
+        "blurb": "Two towers and a season plan for the household that meal-preps.",
+        "features": [
+          "Two three-tier towers (36 pods)",
+          "Shared app dashboard & schedules",
+          "Seasonal grow plan curation",
+          "Priority pod subscription",
+          "Extended 3-year hardware warranty",
+          "Early access to new varieties"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vernalis makes countertop vertical gardens for people who want to grow real food, not admire a houseplant. Rooted in earnest, grown at home."
+  }
+}

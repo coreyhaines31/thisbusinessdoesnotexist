@@ -1,0 +1,137 @@
+{
+  "name": "Trundle",
+  "slug": "trundle",
+  "industry": "fleet telematics",
+  "tagline": "Know where every truck is before your customer calls to ask.",
+  "positioning": "Trundle turns raw GPS pings, engine faults, and driver drama into decisions your ops team actually makes — priced by the mile, not by the seat.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F5F2FB",
+    "surface": "#FFFFFF",
+    "text": "#2B2540",
+    "primary": "#6B5AE0",
+    "accent": "#F2A6C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "T",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,5 11,12 3,19 7,19 15,12 7,5",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "13,5 21,12 13,19",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your fleet is lying to you. We caught it on camera.",
+      "sub": "Trundle ingests telemetry from 40,000-vehicle fleets and tells you the one thing every dashboard hides: what's actually happening right now, and what it's about to cost you.",
+      "ctaLabel": "Book a live tracing",
+      "secondaryCtaLabel": "See the specs"
+    },
+    "features": [
+      {
+        "title": "Faults, translated",
+        "description": "OBD codes come in as gibberish. Trundle turns P0299 into 'turbo underboost on Unit 214, schedule it before Thursday' — with the part number attached.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Geofences that behave",
+        "description": "Draw a yard, a customer site, a route corridor. Get pinged when a driver lingers, deviates, or takes the scenic route home with your reefer trailer.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Idle you can bill back",
+        "description": "We tag every idle minute by cause, driver, and depot — so the fuel line item in your QBR stops being a mystery and starts being a lever.",
+        "icon": "clock"
+      },
+      {
+        "title": "One API, no forklift",
+        "description": "Samsara, Geotab, Motive, whatever's already bolted to the dash. Trundle reads them all and normalizes to a single schema your BI team won't hate.",
+        "icon": "layers"
+      },
+      {
+        "title": "Alerts with restraint",
+        "description": "Nobody reads 900 notifications. We rank by dollars at risk and route only the ones a human should touch to the human who owns that lane.",
+        "icon": "bell"
+      },
+      {
+        "title": "Audit-grade history",
+        "description": "Every ping, every event, retained and immutable. When a claims adjuster or the DOT comes asking, the answer is a URL, not a three-day scramble.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were paying three analysts to reconcile telematics exports every Monday. Trundle killed the spreadsheet. One of them now runs our route optimization instead, which is a much better use of a human.",
+        "name": "Danielle Okafor",
+        "role": "VP of Fleet Operations",
+        "company": "Cortland Logistics"
+      },
+      {
+        "quote": "The idle attribution alone paid for the contract in a quarter. Turns out one depot was leaving reefers running overnight 'to be safe.' It was safe. It was also $70k a year.",
+        "name": "Marcus Whitfield",
+        "role": "Director of Asset Performance",
+        "company": "Brightline Freight Group"
+      },
+      {
+        "quote": "I've bought four telematics platforms in my career. This is the first one where the sales demo matched what shipped. Suspicious at first. Delighted now.",
+        "name": "Priya Ramaswamy",
+        "role": "Chief Operating Officer",
+        "company": "Meridian Haul Networks"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Depot",
+        "price": "$0.9",
+        "period": "per active vehicle / month",
+        "blurb": "For regional fleets who want signal, not another login to babysit.",
+        "features": [
+          "Up to 250 active vehicles",
+          "Fault translation & idle tagging",
+          "Standard geofencing",
+          "14-day telemetry retention"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Corridor",
+        "price": "$0.6",
+        "period": "per active vehicle / month",
+        "blurb": "Volume pricing for multi-depot operators. Pay for miles moved, not seats sold.",
+        "features": [
+          "Unlimited vehicles, tiered by usage",
+          "Dollar-ranked alert routing",
+          "Multi-provider API normalization",
+          "13-month audit-grade retention",
+          "Route corridor deviation alerts",
+          "Dedicated integration engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "metered, invoiced quarterly",
+        "blurb": "For 10,000+ vehicle enterprises with procurement teams that ask hard questions.",
+        "features": [
+          "Everything in Corridor",
+          "Private cloud or on-prem ingest",
+          "Custom retention & data residency",
+          "SLA with financial teeth",
+          "Named account team & QBRs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Trundle — fleet telematics for people who've been burned by dashboards. Metered by the mile, honest by design."
+  }
+}

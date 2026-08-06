@@ -1,0 +1,140 @@
+{
+  "name": "Ghost Ladder",
+  "slug": "ghost-ladder",
+  "industry": "esports coaching",
+  "tagline": "The command center for the next generation of competitive coaching businesses.",
+  "positioning": "Ghost Ladder turns solo esports coaches into scalable academies — scheduling, VOD review, and rank tracking in one brutal, focused platform.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F4F4FA",
+    "primary": "#00FF9C",
+    "accent": "#FF2E88"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GL",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 4,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,5 19,13 14.5,13 14.5,19 9.5,19 9.5,13 5,13",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Build the coaching empire the ladder deserves.",
+      "sub": "You are not a hobbyist. Ghost Ladder gives owner-operator coaches the scheduling, VOD breakdown, and rank-progression engine to run a real academy — not a Discord.",
+      "ctaLabel": "Claim your seats",
+      "secondaryCtaLabel": "Watch the demo"
+    },
+    "features": [
+      {
+        "title": "VOD Review Timeline",
+        "description": "Drop a replay, drop timestamped notes, and export a frame-annotated breakdown your player actually rewatches. No more screen-share amnesia.",
+        "icon": "layers"
+      },
+      {
+        "title": "Rank Trajectory Engine",
+        "description": "Track every player from Silver to Radiant with rank deltas, win-rate curves, and the exact drills that moved the needle this week.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Seat-Based Scheduling",
+        "description": "Assign coaches to seats, auto-fill availability across time zones, and stop double-booking your Tuesday scrim block forever.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Drill Playbook Library",
+        "description": "Codify your aim routines, comms scripts, and map calls into reusable playbooks so every coach on your roster teaches the same doctrine.",
+        "icon": "target"
+      },
+      {
+        "title": "Roster Command View",
+        "description": "See every client, session, and unpaid invoice on one screen — the single pane of glass your spreadsheet was never going to become.",
+        "icon": "chart"
+      },
+      {
+        "title": "Session Recording Vault",
+        "description": "Every coaching call archived, transcribed, and searchable. Prove your value at renewal with receipts, not vibes.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I went from coaching 6 Valorant players out of a notes app to running a 40-seat academy. Ghost Ladder is the operating system I didn't know I was allowed to want.",
+        "name": "Devon Marsh",
+        "role": "Founder & Head Coach",
+        "company": "Overpass Academy"
+      },
+      {
+        "quote": "The rank trajectory reports sell themselves. Parents renew because they can literally see the climb. My churn dropped in half in one season.",
+        "name": "Priya Anand",
+        "role": "Owner",
+        "company": "Clutch City Coaching"
+      },
+      {
+        "quote": "We used to lose an hour per client just scheduling around EU and NA scrims. Seat-based scheduling gave me back my mornings and my sanity.",
+        "name": "Lukas Vogel",
+        "role": "Director of Coaching",
+        "company": "Nadeo Esports Lab"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one-person operation ready to look like a real business.",
+        "features": [
+          "1 coaching seat",
+          "VOD review timeline",
+          "Rank trajectory tracking",
+          "Client scheduling"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Academy",
+        "price": "$24",
+        "period": "per seat / month",
+        "blurb": "For growing rosters running multiple coaches under one banner.",
+        "features": [
+          "Up to 25 seats",
+          "Everything in Solo",
+          "Shared drill playbooks",
+          "Roster command view",
+          "Recording vault"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Franchise",
+        "price": "Custom",
+        "period": "volume per-seat pricing",
+        "blurb": "For multi-region academies and org-backed programs.",
+        "features": [
+          "Unlimited seats",
+          "SSO & role permissions",
+          "API & LMS integrations",
+          "Dedicated success manager",
+          "Custom reporting exports"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ghost Ladder is the command center for esports coaching businesses that intend to win. Built for owner-operators. Priced per seat."
+  }
+}

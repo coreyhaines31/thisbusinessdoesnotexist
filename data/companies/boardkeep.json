@@ -1,0 +1,162 @@
+{
+  "name": "BoardKeep",
+  "slug": "boardkeep",
+  "industry": "HOA management",
+  "tagline": "The operating system for community association managers.",
+  "positioning": "BoardKeep consolidates dues, violations, board packets, and reserves into one ledger built for firms managing dozens of associations at once.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0E1116",
+    "surface": "#191E27",
+    "text": "#E7EBF1",
+    "primary": "#5B82FF",
+    "accent": "#D9A93A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BK",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13.5,
+        "y": 2,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 13.5,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13.5,
+        "y": 13.5,
+        "width": 8.5,
+        "height": 8.5,
+        "rx": 1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every association from one ledger.",
+      "sub": "BoardKeep replaces the spreadsheet-and-email chaos of managing multiple HOAs — assessments, violations, ARC requests, and board packets in a single system of record.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View pricing"
+    },
+    "features": [
+      {
+        "title": "Assessment Ledger",
+        "description": "Bill dues and special assessments across every association, auto-post payments, and generate delinquency reports your board actually trusts.",
+        "icon": "database"
+      },
+      {
+        "title": "Violation Tracking",
+        "description": "Log covenant violations with photos, fire escalation notices on schedule, and keep a defensible audit trail for every parcel.",
+        "icon": "shield"
+      },
+      {
+        "title": "Board Packet Builder",
+        "description": "Compile agendas, financials, and ARC decisions into a board-ready packet in minutes instead of the night before the meeting.",
+        "icon": "layers"
+      },
+      {
+        "title": "Reserve Planning",
+        "description": "Model reserve funding against your study, flag underfunded components, and export the schedule your CPA and board expect.",
+        "icon": "chart"
+      },
+      {
+        "title": "Homeowner Portal",
+        "description": "Give residents a branded portal to pay dues, submit ARC requests, and check violation status — cutting inbound calls to your office.",
+        "icon": "users"
+      },
+      {
+        "title": "Compliance Calendar",
+        "description": "Track statutory deadlines, annual meetings, and disclosure filings per association so nothing slips through the cracks.",
+        "icon": "calendar"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We manage 41 associations with a team of six. BoardKeep cut our month-end close from eleven days to three and killed the spreadsheet handoffs entirely.",
+        "name": "Dana Okafor",
+        "role": "Director of Operations",
+        "company": "Cedarline Community Management"
+      },
+      {
+        "quote": "Board packets used to eat an entire evening per association. Now our managers assemble them in twenty minutes and the boards stopped asking where the numbers came from.",
+        "name": "Marcus Elwell",
+        "role": "Senior Community Association Manager",
+        "company": "Harborview Association Partners"
+      },
+      {
+        "quote": "The violation audit trail alone paid for the seats. When a homeowner disputed a fine, we pulled the full timeline with photos in seconds.",
+        "name": "Priya Raman",
+        "role": "Managing Principal",
+        "company": "Stonegate Residential Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Manager",
+        "price": "$34",
+        "period": "per seat / month",
+        "blurb": "For solo operators managing a handful of associations.",
+        "features": [
+          "Up to 5 associations",
+          "Assessment ledger & payments",
+          "Violation tracking",
+          "Homeowner portal"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Portfolio",
+        "price": "$62",
+        "period": "per seat / month",
+        "blurb": "For growing firms running a full book of communities.",
+        "features": [
+          "Unlimited associations",
+          "Board packet builder",
+          "Reserve planning",
+          "Compliance calendar",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-office firms with governance and integration needs.",
+        "features": [
+          "SSO & role-based access",
+          "Accounting system integrations",
+          "Dedicated success manager",
+          "Custom reporting & audit exports",
+          "SLA & onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "BoardKeep is the system of record for community association management firms. Built for managers, boards, and the ledgers they answer to."
+  }
+}

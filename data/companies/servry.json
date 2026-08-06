@@ -1,0 +1,153 @@
+{
+  "name": "Servry",
+  "slug": "servry",
+  "industry": "ghost kitchens",
+  "tagline": "Enterprise infrastructure for the invisible restaurant.",
+  "positioning": "Servry operates and orchestrates delivery-only kitchen networks for multi-brand food operators, from lease to line to last mile.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FAFAF8",
+    "surface": "#FFFFFF",
+    "text": "#111111",
+    "primary": "#111111",
+    "accent": "#FF3B14"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 10,
+        "width": 11,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 16,
+        "width": 16,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The operating layer for delivery-only kitchen networks.",
+      "sub": "Servry gives enterprise food operators one control plane for facilities, staffing, menu deployment, and order routing across every ghost kitchen site — with margin visibility down to the ticket.",
+      "ctaLabel": "Request a deployment review",
+      "secondaryCtaLabel": "View the platform"
+    },
+    "features": [
+      {
+        "title": "Multi-brand menu deployment",
+        "description": "Push a new virtual brand to 40 kitchens in an afternoon — recipes, station cards, and channel listings synced across DoorDash, Uber Eats, and your own app.",
+        "icon": "layers"
+      },
+      {
+        "title": "Station-level throughput",
+        "description": "See prep time, ticket age, and expo bottlenecks per line in real time. Servry flags the station dragging down your fulfillment SLA before the region does.",
+        "icon": "chart"
+      },
+      {
+        "title": "Order routing intelligence",
+        "description": "Route demand to the kitchen with the shortest queue and lowest delivery radius, automatically rebalancing during peak without a dispatcher touching it.",
+        "icon": "target"
+      },
+      {
+        "title": "Facilities & compliance ledger",
+        "description": "Every hood cleaning, temp log, and health inspection tracked per site, with audit-ready exports mapped to local jurisdictions.",
+        "icon": "shield"
+      },
+      {
+        "title": "Unified margin reporting",
+        "description": "Blend food cost, labor, commission, and rent into one contribution-margin view per brand, per kitchen, per daypart.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Capacity planning",
+        "description": "Model new sites and brand launches against forecasted demand before you sign a lease or hire a single line cook.",
+        "icon": "compass"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated eleven kitchen management tools into Servry. Menu launches that took two weeks now take an afternoon, and our regional GMs finally trust the margin numbers.",
+        "name": "Daniela Reyes",
+        "role": "VP of Culinary Operations",
+        "company": "Meridian Brands Group"
+      },
+      {
+        "quote": "Servry's routing engine cut our average ticket age by 31% across the Northeast cluster. The health-compliance ledger alone justified the contract during our last audit.",
+        "name": "Marcus Whitfield",
+        "role": "Director of Delivery Infrastructure",
+        "company": "Northline Hospitality"
+      },
+      {
+        "quote": "Before Servry we couldn't tell you which virtual brand was actually profitable in which market. Now capacity planning is a board-level conversation backed by real data.",
+        "name": "Priya Anand",
+        "role": "Chief Operating Officer",
+        "company": "Fold & Fire Concepts"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Cluster",
+        "price": "$0.14",
+        "period": "per fulfilled order",
+        "blurb": "For operators scaling their first regional network of delivery kitchens.",
+        "features": [
+          "Up to 15 active kitchen sites",
+          "Menu deployment across 3 channels",
+          "Station-level throughput dashboards",
+          "Standard compliance ledger"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.09",
+        "period": "per fulfilled order",
+        "blurb": "For multi-brand operators running kitchens across several markets.",
+        "features": [
+          "Unlimited kitchen sites",
+          "Automated order routing engine",
+          "Unified margin reporting",
+          "Capacity planning models",
+          "Priority onboarding & SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For national operators and franchisors with dedicated infrastructure needs.",
+        "features": [
+          "Committed-volume pricing tiers",
+          "Dedicated deployment engineers",
+          "Custom channel & POS integrations",
+          "Multi-jurisdiction compliance suite",
+          "Single sign-on & audit controls"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Servry is the operating layer for delivery-only kitchen networks — trusted by enterprise food operators to run the restaurants their customers never see."
+  }
+}

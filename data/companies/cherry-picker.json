@@ -1,0 +1,149 @@
+{
+  "name": "Cherry Picker",
+  "slug": "cherry-picker",
+  "industry": "drone inspection",
+  "tagline": "The roof inspection that doesn't need a roof visit.",
+  "positioning": "Autonomous drone inspections for owner-operators who'd rather not climb a 40-foot ladder to photograph the same missing shingle twice.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0B0F",
+    "surface": "#15171F",
+    "text": "#F1F4F8",
+    "primary": "#00F5A0",
+    "accent": "#FF4D8D"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CP",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 7,
+        "width": 10,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 10,
+        "width": 4,
+        "height": 4,
+        "rx": 0.5,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Inspect the roof. Skip the ladder.",
+      "sub": "Cherry Picker flies the inspection, tags the damage, and hands your crew a client-ready report before the coffee's cold. No harness. No hospital bills.",
+      "ctaLabel": "Start a flight",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Flights that plan themselves",
+        "description": "Draw a box around the property. We plot the grid, dodge the chimney, and capture every square foot at inspection-grade resolution. You just watch.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Damage it actually finds",
+        "description": "Cracked flashing, lifted shingles, pooling water. Our model flags them, drops a pin, and stops you from re-flying the same roof to double-check.",
+        "icon": "target"
+      },
+      {
+        "title": "Reports clients don't argue with",
+        "description": "Branded PDF, annotated photos, measured square footage. Export to your CRM or hand it over on-site. Signed before you pack up the drone.",
+        "icon": "inbox"
+      },
+      {
+        "title": "One dashboard, every job",
+        "description": "Track flights, revisions, and invoices per property. No more sifting through 400 unlabeled JPEGs named DJI_0042.",
+        "icon": "layers"
+      },
+      {
+        "title": "Weather won't ambush you",
+        "description": "We watch wind and light windows for your zip code and nudge you when it's safe to fly. Fewer aborted trips to the site.",
+        "icon": "clock"
+      },
+      {
+        "title": "Compliance without the paperwork",
+        "description": "Flight logs, airspace checks, and Part 107 records stored automatically. Pull them up when someone official asks nicely.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I quoted four roofs before lunch without touching a ladder. The report looked so official my client thought I hired an engineer. I did not.",
+        "name": "Dwayne Ferro",
+        "role": "Owner",
+        "company": "Ferro Roofing & Exteriors"
+      },
+      {
+        "quote": "We used to bill a full day for one commercial inspection. Now it's 20 minutes of flying and 10 of coffee. Same invoice. Nobody's complained.",
+        "name": "Priya Nadkarni",
+        "role": "Founder",
+        "company": "Skyward Property Surveys"
+      },
+      {
+        "quote": "The damage tagging caught a soft spot I'd have walked right past. Saved me a callback and a very awkward phone call three weeks later.",
+        "name": "Marcus Cole",
+        "role": "Lead Inspector",
+        "company": "Cole & Sons Home Inspection"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For the one-person shop who is the sales team and the pilot.",
+        "features": [
+          "Unlimited flights",
+          "20 reports per month",
+          "Automated flight planning",
+          "Standard damage detection"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For small teams flying more roofs than they can climb.",
+        "features": [
+          "Everything in Solo",
+          "Unlimited reports",
+          "Custom-branded PDFs",
+          "CRM export",
+          "Compliance log vault"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For operators running pilots across multiple markets.",
+        "features": [
+          "Everything in Crew",
+          "Multi-region airspace tools",
+          "Priority support",
+          "API access",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cherry Picker flies, tags, and documents property inspections so owner-operators can keep both feet on the ground and both eyes on the invoice."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Panora",
+  "slug": "panora",
+  "industry": "ghost kitchens",
+  "tagline": "Ghost kitchens for brands too big to fry their own fries.",
+  "positioning": "Panora runs the invisible kitchen layer behind enterprise food brands — one platform for delivery-only locations, virtual concepts, and the mess in between.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F4F1EB",
+    "surface": "#FBFAF7",
+    "text": "#25231E",
+    "primary": "#B14A2E",
+    "accent": "#5F6F5C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 0 12 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your food brand. Somebody else's stove.",
+      "sub": "Panora is the operations layer for delivery-only kitchens. Spin up virtual concepts, route orders across shared facilities, and pay for the burners you actually use.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Concepts on demand",
+        "description": "Launch a virtual brand across 40 markets in a weekend, not a fiscal quarter. Menus, packaging, and POS wiring configured before your VP notices.",
+        "icon": "rocket"
+      },
+      {
+        "title": "One order graph",
+        "description": "Every delivery order from every marketplace lands in a single ticket rail. No more nine tablets screaming at one poor line cook.",
+        "icon": "layers"
+      },
+      {
+        "title": "Facility utilization",
+        "description": "See exactly which stations are idle at 2pm Tuesday and which are underwater on Friday, per location, per concept, live.",
+        "icon": "chart"
+      },
+      {
+        "title": "Throughput SLAs",
+        "description": "Enforce prep-time and error-rate targets across contracted kitchens, with penalties that actually show up on the invoice.",
+        "icon": "target"
+      },
+      {
+        "title": "Menu versioning",
+        "description": "Roll out a price change or 86 an item everywhere at once, and roll it back when legal calls. Full audit trail included.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Compliance you can hand off",
+        "description": "Food-safety logs, temperature checks, and franchise standards captured per shift and exported the way auditors like them.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running eleven virtual brands out of one commissary and reconciling it in a spreadsheet named final_FINAL_v6. Panora made that spreadsheet a war crime we no longer commit.",
+        "name": "Dana Reyes",
+        "role": "VP of Off-Premise",
+        "company": "Harborline Restaurant Group"
+      },
+      {
+        "quote": "The utilization dashboard paid for itself in a quarter. We killed three dead concepts and doubled down on the two printing money. No more guessing which stove is lying to us.",
+        "name": "Marcus Feld",
+        "role": "Director of Culinary Operations",
+        "company": "Northgate Hospitality"
+      },
+      {
+        "quote": "Onboarding a new delivery market used to take our team six weeks and a therapist. Now it's a Tuesday afternoon and a fresh QR code.",
+        "name": "Priya Nadkarni",
+        "role": "Head of Digital Brands",
+        "company": "Skillet & Co Concepts"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Line Cook",
+        "price": "$0.14",
+        "period": "per fulfilled order",
+        "blurb": "For operators testing one or two concepts across a handful of kitchens.",
+        "features": [
+          "Up to 3 virtual concepts",
+          "Unified order rail",
+          "Basic utilization reports",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Expo",
+        "price": "$0.09",
+        "period": "per fulfilled order",
+        "blurb": "For multi-market groups juggling concepts, marketplaces, and SLAs.",
+        "features": [
+          "Unlimited concepts",
+          "SLA enforcement & penalties",
+          "Menu versioning + audit trail",
+          "Compliance exports",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Commissary",
+        "price": "Custom",
+        "period": "volume-based, billed quarterly",
+        "blurb": "For enterprise brands and franchisors running dozens of facilities.",
+        "features": [
+          "Everything in Expo",
+          "Dedicated integration team",
+          "Custom throughput contracts",
+          "SSO & role controls",
+          "99.9% uptime SLA",
+          "Named account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Panora is the operations layer for delivery-only kitchens. We handle the invisible part so your brand can pretend it has a dining room."
+  }
+}

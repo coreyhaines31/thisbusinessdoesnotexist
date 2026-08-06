@@ -1,0 +1,164 @@
+{
+  "name": "Vowsmith",
+  "slug": "vowsmith",
+  "industry": "wedding vendor CRM",
+  "tagline": "The CRM built for the people who actually run the wedding.",
+  "positioning": "Vowsmith is the client and booking system for solo and small-team wedding vendors — photographers, florists, planners, and DJs who wear every hat.",
+  "vibe": "brutalist",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#EDE9E0",
+    "surface": "#F8F5EE",
+    "text": "#211E18",
+    "primary": "#4A5240",
+    "accent": "#B27A54"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 0,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 0,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every inquiry, contract, and payment in one honest place.",
+      "sub": "Vowsmith replaces the spreadsheet, the inbox, and the sticky notes. Track leads from first message to final gallery — without hiring an ops person you can't afford yet.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live demo"
+    },
+    "features": [
+      {
+        "title": "Inquiry-to-booking pipeline",
+        "description": "Watch every couple move from 'just checking your date' to signed contract. See exactly which leads went cold and follow up before they book someone else.",
+        "icon": "target"
+      },
+      {
+        "title": "Contracts and deposits together",
+        "description": "Send a proposal, e-sign the contract, and collect the retainer in one link. No more chasing a signature and an invoice in two separate tools.",
+        "icon": "lock"
+      },
+      {
+        "title": "Wedding-day timelines",
+        "description": "Build the shot list, load-in schedule, and vendor contacts for each event. Share a clean day-of timeline the whole team reads from.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Payment reminders on autopilot",
+        "description": "Balance due 30 days out? Vowsmith nudges the couple so you don't have to send the awkward money email yourself.",
+        "icon": "bell"
+      },
+      {
+        "title": "Seasonal booking calendar",
+        "description": "See which Saturdays in peak season are still open. Block travel days and turnaround time so you never double-book a busy weekend.",
+        "icon": "clock"
+      },
+      {
+        "title": "Client portal couples actually use",
+        "description": "One tidy page where couples fill out questionnaires, approve galleries, and pay — no login gymnastics, no lost email threads.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I booked 40 weddings last year out of a spare bedroom. Vowsmith is the only reason I remembered which deposits were still owed and which timelines I still needed to build.",
+        "name": "Renata Osei",
+        "role": "Owner & Lead Photographer",
+        "company": "Fieldhouse Photo Co."
+      },
+      {
+        "quote": "We moved off three spreadsheets and a shared inbox. Now my associate and I see the same pipeline, and nothing falls through when we're both shooting on a Saturday.",
+        "name": "Marcus Dell",
+        "role": "Founder",
+        "company": "Northgate Films"
+      },
+      {
+        "quote": "The contract-plus-deposit link cut my booking time in half. Couples sign and pay before they can second-guess it. That alone paid for the year.",
+        "name": "Priya Venkatesh",
+        "role": "Principal Planner",
+        "company": "Almond & Ivory Events"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one-person shop running every wedding themselves.",
+        "features": [
+          "1 seat",
+          "Unlimited inquiries & bookings",
+          "Contracts and deposit collection",
+          "Client portal",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For small teams sharing a pipeline through busy season.",
+        "features": [
+          "Everything in Solo",
+          "Shared team pipeline",
+          "Day-of timelines & shot lists",
+          "Custom proposal templates",
+          "Seasonal availability calendar",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Collective",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-vendor studios and franchises with many operators.",
+        "features": [
+          "Everything in Studio",
+          "Role-based permissions",
+          "Multi-brand workspaces",
+          "Accounting export & API",
+          "Onboarding & migration help"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vowsmith is the earnest CRM for wedding vendors who'd rather be behind the camera than buried in admin. Built for owner-operators, priced per seat."
+  }
+}

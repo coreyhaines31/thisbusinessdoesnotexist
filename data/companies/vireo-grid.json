@@ -1,0 +1,138 @@
+{
+  "name": "Vireo Grid",
+  "slug": "vireo-grid",
+  "industry": "micro-mobility charging",
+  "tagline": "The personal charging grid for everything that moves you.",
+  "positioning": "Vireo Grid turns your garage, balcony, and city into one intelligent charging layer for the e-bikes, scooters, and small EVs you actually ride.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0B0F",
+    "surface": "#15181F",
+    "text": "#EAF2EC",
+    "primary": "#3DF07A",
+    "accent": "#22D3EE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 12 3 A 9 9 0 0 1 21 12 L 16 12 A 4 4 0 0 0 12 8 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 7,
+        "cy": 16.5,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Charge your whole fleet-of-one on a single living grid.",
+      "sub": "Vireo Grid unifies your e-bike, scooter, and cargo trike into one adaptive charging network — balancing power, tracking every watt, and topping off overnight so you roll out at 100% every morning.",
+      "ctaLabel": "Claim your grid",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Adaptive Load Balancing",
+        "description": "Vireo watches your home circuit in real time and feathers power across every dock, so three vehicles charge at once without ever tripping a breaker.",
+        "icon": "zap"
+      },
+      {
+        "title": "Watt-Level Insight",
+        "description": "See cost, range added, and battery health for each ride down to the cell. Export a monthly energy ledger your accountant will actually respect.",
+        "icon": "chart"
+      },
+      {
+        "title": "Sunrise Scheduling",
+        "description": "Set a departure time and Vireo backfills charge during the cheapest off-peak hours, finishing minutes before you touch the throttle.",
+        "icon": "clock"
+      },
+      {
+        "title": "Battery Guardian",
+        "description": "Thermal and chemistry-aware limits keep every pack in its sweet spot, extending lifespan and quietly refusing to overcharge.",
+        "icon": "shield"
+      },
+      {
+        "title": "City Roaming",
+        "description": "Your grid follows you. Unlock Vireo public docks across town and every kilowatt lands on the same invoice.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Over-the-Air Everything",
+        "description": "Docks gain new vehicle profiles and safety logic overnight — no service call, no dongle, no drama.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run four delivery e-bikes off one garage outlet. Before Vireo I was rotating chargers like a maniac; now they all wake up full and I have a receipt for every watt.",
+        "name": "Dane Okafor",
+        "role": "Owner",
+        "company": "Northside Courier Co."
+      },
+      {
+        "quote": "Sunrise scheduling alone paid for the hardware. My scooter charges at 2am rates and I still leave at 100% by seven every morning.",
+        "name": "Priya Venkatesh",
+        "role": "Daily Commuter",
+        "company": "Loop District Riders"
+      },
+      {
+        "quote": "As a fleet-of-one with two e-bikes and a moped, I finally have battery data I trust. Guardian flagged a swelling cell before it became a fire.",
+        "name": "Tomas Reinholt",
+        "role": "Founder",
+        "company": "Grayline Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$9",
+        "period": "per month, billed annually",
+        "blurb": "For a single rider with one or two vehicles.",
+        "features": [
+          "1 smart dock license",
+          "Watt-level ride ledger",
+          "Sunrise scheduling",
+          "Battery Guardian basics"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Garage",
+        "price": "$24",
+        "period": "per month, billed annually",
+        "blurb": "For the multi-vehicle household or busy fleet-of-one.",
+        "features": [
+          "Up to 6 smart dock licenses",
+          "Adaptive load balancing",
+          "City roaming access",
+          "Full energy exports",
+          "Priority OTA updates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Grid",
+        "price": "Custom",
+        "period": "annual, billed per building",
+        "blurb": "For buildings, co-ops, and micro-fleet operators.",
+        "features": [
+          "Unlimited docks",
+          "Shared billing & sub-accounts",
+          "Circuit-level engineering review",
+          "SLA & dedicated support",
+          "API + webhook access"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vireo Grid is building the personal energy layer for micro-mobility — one living grid for every small electric thing you own, from balcony to boulevard."
+  }
+}

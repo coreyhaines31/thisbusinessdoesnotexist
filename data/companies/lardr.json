@@ -1,0 +1,136 @@
+{
+  "name": "Lardr",
+  "slug": "lardr",
+  "industry": "ghost kitchens",
+  "tagline": "The operating layer for multi-brand ghost kitchen networks.",
+  "positioning": "Lardr gives enterprise food operators one system to launch delivery-only brands, route orders across shared kitchens, and cost every plate they ship.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F4EDDD",
+    "surface": "#E9DBC4",
+    "text": "#2C2117",
+    "primary": "#B14A26",
+    "accent": "#7C6A2C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "L",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "2,4 10,12 2,20 7,20 15,12 7,4",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "11,4 19,12 11,20 16,20 24,12 16,4",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every delivery brand from one kitchen stack.",
+      "sub": "Lardr connects your ghost kitchens, virtual brands, and delivery marketplaces so operations, menus, and unit economics live in a single system of record.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Multi-brand order routing",
+        "description": "Ingest tickets from every marketplace and route them to the right station across shared kitchens, with prep timing that keeps expo lines from backing up.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Menu control tower",
+        "description": "Publish, 86, and reprice items across all your virtual brands and delivery apps at once — no more editing the same burger in nine dashboards.",
+        "icon": "layers"
+      },
+      {
+        "title": "Plate-level costing",
+        "description": "Every order is costed against live recipe and ingredient data, so finance sees true contribution margin per brand, per location, per hour.",
+        "icon": "chart"
+      },
+      {
+        "title": "Capacity forecasting",
+        "description": "Predict station load by daypart and staff against it, using order history from each marketplace and brand you operate.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Marketplace reconciliation",
+        "description": "Match every payout line to the orders behind it, flagging missing deposits, adjustment fees, and chargebacks before they hit your books.",
+        "icon": "database"
+      },
+      {
+        "title": "Compliance-ready records",
+        "description": "Retain menu versions, allergen data, and food-safety logs per location so audits and franchise reviews take hours, not weeks.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Lardr we ran six virtual brands out of three kitchens on spreadsheets and hope. Now our expo screens, menu changes, and margin reports all speak the same language. Prep-time chaos basically disappeared.",
+        "name": "Dana Whitfield",
+        "role": "VP of Culinary Operations",
+        "company": "Northgate Kitchen Collective"
+      },
+      {
+        "quote": "The plate-level costing is what sold our CFO. We finally know which delivery brands actually make money at 11pm on a Tuesday, and we killed two that never did.",
+        "name": "Marcus Feld",
+        "role": "Director of Finance",
+        "company": "Rowan & Belle Foods"
+      },
+      {
+        "quote": "Reconciling marketplace payouts used to eat one full week every month. Lardr matched the deposits automatically and surfaced $40k in missing adjustments in the first quarter.",
+        "name": "Priya Raman",
+        "role": "Head of Delivery Operations",
+        "company": "Ember District Brands"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Kitchen",
+        "price": "$0.14",
+        "period": "per fulfilled order",
+        "blurb": "For single-facility operators standing up their first delivery-only brands.",
+        "features": [
+          "Up to 3 virtual brands",
+          "Order routing + expo screens",
+          "Menu control across marketplaces",
+          "Standard costing reports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.09",
+        "period": "per fulfilled order",
+        "blurb": "For multi-location operators running a portfolio of brands at scale.",
+        "features": [
+          "Unlimited virtual brands",
+          "Capacity forecasting by daypart",
+          "Marketplace reconciliation",
+          "Plate-level margin analytics",
+          "Role-based access + SSO"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For franchisors and national operators with committed order volume.",
+        "features": [
+          "Custom per-order rate tiers",
+          "Dedicated solutions engineer",
+          "API + data warehouse sync",
+          "Audit-ready compliance exports",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Lardr is the operating layer for enterprise ghost kitchens — routing, menus, and margin in one honest system of record."
+  }
+}

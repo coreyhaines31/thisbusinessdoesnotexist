@@ -1,0 +1,153 @@
+{
+  "name": "Offsight",
+  "slug": "offsight",
+  "industry": "corporate offsites",
+  "tagline": "Offsites that don't die in a shared spreadsheet",
+  "positioning": "Usage-based offsite operations for enterprise teams — venues, logistics, and agendas that survive contact with 200 attendees.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#12131A",
+    "surface": "#1D1F2B",
+    "text": "#ECEDF4",
+    "primary": "#7C6BF0",
+    "accent": "#F0A55C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "O",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 5,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 5,
+        "y": 10,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 8,
+        "y": 15,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Offsites your VPs will actually show up to",
+      "sub": "Book venues, wrangle 200 flights, and lock the agenda from one console. Then pay for the offsites you actually run — not the seats you guessed at in Q1.",
+      "ctaLabel": "Plan an offsite",
+      "secondaryCtaLabel": "See how billing works"
+    },
+    "features": [
+      {
+        "title": "Venue search that isn't a group chat",
+        "description": "Filter 4,000+ vetted venues by headcount, A/V, and 'will the CFO complain.' Hold dates without a deposit and book in the same tab.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Travel that reconciles itself",
+        "description": "Attendees book flights and rooms inside policy. Every itinerary maps to a cost center, so finance stops emailing you at 11pm.",
+        "icon": "globe"
+      },
+      {
+        "title": "Agendas people can read",
+        "description": "Drag sessions onto a shared timeline, assign owners, and publish a mobile schedule. No more PDF-that-changed-Tuesday.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Live headcount, live budget",
+        "description": "Watch RSVPs, dietary flags, and spend update in real time. Export the whole thing to your ERP with one boring click.",
+        "icon": "chart"
+      },
+      {
+        "title": "Vendor payments in one ledger",
+        "description": "Caterers, buses, and that improv troupe someone insisted on — invoiced, approved, and paid from a single trail.",
+        "icon": "database"
+      },
+      {
+        "title": "Security won't hate you",
+        "description": "SSO, SCIM, and per-event data retention. Attendee PII expires when the offsite does, not three audits later.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran four regional offsites in one quarter and I didn't touch a single spreadsheet. My old process was a spreadsheet, a prayer, and a Slack channel called '#offsite-help-me'.",
+        "name": "Priya Anand",
+        "role": "Director of Workplace Experience",
+        "company": "Northmark Systems"
+      },
+      {
+        "quote": "The usage billing sold our CFO instantly. We stopped paying for a platform that sat idle nine months a year and only got charged for the offsites we actually ran.",
+        "name": "Daniel Reyes",
+        "role": "VP of People Operations",
+        "company": "Halden Robotics"
+      },
+      {
+        "quote": "Two hundred engineers, three cities, one weekend. Offsight caught a double-booked ballroom before I did. That alone paid for the year.",
+        "name": "Marta Kovac",
+        "role": "Head of Global Events",
+        "company": "Cindervale Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Pilot",
+        "price": "$0",
+        "period": "platform fee, then usage",
+        "blurb": "Run your first offsite and pay only per attendee-day.",
+        "features": [
+          "Up to 50 attendees per event",
+          "$6 per attendee-day",
+          "Venue search and booking",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$4",
+        "period": "per attendee-day",
+        "blurb": "For teams running offsites across regions all year.",
+        "features": [
+          "Unlimited events and attendees",
+          "$4 per attendee-day, volume tiers",
+          "Travel and vendor payments",
+          "SSO and cost-center mapping",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual usage",
+        "blurb": "Global programs with procurement in the room.",
+        "features": [
+          "Negotiated per attendee-day rate",
+          "SCIM, custom retention, audit logs",
+          "Dedicated event architect",
+          "ERP and HRIS integrations",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Offsight is offsite operations software for enterprises that got tired of running company retreats out of a shared drive."
+  }
+}

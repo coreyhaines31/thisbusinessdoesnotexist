@@ -1,0 +1,136 @@
+{
+  "name": "Stabl",
+  "slug": "stabl",
+  "industry": "pet-tech",
+  "tagline": "Enterprise infrastructure for animal records, compliance, and care operations.",
+  "positioning": "Stabl is the system of record for organizations managing animal populations at scale — vaccination, custody, insurance, and audit in one governed platform.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0D1014",
+    "surface": "#171C23",
+    "text": "#E7EBF1",
+    "primary": "#6E7CF6",
+    "accent": "#E4A94F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A 6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The system of record for animals under management.",
+      "sub": "Stabl consolidates vaccination logs, custody chains, insurance claims, and veterinary audits into one governed platform — built for organizations accountable for thousands of animals.",
+      "ctaLabel": "Request access",
+      "secondaryCtaLabel": "View documentation"
+    },
+    "features": [
+      {
+        "title": "Unified custody ledger",
+        "description": "Track every transfer, adoption, and facility move with a tamper-evident chain of custody. Reconstruct any animal's full history for regulators in seconds, not weeks.",
+        "icon": "database"
+      },
+      {
+        "title": "Vaccination compliance engine",
+        "description": "Enforce jurisdiction-specific vaccination schedules across facilities. Automatic flags before a lapse becomes a liability or a failed inspection.",
+        "icon": "shield"
+      },
+      {
+        "title": "Audit-ready reporting",
+        "description": "Generate USDA, state, and insurer-formatted exports from live data. Every figure links back to its source event and the operator who logged it.",
+        "icon": "chart"
+      },
+      {
+        "title": "Facility federation",
+        "description": "Roll up shelters, clinics, and holding sites under one governance layer with per-site access controls and centralized policy enforcement.",
+        "icon": "layers"
+      },
+      {
+        "title": "Claims integration",
+        "description": "Push structured medical and custody records directly to insurance partners via API, cutting claim disputes and settlement times.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Role-based access",
+        "description": "Scoped permissions for veterinarians, intake staff, and compliance officers, with full activity logs on every record touched.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Stabl our vaccination records lived in four spreadsheets and a filing cabinet. Our last state inspection took ninety minutes instead of three days.",
+        "name": "Marisol Reyes",
+        "role": "Director of Operations",
+        "company": "Greater Basin Animal Services"
+      },
+      {
+        "quote": "The custody ledger settled a transfer dispute across two counties that would have taken our legal team a month. We pulled the full chain in one export.",
+        "name": "Daniel Okafor",
+        "role": "VP of Compliance",
+        "company": "Northgate Veterinary Group"
+      },
+      {
+        "quote": "We metered by processed records, so onboarding twelve new clinics didn't blow up a fixed license. The billing scaled exactly with our caseload.",
+        "name": "Priya Nair",
+        "role": "Chief Data Officer",
+        "company": "Meridian Pet Health Network"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Facility",
+        "price": "$0.04",
+        "period": "per record event processed",
+        "blurb": "For single-site clinics and shelters formalizing their records.",
+        "features": [
+          "Up to 25,000 record events / month",
+          "Custody ledger & vaccination engine",
+          "Standard compliance exports",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.02",
+        "period": "per record event, volume-tiered",
+        "blurb": "For multi-facility operators needing federation and claims.",
+        "features": [
+          "Unlimited facilities",
+          "Facility federation & RBAC",
+          "Claims API integration",
+          "Audit-ready reporting",
+          "Priority support & SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual committed volume",
+        "blurb": "For national networks and insurers with governance mandates.",
+        "features": [
+          "Custom event pricing floor",
+          "Dedicated data residency",
+          "SSO, SCIM & custom retention",
+          "Named implementation team",
+          "99.95% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Stabl is the governed system of record for organizations accountable for animals at scale. Built for compliance officers, not clipboards."
+  }
+}

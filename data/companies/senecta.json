@@ -1,0 +1,137 @@
+{
+  "name": "Senecta",
+  "slug": "senecta",
+  "industry": "elder-care coordination",
+  "tagline": "The coordinated standard of care for aging parents.",
+  "positioning": "Senecta unifies caregivers, physicians, and family into one authoritative record — so every medication, appointment, and decision is documented and shared.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FBFAF5",
+    "text": "#282521",
+    "primary": "#455A4E",
+    "accent": "#B27C5B"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Se",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coordinated care for the parents who raised you.",
+      "sub": "Senecta consolidates prescriptions, specialist visits, and daily check-ins into a single family record — replacing the group text, the shoebox of paperwork, and the 11pm phone calls.",
+      "ctaLabel": "Open a family account",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "The unified care record",
+        "description": "Every diagnosis, dosage, and directive in one authoritative timeline — accessible to the family members and providers you designate, and no one else.",
+        "icon": "database"
+      },
+      {
+        "title": "Medication reconciliation",
+        "description": "Senecta flags interactions and duplicate prescriptions across every physician, then generates a clean, printable list for each appointment.",
+        "icon": "shield"
+      },
+      {
+        "title": "Appointment coordination",
+        "description": "Shared calendars, transport logistics, and post-visit summaries — so the sibling who can't attend still knows exactly what the cardiologist said.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Caregiver handoffs",
+        "description": "Structured shift notes for home aides and rotating family members, so nothing is lost between the day nurse and the weekend visit.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Document vault",
+        "description": "Insurance cards, advance directives, and power-of-attorney filings stored securely and retrieved in seconds during an emergency.",
+        "icon": "lock"
+      },
+      {
+        "title": "Provider directory",
+        "description": "Every doctor, pharmacy, and facility in one contact ledger with roles and reachability — no more hunting through old voicemails.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "After Dad's third hospitalization, my brother and I finally stopped contradicting each other with the doctors. Senecta became the single source of truth for his entire medication list.",
+        "name": "Marguerite Adler",
+        "role": "Primary Family Coordinator",
+        "company": "Adler Household"
+      },
+      {
+        "quote": "We manage care for both of my in-laws across two states. The shared timeline meant our home aide and I were finally reading from the same page during every handoff.",
+        "name": "Desmond Ferreira",
+        "role": "Adult Child Caregiver",
+        "company": "Ferreira Family"
+      },
+      {
+        "quote": "I recommend Senecta to every client navigating a parent's dementia diagnosis. The document vault alone saved one family a two-week delay on a Medicaid filing.",
+        "name": "Priya Nandakumar",
+        "role": "Certified Geriatric Care Manager",
+        "company": "Meridian Elder Advisory"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Household",
+        "price": "$18",
+        "period": "per month, billed annually",
+        "blurb": "For a single parent's care, coordinated by one family.",
+        "features": [
+          "One care recipient",
+          "Up to 4 family members",
+          "Unified care record",
+          "Medication reconciliation",
+          "Document vault"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Family",
+        "price": "$39",
+        "period": "per month, billed annually",
+        "blurb": "For siblings sharing care of both parents across distances.",
+        "features": [
+          "Up to 2 care recipients",
+          "Unlimited family members",
+          "Caregiver shift handoffs",
+          "Shared appointment calendars",
+          "Provider directory",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Advisory",
+        "price": "Custom",
+        "period": "tailored engagement",
+        "blurb": "For professional care managers overseeing multiple households.",
+        "features": [
+          "Unlimited care recipients",
+          "Client-facing portals",
+          "Compliance-grade audit trail",
+          "Dedicated account manager",
+          "Onboarding & migration"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Senecta is the coordinated standard of care for families guiding aging parents — one record, every decision, documented and shared."
+  }
+}

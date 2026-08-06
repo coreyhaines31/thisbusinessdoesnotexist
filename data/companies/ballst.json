@@ -1,0 +1,153 @@
+{
+  "name": "Ballst",
+  "slug": "ballst",
+  "industry": "marina management",
+  "tagline": "The operating system for enterprise marina and harbor operators.",
+  "positioning": "Ballst unifies berth allocation, fuel dock metering, and slip revenue across multi-site marina portfolios into one governed platform.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F4EDE2",
+    "surface": "#FBF6EC",
+    "text": "#2B2419",
+    "primary": "#B15A2C",
+    "accent": "#6E7A46"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 4,
+        "width": 11,
+        "height": 5,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 10,
+        "width": 15,
+        "height": 5,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 16,
+        "width": 11,
+        "height": 5,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every berth, dock, and slip from one system of record",
+      "sub": "Ballst gives multi-site marina operators governed control over berth allocation, fuel metering, and slip billing — with the audit trail your finance and compliance teams demand.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform"
+    },
+    "features": [
+      {
+        "title": "Portfolio berth allocation",
+        "description": "Assign and reconcile transient and contract berths across every location from a single dispatch console, with vessel dimensions and draft enforced automatically.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Metered fuel dock billing",
+        "description": "Capture pump throughput in real time and post per-gallon charges directly to the guest folio — no reconciliation spreadsheet, no end-of-day drift.",
+        "icon": "database"
+      },
+      {
+        "title": "Occupancy analytics",
+        "description": "Track slip utilization, revenue per linear foot, and seasonal turn rates across your entire portfolio with board-ready reporting.",
+        "icon": "chart"
+      },
+      {
+        "title": "Governed access controls",
+        "description": "Role-based permissions, SSO, and immutable change logs keep dockmasters, accounting, and regional directors in their lane.",
+        "icon": "lock"
+      },
+      {
+        "title": "Storm and haul-out scheduling",
+        "description": "Coordinate hurricane hauls, yard slots, and dry-stack retrievals with capacity-aware queues that flag conflicts before they happen.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Marine services API",
+        "description": "Sync with fuel telemetry, gate access, and marine POS through a documented API so your existing hardware stays in the loop.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Ballst we reconciled fuel dock revenue across nine marinas by hand every Monday. Now metering posts to the folio at the pump and our regional close takes hours, not days.",
+        "name": "Diane Whitcombe",
+        "role": "VP of Marina Operations",
+        "company": "Anchorpoint Harbors"
+      },
+      {
+        "quote": "We evaluated four platforms. Ballst was the only one that modeled contract berths, transients, and dry-stack in a single allocation engine we could actually audit.",
+        "name": "Marcus Deveraux",
+        "role": "Chief Operating Officer",
+        "company": "Seaboard Marine Group"
+      },
+      {
+        "quote": "The change log alone justified the deal. When a berth assignment gets overridden, I know who did it and why. Our auditors stopped asking questions.",
+        "name": "Priya Ramanathan",
+        "role": "Director of Finance",
+        "company": "Gulfstream Harbor Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Harbor",
+        "price": "$0.90",
+        "period": "per berth-night metered",
+        "blurb": "For single-site operators formalizing their allocation and billing workflow.",
+        "features": [
+          "Up to 300 slips",
+          "Berth allocation console",
+          "Fuel dock metering",
+          "Standard reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.65",
+        "period": "per berth-night metered",
+        "blurb": "For multi-site portfolios that need governed access and consolidated revenue.",
+        "features": [
+          "Unlimited slips across sites",
+          "SSO and role-based access",
+          "Occupancy analytics suite",
+          "Marine services API",
+          "Priority support SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based annual agreement",
+        "blurb": "For national operators with procurement, compliance, and integration requirements.",
+        "features": [
+          "Custom metering rates",
+          "Dedicated implementation team",
+          "Data residency options",
+          "Audit and compliance package",
+          "Named account director"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ballst is the governed operating system for enterprise marina and harbor operators. Berths, fuel, and revenue — one system of record."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Halcyon Quay",
+  "slug": "halcyon-quay",
+  "industry": "marina management",
+  "tagline": "The command deck for every vessel, slip, and tide you answer to.",
+  "positioning": "Halcyon Quay unifies berth planning, maintenance logs, and dockside billing into one serene, seaworthy platform for owners and independent harbor keepers.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0B1620",
+    "surface": "#15242F",
+    "text": "#EAF2F5",
+    "primary": "#54B9CC",
+    "accent": "#D6A34A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "HQ",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 18 C8 18 8 8 12 8 C16 8 16 18 21 18 L21 21 L3 21 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every mooring, mastered. Every tide, anticipated.",
+      "sub": "Halcyon Quay is the private harbor platform for people who take their waterfront seriously — one calm dashboard for slips, service, and season passes.",
+      "ctaLabel": "Chart your harbor",
+      "secondaryCtaLabel": "Watch the tour"
+    },
+    "features": [
+      {
+        "title": "Living berth map",
+        "description": "Drag vessels across a real-time slip plan that knows draft, beam, and shore-power draw — no more penciled dock diagrams that lie by noon.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Tide-aware scheduling",
+        "description": "Haul-outs, fuel runs, and guest arrivals auto-align to the local tide table and marine forecast so you never book a launch against a falling tide.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Hull & engine ledger",
+        "description": "Every anode swap, bottom paint, and oil change logged against the vessel — a maintenance record buyers actually trust at survey time.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Dockside billing",
+        "description": "Seasonal contracts, transient nights, and metered power settle to one invoice, with card and ACH captured before the lines are cleated.",
+        "icon": "database"
+      },
+      {
+        "title": "Storm playbook",
+        "description": "When a system builds offshore, trigger your evacuation and haul sequence and notify every slip holder in a single confident broadcast.",
+        "icon": "shield"
+      },
+      {
+        "title": "Guest moorings",
+        "description": "Publish available transient berths, take deposits, and hand visiting captains a gate code — your dock earns while you sleep.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run forty slips and a fuel dock alone. Halcyon Quay replaced three whiteboards, a shoebox of receipts, and the dread of hurricane season. My berth map is finally honest.",
+        "name": "Delphine Marchetti",
+        "role": "Harbor Keeper",
+        "company": "Cormorant Point Landing"
+      },
+      {
+        "quote": "The maintenance ledger sold my trawler for eight thousand more. Every service since 2019 exported clean at the survey. Buyers stop haggling when the record is this immaculate.",
+        "name": "Rowan Ashford",
+        "role": "Owner-Operator",
+        "company": "MV Meridian"
+      },
+      {
+        "quote": "Tide-aware scheduling is quietly genius. We stopped launching boats into a two-knot ebb and our lift crew reclaimed an hour every morning. It just feels inevitable now.",
+        "name": "Priya Venkataraman",
+        "role": "Dockmaster",
+        "company": "Saltmeadow Yacht Basin"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Skiff",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For a single owner keeping one vessel shipshape.",
+        "features": [
+          "1 vessel maintenance ledger",
+          "Tide & weather dashboard",
+          "Personal service reminders",
+          "Document & receipt vault"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Quayside",
+        "price": "$119",
+        "period": "per month",
+        "blurb": "For private docks and small harbors up to 60 slips.",
+        "features": [
+          "Living berth map, up to 60 slips",
+          "Dockside billing & card capture",
+          "Transient mooring listings",
+          "Storm playbook & broadcasts",
+          "Two staff seats"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Admiralty",
+        "price": "Custom",
+        "period": "annual contract",
+        "blurb": "For multi-basin operators and marina groups.",
+        "features": [
+          "Unlimited slips & basins",
+          "Fuel dock & metered power",
+          "Priority onboarding & migration",
+          "Dedicated harbor advisor",
+          "API & accounting sync"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Halcyon Quay — the serene command deck for waterfront life, from a single mooring to the whole harbor. Built by sailors, for people who love the tide."
+  }
+}

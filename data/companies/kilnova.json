@@ -1,0 +1,143 @@
+{
+  "name": "Kilnova",
+  "slug": "kilnova",
+  "industry": "ghost kitchens",
+  "tagline": "The operating layer for the invisible restaurant empire.",
+  "positioning": "Kilnova turns dark kitchens into a single programmable network — one platform to launch, route, and scale delivery-only brands at continental scale.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F3F5FF",
+    "primary": "#12E29A",
+    "accent": "#FF3D9A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,20 12,3 21,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,20 12,14 15,20",
+        "fill": "bg"
+      },
+      {
+        "type": "polygon",
+        "points": "12,3 21,20 15,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every kitchen. One nervous system.",
+      "sub": "Kilnova unifies your dark kitchens, virtual brands, and delivery marketplaces into a single command layer — so an enterprise can spin up a new concept in a new city before lunch service ends.",
+      "ctaLabel": "Book a control-room demo",
+      "secondaryCtaLabel": "See the network"
+    },
+    "features": [
+      {
+        "title": "Brand Launcher",
+        "description": "Deploy a delivery-only concept across dozens of kitchens in one workflow — menus, pricing, packaging specs, and marketplace listings sync in minutes, not months.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Order Router",
+        "description": "Route every ticket to the optimal kitchen node by geography, capacity, and prep time. When one location floods, Kilnova reroutes before the customer notices.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Yield Console",
+        "description": "See item-level margin across every brand and location in real time. Kilnova flags the SKUs quietly bleeding you and the ones ready to scale.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Capacity Grid",
+        "description": "A live map of station load across your entire network, so operations can rebalance staff and equipment before the Friday surge hits the fryers.",
+        "icon": "layers"
+      },
+      {
+        "title": "Marketplace Sync",
+        "description": "One source of truth pushed to every aggregator. Kill an 86'd item everywhere at once and end the era of phantom listings and refund storms.",
+        "icon": "globe"
+      },
+      {
+        "title": "Compliance Vault",
+        "description": "Health scores, allergen matrices, and audit trails per kitchen node — enterprise-ready records that survive a surprise inspection and legal review.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran nine virtual brands across forty kitchens on spreadsheets and prayer. Kilnova collapsed all of it into one console — our regional launch time dropped from six weeks to four days.",
+        "name": "Priya Nandakumar",
+        "role": "VP of Culinary Operations",
+        "company": "Meridian Hospitality Group"
+      },
+      {
+        "quote": "The Order Router alone paid for the contract. During a stadium event it rerouted 12,000 tickets across three kitchens without a single dropped ticket. My ops team actually took a break.",
+        "name": "Marcus Feldt",
+        "role": "Director of Delivery Networks",
+        "company": "Northgate Brands"
+      },
+      {
+        "quote": "Kilnova's Yield Console showed us four concepts quietly losing money on packaging. We cut them, doubled down on two winners, and margin climbed eleven points in a quarter.",
+        "name": "Elena Vos",
+        "role": "Chief Growth Officer",
+        "company": "Fable Kitchen Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Node",
+        "price": "$0.14",
+        "period": "per fulfilled order",
+        "blurb": "For operators consolidating their first cluster of dark kitchens.",
+        "features": [
+          "Up to 5 kitchen nodes",
+          "Brand Launcher for 3 concepts",
+          "Marketplace Sync (2 aggregators)",
+          "Standard Order Router"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.09",
+        "period": "per fulfilled order",
+        "blurb": "For multi-city groups scaling brands across regions.",
+        "features": [
+          "Unlimited kitchen nodes",
+          "Unlimited virtual brands",
+          "Full Yield Console + Capacity Grid",
+          "Priority Order Router with rerouting",
+          "Compliance Vault",
+          "Dedicated launch engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "volume-based, billed monthly",
+        "blurb": "For enterprises running national delivery-only empires.",
+        "features": [
+          "Everything in Network",
+          "Custom routing models & SLAs",
+          "Private aggregator integrations",
+          "Dedicated control-room team",
+          "Data warehouse export & API",
+          "99.98% uptime guarantee"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kilnova is the operating layer for the invisible restaurant. Build the empire nobody sees — from a single console."
+  }
+}

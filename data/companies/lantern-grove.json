@@ -1,0 +1,139 @@
+{
+  "name": "Lantern Grove",
+  "slug": "lantern-grove",
+  "industry": "funeral services",
+  "tagline": "The operating system for the modern independent funeral home.",
+  "positioning": "Lantern Grove unifies arrangements, case files, and family aftercare into one calm system built for owner-operators, not conglomerates.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#141119",
+    "surface": "#211D2B",
+    "text": "#F3EFF8",
+    "primary": "#C9A15E",
+    "accent": "#7FB0A6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LG",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,3 21,12 12,21 3,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,8 16,12 12,16 8,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every farewell deserves a flawless first call.",
+      "sub": "Lantern Grove turns the 2am first call, the arrangement conference, and the twelve-month aftercare follow-up into one graceful workflow — so your firm feels ten times its size.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a live case file"
+    },
+    "features": [
+      {
+        "title": "Arrangement conferences, guided",
+        "description": "Walk families through service, merchandise, and pricing on a live tablet. Selections flow straight into the GPL-compliant contract — no re-keying, no math errors.",
+        "icon": "layers"
+      },
+      {
+        "title": "Case files that never fumble",
+        "description": "Every death certificate, permit, embalming log, and vendor confirmation lives in one timeline. See exactly what's outstanding before the family asks.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Obituaries in minutes",
+        "description": "Draft, proof, and publish to your site and partner papers from one editor. Families approve with a tap instead of three emails and a fax.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Family portal & aftercare",
+        "description": "Give each family a private hub for documents, payments, and grief resources — then trigger anniversary and estate-check follow-ups automatically.",
+        "icon": "users"
+      },
+      {
+        "title": "Inventory that reconciles itself",
+        "description": "Track caskets, urns, and vault stock in real time. Lantern Grove flags reorder points before your showroom floor goes bare.",
+        "icon": "database"
+      },
+      {
+        "title": "Owner dashboards",
+        "description": "See call volume, at-need vs. preneed mix, and outstanding receivables across every chapel from a single moody, glanceable screen.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose an hour after every arrangement re-typing the same names into six systems. Lantern Grove killed the duplicate work in a week. My directors go home on time now.",
+        "name": "Marta Vidal",
+        "role": "Owner & Licensed Funeral Director",
+        "company": "Vidal Memorial Chapel"
+      },
+      {
+        "quote": "The family portal alone justified the switch. Grieving families stop calling to ask 'is the permit done' because they can just see it. That's dignity, delivered.",
+        "name": "Desmond Ackroyd",
+        "role": "Managing Partner",
+        "company": "Ackroyd & Sons Funeral Home"
+      },
+      {
+        "quote": "I run two locations with nine staff. For the first time I can see receivables and case status across both without driving over. It feels like I hired an operations manager.",
+        "name": "Priya Raman",
+        "role": "General Manager",
+        "company": "Cedarline Funeral Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Chapel",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the single-location firm ready to retire the paper case folder.",
+        "features": [
+          "Unlimited case files",
+          "Guided arrangement conferences",
+          "GPL-compliant contracts",
+          "Obituary editor & publishing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parlor",
+        "price": "$69",
+        "period": "per seat / month",
+        "blurb": "For growing firms coordinating staff, vendors, and families at scale.",
+        "features": [
+          "Everything in Chapel",
+          "Family portal & aftercare journeys",
+          "Inventory & merchandise tracking",
+          "Owner dashboards & receivables",
+          "Preneed pipeline",
+          "Priority phone support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location groups and cemetery-combined operations.",
+        "features": [
+          "Everything in Parlor",
+          "Multi-location roll-up reporting",
+          "Cemetery & crematory modules",
+          "SSO & advanced permissions",
+          "Dedicated onboarding specialist",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Lantern Grove is the calm, complete operating system for independent funeral homes. Built for owner-operators who refuse to be outrun by the conglomerates."
+  }
+}

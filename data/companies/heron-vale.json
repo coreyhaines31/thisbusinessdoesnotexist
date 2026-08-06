@@ -1,0 +1,133 @@
+{
+  "name": "Heron Vale",
+  "slug": "heron-vale",
+  "industry": "funeral services",
+  "tagline": "The last chapter, authored with intention.",
+  "positioning": "Heron Vale turns end-of-life planning into a living archive — one dignified system for your final wishes, memorial, and legacy.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0B0B0C",
+    "surface": "#161618",
+    "text": "#F4F4F2",
+    "primary": "#E8E8E6",
+    "accent": "#FF4D2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "HV",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M6 20 C6 8 12 4 12 4 C12 4 18 8 18 20 C15 16 9 16 6 20 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compose a farewell worthy of a life fully lived.",
+      "sub": "Heron Vale is the planning studio for your final chapter — wishes, ceremony, and legacy captured in one serene, secure archive your family can trust.",
+      "ctaLabel": "Begin your archive",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "The Living Directive",
+        "description": "Record every wish — from music to messages — in a versioned document that updates as you do, and unlocks for the right people at the right moment.",
+        "icon": "database"
+      },
+      {
+        "title": "Ceremony Studio",
+        "description": "Design the service down to the readings, the room, and the light. Share a polished plan with your celebrant and family in a single link.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Legacy Vault",
+        "description": "Deposit letters, recordings, and documents into an encrypted vault with timed release — words that arrive exactly when they are needed.",
+        "icon": "lock"
+      },
+      {
+        "title": "Guided Estate Map",
+        "description": "Trace accounts, keepsakes, and instructions onto one clear map, so nothing meaningful is lost in the paperwork of grief.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Trusted Circle",
+        "description": "Name your executors and confidants with granular permissions, revocable anytime, so your plans are protected yet never orphaned.",
+        "icon": "users"
+      },
+      {
+        "title": "Provider Concierge",
+        "description": "Compare vetted funeral homes and services with transparent pricing, then hand over a complete brief instead of a blank page.",
+        "icon": "compass"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I sat with my mother's Heron Vale archive after she passed and felt her hand on every decision. There was nothing to guess at — only her intentions, beautifully clear.",
+        "name": "Marguerite Odell",
+        "role": "Daughter & Executor",
+        "company": "Odell Family"
+      },
+      {
+        "quote": "As a celebrant I receive plans from every corner of the country. A Heron Vale brief is the only one I open knowing the family and I already agree on everything.",
+        "name": "Desmond Fairweather",
+        "role": "Independent Celebrant",
+        "company": "Fairweather Ceremonies"
+      },
+      {
+        "quote": "We recommend Heron Vale to every family we serve. It ends the frantic search through drawers and turns pre-planning into something people actually want to finish.",
+        "name": "Priya Anand",
+        "role": "Director of Care",
+        "company": "Stillwater Memorial Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Directive",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "Capture your essential wishes and keep them current.",
+        "features": [
+          "Living Directive document",
+          "One trusted contact",
+          "Ceremony preferences",
+          "Secure PDF export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Legacy",
+        "price": "$24",
+        "period": "per month",
+        "blurb": "The full studio for a farewell composed with intention.",
+        "features": [
+          "Everything in Directive",
+          "Ceremony Studio",
+          "Legacy Vault with timed release",
+          "Up to 8 trusted circle members",
+          "Guided Estate Map",
+          "Provider concierge access"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For families and advisors managing multiple archives.",
+        "features": [
+          "Everything in Legacy",
+          "Unlimited archives",
+          "Dedicated legacy advisor",
+          "Advisor & fiduciary dashboard",
+          "Priority provider matching",
+          "Notarization coordination"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Heron Vale is the planning studio for life's final chapter — dignified, secure, and made to be shared when it matters most."
+  }
+}

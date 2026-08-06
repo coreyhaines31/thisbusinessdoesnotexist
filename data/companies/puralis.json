@@ -1,0 +1,136 @@
+{
+  "name": "Puralis",
+  "slug": "puralis",
+  "industry": "industrial cleaning",
+  "tagline": "Serious cleaning gear and know-how for people who do it themselves.",
+  "positioning": "Puralis puts pro-grade degreasers, tools, and step-by-step cleaning playbooks in the hands of individuals — no service contract, no jargon.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#EDEAE3",
+    "surface": "#F6F4EF",
+    "text": "#22201B",
+    "primary": "#5B5445",
+    "accent": "#A6482D"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "PL",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Clean it like a pro. Without hiring one.",
+      "sub": "Puralis is the supply cabinet and manual behind serious industrial cleaning — grease, scale, grime, mildew — sized and explained for one determined person and a Saturday.",
+      "ctaLabel": "Build my kit",
+      "secondaryCtaLabel": "See the playbooks"
+    },
+    "features": [
+      {
+        "title": "Job-matched kits",
+        "description": "Tell us the surface and the mess — a rusted engine bay, a scaled water heater, a mildewed deck — and we ship the exact chemicals, dilution cups, and pads for it.",
+        "icon": "target"
+      },
+      {
+        "title": "Step-by-step playbooks",
+        "description": "Every kit ships with a plain-language, laminated procedure card. Dwell times, safety gear, disposal — no guessing, no ruined finishes.",
+        "icon": "layers"
+      },
+      {
+        "title": "Dilution that makes sense",
+        "description": "Pre-measured concentrates and a calculator that converts a 55-gallon spec into a two-bucket job. Stop wasting product and stripping your surfaces.",
+        "icon": "database"
+      },
+      {
+        "title": "Restock reminders",
+        "description": "We track what you burn through and nudge you before the degreaser runs dry — right when the next quarterly deep-clean lands.",
+        "icon": "bell"
+      },
+      {
+        "title": "Safety, spelled out",
+        "description": "Correct PPE, ventilation notes, and incompatibility warnings printed for the human in front of the fumes, not filed in a binder.",
+        "icon": "shield"
+      },
+      {
+        "title": "Real answers, fast",
+        "description": "Message a certified cleaning tech a photo of the stain. Get a specific method back — usually within the hour, always in English.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I restore old motorcycles in my garage. Puralis figured out the exact solvent for baked-on chain grease and told me what NOT to spray near the paint. Saved me a repaint.",
+        "name": "Dario Fenwick",
+        "role": "Hobbyist restorer",
+        "company": "Fenwick Garage"
+      },
+      {
+        "quote": "Our HOA pool deck had years of mildew. The kit and the playbook walked me through it in an afternoon — no contractor, no $900 invoice.",
+        "name": "Rosalind Meyer",
+        "role": "Volunteer property lead",
+        "company": "Cedarbrook HOA"
+      },
+      {
+        "quote": "I clean commercial kitchens as a side gig. The dilution calculator alone pays for itself. I stopped over-buying degreaser and my margins actually work now.",
+        "name": "Kenji Alarcon",
+        "role": "Independent cleaner",
+        "company": "Alarcon Kitchen Care"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "per month, pay per kit",
+        "blurb": "For the occasional deep-clean. Buy kits as you need them.",
+        "features": [
+          "Job-matched kit ordering",
+          "Printed playbook with every kit",
+          "Dilution calculator",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Regular",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For the person with a standing list of things to keep clean.",
+        "features": [
+          "Everything in Solo",
+          "10% off all kits and refills",
+          "Automatic restock reminders",
+          "Photo-a-tech, one-hour replies",
+          "Saved surfaces and history"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Workshop",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For the serious prosumer running near-commercial volume.",
+        "features": [
+          "Everything in Regular",
+          "20% off all kits and refills",
+          "Bulk concentrate pricing",
+          "Priority tech line",
+          "Custom playbooks for your equipment",
+          "Disposal and compliance guidance"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Puralis. Pro-grade cleaning supplies and honest instructions for people who'd rather do it themselves — and do it right."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Naveo",
+  "slug": "naveo",
+  "industry": "church admin software",
+  "tagline": "Church operations that don't require a miracle.",
+  "positioning": "Enterprise-grade admin software for multi-site churches: giving, membership, scheduling, and pastoral care in one calm dashboard.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F4F1FA",
+    "surface": "#FBEEF3",
+    "text": "#2E2846",
+    "primary": "#7B6CE0",
+    "accent": "#E89BB8"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "N",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 12 A8 8 0 0 1 20 12 L14 12 A2 2 0 0 0 10 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M20 12 A8 8 0 0 1 4 12 L10 12 A2 2 0 0 0 14 12 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your church like it's not held together with tape.",
+      "sub": "Naveo consolidates giving, membership rolls, volunteer scheduling, and pastoral follow-ups across every campus — so your ops team stops living inside seventeen spreadsheets.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See it work"
+    },
+    "features": [
+      {
+        "title": "Giving that reconciles itself",
+        "description": "Pull tithes, pledges, and one-off donations from every channel into one ledger. Year-end statements generate in a click, not a prayer.",
+        "icon": "chart"
+      },
+      {
+        "title": "Rolls that stay clean",
+        "description": "Merge duplicate member records, track households across campuses, and flag the 400 people who left in 2019 but are still on your email blast.",
+        "icon": "users"
+      },
+      {
+        "title": "Scheduling without the group text",
+        "description": "Assign greeters, nursery, and worship teams with conflict detection. Volunteers confirm from their phone. You stop begging.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Pastoral care, actually tracked",
+        "description": "Log hospital visits, prayer requests, and follow-ups so nothing falls through the cracks when a pastor takes sabbatical.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Multi-site by design",
+        "description": "Roll up giving and attendance across all locations, then drill into a single campus without swapping logins.",
+        "icon": "layers"
+      },
+      {
+        "title": "Permissions the board approves",
+        "description": "Granular roles and audit logs so your treasurer sees finances and your youth intern absolutely does not.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We migrated 34,000 member records off a database our IT guy built in 2008 and quit over. Naveo did it in a weekend. Nobody prayed about it once.",
+        "name": "Marcus Delaney",
+        "role": "Executive Pastor of Operations",
+        "company": "Grace Commons Network"
+      },
+      {
+        "quote": "Year-end giving statements used to eat three staff members for two weeks. Now it's a Tuesday afternoon and a coffee. My finance team stopped threatening to leave.",
+        "name": "Priya Ramanathan",
+        "role": "Director of Finance",
+        "company": "Cornerstone Multisite"
+      },
+      {
+        "quote": "The volunteer scheduling alone paid for itself. We went from 60 no-shows a month to arguing about who gets the good parking spots.",
+        "name": "Dale Whitmore",
+        "role": "Campus Operations Lead",
+        "company": "Rivergate Church"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Parish",
+        "price": "$0.18",
+        "period": "per active member / month",
+        "blurb": "For single-campus churches finally leaving the binder era.",
+        "features": [
+          "Up to 2,500 active members",
+          "Giving + membership rolls",
+          "Basic volunteer scheduling",
+          "Email + chat support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.12",
+        "period": "per active member / month",
+        "blurb": "For growing multi-site churches that need it all to reconcile.",
+        "features": [
+          "Unlimited campuses",
+          "Pastoral care tracking",
+          "Conflict-aware scheduling",
+          "Role-based permissions + audit logs",
+          "Volume pricing over 10,000 members"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "Custom",
+        "period": "annual, usage-tiered",
+        "blurb": "For denominations and large networks with real compliance needs.",
+        "features": [
+          "Custom per-member rate at scale",
+          "SSO + advanced audit",
+          "Dedicated migration team",
+          "SLA + priority support",
+          "API access & data warehouse sync"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Naveo is church administration software for people who'd rather do ministry than data entry. Multi-site ready. Board approved."
+  }
+}

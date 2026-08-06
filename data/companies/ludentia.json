@@ -1,0 +1,135 @@
+{
+  "name": "Ludentia",
+  "slug": "ludentia",
+  "industry": "esports coaching",
+  "tagline": "Enterprise-grade performance coaching for competitive players.",
+  "positioning": "Ludentia pairs ranked players with vetted coaches and turns every scrim, VOD, and ranked session into a structured, measurable improvement program.",
+  "vibe": "playful",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A1428",
+    "surface": "#132644",
+    "text": "#E9F3FF",
+    "primary": "#22C6A8",
+    "accent": "#3B82F6"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Ld",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching operations for players who intend to climb.",
+      "sub": "Ludentia standardizes how you practice: matched coaches, scheduled VOD reviews, and a performance ledger that quantifies your progress rank by rank.",
+      "ctaLabel": "Start your assessment",
+      "secondaryCtaLabel": "Browse coaches"
+    },
+    "features": [
+      {
+        "title": "Verified coach roster",
+        "description": "Every coach is credentialed against peak rank, teaching track record, and title-specific curriculum before they appear in your matches.",
+        "icon": "shield"
+      },
+      {
+        "title": "Structured VOD review",
+        "description": "Upload a match and receive a timestamped breakdown of positioning, macro decisions, and mechanical errors within 24 hours.",
+        "icon": "chart"
+      },
+      {
+        "title": "Performance ledger",
+        "description": "Track win rate, KDA trend, and objective control across sessions in one dashboard built for measurable improvement.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Session scheduling",
+        "description": "Book recurring blocks that sync to your queue times, with automated reminders and rescheduling for coach and player.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Ranked-goal roadmaps",
+        "description": "Set a target rank and receive a milestone plan with weekly focus areas, drills, and accountability checkpoints.",
+        "icon": "target"
+      },
+      {
+        "title": "Cross-title support",
+        "description": "One account covers League, Valorant, Counter-Strike, and Rocket League with curriculum tuned per title.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We moved our entire academy pipeline onto Ludentia. The performance ledger gave our staff a defensible way to justify promotions instead of relying on vibes.",
+        "name": "Mateus Ferreira",
+        "role": "Head of Player Development",
+        "company": "Meridian Collegiate Esports"
+      },
+      {
+        "quote": "I climbed from Diamond to Grandmaster in one split. The 24-hour VOD turnaround meant I fixed macro mistakes before they became habits.",
+        "name": "Hana Okafor",
+        "role": "Solo Queue Player",
+        "company": "Independent"
+      },
+      {
+        "quote": "Coach vetting was the selling point. Every session felt structured, and the milestone roadmap kept our roster aligned during a brutal qualifier run.",
+        "name": "Devin Castellano",
+        "role": "Team Manager",
+        "company": "Northwind Contenders"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For individual players building a consistent practice routine.",
+        "features": [
+          "2 coaching sessions per month",
+          "Async VOD review, 48-hour turnaround",
+          "Performance ledger dashboard",
+          "Single-title curriculum"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Competitor",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For serious climbers pursuing a specific rank target.",
+        "features": [
+          "6 coaching sessions per month",
+          "Priority VOD review, 24-hour turnaround",
+          "Ranked-goal roadmap with milestones",
+          "Cross-title support",
+          "Weekly accountability check-ins"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Roster",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For teams and academies managing multiple players.",
+        "features": [
+          "Unlimited coaching allocation",
+          "Team-wide performance analytics",
+          "Dedicated development manager",
+          "Coach vetting for in-house staff",
+          "SSO and admin controls"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ludentia is the operating system for competitive improvement — verified coaches, structured review, and measurable progress in one platform."
+  }
+}

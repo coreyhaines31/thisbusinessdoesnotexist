@@ -1,0 +1,155 @@
+{
+  "name": "Assembl",
+  "slug": "assembl",
+  "industry": "church admin software",
+  "tagline": "Enterprise administration for the modern multi-site ministry",
+  "positioning": "Assembl unifies membership, giving, scheduling, and compliance for large congregations and multi-campus denominations on one governed platform.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0c1f2b",
+    "surface": "#123243",
+    "text": "#e8f2f4",
+    "primary": "#1aa0a3",
+    "accent": "#3fb56b"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 6,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 8,
+        "width": 6,
+        "height": 12,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 18,
+        "y": 12,
+        "width": 2,
+        "height": 8,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The governed operating system for large-scale ministry",
+      "sub": "Assembl consolidates membership records, contribution processing, facility scheduling, and denominational reporting into a single auditable platform built for multi-campus organizations.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "Talk to sales"
+    },
+    "features": [
+      {
+        "title": "Unified member directory",
+        "description": "Reconcile household records across every campus with deduplication, role-based access, and a full audit trail on every field change.",
+        "icon": "database"
+      },
+      {
+        "title": "Contribution processing",
+        "description": "Reconcile online, kiosk, and envelope giving nightly, then generate IRS-ready annual statements without exporting to spreadsheets.",
+        "icon": "chart"
+      },
+      {
+        "title": "Facility & event scheduling",
+        "description": "Route room requests, resource conflicts, and volunteer staffing through an approval workflow your operations team actually controls.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Denominational reporting",
+        "description": "Roll campus metrics into board-ready statistical reports that satisfy diocesan and denominational filing requirements on schedule.",
+        "icon": "layers"
+      },
+      {
+        "title": "Governance & controls",
+        "description": "Enforce SSO, granular permissions, and retention policies with SOC 2 Type II attestation and configurable data residency.",
+        "icon": "lock"
+      },
+      {
+        "title": "Volunteer coordination",
+        "description": "Manage background-check status, ministry team rosters, and serving schedules across thousands of active volunteers.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We retired four disconnected systems the quarter we deployed Assembl. Our finance close now takes three days instead of three weeks, and every contribution is fully reconciled.",
+        "name": "Rebecca Holloway",
+        "role": "Executive Pastor of Operations",
+        "company": "Northfield Community Church"
+      },
+      {
+        "quote": "Managing eleven campuses meant eleven versions of the truth. Assembl gave our leadership a single governed record and reporting our board finally trusts.",
+        "name": "Daniel Osei",
+        "role": "Director of Administration",
+        "company": "Grace Covenant Network"
+      },
+      {
+        "quote": "The audit trail alone justified the investment. When our denomination requested three years of statistical filings, we produced them in an afternoon.",
+        "name": "Marianne Vogel",
+        "role": "Chief Financial Officer",
+        "company": "Diocese of Cedar Rapids"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Campus",
+        "price": "$0.18",
+        "period": "per active record / month",
+        "blurb": "For single-site congregations standardizing their core records.",
+        "features": [
+          "Up to 2,500 active records",
+          "Unified member directory",
+          "Online & kiosk giving",
+          "Standard reporting",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.12",
+        "period": "per active record / month",
+        "blurb": "For multi-campus organizations that need governed consolidation.",
+        "features": [
+          "Unlimited campuses",
+          "Volume record pricing",
+          "SSO & role-based access",
+          "Denominational reporting",
+          "Approval workflows",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For denominations and large networks with compliance mandates.",
+        "features": [
+          "Custom record tiers",
+          "SOC 2 & data residency",
+          "Dedicated success manager",
+          "Custom integrations & API",
+          "Contractual SLAs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Assembl is the governed administration platform trusted by multi-campus ministries and denominations to unify records, giving, and reporting."
+  }
+}

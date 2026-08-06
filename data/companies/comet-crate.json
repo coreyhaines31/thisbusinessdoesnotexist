@@ -1,0 +1,140 @@
+{
+  "name": "Comet Crate",
+  "slug": "comet-crate",
+  "industry": "B2B swag",
+  "tagline": "Swag that doesn't end up in a landfill by Tuesday.",
+  "positioning": "Comet Crate is the merch platform for people who hate merch — curated goods, one dashboard, zero mousepads with your logo on them.",
+  "vibe": "elegant",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0A0F",
+    "surface": "#15151F",
+    "text": "#F4F4FA",
+    "primary": "#C6FF3D",
+    "accent": "#FF3DA6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CC",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 A 10 10 0 1 0 22 12 A 7 7 0 1 1 12 5 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19.5,
+        "cy": 5,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Merch people will actually keep.",
+      "sub": "Pick from a shelf we already vetted, ship it anywhere, and skip the eight-week email chain with a vendor named Greg. Good swag, ordered like it's 2025.",
+      "ctaLabel": "Order a crate",
+      "secondaryCtaLabel": "See the shelf"
+    },
+    "features": [
+      {
+        "title": "A shelf, not a catalog",
+        "description": "We curate 40 items that don't suck instead of dumping 4,000 on you. No stress balls. No lanyards. No regrets at the next all-hands.",
+        "icon": "layers"
+      },
+      {
+        "title": "Ship one or ship a thousand",
+        "description": "Send a hoodie to one new hire or 900 conference attendees from the same screen. Addresses collected for you — nobody DMs you their zip code.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Live inventory, real numbers",
+        "description": "See exactly how many mediums are left before you promise 300 of them. Restock alerts land before the shelf goes empty, not after.",
+        "icon": "chart"
+      },
+      {
+        "title": "Storefronts in a click",
+        "description": "Spin up a branded shop your team or fans can order from directly. You set the budget, we handle the checkout, everyone gets the right size.",
+        "icon": "globe"
+      },
+      {
+        "title": "Proofs that don't crawl",
+        "description": "Approve embroidery and print proofs in hours, not the standard ten-business-day fog. Reject Greg's kerning in one tap.",
+        "icon": "clock"
+      },
+      {
+        "title": "Returns without the sigh",
+        "description": "Wrong size happens. Swaps and reships run through us so you never touch a shipping label or a padded envelope again.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to have a closet full of XL polos nobody wanted. Now our people request the crate. I have never once said that sentence about company merch before.",
+        "name": "Priya Raman",
+        "role": "Head of People Ops",
+        "company": "Loomstack"
+      },
+      {
+        "quote": "I run a newsletter with 12,000 subscribers and needed drops that felt premium without a warehouse in my garage. Comet Crate is the warehouse. My garage has a car again.",
+        "name": "Devon Marsh",
+        "role": "Creator",
+        "company": "The Slow Build"
+      },
+      {
+        "quote": "Onboarded 60 remote hires last quarter, each got a box on day one, and I approved every proof from my phone. Our old vendor took longer to reply to email.",
+        "name": "Alina Ferreira",
+        "role": "Ops Lead",
+        "company": "Northbay Robotics"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "free, pay per item",
+        "blurb": "For individuals and creators sending the occasional drop.",
+        "features": [
+          "Full access to the curated shelf",
+          "Ship to any single address",
+          "Standard proofs in 48 hours",
+          "Pay only for what you order"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For teams running regular swag without a full-time swag person.",
+        "features": [
+          "Everything in Solo",
+          "One branded storefront",
+          "Bulk shipping to unlimited addresses",
+          "Live inventory + restock alerts",
+          "Priority proofs in 12 hours",
+          "Free size swaps and reships"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Warehouse",
+        "price": "$199",
+        "period": "per month",
+        "blurb": "For orgs with real volume and opinions about kerning.",
+        "features": [
+          "Everything in Operator",
+          "Unlimited storefronts",
+          "Dedicated inventory space",
+          "Custom sourcing for off-shelf items",
+          "SSO and budget controls",
+          "A human who answers, not Greg"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Comet Crate — swag that doesn't end up in a landfill by Tuesday. Curated goods, one dashboard, zero mousepads."
+  }
+}

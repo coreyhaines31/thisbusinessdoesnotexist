@@ -1,0 +1,136 @@
+{
+  "name": "Pedn",
+  "slug": "pedn",
+  "industry": "soil analytics",
+  "tagline": "Soil intelligence for the enterprise land portfolio.",
+  "positioning": "Pedn turns raw core samples and remote sensing into audit-ready soil data — one system of record for agronomy, carbon, and land compliance teams.",
+  "vibe": "elegant",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F3F0E9",
+    "surface": "#FBF9F4",
+    "text": "#211E18",
+    "primary": "#55613F",
+    "accent": "#A6663C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 0 12 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 1 12 20 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The system of record for enterprise soil data",
+      "sub": "Consolidate lab cores, spectral scans, and field observations into one governed dataset — so agronomy, carbon, and compliance teams stop reconciling spreadsheets and start trusting the same numbers.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View sample report"
+    },
+    "features": [
+      {
+        "title": "Unified core-to-map pipeline",
+        "description": "Ingest lab results, NIR spectra, and geotagged samples, then resolve them to a single validated soil horizon model across every field and parcel you manage.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit-ready carbon accounting",
+        "description": "Generate SOC baselines and change reports aligned to Verra and CDR methodologies, with full sample lineage regulators and buyers can trace.",
+        "icon": "shield"
+      },
+      {
+        "title": "Portfolio-scale geospatial analytics",
+        "description": "Benchmark nutrient, pH, and organic-matter trends across millions of hectares, with variance flags surfaced before they reach the field agronomist.",
+        "icon": "chart"
+      },
+      {
+        "title": "Lab and instrument integrations",
+        "description": "Connect accredited labs and in-field spectrometers through validated connectors, eliminating manual CSV handoffs and transcription error.",
+        "icon": "database"
+      },
+      {
+        "title": "Governed roles and approvals",
+        "description": "SSO, granular permissions, and immutable change logs give data stewards control over who edits soil records and what gets published downstream.",
+        "icon": "lock"
+      },
+      {
+        "title": "Real-time sampling logistics",
+        "description": "Track chain of custody from probe to result, with SLA alerts when samples stall in transit or lab turnaround slips past target.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Pedn, our carbon verification pack was six analysts and three weeks of spreadsheet reconciliation. Now the sample lineage is intact and the report exports in an afternoon.",
+        "name": "Marta Ellsworth",
+        "role": "VP of Sustainability",
+        "company": "Cedarline Agriculture"
+      },
+      {
+        "quote": "We manage soil data across 1.4 million hectares. Pedn is the first platform that gave our agronomists and compliance team a single defensible number to stand behind.",
+        "name": "David Okonkwo",
+        "role": "Director of Land Analytics",
+        "company": "Meridian Farmland Partners"
+      },
+      {
+        "quote": "The chain-of-custody tracking alone paid for the contract. We caught two lab turnaround failures in the first month that would have blown our sampling window.",
+        "name": "Priya Raman",
+        "role": "Head of Agronomy Operations",
+        "company": "Northfield Growers Cooperative"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Baseline",
+        "price": "$0.60",
+        "period": "per sample processed",
+        "blurb": "For teams standardizing soil records across a single operating region.",
+        "features": [
+          "Up to 25,000 samples per year",
+          "Core-to-horizon data model",
+          "Standard lab connectors",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.42",
+        "period": "per sample processed",
+        "blurb": "For multi-region operators running carbon and compliance programs.",
+        "features": [
+          "Volume-tiered sample pricing",
+          "Carbon and SOC reporting suite",
+          "SSO and role-based governance",
+          "Priority support and onboarding",
+          "API and geospatial exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual volume agreement",
+        "blurb": "For land portfolios sampling at national scale with strict audit needs.",
+        "features": [
+          "Committed-use volume rates",
+          "Dedicated data steward workspace",
+          "Custom methodology alignment",
+          "Private lab and instrument connectors",
+          "99.9% SLA and named CSM"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Pedn is the enterprise system of record for soil analytics, trusted by agribusiness, carbon, and land-compliance teams to turn samples into defensible data."
+  }
+}

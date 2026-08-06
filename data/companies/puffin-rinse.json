@@ -1,0 +1,135 @@
+{
+  "name": "Puffin Rinse",
+  "slug": "puffin-rinse",
+  "industry": "industrial cleaning",
+  "tagline": "Industrial-grade clean, engineered for the way one person actually lives.",
+  "positioning": "Puffin Rinse brings warehouse-caliber cleaning systems, refills, and know-how to prosumers and households who refuse to settle for hardware-store spray bottles.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F4F7F3",
+    "surface": "#FFFFFF",
+    "text": "#233037",
+    "primary": "#3E8E7E",
+    "accent": "#F2A6B8"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "PR",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The clean the pros use, finally sized for your kitchen.",
+      "sub": "Puffin Rinse turns commercial-grade degreasers, foamers, and micro-scrub tooling into a tidy subscription — dosed, dilution-mapped, and delivered before you run out.",
+      "ctaLabel": "Start my rinse plan",
+      "secondaryCtaLabel": "See what's inside"
+    },
+    "features": [
+      {
+        "title": "Warehouse chemistry, home doses",
+        "description": "Concentrates borrowed from food-plant sanitation lines, pre-portioned so a single capsule fills your bottle. No goggles-and-guesswork dilution math.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Surface-smart routing",
+        "description": "Tell us your floors, hobs, and grout and we ship only the formulas that won't etch, cloud, or strip them. Bespoke, not one-bottle-fits-all.",
+        "icon": "target"
+      },
+      {
+        "title": "Never-run-out refills",
+        "description": "Our usage model watches your cadence and reships pods days before empty. The junk drawer of half-used sprays becomes one calm shelf.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Rinse Playbooks",
+        "description": "Step-by-step routines for the jobs you dread — oven carbon, shower film, garage epoxy — written by facility cleaners, not influencers.",
+        "icon": "layers"
+      },
+      {
+        "title": "Return-and-refill loop",
+        "description": "Aluminum bottles come back to us in a prepaid pouch, get sanitized, and re-enter the flock. Zero single-use plastic in the whole chain.",
+        "icon": "globe"
+      },
+      {
+        "title": "Streak-free guarantee",
+        "description": "If a formula haze, film, or fails to lift the grime we mapped it to, the next shipment is on us. We stand behind the shine.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I restore vintage motorcycles in a two-car garage. Puffin Rinse ships me the same degreaser I used at a fleet depot, but in doses that don't take up a whole wall. My driveway has never looked so serious.",
+        "name": "Marcus Devlin",
+        "role": "Weekend restorer",
+        "company": "Devlin Moto Garage"
+      },
+      {
+        "quote": "We run a five-suite Airbnb portfolio ourselves. The surface routing meant no more ruined marble vanities from the wrong spray. Turnovers are faster and the reviews stopped mentioning 'chemical smell.'",
+        "name": "Priya Nandakumar",
+        "role": "Owner-operator",
+        "company": "Larch Court Stays"
+      },
+      {
+        "quote": "I hated that my sink was a graveyard of near-empty bottles. Now one shelf, one system, and refills that show up before I even think about it. It feels absurdly futuristic for mopping.",
+        "name": "Theo Braun",
+        "role": "Home chef & host",
+        "company": "Braun Supper Club"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Nest",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For one tidy home and the person who refuses grimy grout.",
+        "features": [
+          "3 concentrate pods per month",
+          "2 refillable aluminum bottles",
+          "Core Rinse Playbooks",
+          "Prepaid return-and-refill pouch"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Colony",
+        "price": "$59",
+        "period": "per month",
+        "blurb": "For big homes, garages, and prosumers cleaning like a small crew.",
+        "features": [
+          "8 concentrate pods per month",
+          "5 refillable bottles + foamer",
+          "Surface-smart routing profile",
+          "Advanced degrease & restoration kits",
+          "Priority reship before empty"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Rookery",
+        "price": "$129",
+        "period": "per month",
+        "blurb": "For short-let hosts and side-hustle operators juggling many spaces.",
+        "features": [
+          "Unlimited routed concentrate pods",
+          "10 bottles + foamer + micro-scrub tools",
+          "Multi-property usage dashboard",
+          "Streak-free guarantee credits",
+          "Dedicated cleaning strategist"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Puffin Rinse is on a mission to make professional-grade clean the default for everyone — one refillable bottle, one perfectly dosed pod at a time."
+  }
+}

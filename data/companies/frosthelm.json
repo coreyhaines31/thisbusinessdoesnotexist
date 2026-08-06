@@ -1,0 +1,142 @@
+{
+  "name": "FrostHelm",
+  "slug": "frosthelm",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating system for modern cold-plunge studios.",
+  "positioning": "FrostHelm gives owner-operators one platform to run bookings, water-safety compliance, memberships, and staff across every plunge location.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#08090C",
+    "surface": "#12151C",
+    "text": "#EAF1FF",
+    "primary": "#00E6C3",
+    "accent": "#8B5CFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 5 C15 9.5 17.5 12.5 17.5 15 A5.5 5.5 0 1 1 6.5 15 C6.5 12.5 9 9.5 12 5 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every plunge like clockwork.",
+      "sub": "FrostHelm unifies session booking, water-safety logs, membership billing, and staff scheduling so your studio stays compliant, full, and cash-positive.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "View platform"
+    },
+    "features": [
+      {
+        "title": "Water-Safety Compliance",
+        "description": "Automated temperature, chlorine, and pH logging with tamper-proof records ready for any health inspector who walks through your door.",
+        "icon": "shield"
+      },
+      {
+        "title": "Plunge Scheduling",
+        "description": "Manage limited-capacity tub slots, contrast-therapy rotations, and buffer times across every location from one live calendar.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Membership & Billing",
+        "description": "Sell recurring plunge memberships, day passes, and class packs with automatic dunning and per-location revenue reporting.",
+        "icon": "users"
+      },
+      {
+        "title": "Staff & Attendant Rosters",
+        "description": "Assign certified attendants to each session, track cold-exposure safety briefings, and enforce staffing minimums in real time.",
+        "icon": "clock"
+      },
+      {
+        "title": "Multi-Location Control",
+        "description": "Compare occupancy, utilization, and margin across all your studios with a single owner dashboard built for portfolios.",
+        "icon": "chart"
+      },
+      {
+        "title": "Member Waivers",
+        "description": "Collect signed liability and medical-screening waivers at checkout, then attach them to every session on record automatically.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before FrostHelm our sanitation logs lived on a clipboard by the tubs. Now inspections take ten minutes and our attendants never miss a reading.",
+        "name": "Danielle Roarke",
+        "role": "Owner-Operator",
+        "company": "Northwater Plunge Co."
+      },
+      {
+        "quote": "We opened two more studios in a year because FrostHelm let me see occupancy and margin per location without spreadsheets. The per-seat pricing scaled cleanly with my team.",
+        "name": "Marcus Feld",
+        "role": "Founder",
+        "company": "Zero Degree Recovery"
+      },
+      {
+        "quote": "Membership churn dropped 18% after we moved billing and waivers onto FrostHelm. My front desk finally stopped chasing paperwork and started selling packs.",
+        "name": "Priya Vashwani",
+        "role": "General Manager",
+        "company": "Glacier Room Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Studio",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For single-location owners running one plunge floor.",
+        "features": [
+          "Up to 3 staff seats",
+          "Session & capacity scheduling",
+          "Water-safety logging",
+          "Digital waivers",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Growth",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For expanding operators managing multiple studios.",
+        "features": [
+          "Unlimited staff seats",
+          "Multi-location dashboard",
+          "Membership & recurring billing",
+          "Compliance audit exports",
+          "Staff certification tracking",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For franchise groups and recovery-studio portfolios.",
+        "features": [
+          "Dedicated success manager",
+          "SSO & role-based access",
+          "Custom compliance workflows",
+          "API & integrations",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "FrostHelm is the operations platform trusted by cold-plunge and contrast-therapy studios to stay compliant, full, and profitable."
+  }
+}

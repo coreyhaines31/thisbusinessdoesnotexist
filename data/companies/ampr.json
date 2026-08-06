@@ -1,0 +1,153 @@
+{
+  "name": "Ampr",
+  "slug": "ampr",
+  "industry": "micro-mobility charging",
+  "tagline": "The charging layer for shared scooter and e-bike fleets.",
+  "positioning": "Ampr gives fleet operators one platform to meter, dispatch, and bill every charge across depots, curbside docks, and swap stations.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A0A0B",
+    "surface": "#161719",
+    "text": "#F4F4F5",
+    "primary": "#D6FF3D",
+    "accent": "#FFFFFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "A",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 13,
+        "width": 4,
+        "height": 8,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 8,
+        "width": 4,
+        "height": 13,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 17,
+        "y": 3,
+        "width": 4,
+        "height": 18,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The charging layer for shared micro-mobility fleets.",
+      "sub": "Ampr meters every kilowatt, schedules chargers around dispatch demand, and reconciles energy costs across every depot and curbside dock — in one operations console.",
+      "ctaLabel": "Book a fleet walkthrough",
+      "secondaryCtaLabel": "Read the docs"
+    },
+    "features": [
+      {
+        "title": "Charge-aware dispatch",
+        "description": "Ampr sequences which scooters charge first based on tomorrow's rider demand, so your morning fleet is topped up before the first unlock.",
+        "icon": "zap"
+      },
+      {
+        "title": "Per-kWh metering",
+        "description": "Sub-meter every port down to the watt-hour. Split energy cost by depot, by vehicle model, and by shift for finance teams that need it clean.",
+        "icon": "chart"
+      },
+      {
+        "title": "Fault detection",
+        "description": "Ampr flags a dead port, a throttled circuit, or a battery that won't accept charge before your field crew ever walks the aisle.",
+        "icon": "shield"
+      },
+      {
+        "title": "Utility rate windows",
+        "description": "Shift bulk charging into off-peak rate windows automatically and prove the savings to procurement with an exportable ledger.",
+        "icon": "clock"
+      },
+      {
+        "title": "Swap-station sync",
+        "description": "Track battery state of health across swap cabinets and depots so a tired pack never lands back on the street.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Grid-ready reporting",
+        "description": "One API and one dashboard for utilization, carbon intensity, and demand charges — built for the reports your board already asks for.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were reconciling charging costs across nine depots in spreadsheets. Ampr gave us a per-vehicle energy ledger our finance team actually trusts, and it cut month-end close from four days to one.",
+        "name": "Priya Nadkarni",
+        "role": "VP of Fleet Operations",
+        "company": "Loop Mobility"
+      },
+      {
+        "quote": "The dispatch-aware charging is the part I didn't know I needed. Our morning availability went up 14% because Ampr charges the right scooters in the right order overnight.",
+        "name": "Daniel Osei",
+        "role": "Director of City Operations",
+        "company": "Verge Rides"
+      },
+      {
+        "quote": "Ampr caught a failing charge circuit at our Oakland depot a full day before it would have taken out a whole rack. That single alert paid for the platform.",
+        "name": "Marta Kovač",
+        "role": "Head of Charging Infrastructure",
+        "company": "Kestrel Scooters"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Metered",
+        "price": "$0.04",
+        "period": "per kWh dispensed",
+        "blurb": "For operators standing up their first connected depots.",
+        "features": [
+          "Up to 500 charge ports",
+          "Per-kWh metering and export",
+          "Fault and offline alerts",
+          "Standard email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.028",
+        "period": "per kWh dispensed",
+        "blurb": "For multi-depot operators running dispatch-aware charging.",
+        "features": [
+          "Unlimited charge ports",
+          "Charge-aware dispatch scheduling",
+          "Off-peak rate optimization",
+          "Swap-station battery health",
+          "Priority support with SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume kWh + platform fee",
+        "blurb": "For national fleets and utility-integrated deployments.",
+        "features": [
+          "Committed-volume energy pricing",
+          "Utility demand-charge integration",
+          "SSO, audit logs, and roles",
+          "Dedicated solutions engineer",
+          "Custom SLAs and data residency"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ampr is the charging operations platform for shared micro-mobility fleets — metering, dispatch, and energy reconciliation in one console."
+  }
+}

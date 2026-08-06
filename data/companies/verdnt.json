@@ -1,0 +1,137 @@
+{
+  "name": "Verdnt",
+  "slug": "verdnt",
+  "industry": "vertical farming",
+  "tagline": "The operating system for indoor crop production at scale",
+  "positioning": "Verdnt gives enterprise growers unified control over climate, nutrients, and yield forecasting across every vertical farm in their network.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A1E29",
+    "surface": "#123243",
+    "text": "#E7F3F0",
+    "primary": "#28B98A",
+    "accent": "#3B9FE0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every tier, every crop, one control plane",
+      "sub": "Verdnt connects the climate loops, dosing systems, and harvest data across your indoor farms so operations teams can hit yield targets without living inside a spreadsheet.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Recipe orchestration",
+        "description": "Version and roll out light, temperature, and nutrient recipes to thousands of grow zones, then watch actual conditions drift against target in real time.",
+        "icon": "layers"
+      },
+      {
+        "title": "Yield forecasting",
+        "description": "Model harvest weight and DLI-adjusted timing per rack, so your sales team can commit to grocery contracts weeks before transplant.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Anomaly response",
+        "description": "Verdnt flags a failing dosing pump or a stalled airflow fan before the canopy shows stress, and routes the alert to the on-shift technician.",
+        "icon": "bell"
+      },
+      {
+        "title": "Compliance records",
+        "description": "Automatically log every input, batch, and lot for GAP and food-safety audits, exportable the moment an inspector asks.",
+        "icon": "shield"
+      },
+      {
+        "title": "Energy accounting",
+        "description": "Attribute kWh and water use down to the tray to find which cultivars actually pencil out at commercial volume.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-site rollout",
+        "description": "Standardize a proven farm blueprint and clone it to a new facility, with local overrides for utility rates and labor shifts.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running three farms on three different SCADA setups. Verdnt gave our agronomists one dashboard, and we cut crop loss from environmental faults by nearly a third in two quarters.",
+        "name": "Priya Raman",
+        "role": "VP of Cultivation",
+        "company": "Meridian Greens"
+      },
+      {
+        "quote": "The forecasting is what sold our board. We can now tell a retail buyer exactly how many cases of basil ship in week nine, and we hit it.",
+        "name": "Daniel Osei",
+        "role": "Director of Operations",
+        "company": "Northfield Farm Systems"
+      },
+      {
+        "quote": "Audit prep used to eat a full week per facility. With Verdnt's batch records it's a same-day export, and our food-safety lead finally sleeps.",
+        "name": "Helena Vogt",
+        "role": "Head of Quality",
+        "company": "Cendra Produce Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Grow",
+        "price": "$0.018",
+        "period": "per tray-day metered monthly",
+        "blurb": "For single-facility operators standardizing their first control plane.",
+        "features": [
+          "Up to 1 facility",
+          "Recipe orchestration",
+          "Real-time zone monitoring",
+          "Standard audit exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.012",
+        "period": "per tray-day, volume tiered",
+        "blurb": "For multi-site growers who need forecasting and cross-farm rollout.",
+        "features": [
+          "Up to 8 facilities",
+          "Yield forecasting engine",
+          "Anomaly routing to shifts",
+          "Energy and water accounting",
+          "Blueprint cloning"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed-use pricing",
+        "blurb": "For national networks with dedicated agronomy and compliance teams.",
+        "features": [
+          "Unlimited facilities",
+          "Dedicated success agronomist",
+          "SSO and role-based access",
+          "Custom SLA and data residency",
+          "API and ERP integrations",
+          "Priority incident response"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Verdnt is the enterprise control plane for indoor agriculture — turning climate, nutrient, and harvest data into predictable yield."
+  }
+}

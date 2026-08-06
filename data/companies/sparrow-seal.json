@@ -1,0 +1,131 @@
+{
+  "name": "Sparrow Seal",
+  "slug": "sparrow-seal",
+  "industry": "cannabis compliance",
+  "tagline": "Every gram accounted for. Every regulator charmed.",
+  "positioning": "Sparrow Seal turns cannabis compliance from a filing nightmare into a single luminous dashboard for growers, budtenders, and solo operators.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0A0B0F",
+    "surface": "#14161E",
+    "text": "#F2F4FF",
+    "primary": "#39FF88",
+    "accent": "#B06BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SS",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18 5 C10 5 6 8 6 11 C6 14 10 14 12 14 C15 14 18 14 18 17 C18 20 13 20 7 19 L7 22 C15 23 21 21 21 16 C21 12 16 12 13 12 C10 12 9 11 9 10 C9 8 13 8 18 9 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that flies. Regulators that smile.",
+      "sub": "Sparrow Seal watches your seed-to-sale trail, catches manifest gaps before the state does, and turns your METRC chaos into one calm, glowing feed you actually understand.",
+      "ctaLabel": "Claim your dashboard",
+      "secondaryCtaLabel": "See a live audit"
+    },
+    "features": [
+      {
+        "title": "Manifest guardian",
+        "description": "We scan every transfer manifest against state rules the moment you draft it, flagging weight mismatches and missing labels before a single package leaves the door.",
+        "icon": "shield"
+      },
+      {
+        "title": "METRC reconciliation",
+        "description": "Your on-hand counts and METRC tags fall out of sync constantly. Sparrow Seal reconciles them nightly and hands you the exact discrepancies to fix.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Audit-ready binder",
+        "description": "One tap generates a timestamped compliance binder — COAs, manifests, waste logs — formatted for your state inspector, not for a lawyer to translate.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Deadline radar",
+        "description": "License renewals, tax filings, and reporting windows tracked to the day, with nudges early enough to actually act on them.",
+        "icon": "bell"
+      },
+      {
+        "title": "Waste witness",
+        "description": "Log destruction events with photos, weights, and the mandated cure period, so your quarantine and disposal records survive any surprise visit.",
+        "icon": "target"
+      },
+      {
+        "title": "Multi-state map",
+        "description": "Operate across state lines? See each jurisdiction's rulebook side by side and stop guessing which THC limit applies where.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were three failed reconciliations from a suspension. Sparrow Seal caught the phantom tags our old spreadsheet buried and rebuilt our whole binder in an afternoon. The inspector actually complimented us.",
+        "name": "Dana Whitlock",
+        "role": "Compliance Lead",
+        "company": "Cinderloft Cultivators"
+      },
+      {
+        "quote": "I run a two-person craft grow. I don't have a compliance department — I have Sparrow Seal. It flags my manifest errors before I hit submit, and I sleep again.",
+        "name": "Marcus Ferreira",
+        "role": "Owner & Head Grower",
+        "company": "Halcyon Row Gardens"
+      },
+      {
+        "quote": "Renewal season used to swallow a full week. Now the deadline radar pings me, the binder is already built, and I file in twenty minutes. It feels almost unfair.",
+        "name": "Priya Anand",
+        "role": "Operations Director",
+        "company": "Northlight Provisions"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For single-license growers and boutique operators keeping their own books.",
+        "features": [
+          "1 license & location",
+          "METRC nightly reconciliation",
+          "Manifest guardian",
+          "Audit binder export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$129",
+        "period": "per month",
+        "blurb": "For busy dispensaries and multi-room grows that can't afford a slip.",
+        "features": [
+          "Up to 5 licenses",
+          "Everything in Solo",
+          "Deadline radar & waste witness",
+          "Team roles & sign-off trail",
+          "Priority compliance support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Syndicate",
+        "price": "$349",
+        "period": "per month",
+        "blurb": "For multi-state operators managing rulebooks across jurisdictions.",
+        "features": [
+          "Unlimited licenses",
+          "Multi-state map & rules engine",
+          "Custom binder templates",
+          "API & accounting sync",
+          "Dedicated compliance advisor"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sparrow Seal keeps cannabis operators audit-ready, one luminous dashboard at a time. Not legal advice — just fewer sleepless filing nights."
+  }
+}

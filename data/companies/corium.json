@@ -1,0 +1,135 @@
+{
+  "name": "Corium",
+  "slug": "corium",
+  "industry": "tattoo studio booking",
+  "tagline": "Booking software made for the people behind the needle.",
+  "positioning": "Corium runs the whole studio day — deposits, consults, aftercare, and the calendar — so artists can stay heads-down on the piece in front of them.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4ECE0",
+    "surface": "#FBF6EE",
+    "text": "#2E2016",
+    "primary": "#B24A24",
+    "accent": "#4E7C59"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Co",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The studio calendar that finally respects the chair time.",
+      "sub": "Corium handles deposits, consult intake, and aftercare reminders in one warm little dashboard — built for independent tattoo artists and the studios they share.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live studio"
+    },
+    "features": [
+      {
+        "title": "Deposit-first booking",
+        "description": "Clients can't hold a slot without a deposit. Corium collects it at booking, applies it to the session, and quietly chases no-shows so you don't have to.",
+        "icon": "lock"
+      },
+      {
+        "title": "Reference intake that sticks",
+        "description": "Every request arrives with placement, size, budget, and reference images attached — no more digging through three DM apps to find that one screenshot.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Aftercare on autopilot",
+        "description": "Healing check-ins and touch-up reminders send themselves on day 3, 14, and 30, with your own wording and your own voice.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Shared-chair scheduling",
+        "description": "Guest spots, rotating stations, and per-artist hours live on one calendar so the front desk stops double-booking the good window seat.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Flash sheet storefront",
+        "description": "Post repeatable flash with fixed prices. Clients claim a design, pay, and land on your books already sized and slotted.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Numbers you'll actually read",
+        "description": "See fill rate, average session value, and rebook percentage per artist — the three things that tell you how the shop is really doing.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Deposits used to be a fight every single week. Now Corium takes them at booking and my no-show rate dropped from nearly a quarter to almost nothing. I stopped dreading Mondays.",
+        "name": "Marisol Vega",
+        "role": "Owner & Artist",
+        "company": "Ember Row Tattoo"
+      },
+      {
+        "quote": "We run four artists off one calendar and used to double-book the front chair constantly. The shared-chair view fixed it in a week. The front desk sends me thank-you notes now.",
+        "name": "Declan Ruiz",
+        "role": "Studio Manager",
+        "company": "Northgate Ink Collective"
+      },
+      {
+        "quote": "The aftercare reminders sound like me because I wrote them once and forgot about it. Clients think I'm checking in personally at 3am. I am asleep.",
+        "name": "Priya Naidoo",
+        "role": "Resident Artist",
+        "company": "Slow Hand Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per month",
+        "blurb": "For the single artist running their own books and their own chair.",
+        "features": [
+          "One artist calendar",
+          "Deposit collection",
+          "Reference intake forms",
+          "Aftercare reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per month, up to 6 artists",
+        "blurb": "For shops sharing chairs, guests, and a very busy front desk.",
+        "features": [
+          "Shared-chair scheduling",
+          "Per-artist hours & pricing",
+          "Flash sheet storefront",
+          "Front-desk roles",
+          "Studio analytics dashboard"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Collective",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For multi-location studios and touring guest programs.",
+        "features": [
+          "Unlimited artists & locations",
+          "Guest spot coordination",
+          "Cross-location reporting",
+          "Custom aftercare branding",
+          "Priority onboarding & support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Corium is booking, deposits, and aftercare in one warm dashboard — built with working tattoo artists, not for a boardroom."
+  }
+}

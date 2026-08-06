@@ -1,0 +1,136 @@
+{
+  "name": "Convy",
+  "slug": "convy",
+  "industry": "fleet telematics",
+  "tagline": "Telematics infrastructure for enterprise fleets that refuse to guess.",
+  "positioning": "Convy unifies every vehicle, sensor, and dispatch decision into one live operating layer — so fleet directors act on ground truth, not yesterday's spreadsheet.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#08192B",
+    "surface": "#0F2740",
+    "text": "#E6F3F7",
+    "primary": "#17C4A0",
+    "accent": "#3B9BF5"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 5 A7 7 0 0 1 13 19 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every vehicle, telling the truth in real time.",
+      "sub": "Convy turns raw CAN-bus signals, GPS, and driver behavior into one auditable operating picture — the platform enterprise fleet teams standardize on across every depot.",
+      "ctaLabel": "Book a fleet review",
+      "secondaryCtaLabel": "See live demo"
+    },
+    "features": [
+      {
+        "title": "Live Vehicle Ground Truth",
+        "description": "Second-by-second location, engine load, and fuel state from every asset — no more reconciling three trackers that disagree at the loading dock.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Driver Safety Scoring",
+        "description": "Harsh braking, speeding, and distraction events scored per driver, per route, with coaching workflows that reduce collision claims measurably.",
+        "icon": "shield"
+      },
+      {
+        "title": "Predictive Maintenance",
+        "description": "Fault codes and wear signals trigger service tickets before a truck strands a delivery — cut unplanned downtime across the fleet.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Compliance & ELD Records",
+        "description": "Hours-of-service, IFTA mileage, and inspection logs generated automatically and export-ready for any DOT audit.",
+        "icon": "lock"
+      },
+      {
+        "title": "Geofence Automation",
+        "description": "Trigger dispatch alerts, dwell-time billing, and yard-arrival events the moment an asset crosses a boundary you define.",
+        "icon": "target"
+      },
+      {
+        "title": "Fleet Analytics API",
+        "description": "Stream normalized telematics into your BI stack, TMS, or data warehouse with one documented, versioned endpoint.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated four regional tracking vendors onto Convy in a quarter. Idle-time billing disputes with our 3PL partners basically disappeared once everyone read from the same event log.",
+        "name": "Dana Whitfield",
+        "role": "VP of Fleet Operations",
+        "company": "Meridian Freight Group"
+      },
+      {
+        "quote": "The predictive maintenance tickets paid for the contract in the first winter. We caught coolant-loss patterns on 40 tractors before a single one broke down on I-80.",
+        "name": "Marcus Reyes",
+        "role": "Director of Asset Management",
+        "company": "Nordway Logistics"
+      },
+      {
+        "quote": "Our DOT audit used to eat two weeks of a compliance analyst's month. Convy exports the HOS and IFTA records in an afternoon, and the auditors stopped asking follow-ups.",
+        "name": "Priya Anand",
+        "role": "Head of Safety & Compliance",
+        "company": "Cascade Haul Systems"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Depot",
+        "price": "$14",
+        "period": "per active vehicle / month",
+        "blurb": "For single-site fleets standardizing their first telematics layer.",
+        "features": [
+          "Up to 50 active vehicles",
+          "Live tracking & geofencing",
+          "Driver safety scoring",
+          "Standard maintenance alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Regional",
+        "price": "$11",
+        "period": "per active vehicle / month",
+        "blurb": "Volume-tiered pricing for multi-depot operators scaling nationally.",
+        "features": [
+          "Unlimited active vehicles",
+          "Predictive maintenance engine",
+          "ELD & IFTA compliance suite",
+          "Fleet Analytics API access",
+          "Dedicated onboarding architect"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed-use, volume metered",
+        "blurb": "For national fleets with SLAs, data residency, and integration mandates.",
+        "features": [
+          "Committed-use volume rates",
+          "99.95% uptime SLA",
+          "SSO, RBAC & audit logging",
+          "Private data pipelines",
+          "Named technical account team"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Convy is the telematics operating layer for enterprise fleets — one auditable source of truth from the engine bay to the boardroom."
+  }
+}

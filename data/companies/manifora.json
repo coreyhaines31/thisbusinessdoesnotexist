@@ -1,0 +1,126 @@
+{
+  "name": "Manifora",
+  "slug": "manifora",
+  "industry": "artisanal logistics",
+  "tagline": "Freight forwarding for people who resent freight forwarding.",
+  "positioning": "Manifora is the usage-based logistics layer for enterprises that ship small-batch, high-touch goods and refuse to pretend a spreadsheet counts as software.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A1E2A",
+    "surface": "#112D3B",
+    "text": "#E4F3F0",
+    "primary": "#1FB6A6",
+    "accent": "#4C93F0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 6 A 6 6 0 0 1 12 18 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Small-batch logistics that behaves like grown-up software.",
+      "sub": "Manifora routes, tracks, and settles your fussiest shipments — the hand-packed, temperature-sensitive, one-of-a-kind stuff your ERP quietly hates. You pay for what you move, not for the privilege.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "Read the docs"
+    },
+    "features": [
+      {
+        "title": "Manifests that write themselves",
+        "description": "Stop retyping customs codes at 11pm. Manifora generates line-level manifests from your order data and flags the one that'll get held at the border.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Live lineage, not last-seen",
+        "description": "Every artisanal unit gets a traceable chain of custody — origin, handler, temperature, and who dropped it. Auditors love it. So will you.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Carrier logic without the tantrums",
+        "description": "We benchmark 400+ specialty carriers per lane and pick the one that won't crush your ceramics. You approve; we dispatch.",
+        "icon": "compass"
+      },
+      {
+        "title": "Billing you can actually explain",
+        "description": "Usage-based charges reconcile to individual shipments. Finance gets one clean line item per lane instead of a mystery invoice.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were coordinating small-batch spice imports across three continents in a shared inbox. Manifora replaced the inbox, the spreadsheet, and one very tired coordinator's coping mechanism.",
+        "name": "Dana Whitlock",
+        "role": "VP of Supply Chain",
+        "company": "Corvet Provisions"
+      },
+      {
+        "quote": "Our old 3PL treated hand-blown glassware like gravel. Manifora's carrier scoring cut our breakage claims by two-thirds in a quarter. I stopped dreading the loss report.",
+        "name": "Elias Moreau",
+        "role": "Director of Fulfillment",
+        "company": "Halden Ateliers"
+      },
+      {
+        "quote": "The part that sold procurement was the billing. Every charge maps to a shipment. No 'miscellaneous freight adjustments.' It's almost suspiciously honest.",
+        "name": "Priya Nandakumar",
+        "role": "Head of Operations",
+        "company": "Lowry & Vane"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.60",
+        "period": "per shipment tracked",
+        "blurb": "For teams moving a few hundred specialty units a month.",
+        "features": [
+          "Auto-generated manifests",
+          "Live chain-of-custody tracking",
+          "Up to 25 carrier lanes",
+          "Email + chat support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Foundry",
+        "price": "$0.34",
+        "period": "per shipment, volume-tiered",
+        "blurb": "For growing operations that move real freight and hate surprises.",
+        "features": [
+          "Everything in Studio",
+          "Unlimited carrier lanes",
+          "Carrier scoring & auto-dispatch",
+          "Shipment-level billing exports",
+          "SSO and role permissions"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Consortium",
+        "price": "Custom",
+        "period": "negotiated per-unit rate",
+        "blurb": "For enterprises running multi-region, audited supply chains.",
+        "features": [
+          "Everything in Foundry",
+          "Dedicated lane analyst",
+          "Custom customs & compliance rules",
+          "99.9% SLA + priority routing",
+          "On-prem data residency options"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Manifora is logistics infrastructure for goods that deserve better than a pallet and a prayer. Usage-based pricing, enterprise spine."
+  }
+}

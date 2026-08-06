@@ -1,0 +1,136 @@
+{
+  "name": "Narq",
+  "slug": "narq",
+  "industry": "cannabis compliance",
+  "tagline": "Compliance that narcs on your operation before the regulators can.",
+  "positioning": "Narq is the seed-to-sale compliance layer for multistate cannabis operators who'd rather catch their own violations than let an inspector do it for them.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A0B0D",
+    "surface": "#15181D",
+    "text": "#EAF3EC",
+    "primary": "#3BFF8A",
+    "accent": "#FF3DAE"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "N",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M11 3 A9 9 0 0 0 11 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 3 A9 9 0 0 1 13 21 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stay legal in 24 states without a spreadsheet named FINAL_v7.",
+      "sub": "Narq syncs every package, transfer, and license to METRC and BioTrack in real time, then flags the violation before an inspector ever puts on gloves.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "METRC sync that actually holds",
+        "description": "Two-way sync with METRC and BioTrack across every state you operate in. When a tag mismatches, Narq fixes it or tells you exactly which human to yell at.",
+        "icon": "refresh"
+      },
+      {
+        "title": "License babysitter",
+        "description": "Every state, local, and facility license tracked with renewal deadlines, so nobody discovers an expired permit during a surprise Tuesday audit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Audit trail nobody can gaslight",
+        "description": "Immutable chain-of-custody logs for every gram, edible, and pre-roll. Export a defensible packet for inspectors in one click, not one weekend.",
+        "icon": "lock"
+      },
+      {
+        "title": "Violation radar",
+        "description": "Rules engine watches limits, transfer manifests, and testing gaps in real time and pings the person who can fix it before it becomes a fine.",
+        "icon": "bell"
+      },
+      {
+        "title": "Excise tax without tears",
+        "description": "Reconciles sales, waste, and tax obligations per jurisdiction so your CFO stops treating quarter-close like a hostage negotiation.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multistate command deck",
+        "description": "One dashboard for compliance officers running 40 facilities across a dozen wildly inconsistent regulatory regimes.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to reconcile METRC by hand across nine states. Narq caught a manifest error that would've cost us a suspension. It paid for itself in the first month, which is annoying because I liked complaining.",
+        "name": "Danielle Ferraro",
+        "role": "VP of Compliance",
+        "company": "Highwater Collective"
+      },
+      {
+        "quote": "Our last audit took eleven days to prep. With Narq I pulled the packet in an afternoon and spent the rest of the week doing literally anything else.",
+        "name": "Marcus Ojeda",
+        "role": "Chief Compliance Officer",
+        "company": "Verdant Peak Holdings"
+      },
+      {
+        "quote": "The violation alerts are almost rude about how fast they are. I'd rather be embarrassed by software than fined by a regulator, so we're keeping it.",
+        "name": "Priya Raman",
+        "role": "Director of Regulatory Affairs",
+        "company": "Cascade Cannabis Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Single State",
+        "price": "$0.04",
+        "period": "per package tracked / mo",
+        "blurb": "For operators cleaning up one market before they scale the chaos.",
+        "features": [
+          "Up to 50k tracked packages",
+          "METRC or BioTrack sync",
+          "License renewal tracking",
+          "Standard audit exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multistate",
+        "price": "$0.02",
+        "period": "per package tracked / mo",
+        "blurb": "Volume pricing for MSOs juggling incompatible state rulebooks.",
+        "features": [
+          "Unlimited tracked packages",
+          "All state integrations",
+          "Real-time violation radar",
+          "Excise tax reconciliation",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, usage-based",
+        "blurb": "For the giants who file more manifests than most states process.",
+        "features": [
+          "Custom per-package rate",
+          "Dedicated compliance engineer",
+          "SSO, audit logs, SLAs",
+          "Custom rules engine",
+          "API and data warehouse export"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Narq keeps multistate cannabis operators compliant in real time — because the alternative is explaining a spreadsheet to a regulator."
+  }
+}

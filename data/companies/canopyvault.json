@@ -1,0 +1,140 @@
+{
+  "name": "CanopyVault",
+  "slug": "canopyvault",
+  "industry": "cannabis compliance",
+  "tagline": "Audit-ready compliance for every licensed operator, on every shift.",
+  "positioning": "CanopyVault turns state seed-to-sale rules into automated checks, so SMB dispensaries and cultivators pass inspections without a compliance manager.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0E1116",
+    "surface": "#181E27",
+    "text": "#E9EDF3",
+    "primary": "#4ADE80",
+    "accent": "#B79BFA"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CV",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M6.5 12.2 L10.4 16 L18 7.6 L20 9.6 L10.4 20.2 L4.5 14.2 Z",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that closes the shift, not the store.",
+      "sub": "CanopyVault watches every Metrc sync, manifest, and limit in real time — flagging violations before your state regulator ever emails you.",
+      "ctaLabel": "Book a compliance demo",
+      "secondaryCtaLabel": "See supported states"
+    },
+    "features": [
+      {
+        "title": "Metrc sync guardrails",
+        "description": "Every package tag, transfer, and adjustment is validated against state rules the moment it hits Metrc — errors caught before they become citations.",
+        "icon": "shield"
+      },
+      {
+        "title": "Purchase-limit enforcement",
+        "description": "Block over-limit sales at the register with real-time equivalency math, so budtenders never guess a customer's daily flower cap again.",
+        "icon": "lock"
+      },
+      {
+        "title": "Inspection binder, on demand",
+        "description": "Generate a timestamped, regulator-ready audit binder — SOPs, manifests, and destruction logs — in one export before the inspector reaches the counter.",
+        "icon": "inbox"
+      },
+      {
+        "title": "License & renewal calendar",
+        "description": "Track every license, permit, and badge expiry across locations with escalating reminders so nothing lapses mid-quarter.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Waste & destruction logs",
+        "description": "Guided disposal workflows with quarantine timers and witness sign-off keep your waste manifests defensible for three years.",
+        "icon": "database"
+      },
+      {
+        "title": "Multi-state rule engine",
+        "description": "One dashboard, many rulebooks. CanopyVault maps each location to its state's current regulations and updates when the rules change.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Our last state inspection took nineteen minutes. The inspector asked for our destruction logs and I exported the binder before she finished the sentence. CanopyVault paid for itself that morning.",
+        "name": "Dana Ruiz",
+        "role": "Owner",
+        "company": "Foothill Wellness Co."
+      },
+      {
+        "quote": "We run two dispensaries with no full-time compliance hire. The purchase-limit blocks at the register alone have stopped four over-sales this month that would've been reportable.",
+        "name": "Marcus Feld",
+        "role": "General Manager",
+        "company": "Northline Provisions"
+      },
+      {
+        "quote": "Metrc used to be where our reconciliation errors went to hide. Now every discrepancy pings the assistant manager on shift. Our variance report is finally clean.",
+        "name": "Priya Anand",
+        "role": "Director of Operations",
+        "company": "Cedar & Ash Cultivation"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Storefront",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For single-location operators who need core compliance covered.",
+        "features": [
+          "1 licensed location",
+          "Metrc sync guardrails",
+          "Purchase-limit enforcement",
+          "Standard audit binder export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing SMBs juggling multiple licenses and shifts.",
+        "features": [
+          "Up to 5 locations",
+          "Multi-state rule engine",
+          "License & renewal calendar",
+          "Waste & destruction logs",
+          "Priority email + chat support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For multi-state operators with dedicated compliance teams.",
+        "features": [
+          "Unlimited locations",
+          "Custom rule configuration",
+          "SSO & role-based access",
+          "Dedicated compliance advisor",
+          "SLA & audit-support hotline"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "CanopyVault is compliance infrastructure for licensed cannabis operators. Not legal advice — just the receipts your regulator wants to see."
+  }
+}

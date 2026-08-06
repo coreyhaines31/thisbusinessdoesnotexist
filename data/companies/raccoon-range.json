@@ -1,0 +1,135 @@
+{
+  "name": "Raccoon Range",
+  "slug": "raccoon-range",
+  "industry": "ghost kitchens",
+  "tagline": "Run a delivery-only food brand from a rented burner. No lease, no dining room, no regrets.",
+  "positioning": "Raccoon Range hands solo cooks and side-hustlers the tools to launch, price, and ship a delivery-only menu from shared kitchen space overnight.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#131019",
+    "surface": "#1E1926",
+    "text": "#F3ECFA",
+    "primary": "#B57BFF",
+    "accent": "#FF8A5B"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "RR",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your restaurant fits in a mini-fridge and a phone.",
+      "sub": "Rent an hour of kitchen, spin up a menu, and start taking delivery orders tonight. We handle the boring parts so you can go feral on flavor.",
+      "ctaLabel": "Open a burner",
+      "secondaryCtaLabel": "Peek at the kitchen"
+    },
+    "features": [
+      {
+        "title": "Kitchen-by-the-hour",
+        "description": "Book verified commissary space near you like a hotel room. Show up, cook, leave. No lease, no walk-in freezer you don't understand.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Menu that prices itself",
+        "description": "Type in your dish, we calculate food cost, delivery cut, and the exact price where you actually make money instead of feelings.",
+        "icon": "chart"
+      },
+      {
+        "title": "One inbox, every app",
+        "description": "DoorDash, Uber Eats, and your own site pile into a single ticket rail so you stop staring at four blinking tablets like a raccoon at a dumpster.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Prep on autopilot",
+        "description": "Tonight's orders roll into a prep list and a shopping run, portioned so you buy what sells and not another sad case of cilantro.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Brand kit in a box",
+        "description": "Logo, packaging labels, and a delivery-ready storefront generated in minutes. Look like a chain, cook like a menace.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Money you can see",
+        "description": "Real payout tracking after every fee, tip, and refund, so the number in your account stops being a spooky surprise.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I was selling birria out of a group chat. Raccoon Range gave me a bookable kitchen and a storefront in a weekend. I cleared rent by Thursday.",
+        "name": "Marisol Tran",
+        "role": "Owner",
+        "company": "Loud Mouth Tacos"
+      },
+      {
+        "quote": "The auto-prep list alone saved my sanity. I stopped double-buying, stopped tossing spoiled stock, and finally know my cost per plate to the cent.",
+        "name": "Devon Achebe",
+        "role": "Chef & Founder",
+        "company": "Midnight Dumpling Co."
+      },
+      {
+        "quote": "Four tablets became one ticket rail. My weekend order volume tripled and I didn't hire a soul. It's just me, a range, and a slightly smug feeling.",
+        "name": "Priya Kohler",
+        "role": "Solo Operator",
+        "company": "Snack Goblin"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Scrap",
+        "price": "$0",
+        "period": "free, forever",
+        "blurb": "For the curious cook testing one dish and one delivery app.",
+        "features": [
+          "1 active menu",
+          "Single delivery app sync",
+          "Basic price calculator",
+          "Community support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Forager",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For the side-hustle that just became a real habit.",
+        "features": [
+          "Unlimited menus",
+          "All delivery apps in one inbox",
+          "Auto prep & shopping lists",
+          "Branded storefront + labels",
+          "Payout tracking"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Den",
+        "price": "$99",
+        "period": "per month",
+        "blurb": "For operators running multiple brands out of one kitchen.",
+        "features": [
+          "Everything in Forager",
+          "Up to 5 virtual brands",
+          "Multi-kitchen booking",
+          "Menu A/B testing",
+          "Priority human support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Raccoon Range is delivery-only food infrastructure for people who cook better than they lease. No dining room required."
+  }
+}

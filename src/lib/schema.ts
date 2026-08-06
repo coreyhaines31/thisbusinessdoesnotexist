@@ -86,8 +86,8 @@ export const CompanySchema = z.object({
   name: z.string().min(2).max(30),
   slug: z.string().regex(/^[a-z0-9-]+$/),
   industry: z.string(),
-  tagline: z.string().max(90),
-  positioning: z.string().max(160),
+  tagline: z.string().max(120),
+  positioning: z.string().max(240),
   vibe: z.enum(VIBES),
   fontPairing: z.enum(FONT_PAIRINGS),
   palette: z.object({
@@ -104,8 +104,8 @@ export const CompanySchema = z.object({
   }),
   homepage: z.object({
     hero: z.object({
-      h1: z.string().max(70),
-      sub: z.string().max(200),
+      h1: z.string().max(90),
+      sub: z.string().max(280),
       ctaLabel: z.string().max(30),
       secondaryCtaLabel: z.string().max(30),
     }),
@@ -113,7 +113,7 @@ export const CompanySchema = z.object({
       .array(
         z.object({
           title: z.string().max(40),
-          description: z.string().max(180),
+          description: z.string().max(220),
           icon: z.enum(FEATURE_ICONS),
         }),
       )
@@ -141,7 +141,7 @@ export const CompanySchema = z.object({
         }),
       )
       .length(3),
-    footerBlurb: z.string().max(160),
+    footerBlurb: z.string().max(240),
   }),
 });
 

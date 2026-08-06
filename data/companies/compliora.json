@@ -1,0 +1,138 @@
+{
+  "name": "Compliora",
+  "slug": "compliora",
+  "industry": "cannabis compliance",
+  "tagline": "Regulatory certainty for every gram you grow, hold, or sell.",
+  "positioning": "Compliora turns state cannabis rules into a clean, auditable record — built for individual cultivators, patients, and single-license operators.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F6F6F4",
+    "surface": "#FFFFFF",
+    "text": "#101012",
+    "primary": "#101012",
+    "accent": "#00D46A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M18.36 18.36 A9 9 0 1 1 18.36 5.64 L16.24 7.76 A6 6 0 1 0 16.24 16.24 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19.8,
+        "cy": 12,
+        "r": 1.9,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance that keeps pace with your license.",
+      "sub": "Track every plant, package, and lab result in a single ledger that mirrors your state's rules — so renewals, audits, and reconciliations stop being a scramble.",
+      "ctaLabel": "Start your record",
+      "secondaryCtaLabel": "See a sample audit"
+    },
+    "features": [
+      {
+        "title": "Seed-to-sale ledger",
+        "description": "Log clones, harvests, and transfers with timestamps and weights that reconcile automatically against your state tracking manifests.",
+        "icon": "database"
+      },
+      {
+        "title": "License renewal watch",
+        "description": "Compliora surfaces expiring permits, pending attestations, and fee deadlines weeks ahead, with a checklist tuned to your jurisdiction.",
+        "icon": "calendar"
+      },
+      {
+        "title": "COA & lab vault",
+        "description": "Store certificates of analysis, cure logs, and batch photos in one indexed archive — the exact packet an inspector asks for.",
+        "icon": "lock"
+      },
+      {
+        "title": "Audit-ready exports",
+        "description": "Generate a clean, chronologically ordered compliance file on demand, formatted for regulators and cultivation counsel alike.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Reconciliation alerts",
+        "description": "Weight discrepancies, missing manifests, and untagged inventory are flagged the moment your numbers drift out of tolerance.",
+        "icon": "shield"
+      },
+      {
+        "title": "Jurisdiction rulepacks",
+        "description": "Rule logic is maintained per state and county, so your workflow updates when the statute does — no PDF spelunking required.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I hold a single micro-cultivation license and used to dread renewal season. Compliora assembled my entire compliance packet in an afternoon. My inspector barely had questions.",
+        "name": "Marisol Vega",
+        "role": "Owner-Cultivator",
+        "company": "Cascade Terrace Gardens"
+      },
+      {
+        "quote": "The reconciliation alerts caught a mislabeled package before it ever hit a manifest. That one flag likely saved my license.",
+        "name": "Declan Reyes",
+        "role": "Compliance Lead",
+        "company": "Northline Botanicals"
+      },
+      {
+        "quote": "As a registered patient cultivating at home, I finally have a defensible record of every plant and cure. It reads like a proper audit file, not a spreadsheet.",
+        "name": "Priya Anand",
+        "role": "Medical Cultivator",
+        "company": "Independent Registrant"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Registrant",
+        "price": "$19",
+        "period": "per month, billed annually",
+        "blurb": "For patients and hobby cultivators keeping a defensible personal record.",
+        "features": [
+          "Single-site plant & cure ledger",
+          "Up to 12 tracked plants",
+          "COA and photo vault",
+          "Basic renewal reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$59",
+        "period": "per month, billed annually",
+        "blurb": "For single-license cultivators and boutique sellers who face real audits.",
+        "features": [
+          "Unlimited plants and packages",
+          "State tracking reconciliation",
+          "Full audit-ready exports",
+          "License & fee deadline watch",
+          "Jurisdiction rulepack updates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For multi-license portfolios and compliance advisors managing clients.",
+        "features": [
+          "Multi-site and multi-license roll-up",
+          "Advisor client workspaces",
+          "Dedicated compliance specialist",
+          "Priority rulepack coverage",
+          "SSO and access controls"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Compliora is a compliance recordkeeping platform and does not provide legal advice. Rulepacks are maintained for informational accuracy only."
+  }
+}

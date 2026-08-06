@@ -1,0 +1,162 @@
+{
+  "name": "ChairMint",
+  "slug": "chairmint",
+  "industry": "dental practice operations",
+  "tagline": "Run the whole practice from the front desk to the last recall.",
+  "positioning": "ChairMint is the operations hub for owner-run dental practices — scheduling, claims, and recall in one place your team actually enjoys using.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#15171F",
+    "text": "#F1F5FB",
+    "primary": "#3CE7A6",
+    "accent": "#FF63B4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 2,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The front desk finally has a home base.",
+      "sub": "ChairMint replaces the whiteboard, the sticky notes, and the three tabs your team juggles all day — scheduling, insurance claims, and patient recall in one calm dashboard.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a live demo"
+    },
+    "features": [
+      {
+        "title": "Recall that actually recalls",
+        "description": "Auto-nudge patients due for a 6-month cleaning by text and email, then watch the empty hygiene slots fill themselves. No spreadsheet chasing.",
+        "icon": "bell"
+      },
+      {
+        "title": "Claims without the fax machine",
+        "description": "Submit and track insurance claims per payer, catch rejections before they age out, and see exactly which balances are stuck and why.",
+        "icon": "inbox"
+      },
+      {
+        "title": "One schedule, zero double-books",
+        "description": "Drag-and-drop the whole operatory calendar, block hygiene columns, and let ChairMint flag conflicts before the patient shows up.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Treatment plans patients say yes to",
+        "description": "Build a clear plan with patient-portion estimates, present it chairside on a tablet, and capture the signature on the spot.",
+        "icon": "target"
+      },
+      {
+        "title": "Front-desk metrics owners read",
+        "description": "Production, collections, no-show rate, and unscheduled treatment — the four numbers that run a practice, updated live.",
+        "icon": "chart"
+      },
+      {
+        "title": "Setup that respects your week",
+        "description": "Import your patient list and payer setup in an afternoon. Our onboarding team migrates you from Dentrix or Eaglesoft for free.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were losing $4k a month in unfilled hygiene slots. ChairMint's recall texts brought our schedule back to full inside six weeks, and my front desk stopped dreading Mondays.",
+        "name": "Dr. Priya Nadella",
+        "role": "Owner Dentist",
+        "company": "Cedar Ridge Dental"
+      },
+      {
+        "quote": "Claims used to sit in a folder until someone had time. Now every rejection surfaces the same day and our aging report is finally under thirty days.",
+        "name": "Marcus Bell",
+        "role": "Office Manager",
+        "company": "Lakeside Family Dentistry"
+      },
+      {
+        "quote": "I run two ops with three staff. ChairMint is the first software that didn't need a consultant to explain. My team learned it in an afternoon.",
+        "name": "Dr. Elena Vasquez",
+        "role": "Practice Owner",
+        "company": "Brightwater Dental Studio"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Chair",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For single-dentist practices getting off paper and sticky notes.",
+        "features": [
+          "Scheduling & operatory calendar",
+          "Automated recall reminders",
+          "Patient portal & online booking",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Full Practice",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing owner-run offices that live and die by the daily numbers.",
+        "features": [
+          "Everything in Solo Chair",
+          "Insurance claims & tracking",
+          "Treatment plans with signatures",
+          "Owner metrics dashboard",
+          "Free migration from your old PMS"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Multi-Location",
+        "price": "Custom",
+        "period": "volume per-seat pricing",
+        "blurb": "For groups running two or more locations under one roof.",
+        "features": [
+          "Everything in Full Practice",
+          "Cross-location scheduling",
+          "Consolidated production reporting",
+          "Role-based staff permissions",
+          "Dedicated onboarding manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "ChairMint keeps independent dental practices running smoothly — so owner-dentists can spend less time on operations and more time chairside."
+  }
+}

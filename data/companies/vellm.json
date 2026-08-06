@@ -1,0 +1,137 @@
+{
+  "name": "Vellm",
+  "slug": "vellm",
+  "industry": "wedding vendor CRM",
+  "tagline": "The operating system for high-volume wedding vendors and enterprise event groups.",
+  "positioning": "Vellm consolidates bookings, contracts, and vendor coordination into one system of record built for multi-location wedding operations.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FBFAF6",
+    "text": "#2A2620",
+    "primary": "#5B4A38",
+    "accent": "#A2704F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,7 12,15 21,7 21,11 12,19 3,11",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "8,3 12,7 16,3 16,5 12,9 8,5",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every wedding like your best wedding.",
+      "sub": "Vellm gives enterprise wedding vendors a single system of record for inquiries, contracts, timelines, and vendor handoffs — across every venue, planner, and market you operate.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View the platform"
+    },
+    "features": [
+      {
+        "title": "Unified booking pipeline",
+        "description": "Track every inquiry from first form fill to signed contract across all locations, with lead routing that assigns the right coordinator instantly.",
+        "icon": "layers"
+      },
+      {
+        "title": "Contract & deposit engine",
+        "description": "Generate branded proposals, e-sign agreements, and reconcile deposit schedules automatically — no more spreadsheets chasing balances due.",
+        "icon": "lock"
+      },
+      {
+        "title": "Timeline orchestration",
+        "description": "Build the day-of run sheet once and sync it to florists, caterers, and photographers so every vendor works from the same source of truth.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Portfolio-wide reporting",
+        "description": "See booking velocity, average contract value, and coordinator utilization across your entire venue group in one executive dashboard.",
+        "icon": "chart"
+      },
+      {
+        "title": "Vendor network directory",
+        "description": "Manage preferred-vendor rosters, insurance certificates, and commission agreements with automated renewal and compliance alerts.",
+        "icon": "users"
+      },
+      {
+        "title": "Client concierge portal",
+        "description": "Give couples a single branded portal for payments, questionnaires, and guest counts — reducing inbound email by up to 40%.",
+        "icon": "inbox"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We onboarded eleven venues onto Vellm in a single quarter. Coordinator handoffs that used to live in email now happen in the platform, and our deposit reconciliation is finally clean.",
+        "name": "Danielle Ferraro",
+        "role": "VP of Operations",
+        "company": "Meridian Estates Group"
+      },
+      {
+        "quote": "Vellm gave our leadership team the first real portfolio view we've ever had. We can see booking velocity by market and reallocate staff before a peak weekend hits.",
+        "name": "Marcus Whitfield",
+        "role": "Chief Revenue Officer",
+        "company": "Cortland Hospitality"
+      },
+      {
+        "quote": "The contract and deposit engine paid for itself in a season. We stopped losing revenue to missed balance-due dates across our forty-vendor network.",
+        "name": "Priya Nandakumar",
+        "role": "Director of Events",
+        "company": "Halstead Venue Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per booking / month",
+        "blurb": "For boutique studios standardizing their first pipeline.",
+        "features": [
+          "Up to 150 active bookings",
+          "Contracts & e-signatures",
+          "Client concierge portal",
+          "Standard reporting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Growth",
+        "price": "$0.60",
+        "period": "per booking / month",
+        "blurb": "For multi-location vendors scaling coordination.",
+        "features": [
+          "Unlimited active bookings",
+          "Timeline orchestration",
+          "Vendor network directory",
+          "Portfolio-wide reporting",
+          "Volume-based rate tiers",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual usage agreement",
+        "blurb": "For venue groups and hospitality portfolios.",
+        "features": [
+          "Committed-use pricing",
+          "SSO & role-based access",
+          "Dedicated success manager",
+          "Custom integrations & API",
+          "SLA & data residency options"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vellm is the system of record for enterprise wedding operations — bookings, contracts, and vendor coordination, unified across every venue you run."
+  }
+}

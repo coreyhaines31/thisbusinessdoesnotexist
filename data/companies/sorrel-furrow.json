@@ -1,0 +1,139 @@
+{
+  "name": "Sorrel Furrow",
+  "slug": "sorrel-furrow",
+  "industry": "soil analytics",
+  "tagline": "Read the ground beneath you like a founding document.",
+  "positioning": "Sorrel Furrow turns a handful of dirt into a living map of pH, nitrogen, and microbial destiny — for the gardener who refuses to guess.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F4ECDD",
+    "surface": "#E7D8BF",
+    "text": "#2C1D12",
+    "primary": "#B14A1E",
+    "accent": "#7C6A2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SF",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 16 A 9 9 0 0 1 21 16 L 17.5 16 A 5.5 5.5 0 0 0 6.5 16 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 19.5,
+        "r": 1.8,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The soil under your feet is a civilization. Start governing it.",
+      "sub": "Mail us a scoop of your garden bed. We return a full-spectrum analysis of pH, nitrogen, organic matter, and microbial vitality — plus a season-by-season plan any gardener can actually follow.",
+      "ctaLabel": "Claim your first kit",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Full-Spectrum Panels",
+        "description": "Fourteen measurements from pH to cation exchange, rendered in plain language — not a lab printout you need a chemistry degree to decode.",
+        "icon": "chart"
+      },
+      {
+        "title": "Bed-by-Bed Mapping",
+        "description": "Track every raised bed, orchard row, and container as its own living record. Watch your soil evolve across seasons and amendments.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Amendment Playbooks",
+        "description": "Every report ends with a ranked list of exactly what to add, how much, and when — down to the bag of compost.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Yield Forecasting",
+        "description": "See how this year's numbers project into next year's harvest, so you spend on the amendments that actually move the needle.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Archived Forever",
+        "description": "Every sample you've ever sent, preserved in one timeline. Build a multi-decade record of the ground you steward.",
+        "icon": "database"
+      },
+      {
+        "title": "Regional Benchmarks",
+        "description": "Compare your dirt against thousands of gardens in your climate zone and know whether you're ahead of the curve.",
+        "icon": "compass"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I stopped throwing money at random fertilizer. Sorrel Furrow told me my beds were starved for potassium, not nitrogen — my tomatoes have never been this obscene.",
+        "name": "Marisol Deering",
+        "role": "Backyard Market Gardener",
+        "company": "Thornapple Homestead"
+      },
+      {
+        "quote": "As a first-time landowner I had five acres and zero clue. The bed-by-bed maps turned a decade of guesswork into a two-page plan I now follow like scripture.",
+        "name": "Emmett Cho",
+        "role": "Smallholder",
+        "company": "Cedar Hollow Acres"
+      },
+      {
+        "quote": "The archived timeline is the killer feature. I can prove my no-till plot rebuilt three points of organic matter in four years. That's my legacy in a chart.",
+        "name": "Dana Whitfield",
+        "role": "Master Gardener & Instructor",
+        "company": "Blue Ridge Grow Co-op"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$49",
+        "period": "per kit, one-time",
+        "blurb": "A single deep analysis of one bed or plot, mailed to you.",
+        "features": [
+          "1 full-spectrum soil panel",
+          "Plain-language digital report",
+          "Amendment playbook",
+          "Results in 7 days"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cultivator",
+        "price": "$129",
+        "period": "per year",
+        "blurb": "Four seasonal kits and a living map of your whole garden.",
+        "features": [
+          "4 soil panels per year",
+          "Unlimited bed-by-bed mapping",
+          "Yield forecasting",
+          "Regional benchmarks",
+          "Lifetime sample archive"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Steward",
+        "price": "$349",
+        "period": "per year",
+        "blurb": "For serious homesteads treating soil as generational capital.",
+        "features": [
+          "12 soil panels per year",
+          "Micronutrient & heavy-metal screening",
+          "Priority 3-day lab turnaround",
+          "Custom amendment sourcing",
+          "One-on-one agronomist call",
+          "Everything in Cultivator"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sorrel Furrow is soil intelligence for people who dig their own dirt. Mail a scoop, read your ground, and steward it like the frontier it is."
+  }
+}

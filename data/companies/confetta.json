@@ -1,0 +1,144 @@
+{
+  "name": "Confetta",
+  "slug": "confetta",
+  "industry": "wedding vendor CRM",
+  "tagline": "The CRM for wedding pros who'd rather not lose a $90k booking in a group text.",
+  "positioning": "Confetta is the enterprise CRM built for wedding vendors juggling hundreds of couples, vendors, and deposits — without the chaos of spreadsheets and lost DMs.",
+  "vibe": "playful",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F6EFE4",
+    "surface": "#FBF7F0",
+    "text": "#3A2E25",
+    "primary": "#B4592E",
+    "accent": "#C99A46"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "Co",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 7,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 9,
+        "width": 7,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Book the wedding. Not the nervous breakdown.",
+      "sub": "Confetta keeps every couple, contract, deposit, and timeline in one place — so your planners stop reconstructing the whole event from a florist's voicemail at 11pm.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Deposits that don't ghost you",
+        "description": "Track every retainer, balance, and payment plan across hundreds of couples. Automatic nudges chase the ones who 'totally meant to send it last week.'",
+        "icon": "database"
+      },
+      {
+        "title": "One timeline, zero group texts",
+        "description": "Ceremony, reception, and vendor logistics live in a shared timeline. When the DJ moves load-in, the caterer and coordinator find out instantly.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Contracts that survive audits",
+        "description": "Templated agreements, e-signatures, and a full change log per booking. Legal stops emailing you asking which version the couple actually signed.",
+        "icon": "lock"
+      },
+      {
+        "title": "Vendor roster, actually organized",
+        "description": "Every florist, band, and rental partner with rates, availability, and reliability scores — so your team stops re-vetting the same no-show caterer.",
+        "icon": "users"
+      },
+      {
+        "title": "Pipeline for peak season",
+        "description": "See which inquiries are worth chasing before June eats your calendar. Forecast bookings and staffing weeks out, not the morning of.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Reporting the C-suite believes",
+        "description": "Revenue per venue, seasonality, and vendor margins in dashboards your CFO won't quietly rebuild in a spreadsheet.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We run 40 planners across nine markets. Before Confetta, our source of truth was a shared inbox and prayer. Now onboarding a new coordinator takes a day, not a quarter.",
+        "name": "Renata Voss",
+        "role": "VP of Operations",
+        "company": "Marigold Events Group"
+      },
+      {
+        "quote": "The deposit tracking alone paid for the contract. We recovered six figures in balances that were just... sitting in someone's DMs.",
+        "name": "Desmond Achebe",
+        "role": "Director of Finance",
+        "company": "Everline Weddings"
+      },
+      {
+        "quote": "I was skeptical of another CRM promising to fix wedding season. Confetta actually did. My planners stopped texting me at midnight, which is the real ROI.",
+        "name": "Priya Nadella",
+        "role": "Head of Venue Partnerships",
+        "company": "Saffron & Slate Hospitality"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per active booking / month",
+        "blurb": "For boutique teams tired of running weddings out of a spreadsheet.",
+        "features": [
+          "Up to 150 active bookings",
+          "Contracts & e-signatures",
+          "Deposit tracking",
+          "Shared event timeline"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Agency",
+        "price": "$0.60",
+        "period": "per active booking / month",
+        "blurb": "For multi-market planners scaling past manageable chaos.",
+        "features": [
+          "Unlimited bookings",
+          "Vendor roster & scoring",
+          "Revenue & seasonality dashboards",
+          "Role-based permissions",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For hospitality groups running weddings at portfolio scale.",
+        "features": [
+          "Volume pricing per booking",
+          "SSO & audit logs",
+          "Dedicated success manager",
+          "Custom integrations",
+          "SLA & sandbox"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Confetta is the wedding vendor CRM for teams that treat 'happily ever after' as an operational problem. Fewer group texts. More booked weekends."
+  }
+}

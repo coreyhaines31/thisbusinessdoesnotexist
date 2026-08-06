@@ -1,0 +1,139 @@
+{
+  "name": "Enclav",
+  "slug": "enclav",
+  "industry": "HOA management",
+  "tagline": "Enterprise-grade governance for the communities you steward.",
+  "positioning": "Enclav unifies dues, reserves, and architectural review into one system of record for the nation's largest community association managers.",
+  "vibe": "elegant",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F3F1FA",
+    "surface": "#FFFFFF",
+    "text": "#2B2A3D",
+    "primary": "#5C51A6",
+    "accent": "#E3A6BC"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M11 4 A8 8 0 0 0 11 20 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 4 A8 8 0 0 1 13 20 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The system of record for the communities you manage.",
+      "sub": "Enclav consolidates assessments, reserve studies, violation workflows, and architectural review into one auditable platform built for portfolios of thousands of associations.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform tour"
+    },
+    "features": [
+      {
+        "title": "Assessment & delinquency engine",
+        "description": "Automate dues billing, late fees, and lien-eligible escalation with a full ledger trail your auditors and boards can trust.",
+        "icon": "database"
+      },
+      {
+        "title": "Reserve study intelligence",
+        "description": "Model funding scenarios against component life cycles and generate board-ready reserve reports without a spreadsheet in sight.",
+        "icon": "chart"
+      },
+      {
+        "title": "Violation & compliance tracking",
+        "description": "Capture inspections in the field, route notices on your governing-document timelines, and maintain a defensible record per unit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Architectural review portal",
+        "description": "Give homeowners a guided submission flow and give committees a queue with SLA timers, quorum tracking, and decision logs.",
+        "icon": "layers"
+      },
+      {
+        "title": "Board & meeting governance",
+        "description": "Assemble agendas, packets, and minutes with e-signature, then archive every motion against the community's bylaws.",
+        "icon": "users"
+      },
+      {
+        "title": "Portfolio analytics",
+        "description": "Roll up cash position, delinquency, and open violations across every association in your book of business in real time.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We migrated 41,000 doors onto Enclav in a single quarter. Delinquency reporting that used to take our accounting team ten days now closes in an afternoon.",
+        "name": "Marianne Delacroix",
+        "role": "VP of Community Operations",
+        "company": "Sterling Preserve Management"
+      },
+      {
+        "quote": "The architectural review module alone eliminated our biggest source of homeowner disputes. Every decision is timestamped, sourced to the CC&Rs, and defensible.",
+        "name": "Gregory Nakamura",
+        "role": "Chief Operating Officer",
+        "company": "Meridian Residential Partners"
+      },
+      {
+        "quote": "Our boards finally trust the numbers. Enclav's reserve modeling gave us a level of financial governance our directors expect from an enterprise vendor.",
+        "name": "Patrice Okafor",
+        "role": "Director of Portfolio Finance",
+        "company": "Harborview Association Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Portfolio",
+        "price": "$1.90",
+        "period": "per managed door / month",
+        "blurb": "For growing management firms standardizing operations across their book.",
+        "features": [
+          "Up to 5,000 managed doors",
+          "Assessment & delinquency engine",
+          "Homeowner and board portals",
+          "Standard reserve reporting",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$1.40",
+        "period": "per managed door / month",
+        "blurb": "Volume usage tiers for firms operating at regional and national scale.",
+        "features": [
+          "5,000–50,000 managed doors",
+          "Architectural review workflows",
+          "Advanced reserve modeling",
+          "SSO, roles, and audit logs",
+          "Dedicated success manager",
+          "API and accounting integrations"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "National",
+        "price": "Custom",
+        "period": "negotiated per-door commit",
+        "blurb": "For national managers with compliance, data residency, and SLA needs.",
+        "features": [
+          "50,000+ managed doors",
+          "Custom governance workflows",
+          "Guaranteed uptime SLA",
+          "Data residency options",
+          "White-glove migration",
+          "24/7 priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Enclav is the enterprise system of record for community association management, trusted by firms overseeing more than a million doors."
+  }
+}

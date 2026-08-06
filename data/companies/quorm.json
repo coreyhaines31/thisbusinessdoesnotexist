@@ -1,0 +1,156 @@
+{
+  "name": "Quorm",
+  "slug": "quorm",
+  "industry": "HOA management",
+  "tagline": "The operating system for community associations at portfolio scale.",
+  "positioning": "Quorm gives enterprise property managers one system to run violations, assessments, board packets, and compliance across thousands of associations.",
+  "vibe": "brutalist",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F4F4EF",
+    "surface": "#FFFFFF",
+    "text": "#0D0D0D",
+    "primary": "#141414",
+    "accent": "#FF3B14"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "Q",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 16,
+        "height": 3.5,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 10.25,
+        "width": 16,
+        "height": 3.5,
+        "rx": 0,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 15.5,
+        "width": 10.5,
+        "height": 3.5,
+        "rx": 0,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every association from one record of truth.",
+      "sub": "Quorm consolidates violation tracking, assessment collections, board packets, and reserve compliance across your entire portfolio — so managers stop stitching spreadsheets together at 11pm.",
+      "ctaLabel": "Book a portfolio review",
+      "secondaryCtaLabel": "See the workflow"
+    },
+    "features": [
+      {
+        "title": "Violation lifecycle, closed by design",
+        "description": "Log a fine, auto-generate the CC&R citation letter, escalate on schedule, and hand the ledger to counsel — every step time-stamped and audit-ready.",
+        "icon": "target"
+      },
+      {
+        "title": "Assessments that actually collect",
+        "description": "Batch dues, late fees, and special assessments across associations, then reconcile lockbox deposits to owner ledgers without manual matching.",
+        "icon": "chart"
+      },
+      {
+        "title": "Board packets in one click",
+        "description": "Pull financials, delinquency reports, and ARC decisions into a formatted board packet minutes before the meeting instead of the night before.",
+        "icon": "layers"
+      },
+      {
+        "title": "Reserve & compliance tracking",
+        "description": "Tie reserve study line items to funding status and surface every state disclosure deadline before it lapses into a fine.",
+        "icon": "shield"
+      },
+      {
+        "title": "Owner portal that deflects tickets",
+        "description": "Homeowners pay dues, submit ARC requests, and view CC&R documents themselves — cutting the front-desk call volume your teams dread.",
+        "icon": "users"
+      },
+      {
+        "title": "Vendor COI & W-9 vault",
+        "description": "Track certificates of insurance and lien waivers per vendor, per association, with automatic expiration alerts before a landscaper lapses.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We onboarded 340 associations in a quarter. Violation letters that took a coordinator three days now go out the same afternoon, and our board packets are finally consistent across every community.",
+        "name": "Marisol Reyes",
+        "role": "VP of Community Management",
+        "company": "Highmark Residential Group"
+      },
+      {
+        "quote": "Delinquency reporting used to live in twelve different spreadsheets. Quorm gave our controllers one reconciled ledger, and our collection rate is up eleven points year over year.",
+        "name": "Derek Ansel",
+        "role": "Director of Finance",
+        "company": "Cornerstone Association Partners"
+      },
+      {
+        "quote": "The COI vault alone paid for itself. We caught forty-two expired vendor certificates in the first week — exposure our old system never flagged.",
+        "name": "Priya Nadkarni",
+        "role": "Chief Operating Officer",
+        "company": "Meridian Property Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Portfolio",
+        "price": "$0.45",
+        "period": "per door / month",
+        "blurb": "For growing firms consolidating their first associations onto one system.",
+        "features": [
+          "Up to 5,000 doors under management",
+          "Violation & ARC workflows",
+          "Assessment billing and lockbox reconciliation",
+          "Standard board packet templates",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.32",
+        "period": "per door / month",
+        "blurb": "For multi-branch operators standardizing across every community.",
+        "features": [
+          "Unlimited doors, volume-tiered pricing",
+          "Reserve & state compliance tracking",
+          "Vendor COI and W-9 vault",
+          "Custom packet and letter templates",
+          "API access and SSO",
+          "Priority support with an assigned CSM"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, usage-committed",
+        "blurb": "For national managers with dedicated infrastructure and audit needs.",
+        "features": [
+          "Committed-use pricing below $0.20/door",
+          "Dedicated environment and data residency",
+          "SOC 2 reporting and audit exports",
+          "Legacy migration and data services",
+          "Named implementation team",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Quorm is the record of truth for community association management — built for the firms running thousands of doors, not a single HOA."
+  }
+}

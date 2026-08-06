@@ -1,0 +1,137 @@
+{
+  "name": "Warm Front",
+  "slug": "warm-front",
+  "industry": "HVAC field service",
+  "tagline": "The field service software for people who actually turn wrenches.",
+  "positioning": "Warm Front runs dispatch, invoicing, and maintenance contracts for HVAC owner-operators who'd rather be on a rooftop than in a spreadsheet.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F4ECDD",
+    "surface": "#FBF5EA",
+    "text": "#2B2015",
+    "primary": "#B24A1C",
+    "accent": "#7C7A45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "WF",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1.5 22.5,12 12,22.5 1.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your dispatch board shouldn't be a whiteboard from 2004.",
+      "sub": "Warm Front schedules techs, chases invoices, and tracks every filter change so you can quote the next job instead of digging through your glovebox for a crumpled work order.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Watch the 3-min demo"
+    },
+    "features": [
+      {
+        "title": "Dispatch that survives a heat wave",
+        "description": "Drag jobs across techs, auto-route by drive time, and text customers a real arrival window instead of the classic 'sometime between 8 and 5.'",
+        "icon": "calendar"
+      },
+      {
+        "title": "Invoices before the truck cools down",
+        "description": "Techs bill on-site from their phone, tap for card or ACH, and the payment lands before they've finished coiling the hose.",
+        "icon": "zap"
+      },
+      {
+        "title": "Maintenance contracts on autopilot",
+        "description": "Recurring PM agreements auto-schedule, auto-remind, and auto-invoice — the boring recurring revenue that keeps the lights on in January.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Every unit's history in one place",
+        "description": "Scan the equipment tag and pull up model, refrigerant, warranty, and the last four visits — no more calling the office to ask what you did last spring.",
+        "icon": "database"
+      },
+      {
+        "title": "Quotes that don't die in a text thread",
+        "description": "Build good-better-best options with photos, send them by link, and watch when the customer opens it. Follow up like a closer, not a stalker.",
+        "icon": "chart"
+      },
+      {
+        "title": "Payroll that matches the timesheet",
+        "description": "Clock-in, drive time, and job hours flow straight to payroll — so your bookkeeper stops doing detective work every other Friday.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran three techs off a paper calendar and a group chat. Warm Front cut our unbilled hours to basically zero. I found $9k in maintenance visits we forgot to invoice last year. Cool. Cool cool cool.",
+        "name": "Dana Whitfield",
+        "role": "Owner",
+        "company": "Whitfield Heating & Air"
+      },
+      {
+        "quote": "My techs actually use it, which is the whole miracle. They hated the last app so much they 'forgot' their phones. Now they close jobs on-site because getting paid faster is a language everybody speaks.",
+        "name": "Marco Trejo",
+        "role": "Operations Lead",
+        "company": "Sunbelt Comfort Systems"
+      },
+      {
+        "quote": "I switched from a platform that charged me like I was a Fortune 500. Per-seat pricing means I add my summer helper for a month and drop him in fall. No sales call, no drama.",
+        "name": "Priya Anand",
+        "role": "Owner-Operator",
+        "company": "Anand Mechanical"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the one-truck operation that's tired of doing books at midnight.",
+        "features": [
+          "Dispatch & scheduling",
+          "Mobile invoicing + card payments",
+          "Customer & equipment history",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$69",
+        "period": "per seat / month",
+        "blurb": "For shops with a few trucks and actual recurring contracts.",
+        "features": [
+          "Everything in Solo",
+          "Maintenance contract automation",
+          "Good-better-best quoting",
+          "Payroll & timesheet export",
+          "QuickBooks sync",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators who need controls, not chaos.",
+        "features": [
+          "Everything in Crew",
+          "Multi-location dispatch",
+          "Role-based permissions",
+          "API & custom integrations",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Warm Front is field service software for HVAC owner-operators who'd rather fix the unit than fight the app."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Reel Harbor",
+  "slug": "reel-harbor",
+  "industry": "film production payroll",
+  "tagline": "Payroll built for the people who actually run the set.",
+  "positioning": "Reel Harbor turns cast, crew, and vendor payroll into a single calm workflow — so owner-operators can produce instead of chasing timecards.",
+  "vibe": "startup",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#08202E",
+    "surface": "#0F3145",
+    "text": "#E6F3F1",
+    "primary": "#1FB8A6",
+    "accent": "#3B82F6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RH",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 2,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 8,
+        "height": 8,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The command deck for film payroll.",
+      "sub": "From day-player timecards to final wrap, Reel Harbor handles union rules, meal penalties, and vendor payouts so a two-person production office can run like a studio.",
+      "ctaLabel": "Start a production",
+      "secondaryCtaLabel": "Watch the 3-min tour"
+    },
+    "features": [
+      {
+        "title": "Timecards that read the call sheet",
+        "description": "Crew clock in from the set, and Reel Harbor auto-applies rest violations, meal penalties, and overtime tiers before a single dollar moves.",
+        "icon": "clock"
+      },
+      {
+        "title": "Union math, solved",
+        "description": "IATSE, SAG-AFTRA, Teamsters — we keep the rate cards current so you stop cross-checking rules against a PDF at 2am.",
+        "icon": "shield"
+      },
+      {
+        "title": "One pay run, every worker type",
+        "description": "Loan-outs, W-2 crew, box rentals, and vendor kit fees settle in a single approved run with a clean paper trail.",
+        "icon": "layers"
+      },
+      {
+        "title": "Cost reports producers trust",
+        "description": "Live labor spend flows straight into your budget lines, so you know the burn before the daily hot costs land.",
+        "icon": "chart"
+      },
+      {
+        "title": "Onboard a crew in minutes",
+        "description": "Start paperwork, I-9s, and deal memos capture themselves as crew join — no folder of scanned forms.",
+        "icon": "users"
+      },
+      {
+        "title": "Wrap without the dread",
+        "description": "Year-end W-2s, 1099s, and residual-ready records are assembled as you go, not reconstructed after the shoot.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to close payroll on a spreadsheet the size of a screenplay. Reel Harbor cut our Friday wrap-out from six hours to forty minutes, and I finally trust the meal-penalty math.",
+        "name": "Danielle Cortez",
+        "role": "Line Producer & Owner",
+        "company": "Northgate Pictures"
+      },
+      {
+        "quote": "As a two-person production office, we punch far above our weight now. Loan-out payments and IATSE fringes just resolve themselves — it feels like having a payroll department on staff.",
+        "name": "Marcus Feld",
+        "role": "Managing Partner",
+        "company": "Halyard Motion Co."
+      },
+      {
+        "quote": "The live cost report is the thing. I can walk onto set and tell the director exactly what an extra hour of overtime costs before he asks. That never happened before.",
+        "name": "Priya Ranganathan",
+        "role": "UPM",
+        "company": "Tidewater Content Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Indie",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running one production at a time.",
+        "features": [
+          "Up to 40 active crew per run",
+          "W-2 and 1099 payroll",
+          "Union rate card library",
+          "Digital onboarding & deal memos"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Production",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For working production offices juggling overlapping shoots.",
+        "features": [
+          "Unlimited active crew",
+          "Loan-out & vendor payouts",
+          "Live labor cost reporting",
+          "Meal-penalty & rest automation",
+          "Multi-production dashboards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-title shops that need controls and integrations.",
+        "features": [
+          "SSO & role-based approvals",
+          "Accounting & budgeting exports",
+          "Dedicated onboarding lead",
+          "Priority union-rule updates",
+          "Custom fringe & residual reporting"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Reel Harbor is payroll for the people who run the set — built for independent producers who deserve studio-grade tools."
+  }
+}

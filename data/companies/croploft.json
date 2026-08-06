@@ -1,0 +1,162 @@
+{
+  "name": "Croploft",
+  "slug": "croploft",
+  "industry": "vertical farming",
+  "tagline": "Run your indoor farm from seedling to sale without the clipboard chaos.",
+  "positioning": "Croploft is the operations platform for small vertical farms — track every rack, forecast every harvest, and keep your whole crew on the same grow plan.",
+  "vibe": "startup",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#FBF6EE",
+    "surface": "#F2E7D6",
+    "text": "#372B20",
+    "primary": "#B0532B",
+    "accent": "#6E7A45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every rack, every harvest, one calm dashboard.",
+      "sub": "Croploft helps owner-operators of vertical farms plan grow cycles, log climate and nutrients, and hit harvest dates — without juggling whiteboards, spreadsheets, and sticky notes on the tower doors.",
+      "ctaLabel": "Start your free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Rack-by-rack grow plans",
+        "description": "Map every tier and channel to a crop, seed date, and target harvest. Croploft schedules transplants and cuts so nothing sits a day too long.",
+        "icon": "layers"
+      },
+      {
+        "title": "Climate & nutrient logs",
+        "description": "Record EC, pH, temp, and RH per zone in seconds. Spot the drift before a batch of basil bolts or tip-burns on you.",
+        "icon": "database"
+      },
+      {
+        "title": "Harvest forecasting",
+        "description": "See projected yield by week so you can promise your chef and CSA members exactly what you'll actually cut.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Food-safety records",
+        "description": "Keep wash logs, lot codes, and traceability tidy and audit-ready — the paperwork a buyer asks for before they'll sign.",
+        "icon": "shield"
+      },
+      {
+        "title": "Order & delivery board",
+        "description": "Turn standing restaurant and market orders into a pick list that matches what's coming off the racks this week.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Crew tasks",
+        "description": "Assign seeding, transplanting, and harvest work to your team and see what's done from your phone on the packing table.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were running four spreadsheets and a wall of dry-erase. Croploft put the whole grow schedule in one place, and we stopped losing trays to missed transplant dates.",
+        "name": "Marisol Trejo",
+        "role": "Owner",
+        "company": "Sixth Ward Greens"
+      },
+      {
+        "quote": "The harvest forecast is what sold me. I can tell my chefs on Monday exactly how many cases of microgreens land Thursday, and I'm right almost every time now.",
+        "name": "Dev Anand",
+        "role": "Founder & Head Grower",
+        "company": "Tallgrass Farm Co."
+      },
+      {
+        "quote": "My food-safety audit used to eat a full weekend. This year I exported the wash and lot logs in ten minutes and passed clean.",
+        "name": "Karen Okafor",
+        "role": "Operations Lead",
+        "company": "Riverbend Vertical"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For the one-person farm running a single grow room.",
+        "features": [
+          "1 grow room",
+          "Rack-by-rack plans",
+          "Climate & nutrient logs",
+          "Mobile task list"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Grower",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For farms with a small crew and standing wholesale orders.",
+        "features": [
+          "Unlimited grow rooms",
+          "Harvest forecasting",
+          "Order & delivery board",
+          "Food-safety records",
+          "Crew task assignments"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Operation",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-site operators who need shared reporting.",
+        "features": [
+          "Everything in Grower",
+          "Multi-site rollups",
+          "Buyer traceability exports",
+          "API & POS integrations",
+          "Priority onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Croploft is built for the growers doing the seeding, harvesting, and selling themselves. Fewer clipboards, more clean cuts."
+  }
+}

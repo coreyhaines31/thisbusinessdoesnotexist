@@ -1,0 +1,155 @@
+{
+  "name": "Kinevo",
+  "slug": "kinevo",
+  "industry": "micro-mobility charging",
+  "tagline": "The charging backbone for the world's shared fleets.",
+  "positioning": "Kinevo is the enterprise charging network that powers e-bike, e-scooter, and e-moped fleets across cities — one grid, billed by the electron.",
+  "vibe": "elegant",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A1522",
+    "surface": "#122333",
+    "text": "#E7F5F0",
+    "primary": "#17D8A4",
+    "accent": "#2F82F6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 5,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 8,
+        "width": 5,
+        "height": 11,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 3,
+        "width": 4,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every ride, charged. Every city, connected.",
+      "sub": "Kinevo unifies charging hardware, energy routing, and settlement into one platform — so fleet operators stop babysitting swap stations and start scaling continents.",
+      "ctaLabel": "Request a deployment",
+      "secondaryCtaLabel": "See the network"
+    },
+    "features": [
+      {
+        "title": "One grid, every vehicle",
+        "description": "Charge e-bikes, scooters, and mopeds from the same modular docks. Kinevo negotiates voltage and connector handshakes so your ops team never touches a firmware flag.",
+        "icon": "globe"
+      },
+      {
+        "title": "Energy routing in real time",
+        "description": "Our dispatch engine pulls power when the grid is cheapest and greenest, then routes it to the docks your riders will actually reach first. Idle kilowatts become revenue.",
+        "icon": "zap"
+      },
+      {
+        "title": "Metered to the electron",
+        "description": "Every kilowatt-hour is logged, attributed, and reconciled per fleet, per station, per corridor — audit-ready invoices without a spreadsheet in sight.",
+        "icon": "chart"
+      },
+      {
+        "title": "Uptime you can underwrite",
+        "description": "Predictive fault detection flags a failing dock before a rider ever finds it. SLA dashboards give procurement the 99.95% they signed for.",
+        "icon": "shield"
+      },
+      {
+        "title": "Deploy in weeks, not quarters",
+        "description": "Site survey to live network in under 30 days. Kinevo ships pre-provisioned docks and handles permitting workflows with your municipal partners.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Built for the fleet control room",
+        "description": "A single console for battery health, station load, and swap logistics across every market — the operating layer your dispatchers have been faking in tabs.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were losing 14% of our fleet to dead batteries every peak hour. Kinevo's energy routing cut that to under 3% and gave our finance team invoices they could actually reconcile.",
+        "name": "Marta Elgersen",
+        "role": "VP of Fleet Operations",
+        "company": "Veloform Mobility"
+      },
+      {
+        "quote": "Procurement wanted one contract, one SLA, one grid across nine cities. Kinevo was the only vendor that didn't blink. Go-live in Lisbon took nineteen days.",
+        "name": "Damian Ruecker",
+        "role": "Director of Infrastructure",
+        "company": "Orbit Transit Group"
+      },
+      {
+        "quote": "The per-electron metering ended a two-year argument with our energy partners. We finally know exactly what a charged scooter costs, down to the corridor.",
+        "name": "Priya Nandakumar",
+        "role": "Head of Energy Strategy",
+        "company": "Kestral Shared Rides"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Corridor",
+        "price": "$0.11",
+        "period": "per kWh dispatched",
+        "blurb": "For single-city operators lighting up their first charging corridor.",
+        "features": [
+          "Up to 50 managed docks",
+          "Real-time energy routing",
+          "Standard fault detection",
+          "Monthly reconciled invoicing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Metro",
+        "price": "$0.08",
+        "period": "per kWh dispatched",
+        "blurb": "For multi-market fleets that need one grid and one control room.",
+        "features": [
+          "Unlimited docks across markets",
+          "Green-window energy optimization",
+          "99.9% uptime SLA",
+          "Per-fleet electron attribution",
+          "Fleet control room console",
+          "Priority deployment crews"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "volume-based settlement",
+        "blurb": "For national and cross-border networks with bespoke energy contracts.",
+        "features": [
+          "Custom kWh settlement tiers",
+          "99.95% underwritten SLA",
+          "Dedicated energy strategist",
+          "Municipal permitting support",
+          "Private grid integrations",
+          "White-glove migration"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kinevo is the charging backbone for shared micro-mobility — unifying hardware, energy, and settlement into one continental grid."
+  }
+}

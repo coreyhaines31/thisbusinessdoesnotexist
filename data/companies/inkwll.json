@@ -1,0 +1,137 @@
+{
+  "name": "Inkwll",
+  "slug": "inkwll",
+  "industry": "tattoo studio booking",
+  "tagline": "Enterprise-grade scheduling for the modern tattoo enterprise.",
+  "positioning": "Inkwll is the booking and operations platform that helps multi-location tattoo studios manage artists, deposits, and consent at scale.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FBF4F6",
+    "surface": "#FFFFFF",
+    "text": "#3A2E3F",
+    "primary": "#c27296",
+    "accent": "#8FB7D9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "I",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,20 12,4 20,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,20 12,14 15,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The operating system for tattoo studios at scale.",
+      "sub": "Inkwll unifies bookings, deposits, consent forms, and artist payouts across every chair in every location — so your studio runs like the enterprise it's becoming.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View pricing"
+    },
+    "features": [
+      {
+        "title": "Multi-location booking",
+        "description": "Route clients to the right artist and chair across all your studios from one calendar, with real-time availability and automated deposit collection.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Digital consent vault",
+        "description": "Capture signed consent, aftercare acknowledgments, and ID verification per session — retained, timestamped, and audit-ready for compliance teams.",
+        "icon": "shield"
+      },
+      {
+        "title": "Artist payout engine",
+        "description": "Split commissions, guest-artist rates, and chair rentals automatically. Payouts reconcile against every session down to the milliliter of ink.",
+        "icon": "database"
+      },
+      {
+        "title": "Portfolio-driven matching",
+        "description": "Let clients discover artists by style, healed work, and availability — then convert browsing into booked, deposit-secured appointments.",
+        "icon": "target"
+      },
+      {
+        "title": "Studio analytics",
+        "description": "Track chair utilization, no-show rates, and revenue per artist with dashboards built for owners running ten or a hundred locations.",
+        "icon": "chart"
+      },
+      {
+        "title": "Compliance automation",
+        "description": "Stay ahead of health-department requirements with license tracking, sterilization logs, and renewal alerts across jurisdictions.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Inkwll we ran fourteen studios on eleven spreadsheets. Now deposits, consent, and payouts reconcile automatically. Our chair utilization jumped nineteen percent in a quarter.",
+        "name": "Marisol Vega",
+        "role": "VP of Studio Operations",
+        "company": "Iron Orchid Collective"
+      },
+      {
+        "quote": "The consent vault alone passed our legal review in one meeting. Inkwll turned compliance from a liability into a competitive advantage across every location.",
+        "name": "Declan Rowe",
+        "role": "Chief Operating Officer",
+        "company": "Northgate Ink Group"
+      },
+      {
+        "quote": "Usage-based pricing meant we onboarded all thirty locations without a painful upfront contract. We pay for booked sessions, not empty promises.",
+        "name": "Priya Anand",
+        "role": "Director of Growth",
+        "company": "Sable & Stag Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per booked session",
+        "blurb": "For independent studios ready to professionalize their operations.",
+        "features": [
+          "Up to 5 artists",
+          "Online booking & deposits",
+          "Digital consent forms",
+          "Basic payout splits"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$0.65",
+        "period": "per booked session",
+        "blurb": "For multi-location studios scaling artists, chairs, and compliance.",
+        "features": [
+          "Unlimited artists",
+          "Multi-location routing",
+          "Consent vault & audit logs",
+          "Advanced payout engine",
+          "Studio analytics dashboards"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based pricing",
+        "blurb": "For national studio networks with dedicated compliance needs.",
+        "features": [
+          "Volume session discounts",
+          "SSO & role-based access",
+          "Jurisdiction compliance suite",
+          "Dedicated success manager",
+          "Custom integrations & API",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Inkwll is the enterprise booking and operations platform trusted by multi-location tattoo studios to run every chair with precision."
+  }
+}

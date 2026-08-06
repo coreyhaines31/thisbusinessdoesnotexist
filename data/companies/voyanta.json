@@ -1,0 +1,136 @@
+{
+  "name": "Voyanta",
+  "slug": "voyanta",
+  "industry": "corporate offsites",
+  "tagline": "Where great companies go to think bigger, together.",
+  "positioning": "Voyanta orchestrates enterprise offsites end to end — venues, logistics, agendas, and outcomes — so leadership can convene with purpose, not paperwork.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4F1EA",
+    "surface": "#FBFAF6",
+    "text": "#26241F",
+    "primary": "#3B5B52",
+    "accent": "#C6704A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 A5 5 0 0 0 12 17 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "The offsite, elevated to an act of strategy.",
+      "sub": "Voyanta turns your leadership gathering into a machine for alignment — from the first venue shortlist to the final decision memo — while your people simply show up and think.",
+      "ctaLabel": "Plan your first summit",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Venue intelligence, curated",
+        "description": "Our team scouts and vets estates, lodges, and campuses worldwide, then matches capacity, travel time, and mood to your agenda — no more 40-tab spreadsheet.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda architecture",
+        "description": "Design multi-day arcs with session blocks, breakout tracks, and buffer time. Facilitators and decision owners are assigned before anyone lands.",
+        "icon": "layers"
+      },
+      {
+        "title": "Logistics on autopilot",
+        "description": "Flights, transfers, dietary needs, and room blocks reconcile in one live itinerary. Every attendee gets a personalized run-of-show on their phone.",
+        "icon": "compass"
+      },
+      {
+        "title": "Outcome capture",
+        "description": "Every commitment made in the room becomes a tracked owner-and-deadline artifact, exported to your stack the moment the session ends.",
+        "icon": "target"
+      },
+      {
+        "title": "Spend visibility",
+        "description": "Watch cost accrue per attendee, per day, per track — with real-time budget guardrails your finance team actually approves of.",
+        "icon": "chart"
+      },
+      {
+        "title": "Enterprise-grade trust",
+        "description": "SOC 2 Type II, SSO, and regional data residency come standard, so procurement clears you in days, not quarters.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose three weeks of an EA's life planning our exec offsite. Voyanta gave that time back and the sessions were sharper than ever — every decision left the room with an owner.",
+        "name": "Priya Ramaswamy",
+        "role": "Chief of Staff",
+        "company": "Northmark Financial"
+      },
+      {
+        "quote": "The venue matching alone paid for itself. We convened 180 leaders across two continents and the run-of-show never slipped once.",
+        "name": "Daniel Osei",
+        "role": "VP People Operations",
+        "company": "Lumira Health"
+      },
+      {
+        "quote": "Finance loved it more than I did. Watching spend accrue live, per track, meant no surprise invoices in Q4. That never happens with offsites.",
+        "name": "Marta Kessler",
+        "role": "SVP Global Operations",
+        "company": "Verrick Industries"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Convene",
+        "price": "$18",
+        "period": "per attendee-day",
+        "blurb": "For single-team offsites that still deserve a real production.",
+        "features": [
+          "Up to 60 attendees per event",
+          "Venue matching & booking",
+          "Live shared itinerary",
+          "Outcome tracker export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Summit",
+        "price": "$34",
+        "period": "per attendee-day",
+        "blurb": "For recurring leadership gatherings across regions.",
+        "features": [
+          "Unlimited attendees",
+          "Multi-track agenda architecture",
+          "Dedicated program manager",
+          "Real-time budget guardrails",
+          "SSO & priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continuum",
+        "price": "Custom",
+        "period": "annual usage commitment",
+        "blurb": "For enterprises running an always-on convening calendar.",
+        "features": [
+          "Global venue concierge",
+          "Regional data residency",
+          "SOC 2 & procurement support",
+          "Custom integrations & API",
+          "Quarterly strategy review"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Voyanta is the operating system for enterprise convening — turning the offsite from a logistics headache into a strategic instrument."
+  }
+}

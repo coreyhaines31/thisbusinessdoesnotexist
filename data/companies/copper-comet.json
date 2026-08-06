@@ -1,0 +1,147 @@
+{
+  "name": "Copper Comet",
+  "slug": "copper-comet",
+  "industry": "HVAC field service",
+  "tagline": "The operating system for the furnace whisperers building tomorrow's home comfort empire.",
+  "positioning": "Copper Comet turns solo HVAC operators into fleets of legend — dispatch, quoting, and service agreements orbiting one screen.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#F7F7F5",
+    "surface": "#FFFFFF",
+    "text": "#101010",
+    "primary": "#141414",
+    "accent": "#FF4A17"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "CC",
+    "shapes": [
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 11,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 8.5,
+        "r": 8,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 6,
+        "cy": 17,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your HVAC empire from the driver's seat.",
+      "sub": "Copper Comet is the destined command center for owner-operators — booking calls, dispatching trucks, and collecting payment before the compressor cools down.",
+      "ctaLabel": "Launch your fleet",
+      "secondaryCtaLabel": "Watch the 3-min tour"
+    },
+    "features": [
+      {
+        "title": "Dispatch that reads the road",
+        "description": "Drag a job onto a tech, and Copper Comet reshuffles the whole day around traffic, skill match, and drive time — no more phone-tag dispatching from a whiteboard.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Quotes signed on the tailgate",
+        "description": "Build a good-better-best replacement quote in 90 seconds, capture the signature on your phone, and take the deposit before you pack up the ladder.",
+        "icon": "zap"
+      },
+      {
+        "title": "Maintenance plans on autopilot",
+        "description": "Enroll customers in seasonal service agreements once and let recurring visits, reminders, and invoices generate themselves — predictable revenue while you sleep.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Parts truck inventory",
+        "description": "Every capacitor and blower motor tracked per van, auto-deducted at close-out, and flagged for reorder so techs never drive back for a $12 part.",
+        "icon": "database"
+      },
+      {
+        "title": "Get paid at the curb",
+        "description": "Tap-to-pay, financing offers, and automatic follow-ups on aging invoices turn 60-day receivables into same-day deposits.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "The whole shop, one dashboard",
+        "description": "First-time-fix rate, revenue per tech, and callback trends surfaced in plain English — the numbers that decide whether you hire truck number two.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from a shoebox of paper tickets to closing 14 install quotes a week. Copper Comet paid for itself before the first invoice cleared.",
+        "name": "Marcus DeLeon",
+        "role": "Owner",
+        "company": "DeLeon Climate Co."
+      },
+      {
+        "quote": "Dispatching used to eat my whole morning. Now the board builds itself and my techs stop asking me where they're going next.",
+        "name": "Priya Ramankutty",
+        "role": "Operations Lead",
+        "company": "Northgate Heating & Air"
+      },
+      {
+        "quote": "The maintenance plan engine alone added 40 recurring contracts our first quarter. It's like the software wants us to grow.",
+        "name": "Chuck Boland",
+        "role": "Founder",
+        "company": "Boland Comfort Systems"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the one-truck operator ready to look like a ten-truck outfit.",
+        "features": [
+          "Smart scheduling & dispatch",
+          "On-site quoting & e-signature",
+          "Tap-to-pay invoicing",
+          "iOS & Android field app"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$69",
+        "period": "per seat / month",
+        "blurb": "For growing shops running multiple trucks and real payroll.",
+        "features": [
+          "Everything in Solo",
+          "Recurring maintenance plans",
+          "Per-van parts inventory",
+          "Revenue & first-time-fix reporting",
+          "QuickBooks two-way sync"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Empire",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "For multi-location operators building the comfort dynasty.",
+        "features": [
+          "Everything in Fleet",
+          "Multi-location dispatch zones",
+          "Custom roles & approvals",
+          "Dedicated onboarding architect",
+          "API & priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Copper Comet is the field service operating system for HVAC owner-operators with bigger plans than their calendar can hold."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Cratewright",
+  "slug": "cratewright",
+  "industry": "artisanal logistics",
+  "tagline": "Freight software for the people who pack every box by hand.",
+  "positioning": "Cratewright helps small-batch makers route, crate, and track fragile goods — without duct-taping spreadsheets to a shipping label printer.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#14110F",
+    "surface": "#211C18",
+    "text": "#F3ECE2",
+    "primary": "#D08A44",
+    "accent": "#88A88A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2.5 21.5,12 12,21.5 2.5,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,8 16,12 12,16 8,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every handmade order deserves a route that respects it.",
+      "sub": "Cratewright turns your ceramics, small-batch spirits, and made-to-order furniture into tracked, insured shipments — from the packing bench to the customer's doorstep.",
+      "ctaLabel": "Start your first crate",
+      "secondaryCtaLabel": "See a sample manifest"
+    },
+    "features": [
+      {
+        "title": "Crate-aware rate shopping",
+        "description": "Enter the fragile stuff once — dimensions, void fill, this-side-up rules — and compare live carrier rates that account for how you actually pack.",
+        "icon": "layers"
+      },
+      {
+        "title": "One manifest, every carrier",
+        "description": "Print labels, packing slips, and customs docs from a single order. No more re-keying addresses between your Etsy tab and the postage screen.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Breakage-proof tracking",
+        "description": "Automatic delivery updates and photo-confirmed handoffs, so you hear about a cracked vase from us before an angry customer.",
+        "icon": "shield"
+      },
+      {
+        "title": "Pickup routing for the bench",
+        "description": "Batch your day's orders into a carrier pickup window that fits around glaze firings and market Saturdays, not the other way around.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I ship 40 stoneware sets a week from a converted garage. Cratewright cut my label-printing hour down to nine minutes and I haven't had a shattered plate claim since March.",
+        "name": "Marisol Trevino",
+        "role": "Owner & Potter",
+        "company": "Kilnwater Ceramics"
+      },
+      {
+        "quote": "We move small-batch bourbon across a dozen states, each with its own paperwork. Having the compliance docs auto-fill per shipment is the whole reason I switched.",
+        "name": "Grant Halloway",
+        "role": "Founder",
+        "company": "Rill & Stave Distilling"
+      },
+      {
+        "quote": "Made-to-order tables are heavy, awkward, and expensive to reship. The crate-aware rates alone paid for two seats in the first month.",
+        "name": "Priya Anand",
+        "role": "Workshop Lead",
+        "company": "Cedarpost Furniture Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Bench",
+        "price": "$19",
+        "period": "per seat / month",
+        "blurb": "For the solo maker who packs, labels, and ships it all themselves.",
+        "features": [
+          "Up to 150 shipments/month",
+          "Live rates from 6 carriers",
+          "Crate profiles & packing rules",
+          "Photo delivery confirmation"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Workshop",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For growing studios with a shipping bench and a small crew.",
+        "features": [
+          "Unlimited shipments",
+          "All carriers & customs docs",
+          "Batch pickup routing",
+          "Breakage claim tracking",
+          "Team roles & handoff notes"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Foundry",
+        "price": "Custom",
+        "period": "volume pricing",
+        "blurb": "For multi-location makers moving freight and pallets at scale.",
+        "features": [
+          "Freight & LTL rate shopping",
+          "Dedicated logistics advisor",
+          "API & warehouse integrations",
+          "Custom insurance terms",
+          "Priority support SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cratewright is logistics software for people who still write 'fragile' by hand. Route it, crate it, track it — earnestly."
+  }
+}

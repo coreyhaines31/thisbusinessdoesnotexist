@@ -1,0 +1,151 @@
+{
+  "name": "KinThread",
+  "slug": "kinthread",
+  "industry": "elder-care coordination",
+  "tagline": "Every care detail, connected.",
+  "positioning": "The coordination hub for small home-care agencies—schedules, caregiver notes, and family updates kept orderly in one earnest place.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0A0E14",
+    "surface": "#141C28",
+    "text": "#EAF2FF",
+    "primary": "#2BF5C4",
+    "accent": "#B884FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "KT",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 16,
+        "height": 16,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 8,
+        "r": 5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 16,
+        "cy": 8,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your care agency without the guesswork",
+      "sub": "KinThread keeps caregivers, families, and shift schedules on the same page—so nothing about a client's care slips through the cracks.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Shift schedules that hold up",
+        "description": "Fill open visits, track call-offs, and see coverage gaps before a client is left waiting at the door.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Caregiver notes, not sticky pads",
+        "description": "Every visit note, med reminder, and mood observation lives on the client's timeline—readable by the next caregiver on shift.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Family updates on autopilot",
+        "description": "Send adult children a plain-language summary after each visit, so the phone stops ringing with 'how's Mom doing?'",
+        "icon": "bell"
+      },
+      {
+        "title": "Every visit accounted for",
+        "description": "Clock-in and clock-out with location stamps give you clean records for payroll, billing, and the state audit.",
+        "icon": "shield"
+      },
+      {
+        "title": "Care plans that stay current",
+        "description": "Update a care plan once and every assigned caregiver sees the change on their next visit—no reprinting binders.",
+        "icon": "refresh"
+      },
+      {
+        "title": "See your whole roster",
+        "description": "One dashboard shows who's on shift, who's available, and which clients still need coverage today.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We went from a whiteboard and three group texts to one screen. My schedulers stopped chasing caregivers and started actually managing care.",
+        "name": "Denise Ferraro",
+        "role": "Owner & Administrator",
+        "company": "Willow Bend Home Care"
+      },
+      {
+        "quote": "The family update feature alone paid for KinThread. Adult children finally trust us because they hear from us after every single visit.",
+        "name": "Marcus Oyelaran",
+        "role": "Director of Operations",
+        "company": "Steady Hands Senior Services"
+      },
+      {
+        "quote": "During our state audit, I pulled clean visit logs in ten minutes. Before KinThread that was a two-day scramble through paper timesheets.",
+        "name": "Carol Whitfield",
+        "role": "Agency Founder",
+        "company": "Northgate Care Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$19",
+        "period": "per caregiver / month",
+        "blurb": "For owner-operators running a small, hands-on roster.",
+        "features": [
+          "Up to 10 active caregivers",
+          "Shift scheduling & clock-in",
+          "Client timelines & visit notes",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Agency",
+        "price": "$34",
+        "period": "per caregiver / month",
+        "blurb": "For growing agencies coordinating families and staff daily.",
+        "features": [
+          "Unlimited caregivers",
+          "Automated family updates",
+          "Care plan management",
+          "Audit-ready visit records",
+          "Payroll & billing export",
+          "Priority phone support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Network",
+        "price": "Custom",
+        "period": "volume pricing per seat",
+        "blurb": "For multi-location groups with centralized oversight.",
+        "features": [
+          "Multi-branch dashboards",
+          "Role-based access controls",
+          "EVV & state compliance tools",
+          "Dedicated onboarding",
+          "API & EHR integrations",
+          "Named account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "KinThread is coordination software for the people who show up—helping small home-care agencies keep caregivers, families, and clients connected."
+  }
+}

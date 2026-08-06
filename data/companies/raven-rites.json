@@ -1,0 +1,136 @@
+{
+  "name": "Raven Rites",
+  "slug": "raven-rites",
+  "industry": "funeral services",
+  "tagline": "Plan the whole goodbye before anyone has to guess what you wanted.",
+  "positioning": "Raven Rites is the end-of-life planning app for people who'd rather sort their own funeral than leave their cousins arguing over the casket.",
+  "vibe": "brutalist",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#F3E9DA",
+    "surface": "#FBF5EB",
+    "text": "#2B2019",
+    "primary": "#B14A28",
+    "accent": "#797A45"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "RR",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 4,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Death is inevitable. Bad planning isn't.",
+      "sub": "Write down your wishes, name your people, and lock the money in — so nobody has to plan your funeral while sobbing into a caterer's brochure at 11pm.",
+      "ctaLabel": "Start my plan",
+      "secondaryCtaLabel": "See what's inside"
+    },
+    "features": [
+      {
+        "title": "The Full Wishes Doc",
+        "description": "Casket or compost, hymns or the playlist you actually listen to. Every choice logged in one place your family can't 'misremember.'",
+        "icon": "inbox"
+      },
+      {
+        "title": "Locked-In Funds",
+        "description": "Ring-fence the money now so no one's floating a $9,000 funeral on a credit card in week one of grieving.",
+        "icon": "lock"
+      },
+      {
+        "title": "Named Executors",
+        "description": "Assign the responsible cousin, revoke the chaotic one, and give each person exactly the access they need — no more.",
+        "icon": "users"
+      },
+      {
+        "title": "Legal-Grade Export",
+        "description": "Generate a signed, notary-ready directive that holds up next to your will instead of living in a shoebox.",
+        "icon": "shield"
+      },
+      {
+        "title": "Dead Man's Trigger",
+        "description": "When you go quiet, we quietly notify the right people, unlock instructions, and skip the guesswork.",
+        "icon": "bell"
+      },
+      {
+        "title": "Annual Nudge",
+        "description": "One calm reminder a year to update your plan, because your favorite song and your least-favorite in-law both change.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "My mother left us a Raven Rites file instead of a mystery. We knew the songs, the budget, the burial plot. We just showed up and grieved. That's the whole point.",
+        "name": "Delia Osorio",
+        "role": "Daughter & Executor",
+        "company": "Osorio Family"
+      },
+      {
+        "quote": "I run a small funeral home and half my job used to be refereeing families with no plan. Clients who arrive with a Raven Rites export cut the arrangement meeting in half.",
+        "name": "Marcus Whitlow",
+        "role": "Funeral Director",
+        "company": "Whitlow & Sons Memorial"
+      },
+      {
+        "quote": "I'm 34 and healthy and I did this in an afternoon. Morbid? Sure. But now nobody has to guess whether I wanted to be scattered off a cliff. I do. It's in there.",
+        "name": "Priya Nandakumar",
+        "role": "Freelance Designer",
+        "company": "Self-employed"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Draft",
+        "price": "$0",
+        "period": "forever",
+        "blurb": "Write your wishes and share them. The paperwork can wait.",
+        "features": [
+          "Full wishes document",
+          "One named contact",
+          "Web-only access",
+          "Basic PDF export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Settled",
+        "price": "$89",
+        "period": "one-time, kept for life",
+        "blurb": "The whole plan, locked, signed, and ready when it's needed.",
+        "features": [
+          "Everything in Draft",
+          "Up to 5 named executors",
+          "Notary-ready legal export",
+          "Dead Man's Trigger notifications",
+          "Annual update nudge",
+          "Secure funds ring-fencing"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Estate",
+        "price": "$249",
+        "period": "one-time, whole household",
+        "blurb": "Plans for everyone under one roof, kept in sync.",
+        "features": [
+          "Everything in Settled",
+          "Up to 6 household plans",
+          "Shared executor directory",
+          "Priority human support",
+          "Document vault for wills & deeds"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Raven Rites keeps your final wishes clear, funded, and impossible to argue with. Not a law firm. Just the thing you'll be glad you did."
+  }
+}

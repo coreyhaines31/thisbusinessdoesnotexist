@@ -1,0 +1,136 @@
+{
+  "name": "Vondra",
+  "slug": "vondra",
+  "industry": "film production payroll",
+  "tagline": "The payroll infrastructure behind every frame that ships on time.",
+  "positioning": "Vondra unifies union timecards, multi-jurisdiction residuals, and per-production tax logic into one system of record — so studios pay crews correctly the first time, across every shoot on the call sheet.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#15171F",
+    "text": "#F1F3F8",
+    "primary": "#12E39A",
+    "accent": "#FF4D8D"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M13 5 A 7 7 0 0 1 13 19 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Payroll built for the scale of modern production.",
+      "sub": "Vondra runs wages, fringes, and residuals for every crew on every unit — reconciling union rules, state incentives, and overtime tiers in real time so your finance team closes the week without a single manual correction.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Union-aware timecard engine",
+        "description": "Ingest crew timecards and Vondra applies the correct IATSE, DGA, and Teamsters rate cards, meal penalties, and turnaround rules automatically — flagging exceptions before they hit payroll.",
+        "icon": "layers"
+      },
+      {
+        "title": "Multi-jurisdiction tax logic",
+        "description": "Loan-outs, per-diems, and cross-border shoots resolve to the right withholding and incentive filing for every state and country a production touches.",
+        "icon": "globe"
+      },
+      {
+        "title": "Residuals that never lapse",
+        "description": "Track participation and residual obligations across titles and windows, with automated statements that hold up to guild audits.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Production cost visibility",
+        "description": "Real-time labor spend rolls up by unit, department, and account code — feeding your cost report the moment a timecard is approved.",
+        "icon": "chart"
+      },
+      {
+        "title": "Audit-grade record keeping",
+        "description": "Every rate, edit, and approval is versioned and traceable, giving finance and legal an immutable trail for guild and studio audits.",
+        "icon": "shield"
+      },
+      {
+        "title": "Enterprise integrations",
+        "description": "Connect Vondra to your GL, budgeting, and HRIS stack with governed APIs and SSO built for studio-scale IT.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran four features and a limited series concurrently last quarter. Vondra reconciled every union rate and state incentive without a single amended check. Our payroll close went from nine days to two.",
+        "name": "Marisol Trevino",
+        "role": "VP, Production Finance",
+        "company": "Northgate Pictures"
+      },
+      {
+        "quote": "The residuals module alone justified the switch. What used to be a spreadsheet nightmare across forty titles is now an auditable statement we can defend to any guild.",
+        "name": "Devin Ashworth",
+        "role": "Head of Participations",
+        "company": "Meridian Television Group"
+      },
+      {
+        "quote": "Vondra's exception flags catch meal penalties and turnaround violations before payroll runs. Our production accountants finally trust the numbers on the cost report.",
+        "name": "Priya Raman",
+        "role": "Studio Controller",
+        "company": "Halcyon Content Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Unit",
+        "price": "$0.90",
+        "period": "per pay item processed",
+        "blurb": "For single-production companies scaling their first slate.",
+        "features": [
+          "Union rate card automation",
+          "Single-jurisdiction tax filing",
+          "Standard timecard engine",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$0.65",
+        "period": "per pay item, volume-tiered",
+        "blurb": "For studios running concurrent productions across multiple states.",
+        "features": [
+          "Multi-jurisdiction tax logic",
+          "Residuals tracking",
+          "Real-time cost reporting",
+          "GL & HRIS integrations",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "negotiated annual volume",
+        "blurb": "For global studios with cross-border shoots and audit demands.",
+        "features": [
+          "Cross-border withholding",
+          "Dedicated implementation team",
+          "Guild audit support SLA",
+          "Custom API governance",
+          "SSO and advanced controls"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Vondra is the payroll system of record for productions that can't afford a missed check. Built for studio-scale finance, engineered for the complexity of modern filmmaking."
+  }
+}

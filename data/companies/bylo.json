@@ -1,0 +1,138 @@
+{
+  "name": "Bylo",
+  "slug": "bylo",
+  "industry": "HOA management",
+  "tagline": "HOA software that doesn't make you want to move.",
+  "positioning": "Bylo runs dues, violations, and board votes for property management enterprises managing thousands of communities — without the fax machine energy.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#0A0B0F",
+    "surface": "#15181F",
+    "text": "#F0F3F8",
+    "primary": "#3BFF8E",
+    "accent": "#B872FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "B",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,20 12,4 20,20 15,20 12,13 9,20",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,13 15,20 9,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every HOA runs on spite. Yours can run on Bylo.",
+      "sub": "Dues, violations, architectural requests, and board votes across every community you manage — in one place your regional managers won't secretly resent. Enterprise-ready, audit-friendly.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See pricing"
+    },
+    "features": [
+      {
+        "title": "Dues that collect themselves",
+        "description": "Automated assessments, late fees, and lien-ready ledgers across thousands of units. Owners pay online; your AR team stops chasing checks that were 'definitely in the mail.'",
+        "icon": "database"
+      },
+      {
+        "title": "Violation workflows, minus the drama",
+        "description": "Photo-logged notices, escalation timelines, and a full paper trail for the one homeowner who lawyers up over a garden gnome.",
+        "icon": "shield"
+      },
+      {
+        "title": "Board votes with a real quorum",
+        "description": "Digital ballots, proxy tracking, and meeting minutes that generate themselves. No more 'was that motion carried?' three weeks later.",
+        "icon": "users"
+      },
+      {
+        "title": "Architectural requests, tracked",
+        "description": "Homeowners submit ARC applications with plans attached. Committees approve or deny with reasons on record. Fewer surprise pergolas.",
+        "icon": "layers"
+      },
+      {
+        "title": "Portfolio-wide reporting",
+        "description": "Roll up delinquency, reserve health, and violation volume across every community for the board deck your CFO actually reads.",
+        "icon": "chart"
+      },
+      {
+        "title": "Audit trail that holds up",
+        "description": "Every fee, vote, and notice timestamped and immutable. Built for the enterprises whose lawyers ask 'can you prove that?'",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We migrated 1,400 communities onto Bylo in a quarter. Delinquency reporting that took my team nine days now takes about four minutes. I no longer dread the board meetings.",
+        "name": "Danielle Voss",
+        "role": "VP of Community Operations",
+        "company": "Meridian Residential Group"
+      },
+      {
+        "quote": "Our old system was three spreadsheets and a prayer. Bylo's violation trail has already saved us in two arbitration cases. It pays for itself in avoided drama.",
+        "name": "Marcus Referred — Okonkwo",
+        "role": "Director of Portfolio Management",
+        "company": "Cornerstone Community Partners"
+      },
+      {
+        "quote": "The usage-based pricing means we're not paying for units we offboard. My finance team stopped emailing me about the contract, which is the highest praise I can offer.",
+        "name": "Priya Raman",
+        "role": "Chief Operating Officer",
+        "company": "Anchor Bay Property Services"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Portfolio",
+        "price": "$1.40",
+        "period": "per unit / month",
+        "blurb": "For growing management firms consolidating their first few thousand doors.",
+        "features": [
+          "Dues, violations & ARC workflows",
+          "Owner payment portal",
+          "Standard reporting",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Enterprise",
+        "price": "$0.95",
+        "period": "per unit / month, volume-tiered",
+        "blurb": "For regional and national firms managing large, messy portfolios.",
+        "features": [
+          "Everything in Portfolio",
+          "Digital board voting & minutes",
+          "Portfolio-wide dashboards",
+          "Immutable audit trail",
+          "SSO & role-based access",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "National",
+        "price": "Custom",
+        "period": "annual, per-unit committed",
+        "blurb": "For the largest operators with compliance teams and lawyers on speed dial.",
+        "features": [
+          "Everything in Enterprise",
+          "Dedicated success manager",
+          "Custom integrations & API",
+          "SOC 2 & data residency options",
+          "White-glove migration",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Bylo is HOA management software for enterprises that manage communities, not chaos. Built for the people who read the bylaws so nobody else has to."
+  }
+}

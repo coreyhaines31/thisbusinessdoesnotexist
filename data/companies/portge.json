@@ -1,0 +1,153 @@
+{
+  "name": "Portge",
+  "slug": "portge",
+  "industry": "artisanal logistics",
+  "tagline": "White-glove logistics for goods that deserve better than a barcode.",
+  "positioning": "Portge is the enterprise logistics layer for small-batch and handcrafted goods — chain-of-custody, provenance, and last-mile care in one platform.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#14121B",
+    "surface": "#201C2B",
+    "text": "#F2EEF7",
+    "primary": "#C9A44C",
+    "accent": "#7B6CE0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 5,
+        "width": 6,
+        "height": 14,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 9,
+        "width": 6,
+        "height": 10,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 5,
+        "width": 6,
+        "height": 6,
+        "rx": 1.5,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Logistics with the craftsmanship your product already has.",
+      "sub": "Portge moves limited-run, handmade, and high-provenance goods across the enterprise supply chain — with verifiable custody, climate-aware routing, and handling instructions that actually get read.",
+      "ctaLabel": "Request a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Provenance ledger",
+        "description": "Every maker, material, and handoff recorded on an immutable chain-of-custody record your compliance team can audit in seconds.",
+        "icon": "database"
+      },
+      {
+        "title": "Handling profiles",
+        "description": "Attach fragility, temperature, and orientation rules to each SKU so warehouse and courier staff see the right instructions at every touch.",
+        "icon": "shield"
+      },
+      {
+        "title": "Artisan network",
+        "description": "Onboard independent makers and micro-fulfillment partners with vetted SLAs, insurance, and capacity in a single vendor console.",
+        "icon": "users"
+      },
+      {
+        "title": "Climate-aware routing",
+        "description": "Route around heat, humidity, and vibration risk with lanes tuned for perishable, ceramic, and fine-finish inventory.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Live custody tracking",
+        "description": "Watch each parcel move through hands and hubs in real time, with exception alerts before a shipment ever goes dark.",
+        "icon": "compass"
+      },
+      {
+        "title": "Usage that scales",
+        "description": "Pay per shipment and per custody event — no seat licenses, no shelfware, just spend that tracks your actual volume.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ship 400 hand-thrown stoneware collections a month. Portge cut breakage claims by 61% and gave our auditors a custody trail they stopped questioning.",
+        "name": "Marisol Chen",
+        "role": "VP of Supply Chain",
+        "company": "Kilnworth Ceramics"
+      },
+      {
+        "quote": "Our makers are in twelve countries. Portge's artisan network let us standardize SLAs without flattening what makes each partner worth working with.",
+        "name": "Declan O'Brien",
+        "role": "Director of Fulfillment Operations",
+        "company": "Meridian Provisions Co."
+      },
+      {
+        "quote": "The handling profiles alone justified the contract. Couriers finally handle our lacquerware the way the invoice says they should.",
+        "name": "Priya Raghunathan",
+        "role": "Head of Global Logistics",
+        "company": "Aurelia Homewares"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$0.90",
+        "period": "per shipment tracked",
+        "blurb": "For growing brands formalizing custody on their first high-value lines.",
+        "features": [
+          "Up to 2,000 shipments/mo",
+          "Provenance ledger",
+          "Standard handling profiles",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Foundry",
+        "price": "$0.55",
+        "period": "per shipment tracked",
+        "blurb": "For scaling operations that need custody events and artisan onboarding.",
+        "features": [
+          "Volume shipment pricing",
+          "Custody event metering",
+          "Artisan network console",
+          "Climate-aware routing",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "committed annual volume",
+        "blurb": "For global supply chains with audit, insurance, and integration demands.",
+        "features": [
+          "Custom event & lane pricing",
+          "Dedicated solutions engineer",
+          "SSO, SOC 2, and audit exports",
+          "Custom SLAs & insurance tiers",
+          "API & ERP integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Portge is the custody and care layer for artisanal logistics — moving considered goods across the enterprise without losing the story behind them."
+  }
+}

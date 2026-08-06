@@ -1,0 +1,135 @@
+{
+  "name": "Egret Payroll",
+  "slug": "egret-payroll",
+  "industry": "film production payroll",
+  "tagline": "The payroll department every independent filmmaker was promised but never had.",
+  "positioning": "Egret runs film payroll, taxes, and crew paperwork for the solo producer — the same machinery that used to require a studio accounting floor.",
+  "vibe": "playful",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F2EDE3",
+    "surface": "#FBF8F1",
+    "text": "#241F18",
+    "primary": "#3B4A3E",
+    "accent": "#B06A41"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "E",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Cut the check as cleanly as you cut the film.",
+      "sub": "Egret turns timecards, deal memos, and 1099s into a single pay run you finish before lunch. Fund your crew, file your taxes, and keep every penny audit-ready — no accountant on retainer required.",
+      "ctaLabel": "Run your first payroll",
+      "secondaryCtaLabel": "See a sample pay run"
+    },
+    "features": [
+      {
+        "title": "Timecards that survive set",
+        "description": "Crew clock in from their phones, meal penalties calculate themselves, and daily rates roll up into a pay run without a single spreadsheet formula.",
+        "icon": "clock"
+      },
+      {
+        "title": "Same-day crew payments",
+        "description": "Approve a run and the gaffer, DP, and PAs are paid the same afternoon — direct deposit for W-2 crew, instant transfer for 1099 vendors.",
+        "icon": "zap"
+      },
+      {
+        "title": "Taxes filed while you sleep",
+        "description": "Egret withholds, remits, and files federal, state, and local payroll taxes automatically, then hands you the year-end W-2s and 1099s already sealed.",
+        "icon": "shield"
+      },
+      {
+        "title": "Deal memos, done right",
+        "description": "Send a start packet, collect signed I-9s and W-4s, and lock in each person's rate, kit fee, and box rental before day one of shooting.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Multi-state, one shoot",
+        "description": "Chase a location to three states in a week and Egret tracks residency, reciprocity, and incentive-eligible wages for every day of the schedule.",
+        "icon": "globe"
+      },
+      {
+        "title": "An audit binder on demand",
+        "description": "Every rate, receipt, and remittance is filed the moment it happens, so your production accounting is closed before the film is even color-graded.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend the last week of every shoot terrified of the payroll math. With Egret I approved a run for eleven crew from my hotel and the taxes just filed themselves. It felt like having a production accountant I couldn't afford.",
+        "name": "Renata Alvarez",
+        "role": "Director & Producer",
+        "company": "Low Tide Pictures"
+      },
+      {
+        "quote": "We shot a documentary across four states with a rotating crew of freelancers. Egret handled every residency rule and had the 1099s ready in January without me touching a form.",
+        "name": "Desmond Okafor",
+        "role": "Line Producer",
+        "company": "Northlight Docs"
+      },
+      {
+        "quote": "My AD, my grips, and my composer all get paid differently, and Egret finally makes that a two-minute job instead of a two-day panic. It pays for itself on the first shoot day.",
+        "name": "Priya Venkatesan",
+        "role": "Independent Filmmaker",
+        "company": "Cormorant Films"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Short",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For the solo filmmaker running a single small production.",
+        "features": [
+          "Up to 5 crew per pay run",
+          "W-2 and 1099 payments",
+          "Automatic tax filing in one state",
+          "Digital deal memos & start packets"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Feature",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For working producers juggling real crews and moving locations.",
+        "features": [
+          "Up to 40 crew per pay run",
+          "Same-day direct deposit",
+          "Multi-state tax filing & reciprocity",
+          "Meal penalty & kit fee tracking",
+          "On-demand audit binder export"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For production companies running back-to-back slates all year.",
+        "features": [
+          "Unlimited crew and productions",
+          "Union & guild rate schedules",
+          "Incentive-eligible wage reports",
+          "Dedicated payroll specialist",
+          "Priority year-end W-2 & 1099 delivery"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Egret Payroll gives independent filmmakers the accounting department of a studio — payroll, taxes, and paperwork, wrapped before the shoot is."
+  }
+}

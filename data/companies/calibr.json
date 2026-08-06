@@ -1,0 +1,136 @@
+{
+  "name": "Calibr",
+  "slug": "calibr",
+  "industry": "esports coaching",
+  "tagline": "Enterprise-grade performance coaching for competitive gaming organizations.",
+  "positioning": "Calibr operationalizes esports coaching into a measurable, auditable discipline — replacing gut-feel scrim reviews with structured player development at scale.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F4ECE0",
+    "surface": "#FBF6ED",
+    "text": "#2C2419",
+    "primary": "#A9502A",
+    "accent": "#7C6A38"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 12 A8 8 0 0 1 20 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M6 13 A7 7 0 0 0 20 13 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coaching, standardized across your entire competitive roster.",
+      "sub": "Calibr gives esports organizations a single system of record for player development — VOD review, scrim analytics, and coach accountability, benchmarked against league-wide performance data.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View platform overview"
+    },
+    "features": [
+      {
+        "title": "Structured VOD Review",
+        "description": "Convert unstructured scrim footage into timestamped, taggable development notes that map directly to each player's coaching plan and quarterly objectives.",
+        "icon": "layers"
+      },
+      {
+        "title": "Roster Benchmarking",
+        "description": "Measure individual and team performance against anonymized league-wide percentiles, so leadership can defend roster decisions with data instead of intuition.",
+        "icon": "chart"
+      },
+      {
+        "title": "Coach Accountability",
+        "description": "Track coaching hours, intervention outcomes, and player improvement deltas across every title in your organization from one governance dashboard.",
+        "icon": "target"
+      },
+      {
+        "title": "Practice Governance",
+        "description": "Enforce practice-block templates, scrim scheduling, and review cadences with role-based approvals and a full audit trail for stakeholders.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Player Development Records",
+        "description": "Maintain a portable, longitudinal record of each athlete's growth — from academy tryout to starting lineup — retained across contract cycles.",
+        "icon": "database"
+      },
+      {
+        "title": "Integration Layer",
+        "description": "Sync match telemetry, game APIs, and your existing HRIS so player data flows into Calibr without manual re-entry by analysts.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Calibr, our coaching quality varied wildly by title. Now every head coach works from the same review framework, and our board finally trusts the player development numbers we report each quarter.",
+        "name": "Dietrich Halvorsen",
+        "role": "Director of Performance",
+        "company": "Meridian Esports Group"
+      },
+      {
+        "quote": "We reduced scrim-review turnaround from three days to under four hours. The benchmarking module alone justified the contract during our first split.",
+        "name": "Priya Anand",
+        "role": "VP of Competitive Operations",
+        "company": "Northgate Gaming Holdings"
+      },
+      {
+        "quote": "The audit trail changed how we negotiate. When an investor asks how we develop academy talent, we export a Calibr report instead of scrambling through spreadsheets.",
+        "name": "Marcus Treadwell",
+        "role": "Chief of Staff",
+        "company": "Vantablack Competitive"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Team",
+        "price": "$0.90",
+        "period": "per player-hour coached",
+        "blurb": "For single-title programs formalizing their first coaching workflow.",
+        "features": [
+          "Up to 2 active rosters",
+          "Structured VOD review",
+          "Standard performance benchmarks",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Organization",
+        "price": "$0.65",
+        "period": "per player-hour coached",
+        "blurb": "For multi-title organizations standardizing coaching across divisions.",
+        "features": [
+          "Unlimited rosters and titles",
+          "Coach accountability dashboards",
+          "Full league-wide benchmarking",
+          "API and HRIS integrations",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For federations and holding groups with governance and audit requirements.",
+        "features": [
+          "Volume-discounted player-hours",
+          "Dedicated success architect",
+          "SSO, SOC 2, and audit exports",
+          "Custom data residency",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Calibr is the performance coaching platform of record for competitive gaming organizations that treat player development as a measurable discipline."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Tepora",
+  "slug": "tepora",
+  "industry": "HVAC field service",
+  "tagline": "Every furnace, heat pump, and mini-split you own — remembered and cared for.",
+  "positioning": "Tepora is the home-comfort logbook for hands-on homeowners and solo HVAC pros who service their own systems and want nothing to fall through the cracks.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0B0B0C",
+    "surface": "#161719",
+    "text": "#F4F4F5",
+    "primary": "#FF4A21",
+    "accent": "#FF7A54"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "T",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 12 A8 8 0 0 1 20 12 L16 12 A4 4 0 0 0 8 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M8 16 A4 4 0 0 0 16 16 L14 16 A2 2 0 0 1 10 16 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Keep every system in your home running like it's brand new.",
+      "sub": "Tepora tracks each furnace, heat pump, and mini-split you maintain — logging filters, refrigerant, and tune-ups so you always know exactly what's due and when.",
+      "ctaLabel": "Start your logbook",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One profile per system",
+        "description": "Give every furnace, condenser, and mini-split its own record — model, serial, install date, and filter size — so you're never guessing in the crawlspace again.",
+        "icon": "layers"
+      },
+      {
+        "title": "Maintenance that actually reminds you",
+        "description": "Filter swaps, coil cleanings, and seasonal tune-ups show up on a timeline with reminders before they're overdue, not three months after.",
+        "icon": "bell"
+      },
+      {
+        "title": "A service log you'll trust",
+        "description": "Snap a photo, note the pressures, jot the part number. Every visit is timestamped and searchable, so warranty claims take minutes instead of an afternoon.",
+        "icon": "database"
+      },
+      {
+        "title": "Seasonal tune-up checklists",
+        "description": "Guided spring and fall walkthroughs built for real equipment — capacitor checks, condensate lines, static pressure — with nothing skipped.",
+        "icon": "clock"
+      },
+      {
+        "title": "Part numbers on hand",
+        "description": "Save the exact filter, igniter, and capacitor for each unit so reordering is one tap, not a parking-lot phone call to the supply house.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Costs you can see",
+        "description": "Log what each repair and part cost and watch the running total per system — the number that tells you when to fix versus replace.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I service the HVAC at four rental units. Tepora is the first thing that kept the filter sizes and furnace serials straight without a shoebox of receipts.",
+        "name": "Dana Whitlock",
+        "role": "Owner",
+        "company": "Whitlock Property Group"
+      },
+      {
+        "quote": "As a solo tech, my system logs used to live in my head. Now every visit is photographed and dated, and my warranty claims stopped bouncing back.",
+        "name": "Marcus Reyes",
+        "role": "Independent HVAC Technician",
+        "company": "Reyes Comfort Co."
+      },
+      {
+        "quote": "We heat with a boiler and cool with two mini-splits. Tepora finally put all three on one maintenance calendar my husband and I both check.",
+        "name": "Priya Anand",
+        "role": "Homeowner",
+        "company": "Cedar Hollow"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Home",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "For the homeowner keeping one or two systems on track.",
+        "features": [
+          "Up to 2 systems",
+          "Filter & tune-up reminders",
+          "Basic service log",
+          "Photo attachments"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Household",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "For prosumers running comfort across a whole property.",
+        "features": [
+          "Unlimited systems",
+          "Seasonal tune-up checklists",
+          "Saved part numbers & reorder links",
+          "Cost tracking per system",
+          "Warranty document vault"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Solo Pro",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For independent techs servicing their own client list.",
+        "features": [
+          "Everything in Household",
+          "Client & site profiles",
+          "Exportable service reports",
+          "Static pressure & readings log",
+          "Priority email support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Tepora keeps the heating and cooling in your home honest — one logbook for every system you look after."
+  }
+}

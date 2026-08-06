@@ -1,0 +1,144 @@
+{
+  "name": "Nova Aerie",
+  "slug": "nova-aerie",
+  "industry": "esports coaching",
+  "tagline": "Engineer your ascent from the ladder's basement to its stratosphere.",
+  "positioning": "Nova Aerie turns raw ranked grind into a deliberate climb — pairing individual players with elite coaches and telemetry-grade VOD analysis.",
+  "vibe": "startup",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0D18",
+    "surface": "#151A2C",
+    "text": "#E9EDF9",
+    "primary": "#7C6CF0",
+    "accent": "#39E3C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "NA",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M4 15 A 9 9 0 0 1 20 15",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M7 20 A 12 12 0 0 1 20 8",
+        "fill": "accent"
+      },
+      {
+        "type": "circle",
+        "cx": 18,
+        "cy": 6,
+        "r": 2.4,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stop grinding blind. Start climbing on purpose.",
+      "sub": "Nova Aerie fuses championship-caliber coaches with frame-by-frame VOD telemetry, so every ranked game moves you measurably closer to the peak you were meant to hold.",
+      "ctaLabel": "Claim your ascent plan",
+      "secondaryCtaLabel": "Watch a coached review"
+    },
+    "features": [
+      {
+        "title": "Telemetry VOD review",
+        "description": "Upload a replay and get a timestamped breakdown of every misplay, cooldown wasted, and rotation missed — annotated by a coach who's held the rank you're chasing.",
+        "icon": "chart"
+      },
+      {
+        "title": "Personalized drill labs",
+        "description": "Your weaknesses become a curriculum. Aim routines, macro scrims, and decision drills are generated weekly and adapt as your stats move.",
+        "icon": "target"
+      },
+      {
+        "title": "Coach matchmaking",
+        "description": "We pair you by role, region, and playstyle with a vetted coach — no random Discord DMs, no ghosting, no coaches learning your game on your dime.",
+        "icon": "users"
+      },
+      {
+        "title": "Rank trajectory tracking",
+        "description": "A single dashboard charts MMR, win-rate deltas, and habit streaks so you can see the climb curve instead of guessing whether the grind is working.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Live scrim overlays",
+        "description": "Get real-time callouts and cooldown reminders piped into your practice sessions, then export the session as a shareable coaching artifact.",
+        "icon": "zap"
+      },
+      {
+        "title": "Tournament prep sprints",
+        "description": "Two-week structured programs that peak your form for qualifiers — vod homework, mental resets, and a match-day checklist your coach signs off on.",
+        "icon": "rocket"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I sat hardstuck in Diamond for three splits. Six weeks of Nova Aerie's VOD labs and my coach's rotation drills put me in Master with a plan I could actually repeat. It stopped feeling like luck.",
+        "name": "Mateo Reyes",
+        "role": "Mid-lane player",
+        "company": "Cinderfall Collective"
+      },
+      {
+        "quote": "The telemetry review is unreal — it caught a recurring off-angle habit I'd never have spotted myself. My aim consistency graph finally stopped looking like a heart monitor.",
+        "name": "Priya Anand",
+        "role": "Aspiring pro, Tactical FPS",
+        "company": "Northwind Academy"
+      },
+      {
+        "quote": "We route our whole amateur roster through Nova Aerie between bootcamps. The tournament prep sprints are the closest thing to a real org's structure that a small team can afford.",
+        "name": "Dane Kovic",
+        "role": "Team manager",
+        "company": "Halcyon Esports"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Contender",
+        "price": "$24",
+        "period": "per month, billed monthly",
+        "blurb": "For the solo grinder ready to climb with intent instead of hope.",
+        "features": [
+          "2 telemetry VOD reviews per month",
+          "Weekly adaptive drill lab",
+          "Rank trajectory dashboard",
+          "Community scrim finder"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Ascendant",
+        "price": "$59",
+        "period": "per month, billed monthly",
+        "blurb": "For serious climbers chasing a specific rank on a real timeline.",
+        "features": [
+          "6 telemetry VOD reviews per month",
+          "Matched dedicated coach",
+          "Live scrim overlays & callouts",
+          "Monthly 1:1 strategy call",
+          "Habit and mental-reset tracking"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Apex",
+        "price": "$129",
+        "period": "per month, billed monthly",
+        "blurb": "For amateurs going pro who need an org-grade support system.",
+        "features": [
+          "Unlimited VOD reviews",
+          "Weekly 1:1 coaching sessions",
+          "Tournament prep sprints",
+          "Priority coach matching",
+          "Exportable coaching artifacts",
+          "Peak-form scheduling"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Nova Aerie is the ascent engine for players who refuse to stay hardstuck. Elite coaching, telemetry, and structure — built for one climber at a time."
+  }
+}

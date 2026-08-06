@@ -1,0 +1,141 @@
+{
+  "name": "SlateStub",
+  "slug": "slatestub",
+  "industry": "film production payroll",
+  "tagline": "Enterprise-grade payroll for the people behind the camera.",
+  "positioning": "SlateStub is the payroll platform of record for independent production companies — timecards, unions, and pay stubs, reconciled to the frame.",
+  "vibe": "playful",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F5F3FB",
+    "surface": "#FFFFFF",
+    "text": "#2A2740",
+    "primary": "#6C5CD0",
+    "accent": "#F1A6C6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "S",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,1 23,12 12,23 1,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,6 18,12 12,18 6,12",
+        "fill": "bg"
+      },
+      {
+        "type": "polygon",
+        "points": "12,9 15,12 12,15 9,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Production payroll that closes the week in one pass.",
+      "sub": "SlateStub turns crew timecards, union rules, and daily rates into compliant pay stubs and W-2s — so owner-operators can wrap the shoot instead of the paperwork.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a sample stub"
+    },
+    "features": [
+      {
+        "title": "Timecards to stubs, automatically",
+        "description": "Import daily timecards, apply IATSE and Teamster rate rules, and generate audited pay stubs before the crew leaves set.",
+        "icon": "clock"
+      },
+      {
+        "title": "Union math, handled",
+        "description": "Meal penalties, turnaround, and fringe contributions calculate to the minute against the right agreement — no spreadsheet gymnastics.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-project cost reports",
+        "description": "Roll labor costs into per-production budgets your line producer and accountant can both reconcile in real time.",
+        "icon": "chart"
+      },
+      {
+        "title": "Year-end filed for you",
+        "description": "W-2s, 1099s, and multi-state withholding filed on schedule, with residency splits tracked across every shoot day.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Crew self-service portal",
+        "description": "Cast and crew view stubs, update deposits, and download tax forms without emailing your production office.",
+        "icon": "users"
+      },
+      {
+        "title": "Audit-ready records",
+        "description": "Every rate change, approval, and payment is timestamped and exportable for payroll audits and completion bonds.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to close payroll on Sunday nights with three spreadsheets and a prayer. SlateStub reconciled our first commercial in under an hour, meal penalties and all.",
+        "name": "Danielle Ferraro",
+        "role": "Owner & Executive Producer",
+        "company": "Northlight Pictures"
+      },
+      {
+        "quote": "The union rules are the part that used to keep me up at night. Now turnaround and fringes calculate themselves, and my accountant stopped sending me angry emails.",
+        "name": "Marcus Ozawa",
+        "role": "Line Producer",
+        "company": "Twelfth Frame Studios"
+      },
+      {
+        "quote": "As a two-person shop, we needed enterprise controls without an enterprise team. SlateStub gave us audit-ready stubs the bond company approved on the first pass.",
+        "name": "Priya Ravel",
+        "role": "Managing Partner",
+        "company": "Halcyon Reel Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Indie",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For owner-operators running a handful of shoots a year.",
+        "features": [
+          "Up to 3 admin seats",
+          "Timecard-to-stub automation",
+          "Standard union rate rules",
+          "Year-end W-2 and 1099 filing"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Production",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing shops juggling concurrent productions.",
+        "features": [
+          "Unlimited admin seats",
+          "Multi-project cost reports",
+          "Meal penalty & turnaround engine",
+          "Crew self-service portal",
+          "Multi-state withholding"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For established studios with bond and audit requirements.",
+        "features": [
+          "Dedicated payroll specialist",
+          "Custom union agreement builder",
+          "Completion-bond audit exports",
+          "SSO and role-based access",
+          "Priority filing SLAs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "SlateStub is production payroll of record for independent studios. Timecards in, compliant pay stubs out — reconciled to the frame."
+  }
+}

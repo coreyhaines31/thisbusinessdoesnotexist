@@ -1,0 +1,131 @@
+{
+  "name": "Licita",
+  "slug": "licita",
+  "industry": "cannabis compliance",
+  "tagline": "Stay legal from seed to shelf — even at home.",
+  "positioning": "Licita turns confusing state cannabis rules into a plain checklist, so individual growers and small operators never miss a plant count, tag, or renewal.",
+  "vibe": "brutalist",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F3E9D8",
+    "surface": "#FBF5E9",
+    "text": "#2C221A",
+    "primary": "#B4502A",
+    "accent": "#6E6B33"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "L",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M5 3 L11 3 L11 15 L19 15 L19 21 L5 21 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know your grow is legal, plant by plant.",
+      "sub": "Licita reads your state's cannabis rules and hands you a plain checklist — plant counts, canopy limits, tag logs, and renewal dates — so you never guess whether you're compliant.",
+      "ctaLabel": "Start your log",
+      "secondaryCtaLabel": "See a sample audit"
+    },
+    "features": [
+      {
+        "title": "Plant-by-plant ledger",
+        "description": "Log every seed, clone, and harvest with photos and dates. When an inspector asks for your seed-to-sale trail, you export a clean PDF in one tap.",
+        "icon": "database"
+      },
+      {
+        "title": "State rule engine",
+        "description": "Pick your state and grow type. Licita tracks your legal plant count, canopy square footage, and possession limits and warns you before you cross a line.",
+        "icon": "shield"
+      },
+      {
+        "title": "Renewal reminders",
+        "description": "Medical cards, cultivation permits, and METRC tags all expire on different days. We surface the next deadline and email you 30, 14, and 3 days out.",
+        "icon": "bell"
+      },
+      {
+        "title": "Tag reconciliation",
+        "description": "Match physical plant tags against your digital log so a missing or duplicated tag never turns into a violation notice at renewal time.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit-ready exports",
+        "description": "Generate the exact recordkeeping packet your state requires — movement history, waste logs, and weights — formatted the way regulators expect.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Weight & waste tracking",
+        "description": "Record wet and dry weights plus disposal reasons. Licita flags gaps in your chain so your numbers always add up under review.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I grow six plants for my medical card and I used to lie awake wondering if I'd logged everything right. Licita's checklist told me exactly what my state needed. My last renewal took ten minutes.",
+        "name": "Dana Reyes",
+        "role": "Registered patient cultivator",
+        "company": "Home grow, Oregon"
+      },
+      {
+        "quote": "We run a four-person craft cultivation permit. The tag reconciliation caught two mislabeled plants before an inspection that would have cost us the license. It has paid for itself many times over.",
+        "name": "Marcus Feld",
+        "role": "Owner & head grower",
+        "company": "Sunhollow Botanicals"
+      },
+      {
+        "quote": "Before Licita our waste logs were a shoebox of receipts. Now the weight tracking matches our disposal records automatically, and the export is exactly what our compliance officer signs off on.",
+        "name": "Priya Anand",
+        "role": "Compliance lead",
+        "company": "Grove & Grain Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Home",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "For patients and personal cultivators tracking a handful of plants.",
+        "features": [
+          "Up to 12 tracked plants",
+          "State rule checklist",
+          "Renewal reminders",
+          "Photo grow log"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Cultivator",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "For craft growers and micro-permits that face real inspections.",
+        "features": [
+          "Up to 200 tracked plants",
+          "Tag reconciliation",
+          "Weight & waste tracking",
+          "Audit-ready PDF exports",
+          "Multi-strain canopy limits"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Collective",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For multi-site operators and co-ops with dedicated compliance staff.",
+        "features": [
+          "Unlimited plants & sites",
+          "Team roles & sign-off trails",
+          "METRC & state API sync",
+          "Priority compliance support",
+          "Custom export templates"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Licita is recordkeeping software, not legal advice. Always confirm requirements with your state cannabis authority."
+  }
+}

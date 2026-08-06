@@ -1,0 +1,163 @@
+{
+  "name": "AxleHarbor",
+  "slug": "axleharbor",
+  "industry": "fleet telematics",
+  "tagline": "Fleet telematics engineered for the owner-operator who signs the checks.",
+  "positioning": "AxleHarbor gives small fleets enterprise-grade GPS, engine diagnostics, and IFTA reporting in one console — priced per driver, not per truck.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#F4ECE0",
+    "surface": "#FBF6EC",
+    "text": "#2B2318",
+    "primary": "#B0562C",
+    "accent": "#7C7A45"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "AH",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every truck accounted for. Every mile documented.",
+      "sub": "AxleHarbor consolidates live tracking, engine fault codes, driver hours, and fuel-tax filings into a single operations console built for fleets of 3 to 40 vehicles.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View pricing"
+    },
+    "features": [
+      {
+        "title": "Real-Time Fleet Visibility",
+        "description": "Track every vehicle on one map with 10-second location refresh, geofence alerts, and stop-history playback you can pull up during a customer dispute.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Engine Health Diagnostics",
+        "description": "Read live OBD-II and J1939 fault codes, get flagged before a check-engine light becomes a roadside breakdown, and schedule service by odometer.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Automated IFTA Reporting",
+        "description": "Mileage-by-jurisdiction is calculated continuously, so quarterly fuel-tax filings export in minutes instead of a weekend of spreadsheets.",
+        "icon": "chart"
+      },
+      {
+        "title": "Hours-of-Service Logging",
+        "description": "ELD-compliant driver logs sync automatically, warning operators of impending violations before an officer ever asks for the record.",
+        "icon": "clock"
+      },
+      {
+        "title": "Fuel & Idle Control",
+        "description": "Identify excessive idling, unauthorized fuel purchases, and fuel-card mismatches with weekly variance reports sent to your inbox.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Driver Safety Scoring",
+        "description": "Score harsh braking, speeding, and cornering per driver, then export coachable reports that hold up in your insurance renewal review.",
+        "icon": "shield"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to lose a full Saturday every quarter reconciling IFTA miles. AxleHarbor exports the filing in under ten minutes, and it's matched every audit line so far.",
+        "name": "Dwayne Priebe",
+        "role": "Owner-Operator",
+        "company": "Priebe Regional Carriers"
+      },
+      {
+        "quote": "The engine fault alerts flagged a failing injector on unit 12 two days before it would have stranded a load. That single catch paid for our whole year.",
+        "name": "Marisol Tejada",
+        "role": "Fleet Manager",
+        "company": "Tejada Freight Lines"
+      },
+      {
+        "quote": "Our insurance carrier dropped our premium after we showed them AxleHarbor's driver safety reports. It turned telematics from a cost into a bargaining chip.",
+        "name": "Grant Holloway",
+        "role": "Managing Partner",
+        "company": "Holloway & Sons Hauling"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$29",
+        "period": "per driver / month",
+        "blurb": "Core tracking and diagnostics for the small fleet just getting organized.",
+        "features": [
+          "Live GPS tracking, 10-second refresh",
+          "Engine fault-code alerts",
+          "Geofence and stop-history reports",
+          "Email support within one business day"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$44",
+        "period": "per driver / month",
+        "blurb": "Compliance and reporting for owner-operators running the full operation.",
+        "features": [
+          "Everything in Operator",
+          "Automated IFTA fuel-tax reporting",
+          "ELD hours-of-service logging",
+          "Driver safety scoring",
+          "Fuel and idle variance reports",
+          "Priority phone support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume pricing per driver",
+        "blurb": "Dedicated onboarding and integrations for multi-yard operations.",
+        "features": [
+          "Everything in Fleet",
+          "API and TMS integrations",
+          "Dedicated account manager",
+          "Custom compliance workflows",
+          "Single sign-on and audit logs"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "AxleHarbor is fleet telematics built for the people who own the trucks — clear data, honest per-seat pricing, no enterprise contract required."
+  }
+}

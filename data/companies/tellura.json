@@ -1,0 +1,137 @@
+{
+  "name": "Tellura",
+  "slug": "tellura",
+  "industry": "soil analytics",
+  "tagline": "Dirt has opinions. We translate them.",
+  "positioning": "Enterprise soil intelligence that turns core samples and sensor feeds into decisions your agronomists will actually defend in a boardroom.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F4ECDF",
+    "surface": "#FBF6EC",
+    "text": "#2C2116",
+    "primary": "#B0521C",
+    "accent": "#7C8450"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "T",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,3 22,21 2,21",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,10 17.5,21 6.5,21",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your soil is lying to your spreadsheet.",
+      "sub": "Tellura ingests core samples, probe telemetry, and lab panels across every parcel you manage — then hands your team one number they can bet the harvest on.",
+      "ctaLabel": "Book a soil audit",
+      "secondaryCtaLabel": "See the sample data"
+    },
+    "features": [
+      {
+        "title": "Every core, one truth",
+        "description": "Reconcile lab panels, in-field probes, and legacy PDFs into a single parcel-level model. No more three agronomists arguing about which nitrogen reading is real.",
+        "icon": "layers"
+      },
+      {
+        "title": "Boardroom-grade reports",
+        "description": "Export soil health scorecards that a CFO reads without flinching. Confidence intervals included, jargon quietly removed.",
+        "icon": "chart"
+      },
+      {
+        "title": "Drift alerts that fire early",
+        "description": "Get pinged when pH, salinity, or organic carbon wanders off its baseline — weeks before it shows up in yield.",
+        "icon": "bell"
+      },
+      {
+        "title": "Ground truth by acre",
+        "description": "Map results to exact coordinates, not vague zones. Your variable-rate rig gets instructions it can follow.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Audit trail for regulators",
+        "description": "Every sample timestamped, chain-of-custody logged, and exportable for carbon and sustainability filings.",
+        "icon": "shield"
+      },
+      {
+        "title": "Plugs into what you run",
+        "description": "Feeds John Deere Operations Center, Climate FieldView, and your ERP without a six-month integration slog.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were making million-dollar amendment calls off a shared spreadsheet nobody trusted. Tellura gave us one soil model and, weirdly, our agronomists stopped emailing at midnight.",
+        "name": "Dana Holcombe",
+        "role": "VP of Agronomy",
+        "company": "Meridian Row Farms"
+      },
+      {
+        "quote": "The drift alerts caught a salinity creep on our east blocks before it cost us the season. That single warning paid for the contract twice.",
+        "name": "Rafael Ortega",
+        "role": "Director of Land Operations",
+        "company": "Cottonwood Ag Group"
+      },
+      {
+        "quote": "Our sustainability filing used to take a quarter and a lot of prayer. Now the chain-of-custody data exports itself. The auditors were almost disappointed.",
+        "name": "Priya Sundaram",
+        "role": "Head of Sustainability",
+        "company": "Harrowgate Estates"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Field",
+        "price": "$0.90",
+        "period": "per sample analyzed",
+        "blurb": "For operations getting off spreadsheets and onto a real soil model.",
+        "features": [
+          "Up to 5,000 samples / year",
+          "Lab + probe ingestion",
+          "Parcel-level scorecards",
+          "Standard drift alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Estate",
+        "price": "$0.55",
+        "period": "per sample analyzed",
+        "blurb": "For multi-parcel enterprises that need alerts before problems bloom.",
+        "features": [
+          "Volume-tiered sample pricing",
+          "Coordinate-level mapping",
+          "Custom drift thresholds",
+          "Rig + ERP integrations",
+          "Regulator-ready exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Continental",
+        "price": "Custom",
+        "period": "annual usage commitment",
+        "blurb": "For portfolios spanning regions, labs, and jurisdictions.",
+        "features": [
+          "Unlimited parcels & labs",
+          "Dedicated data engineer",
+          "SSO & audit logging",
+          "SLA-backed uptime",
+          "Carbon filing toolkit",
+          "Priority model tuning"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Tellura turns the dirt under your operation into decisions you can defend. Soil analytics for people who own the outcome."
+  }
+}

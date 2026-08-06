@@ -1,0 +1,136 @@
+{
+  "name": "Cyanova",
+  "slug": "cyanova",
+  "industry": "Tattoo studio booking",
+  "tagline": "The operating system for ink at enterprise scale.",
+  "positioning": "Cyanova unifies scheduling, consent, and artist utilization across every studio location into one governed booking infrastructure.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#08192A",
+    "surface": "#102B3F",
+    "text": "#E4F5F0",
+    "primary": "#1FD3B0",
+    "accent": "#3E8BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A 9 9 0 0 0 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 5 A 7 7 0 0 1 12 19 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Ink operations, orchestrated at the scale of your ambition.",
+      "sub": "Cyanova turns fragmented studio calendars, paper consent forms, and guest-artist chaos into one governed booking platform — built for multi-location groups that treat tattooing as an enterprise.",
+      "ctaLabel": "Book a platform demo",
+      "secondaryCtaLabel": "See the architecture"
+    },
+    "features": [
+      {
+        "title": "Unified booking fabric",
+        "description": "Route walk-ins, deposits, and multi-session sleeves across every location from a single availability engine that never double-books an artist.",
+        "icon": "layers"
+      },
+      {
+        "title": "Consent & compliance vault",
+        "description": "Digitize consent, aftercare, and age verification into an audit-ready record that satisfies legal review in every jurisdiction you operate.",
+        "icon": "shield"
+      },
+      {
+        "title": "Artist utilization analytics",
+        "description": "See chair-hours, rebooking rates, and revenue per artist in real time — the metrics your regional managers actually defend budgets with.",
+        "icon": "chart"
+      },
+      {
+        "title": "Deposit orchestration",
+        "description": "Automate tiered deposits, no-show recovery, and refunds with policies enforced consistently across hundreds of resident and guest artists.",
+        "icon": "lock"
+      },
+      {
+        "title": "Guest-artist provisioning",
+        "description": "Onboard a touring artist to a two-week residency in minutes, with scoped calendar access that expires on schedule.",
+        "icon": "users"
+      },
+      {
+        "title": "Studio-grade integrations",
+        "description": "Sync with your POS, payroll, and identity provider through a documented API that your platform team will respect.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated 14 studios onto Cyanova in a quarter. Double-bookings dropped to zero and our consent audit went from a three-week fire drill to a single export.",
+        "name": "Marisol Vega",
+        "role": "VP of Studio Operations",
+        "company": "Ironline Collective"
+      },
+      {
+        "quote": "The utilization dashboards changed how we plan residencies. We finally staff chairs to demand instead of guessing, and revenue per artist is up 22%.",
+        "name": "Declan Rourke",
+        "role": "Chief Operating Officer",
+        "company": "Meridian Ink Group"
+      },
+      {
+        "quote": "Onboarding guest artists used to mean shared logins and prayer. Cyanova provisions scoped access that expires on its own. Our security team signed off in one meeting.",
+        "name": "Priya Anand",
+        "role": "Director of Platform",
+        "company": "Blackwater Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$0.90",
+        "period": "per confirmed booking",
+        "blurb": "For single studios formalizing operations on a real platform.",
+        "features": [
+          "Up to 3 chairs",
+          "Unified booking engine",
+          "Digital consent vault",
+          "Deposit automation"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Group",
+        "price": "$0.60",
+        "period": "per confirmed booking",
+        "blurb": "For multi-location groups standardizing across regions.",
+        "features": [
+          "Unlimited locations",
+          "Artist utilization analytics",
+          "Guest-artist provisioning",
+          "POS & payroll sync",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based, annually committed",
+        "blurb": "For national and franchise operators with governance needs.",
+        "features": [
+          "Committed-volume pricing",
+          "SSO & audit logging",
+          "Jurisdictional compliance controls",
+          "Dedicated solutions engineer",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cyanova is the governed booking infrastructure for ink at scale — one platform for scheduling, consent, and utilization across every studio you run."
+  }
+}

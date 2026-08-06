@@ -1,0 +1,136 @@
+{
+  "name": "Munera",
+  "slug": "munera",
+  "industry": "B2B swag",
+  "tagline": "Considered merch, from one hoodie to ten thousand.",
+  "positioning": "Munera is the branded-merch platform for individuals and small teams who want real, well-made swag without minimums, mockup headaches, or shipping chaos.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#0E0E10",
+    "surface": "#1A1A1E",
+    "text": "#F4F4F5",
+    "primary": "#E8FF3A",
+    "accent": "#7C7CFF"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "MU",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Swag worth putting your name on.",
+      "sub": "Design once, order what you actually need, and let Munera handle print, packing, and tracked delivery — whether it's a single embroidered cap or a full team kit.",
+      "ctaLabel": "Start a design",
+      "secondaryCtaLabel": "Browse the catalog"
+    },
+    "features": [
+      {
+        "title": "No minimums, ever",
+        "description": "Order one heavyweight tee or five hundred. We price fairly at every quantity so a personal project isn't stuck behind a bulk order.",
+        "icon": "layers"
+      },
+      {
+        "title": "Real proofs, not guesses",
+        "description": "See a photoreal mockup on the actual garment before you pay, with stitch counts and Pantone matches confirmed by a human.",
+        "icon": "target"
+      },
+      {
+        "title": "Warehousing on demand",
+        "description": "Store finished merch with us and ship items one at a time as people claim them — no boxes stacking up in your hallway.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Vetted, durable blanks",
+        "description": "We stock organic cotton, recycled fleece, and hardware that survives a hundred washes. Every SKU is quality-checked on arrival.",
+        "icon": "shield"
+      },
+      {
+        "title": "Live production tracking",
+        "description": "Follow each order from artwork approval through print, pack, and courier hand-off with timestamped status updates.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Reorder in one click",
+        "description": "Saved designs, sizes, and color specs stay on file so restocking your favorite hoodie takes seconds, not a support ticket.",
+        "icon": "rocket"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run a two-person design studio and needed forty branded totes for a launch. Munera turned my logo into a proof overnight and shipped clean, evenly-printed bags four days later. No account manager runaround.",
+        "name": "Priya Anand",
+        "role": "Founder",
+        "company": "Halfmoon Studio"
+      },
+      {
+        "quote": "We used to eat 300-piece minimums just to get decent embroidery. Now I order twelve caps for new hires as they start, and the stitch quality is genuinely better than our old vendor.",
+        "name": "Marcus Feld",
+        "role": "Operations Lead",
+        "company": "Rowan & Co."
+      },
+      {
+        "quote": "The on-demand warehousing sold me. My newsletter readers claim a shirt, Munera ships it, and I never touch a box. It feels like having a fulfillment team without hiring one.",
+        "name": "Dana Whitlock",
+        "role": "Independent Creator",
+        "company": "Fieldnotes Weekly"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "per month, pay per order",
+        "blurb": "For individuals ordering merch for themselves or a small crew.",
+        "features": [
+          "No monthly fee",
+          "No order minimums",
+          "Photoreal proofs on every design",
+          "Tracked standard shipping"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For creators and small teams who reorder and store inventory.",
+        "features": [
+          "Everything in Solo",
+          "On-demand warehousing for 25 SKUs",
+          "Saved designs and one-click reorder",
+          "Priority production queue",
+          "Volume pricing from unit one"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Scale",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For growing companies with recurring merch programs.",
+        "features": [
+          "Everything in Studio",
+          "Unlimited stored SKUs",
+          "Dedicated brand specialist",
+          "Custom packaging and inserts",
+          "API and Slack integrations",
+          "Global fulfillment routing"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Munera makes branded merch that people actually keep — printed on demand, warehoused for you, and shipped anywhere without minimums."
+  }
+}

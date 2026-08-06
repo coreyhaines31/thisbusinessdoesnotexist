@@ -1,0 +1,136 @@
+{
+  "name": "Residl",
+  "slug": "residl",
+  "industry": "Film production payroll",
+  "tagline": "Enterprise payroll infrastructure for the modern production entity.",
+  "positioning": "Residl runs cast, crew, and residual payroll across every union, jurisdiction, and production entity from a single system of record.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0A0B",
+    "surface": "#161619",
+    "text": "#F4F4F5",
+    "primary": "#E4FE4C",
+    "accent": "#9AB020"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "R",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "3,3 11,3 21,12 11,21 3,21 13,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "13,9 19,12 13,15",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Payroll built for the production entity, not the spreadsheet.",
+      "sub": "Residl processes timecards, gross-to-net, multi-state withholding, union fringes, and residuals across every episode, feature, and commercial your studio delivers.",
+      "ctaLabel": "Request Enterprise Demo",
+      "secondaryCtaLabel": "Download SOC 2 Report"
+    },
+    "features": [
+      {
+        "title": "Union-Aware Gross-to-Net",
+        "description": "Codified rate cards for IATSE, DGA, SAG-AFTRA, and Teamsters. Meal penalties, turnaround, and overtime tiers calculate per contract without manual overrides.",
+        "icon": "layers"
+      },
+      {
+        "title": "Multi-Jurisdiction Withholding",
+        "description": "Automated state, provincial, and localized tax treatment for split-location shoots, with real-time nexus tracking across every loan-out and W-2 worker.",
+        "icon": "globe"
+      },
+      {
+        "title": "Residuals Ledger",
+        "description": "Track re-use, secondary market, and streaming residual obligations against title, cast, and guild rules with a fully auditable payment trail.",
+        "icon": "database"
+      },
+      {
+        "title": "Timecard Approval Chains",
+        "description": "Digital start work, DPRs, and daily timecards route through UPM and accountant approval with locked audit history and no email attachments.",
+        "icon": "clock"
+      },
+      {
+        "title": "Consolidated Reporting",
+        "description": "Cost reports, hot costs, and GL exports map to your production accounting system and roll up across every entity in the slate.",
+        "icon": "chart"
+      },
+      {
+        "title": "Enterprise Access Control",
+        "description": "SSO, SCIM provisioning, and role-scoped permissions keep sensitive compensation data restricted to authorized production staff.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We moved eleven concurrent productions onto Residl in a single quarter. Residual liability that used to live in three spreadsheets now reconciles automatically against the guild rules.",
+        "name": "Marguerite Vance",
+        "role": "VP, Production Finance",
+        "company": "Longview Pictures"
+      },
+      {
+        "quote": "Split-location withholding used to require a specialist per state. Residl calculates it correctly on the first check run, and our audit exposure dropped materially.",
+        "name": "Devon Okafor",
+        "role": "Head of Production Accounting",
+        "company": "Meridian Content Group"
+      },
+      {
+        "quote": "The approval chain alone justified the contract. Every timecard is traceable from set to GL, and our completion bond auditors sign off faster.",
+        "name": "Priya Raman",
+        "role": "SVP, Studio Operations",
+        "company": "North Reef Studios"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Production",
+        "price": "$9",
+        "period": "per processed paycheck",
+        "blurb": "For single-entity productions running standard union and non-union payroll.",
+        "features": [
+          "Up to 3 concurrent productions",
+          "Union gross-to-net engine",
+          "Digital timecard approval",
+          "Standard GL export"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$6",
+        "period": "per processed paycheck",
+        "blurb": "Volume-based pricing for multi-entity slates with residual obligations.",
+        "features": [
+          "Unlimited concurrent productions",
+          "Residuals ledger and tracking",
+          "Multi-jurisdiction withholding",
+          "SSO and role-based access",
+          "Consolidated cost reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "negotiated annual volume",
+        "blurb": "For studios and payroll service providers at national scale.",
+        "features": [
+          "Custom per-check volume rates",
+          "SCIM provisioning and audit logs",
+          "Dedicated implementation team",
+          "SLA and priority support",
+          "Custom entity consolidation"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Residl is the payroll system of record for enterprise film and television production. SOC 2 Type II certified."
+  }
+}

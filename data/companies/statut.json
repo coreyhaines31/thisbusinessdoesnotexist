@@ -1,0 +1,153 @@
+{
+  "name": "Statut",
+  "slug": "statut",
+  "industry": "cannabis compliance",
+  "tagline": "Regulatory infrastructure for multi-state cannabis operators.",
+  "positioning": "Statut reconciles METRC, license renewals, and transport manifests into a single audit-ready record across every jurisdiction you operate in.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F3EFF8",
+    "surface": "#FCFAFE",
+    "text": "#211C30",
+    "primary": "#6E5DD3",
+    "accent": "#F2A6C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "St",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 4,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 7,
+        "y": 10,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 16,
+        "width": 14,
+        "height": 4,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Compliance infrastructure for multi-state cannabis operators",
+      "sub": "Statut reconciles METRC inventory, license renewals, and transport manifests into one continuous audit trail — so a state inspection is a report you export, not a fire drill.",
+      "ctaLabel": "Request a compliance review",
+      "secondaryCtaLabel": "See coverage map"
+    },
+    "features": [
+      {
+        "title": "METRC reconciliation",
+        "description": "Match every package tag, adjustment, and transfer against your seed-to-sale system nightly. Discrepancies surface before a regulator ever files them.",
+        "icon": "refresh"
+      },
+      {
+        "title": "License lifecycle tracking",
+        "description": "Track renewal windows, conditional-use permits, and local endorsements across every facility. Statut escalates 90, 60, and 30 days out — per license.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Manifest & chain of custody",
+        "description": "Reconstruct any transport manifest with GPS, driver, and timestamp records intact. Chain of custody stays intact from cultivation to retail shelf.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Multi-state rule engine",
+        "description": "Encoded regulations for 24 active markets. When a state amends packaging or potency limits, your workflows update — with a versioned changelog.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit-ready evidence room",
+        "description": "Every record is immutable, timestamped, and exportable to a regulator-formatted packet in under a minute. No screenshots. No spreadsheets.",
+        "icon": "shield"
+      },
+      {
+        "title": "Deviation alerting",
+        "description": "Real-time alerts for inventory drift, expired tags, and out-of-window destructions, routed to the compliance officer of record by facility.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We operate in nine states with nine different rulebooks. Statut is the first system that reconciled all of them without a spreadsheet army. Our last audit closed in three days.",
+        "name": "Danielle Ferraro",
+        "role": "VP of Regulatory Compliance",
+        "company": "Meridian Cultivation Group"
+      },
+      {
+        "quote": "The manifest reconstruction alone justified the contract. When our carrier was flagged, we produced a complete chain of custody in eleven minutes.",
+        "name": "Marcus Okafor",
+        "role": "Director of Compliance Operations",
+        "company": "Highgrove Retail Holdings"
+      },
+      {
+        "quote": "Statut caught a 400-unit METRC discrepancy three weeks before our state inspection. That single catch is why I renewed at the enterprise tier.",
+        "name": "Priya Nandakumar",
+        "role": "Chief Compliance Officer",
+        "company": "Verdant States MSO"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$1,800",
+        "period": "/mo + usage",
+        "blurb": "Single-state operators formalizing their compliance program.",
+        "features": [
+          "Up to 1 license jurisdiction",
+          "Nightly METRC reconciliation",
+          "$0.05 per reconciled transaction",
+          "Standard audit exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Multi-State",
+        "price": "$6,500",
+        "period": "/mo + usage",
+        "blurb": "Growing MSOs coordinating compliance across multiple markets.",
+        "features": [
+          "Up to 8 license jurisdictions",
+          "Multi-state rule engine",
+          "$0.03 per reconciled transaction",
+          "Manifest chain of custody",
+          "Deviation alerting by facility"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-metered",
+        "blurb": "National operators with dedicated regulatory teams.",
+        "features": [
+          "Unlimited jurisdictions",
+          "Volume-tiered transaction pricing",
+          "Dedicated compliance architect",
+          "SSO, SOC 2, and custom SLAs",
+          "Regulator-formatted evidence rooms"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Statut is compliance infrastructure for licensed cannabis operators. Not legal advice. Coverage current across 24 regulated markets."
+  }
+}

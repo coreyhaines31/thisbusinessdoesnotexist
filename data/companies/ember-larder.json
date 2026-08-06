@@ -1,0 +1,133 @@
+{
+  "name": "Ember Larder",
+  "slug": "ember-larder",
+  "industry": "ghost kitchens",
+  "tagline": "The launchpad for the next great food brand — built in a kitchen you'll never have to own.",
+  "positioning": "Ember Larder turns solo cooks and creators into delivery-only food brands with licensed pro kitchen access, brand ops, and one console for every marketplace.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F3F0E9",
+    "surface": "#E6E1D5",
+    "text": "#1B1915",
+    "primary": "#B34A2C",
+    "accent": "#5E6B54"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "EL",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 C5.5 8 5.5 14.5 12 22 C18.5 14.5 18.5 8 12 2 Z M12 8 C9.5 11 9.5 14 12 17.5 C14.5 14 14.5 11 12 8 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Own the brand. Rent the fire.",
+      "sub": "Launch a delivery-only food label from a fully licensed pro kitchen you book by the hour — no lease, no buildout, no line cooks quitting on a Friday.",
+      "ctaLabel": "Claim your kitchen",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Kitchen on demand",
+        "description": "Book fully licensed commissary stations by the hour across our national network. Walk in, cook, walk out. Your ingredients are prepped and waiting.",
+        "icon": "rocket"
+      },
+      {
+        "title": "One menu, every marketplace",
+        "description": "Publish once and Ember Larder syncs your menu, photos, and pricing to DoorDash, Uber Eats, and Grubhub — no copy-pasting into six dashboards.",
+        "icon": "globe"
+      },
+      {
+        "title": "Brand in a box",
+        "description": "Generate packaging, a logo, and a storefront in an afternoon. Your first order can ship the same day you decide the concept exists.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Compliance, quietly solved",
+        "description": "Permits, food-handler docs, and insurance certificates live in one vault and renew themselves before an inspector ever asks.",
+        "icon": "shield"
+      },
+      {
+        "title": "Live order routing",
+        "description": "Tickets from every platform land in a single screen and route to the nearest open station, so a rush never becomes a meltdown.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Margins you can actually see",
+        "description": "Track food cost, marketplace fees, and profit per dish in real time. Kill the concepts that lose money before they cost you a weekend.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I went from a supper club in my apartment to three delivery brands running out of one Ember Larder station. I have never signed a lease and I never will.",
+        "name": "Priya Nandakumar",
+        "role": "Founder",
+        "company": "Coriander Nights"
+      },
+      {
+        "quote": "The compliance vault alone paid for itself. My inspector renewals used to eat a full weekend a month — now I forget they happen.",
+        "name": "Marcus Adeyemi",
+        "role": "Owner-Operator",
+        "company": "West Loop Wings Co."
+      },
+      {
+        "quote": "We tested nine menu concepts in a quarter and shut down six without ever building a restaurant. The margin dashboard makes every decision obvious.",
+        "name": "Dana Whitfield",
+        "role": "Culinary Director",
+        "company": "Halfmoon Provisions"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$89",
+        "period": "per month",
+        "blurb": "For the first-time creator turning one recipe into one real brand.",
+        "features": [
+          "1 delivery brand",
+          "40 kitchen hours / month",
+          "2 marketplace integrations",
+          "Auto-synced menu & photos"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Signature",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For operators running multiple concepts out of shared stations.",
+        "features": [
+          "Up to 5 delivery brands",
+          "150 kitchen hours / month",
+          "All marketplace integrations",
+          "Compliance vault & auto-renewals",
+          "Live order routing",
+          "Per-dish margin analytics"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Empire",
+        "price": "Custom",
+        "period": "billed annually",
+        "blurb": "For brand groups scaling across cities and kitchen networks.",
+        "features": [
+          "Unlimited brands",
+          "Priority station access",
+          "Multi-city rollout support",
+          "Dedicated ops manager",
+          "Custom marketplace API access",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ember Larder is the operating system for delivery-only food brands. Build the label. We'll keep the fire lit."
+  }
+}

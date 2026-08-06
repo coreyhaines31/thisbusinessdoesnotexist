@@ -1,0 +1,151 @@
+{
+  "name": "Osprey Field",
+  "slug": "osprey-field",
+  "industry": "drone inspection",
+  "tagline": "Turn every rooftop, tower, and turbine flight into a report clients trust.",
+  "positioning": "Osprey Field is the drone inspection platform for owner-operators — capture, annotate, and deliver client-ready reports without a back-office team.",
+  "vibe": "playful",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#06171C",
+    "surface": "#0E2A32",
+    "text": "#EAF8F4",
+    "primary": "#18CBA6",
+    "accent": "#3B9DFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "OF",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 6,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 11,
+        "r": 4.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 11,
+        "r": 1.8,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Fly once. Deliver a report that closes the next job.",
+      "sub": "Osprey Field turns raw drone footage into branded, geotagged inspection reports in minutes — so solo pilots and small crews look like the biggest firm on the bid.",
+      "ctaLabel": "Start your first flight",
+      "secondaryCtaLabel": "Watch a 2-min tour"
+    },
+    "features": [
+      {
+        "title": "Flight-to-report in one pass",
+        "description": "Land the drone, tag the defects on your phone, and export a client-ready PDF before you leave the site. No desktop editing marathon required.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Defect pins that stick",
+        "description": "Drop annotations directly on 4K stills and orthomaps. Every crack, corrosion spot, and loose panel keeps its GPS coordinate and timestamp.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Your logo on every page",
+        "description": "Reports carry your brand, license number, and colors automatically — so a two-person shop hands over paperwork that reads like an enterprise deliverable.",
+        "icon": "layers"
+      },
+      {
+        "title": "Airspace, checked for you",
+        "description": "Pre-flight LAANC status, weather windows, and no-fly warnings surface before you unfold the props. Fewer scrubbed jobs, fewer awkward client calls.",
+        "icon": "shield"
+      },
+      {
+        "title": "Job history that answers itself",
+        "description": "Every past inspection is searchable by address and asset, so the 'can you re-send that roof report?' email takes ten seconds, not an hour.",
+        "icon": "database"
+      },
+      {
+        "title": "Bill by the seat, not the surprise",
+        "description": "Add a pilot when you hire one, remove them when the season ends. Predictable per-seat pricing with no per-report tolls.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend Sunday nights stitching photos into Word docs. Now the roof report is signed off before I pack the truck. Osprey Field basically gave me my weekends back.",
+        "name": "Marcus Deel",
+        "role": "Owner & Part 107 Pilot",
+        "company": "Deel Aerial Roofing"
+      },
+      {
+        "quote": "Property managers stopped questioning my findings once the reports had geotagged defect pins. It made a one-man operation look like a regional firm — and my close rate proves it.",
+        "name": "Priya Nandakumar",
+        "role": "Founder",
+        "company": "Skyline Facade Surveys"
+      },
+      {
+        "quote": "We added two seasonal pilots for storm season and dropped them in November. The per-seat billing meant I never paid for a crew I didn't have flying.",
+        "name": "Cole Ferraro",
+        "role": "Operations Lead",
+        "company": "Ridgeline Tower Inspections"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo Pilot",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the owner-operator flying every job themselves.",
+        "features": [
+          "1 active pilot seat",
+          "Unlimited inspection reports",
+          "Mobile defect tagging",
+          "Branded PDF export",
+          "LAANC & weather checks"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$34",
+        "period": "per seat / month, billed annually",
+        "blurb": "For small teams juggling several sites a week.",
+        "features": [
+          "Up to 10 pilot seats",
+          "Shared job history & search",
+          "Orthomap annotations",
+          "Custom report templates",
+          "Client portal for deliverables",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat, volume pricing",
+        "blurb": "For established firms running crews across regions.",
+        "features": [
+          "Unlimited pilot seats",
+          "SSO & role permissions",
+          "API & CRM integrations",
+          "Dedicated success manager",
+          "Audit-ready data retention"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Osprey Field helps independent drone pilots see further and deliver bigger — one flight, one flawless report at a time."
+  }
+}

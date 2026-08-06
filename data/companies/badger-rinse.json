@@ -1,0 +1,138 @@
+{
+  "name": "Badger Rinse",
+  "slug": "badger-rinse",
+  "industry": "industrial cleaning",
+  "tagline": "The operating system for people who take grime personally.",
+  "positioning": "Badger Rinse runs the boring parts of a one-person pressure-washing and industrial cleaning hustle so you can get back to blasting things.",
+  "vibe": "corporate",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#FAFAF9",
+    "surface": "#FFFFFF",
+    "text": "#0B0B0C",
+    "primary": "#111113",
+    "accent": "#FF3B14"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "BR",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M2 12 A10 10 0 0 1 22 12 L18 12 A6 6 0 0 0 6 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 20,
+        "cy": 8,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Grime doesn't schedule itself. Now it kind of does.",
+      "sub": "Badger Rinse is the scheduling, quoting, and before/after proof app for solo pressure-washers, detailers, and degreasing fanatics who'd rather clean than do paperwork.",
+      "ctaLabel": "Start rinsing free",
+      "secondaryCtaLabel": "Watch the 90-sec demo"
+    },
+    "features": [
+      {
+        "title": "Quote in the driveway",
+        "description": "Snap the mildew, pick a surface, and Badger Rinse spits out a square-footage quote before the homeowner finishes their coffee. Send it as a text, get paid.",
+        "icon": "zap"
+      },
+      {
+        "title": "Before/after that pays",
+        "description": "Auto-tag paired shots per job so the grimy 'before' never gets lost. Customers approve from their phone; you get a review request that actually sends itself.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Chemical dilution calculator",
+        "description": "Stop eyeballing the SH. Enter tank size and target mix, get exact ratios and a soft warning before you nuke someone's boxwoods.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Route that respects gas prices",
+        "description": "Cluster jobs by zip and drive time so you're not crossing town four times. Fewer miles, more driveways, same day.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Invoices, deposits, done",
+        "description": "Deposit up front, balance on completion, card or ACH. Late payers get a polite nudge from the badger, not from you.",
+        "icon": "chart"
+      },
+      {
+        "title": "Recurring reminders",
+        "description": "Gutters and fleets get dirty on a schedule. Auto-rebook seasonal clients and fill next month before it's empty.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose two evenings a week to quotes and invoices. Badger Rinse gave me those evenings back and I still charge more, because the before/after proof does the arguing for me.",
+        "name": "Marcus Deel",
+        "role": "Owner-Operator",
+        "company": "Deel Exterior Wash"
+      },
+      {
+        "quote": "The dilution calculator alone paid for a year. I stopped over-mixing surfactant and my chemical bill dropped like a rock. Also I killed zero plants last season.",
+        "name": "Priya Ramachandran",
+        "role": "Founder",
+        "company": "Sundown Soft Wash Co."
+      },
+      {
+        "quote": "Routing sounds boring until you realize it's diesel money. I fit two extra fleet accounts into my Tuesdays without adding a single hour.",
+        "name": "Dale Fontaine",
+        "role": "Solo Cleaning Contractor",
+        "company": "Fontaine Fleet Detail"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Weekend Warrior",
+        "price": "$0",
+        "period": "forever, no card",
+        "blurb": "For side-hustlers testing whether grime pays the bills.",
+        "features": [
+          "Up to 10 jobs per month",
+          "Quotes & before/after photos",
+          "Basic invoicing",
+          "Dilution calculator"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Solo Operator",
+        "price": "$29",
+        "period": "per month, billed monthly",
+        "blurb": "For the one-truck pro doing this full time.",
+        "features": [
+          "Unlimited jobs & quotes",
+          "Route optimization",
+          "Deposits + card & ACH payments",
+          "Recurring job auto-rebooking",
+          "Automatic review requests"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Full Send",
+        "price": "$79",
+        "period": "per month, up to 5 seats",
+        "blurb": "For when 'solo' quietly became a small crew.",
+        "features": [
+          "Everything in Solo Operator",
+          "Up to 5 team members",
+          "Equipment maintenance logs",
+          "Job assignment & crew tracking",
+          "Priority support that answers"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Badger Rinse. Built for people who see a stained driveway and feel a calling. Free to start, faster to get paid."
+  }
+}

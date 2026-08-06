@@ -1,0 +1,136 @@
+{
+  "name": "Ceremora",
+  "slug": "ceremora",
+  "industry": "wedding vendor CRM",
+  "tagline": "The operating system for the modern wedding enterprise.",
+  "positioning": "Ceremora unifies every contract, timeline, and vendor handoff into one command layer built for high-volume wedding businesses.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F1F1EC",
+    "text": "#0A0A0A",
+    "primary": "#0A0A0A",
+    "accent": "#FF3B1F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 A9 9 0 0 1 12 21 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M12 7 A5 5 0 0 0 12 17 Z",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every wedding. One command layer.",
+      "sub": "Ceremora replaces the spreadsheet sprawl running your studio — contracts, deposits, day-of timelines, and vendor handoffs orchestrated as a single system of record built for scale.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Contract-to-cash pipeline",
+        "description": "Turn a signed proposal into a funded booking automatically. Deposits, payment schedules, and cancellation clauses enforce themselves.",
+        "icon": "layers"
+      },
+      {
+        "title": "Day-of orchestration",
+        "description": "Publish one master timeline and every photographer, planner, and caterer sees their exact cues. No group text at 6am.",
+        "icon": "clock"
+      },
+      {
+        "title": "Vendor network ledger",
+        "description": "Track referrals, kickbacks, and preferred-partner performance across thousands of events in a single auditable ledger.",
+        "icon": "database"
+      },
+      {
+        "title": "Enterprise access control",
+        "description": "SSO, role-based permissions, and full audit trails so a 200-planner franchise runs on one governed instance.",
+        "icon": "lock"
+      },
+      {
+        "title": "Portfolio-wide analytics",
+        "description": "See booking velocity, average event value, and seasonal load across every studio location in real time.",
+        "icon": "chart"
+      },
+      {
+        "title": "Client concierge portal",
+        "description": "Give couples a branded portal for approvals, payments, and shared timelines — every touch logged against the record.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated eleven studios onto Ceremora in a quarter. The vendor ledger alone recovered six figures in untracked referral revenue we didn't know we were losing.",
+        "name": "Marisol Devane",
+        "role": "VP of Operations",
+        "company": "Atelier Collective"
+      },
+      {
+        "quote": "Our day-of coordination used to live in three tools and a prayer. Now the timeline is the system of record and every vendor moves in lockstep. It changed how we scale.",
+        "name": "Theo Brandt",
+        "role": "Managing Director",
+        "company": "North Meridian Events"
+      },
+      {
+        "quote": "As a national franchise we needed real governance, not a glorified spreadsheet. Ceremora gave us SSO, audit trails, and portfolio analytics on day one.",
+        "name": "Priya Anand",
+        "role": "Chief Revenue Officer",
+        "company": "Vante Weddings Group"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$1.50",
+        "period": "per active event / month",
+        "blurb": "For growing studios ready to retire the spreadsheet.",
+        "features": [
+          "Up to 150 active events",
+          "Contract-to-cash pipeline",
+          "Day-of timeline orchestration",
+          "Client concierge portal"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.90",
+        "period": "per active event / month",
+        "blurb": "For multi-location operators scaling across markets.",
+        "features": [
+          "Unlimited active events",
+          "Vendor network ledger",
+          "Portfolio-wide analytics",
+          "Role-based access & SSO",
+          "Priority migration support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For franchises and groups running at national scale.",
+        "features": [
+          "Custom event volume pricing",
+          "Dedicated success architect",
+          "Advanced audit & compliance",
+          "SLA & data residency options",
+          "API and warehouse sync"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ceremora is the command layer for wedding businesses that intend to dominate their market. Built for scale. Governed by design."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "SigilVault",
+  "slug": "sigilvault",
+  "industry": "luxury resale authentication",
+  "tagline": "Authentication infrastructure for the resale floor.",
+  "positioning": "SigilVault gives independent resale boutiques the authentication, provenance, and certificate workflows that used to require an in-house expert.",
+  "vibe": "corporate",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0A1E28",
+    "surface": "#12303D",
+    "text": "#E7F3F1",
+    "primary": "#15B4A2",
+    "accent": "#2E86E6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SV",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 2 L21 6 V12 C21 17 17 21 12 22 C7 21 3 17 3 12 V6 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9.9 16.2 6 12.3 7.7 10.6 9.9 12.8 16.1 6.6 17.8 8.3",
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every item verified before it hits your shelf.",
+      "sub": "SigilVault turns handbag, watch, and sneaker authentication into a documented, defensible workflow — so your two-person boutique moves with the confidence of a full-time authentication team.",
+      "ctaLabel": "Book a demo",
+      "secondaryCtaLabel": "See the workflow"
+    },
+    "features": [
+      {
+        "title": "Guided authentication checks",
+        "description": "Step-by-step inspection flows for 900+ brands and references. Capture serials, stitching, hardware, and hologram evidence without guessing what to photograph.",
+        "icon": "shield"
+      },
+      {
+        "title": "Provenance you can defend",
+        "description": "Chain-of-custody records tie every unit to its intake, inspector, and evidence set — the paper trail you need when a marketplace or buyer disputes a sale.",
+        "icon": "database"
+      },
+      {
+        "title": "Branded certificates",
+        "description": "Issue tamper-evident digital and printable certificates of authenticity under your own boutique name in under a minute per item.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Chargeback protection",
+        "description": "Export a complete evidence dossier for any order, formatted for the dispute portals of major payment and resale platforms.",
+        "icon": "lock"
+      },
+      {
+        "title": "Intake in seconds",
+        "description": "Scan a serial or snap a photo and SigilVault pre-fills the reference, category, and required checks so consignment intake never bottlenecks the counter.",
+        "icon": "zap"
+      },
+      {
+        "title": "Team accountability",
+        "description": "See who authenticated what, review flagged units, and require a second signoff on high-value pieces across every seat on your floor.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were turning down consignment because nobody on staff could vouch for it. SigilVault let two of us authenticate confidently, and our return rate on handbags dropped to almost nothing.",
+        "name": "Marisol Reyes",
+        "role": "Owner",
+        "company": "Vaultline Consignment"
+      },
+      {
+        "quote": "The chargeback dossier alone paid for the subscription. I won three disputes last quarter that I would have eaten silently a year ago.",
+        "name": "Declan Ophus",
+        "role": "Managing Partner",
+        "company": "Meridian Luxe Resale"
+      },
+      {
+        "quote": "Onboarding a new floor associate used to take months of shadowing. With the guided checks they're issuing certificates in their first week.",
+        "name": "Priya Nandakumar",
+        "role": "Operations Lead",
+        "company": "The Carat & Clasp"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Counter",
+        "price": "$45",
+        "period": "per seat / month",
+        "blurb": "For solo owner-operators formalizing their first authentication process.",
+        "features": [
+          "Guided checks for core categories",
+          "Digital certificates",
+          "Provenance records",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Boutique",
+        "price": "$95",
+        "period": "per seat / month",
+        "blurb": "For growing floors that need accountability and dispute-ready evidence.",
+        "features": [
+          "Everything in Counter",
+          "900+ brand reference library",
+          "Chargeback evidence exports",
+          "Second-signoff workflows",
+          "Branded printable certificates",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location resale groups with volume and compliance needs.",
+        "features": [
+          "Everything in Boutique",
+          "Multi-location dashboards",
+          "Custom check templates",
+          "API and platform integrations",
+          "Dedicated account manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "SigilVault is authentication infrastructure for independent luxury resale — verified intake, defensible provenance, and certificates that hold up."
+  }
+}

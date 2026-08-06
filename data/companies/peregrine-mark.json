@@ -1,0 +1,131 @@
+{
+  "name": "Peregrine Mark",
+  "slug": "peregrine-mark",
+  "industry": "luxury resale authentication",
+  "tagline": "The last word on what's real.",
+  "positioning": "Museum-grade authentication for luxury goods entering resale — so every Birkin, Rolex, and pair of Jordans carries proof, not a seller's promise.",
+  "vibe": "corporate",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#F7F6F3",
+    "surface": "#FFFFFF",
+    "text": "#101010",
+    "primary": "#151515",
+    "accent": "#FF2E4D"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PM",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M7 3 L7 21 L11 21 L11 15 L14 15 C18.5 15 21 12.3 21 9 C21 5.7 18.5 3 14 3 Z M11 7 L14 7 C16 7 17 8 17 9 C17 10.2 16 11 14 11 L11 11 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Provenance, made permanent.",
+      "sub": "Before you list that watch, that bag, those grails — let a Peregrine expert render a verdict backed by forensic imaging and a tamper-proof certificate the whole market trusts.",
+      "ctaLabel": "Authenticate an item",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Verdict in 12 hours",
+        "description": "Upload date-code shots, hardware, and stitching. A senior authenticator returns a signed real-or-replica verdict — usually before the next morning.",
+        "icon": "clock"
+      },
+      {
+        "title": "The Peregrine Certificate",
+        "description": "Every genuine item earns a numbered digital certificate with forensic imagery, expert notes, and a QR passport buyers can verify in one tap.",
+        "icon": "shield"
+      },
+      {
+        "title": "NFC provenance seal",
+        "description": "An optional tamper-evident seal links the physical piece to its record for life. Cut it, and the certificate flags — no more swapped goods after the sale.",
+        "icon": "lock"
+      },
+      {
+        "title": "Category depth",
+        "description": "Specialists for handbags, Swiss watches, fine jewelry, and sneakers — not one generalist guessing across every house from Hermès to Patek.",
+        "icon": "layers"
+      },
+      {
+        "title": "Resale value signal",
+        "description": "See a live comparable-sales range beside your verdict, so you price with the market instead of against it.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Marketplace passport",
+        "description": "Attach your certificate to any listing on Vestiaire, Grailed, or eBay. Verified sellers close faster and hold their margin.",
+        "icon": "globe"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've flipped luxury for nine years and disputes were my tax. Since I attach a Peregrine Certificate to every listing, buyers stop haggling on authenticity and start paying my ask.",
+        "name": "Dominique Farrell",
+        "role": "Independent Reseller",
+        "company": "The Second Rail"
+      },
+      {
+        "quote": "A client tried to return a 'fake' Cartier that our verdict proved was genuine and unaltered — the NFC seal was intact. Peregrine turned a chargeback into a closed case in an afternoon.",
+        "name": "Anselm Whitcombe",
+        "role": "Consignment Director",
+        "company": "Marlowe & Vane"
+      },
+      {
+        "quote": "I collect grail sneakers, not receipts. Having every pair authenticated and passported means when I finally sell, provenance is already done. It's the only vault I trust.",
+        "name": "Priya Nair",
+        "role": "Private Collector",
+        "company": "—"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Collector",
+        "price": "$29",
+        "period": "per month",
+        "blurb": "For individuals authenticating their own closet before they sell.",
+        "features": [
+          "5 authentications per month",
+          "Digital Peregrine Certificate",
+          "Verified seller badge",
+          "12-hour standard turnaround"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Curator",
+        "price": "$79",
+        "period": "per month",
+        "blurb": "For active resellers who list every week and can't afford disputes.",
+        "features": [
+          "25 authentications per month",
+          "NFC provenance seals included",
+          "Live resale value signals",
+          "Marketplace passport export",
+          "Priority 6-hour turnaround"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Atelier",
+        "price": "$249",
+        "period": "per month",
+        "blurb": "For consignment shops and dealers running real volume.",
+        "features": [
+          "100 authentications per month",
+          "Dedicated senior authenticator",
+          "Bulk intake & API access",
+          "Branded certificates",
+          "White-glove dispute support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Peregrine Mark authenticates luxury goods entering the resale market — issuing certificates the industry treats as final."
+  }
+}

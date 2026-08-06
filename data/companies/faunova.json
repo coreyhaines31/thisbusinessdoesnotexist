@@ -1,0 +1,153 @@
+{
+  "name": "Faunova",
+  "slug": "faunova",
+  "industry": "pet-tech",
+  "tagline": "The operating system for the animals your enterprise is responsible for",
+  "positioning": "Faunova unifies biometrics, care logs, and compliance for every animal across your facilities into one auditable system of record.",
+  "vibe": "corporate",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F4EDE1",
+    "surface": "#FBF6EC",
+    "text": "#2E2318",
+    "primary": "#B15A32",
+    "accent": "#7A7A3C"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 6,
+        "height": 16,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 11,
+        "y": 9,
+        "width": 6,
+        "height": 11,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 18,
+        "y": 13,
+        "width": 2,
+        "height": 7,
+        "rx": 1,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every animal, accounted for. Across every facility you run.",
+      "sub": "Faunova is the enterprise system of record for animal care — connecting biometric sensors, care protocols, and audit-grade compliance into one platform your operators and regulators can trust.",
+      "ctaLabel": "Request a deployment",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Unified animal ledger",
+        "description": "Retire the tangle of spreadsheets and paper charts. Every feeding, medication, and vet note writes to one immutable record per animal, per site.",
+        "icon": "database"
+      },
+      {
+        "title": "Live biometric telemetry",
+        "description": "Wearable and enclosure sensors stream weight, activity, and temperature into Faunova, flagging anomalies before a caretaker walks the floor.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Audit-ready compliance",
+        "description": "Generate USDA and welfare-inspection packets in minutes, with a timestamped trail for every intervention across your entire operation.",
+        "icon": "shield"
+      },
+      {
+        "title": "Protocol automation",
+        "description": "Codify your care standards once. Faunova schedules tasks, escalates missed steps, and routes them to the right team on every shift.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Multi-facility rollups",
+        "description": "Regional directors see occupancy, health trends, and staffing load across hundreds of locations from a single executive dashboard.",
+        "icon": "layers"
+      },
+      {
+        "title": "Access governance",
+        "description": "Role-based permissions and SSO keep sensitive medical and lineage data locked to the staff and auditors who actually need it.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We migrated 14,000 animal records off paper in a quarter. Faunova gave our welfare board a single source of truth we can defend in any inspection.",
+        "name": "Dr. Maren Holloway",
+        "role": "Chief Veterinary Officer",
+        "company": "Northmark Animal Group"
+      },
+      {
+        "quote": "Before Faunova, reconciling care logs across 60 shelters was a full-time job. Now the compliance packet builds itself and my directors sleep at night.",
+        "name": "Elias Trần",
+        "role": "VP of Operations",
+        "company": "Covenant Care Networks"
+      },
+      {
+        "quote": "The biometric alerts caught a metabolic decline days before our team would have. At our scale, that early warning is worth the contract on its own.",
+        "name": "Priya Ramachandran",
+        "role": "Director of Animal Health",
+        "company": "Stellar Kennels International"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Facility",
+        "price": "$0.18",
+        "period": "per animal-day",
+        "blurb": "For single-site operators standardizing their care records.",
+        "features": [
+          "Up to 3 facilities",
+          "Unified animal ledger",
+          "Standard compliance exports",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.12",
+        "period": "per animal-day",
+        "blurb": "For multi-site groups running on shared protocols.",
+        "features": [
+          "Unlimited facilities",
+          "Biometric telemetry ingestion",
+          "Protocol automation",
+          "Multi-facility rollups",
+          "SSO and role governance"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "volume-based agreement",
+        "blurb": "For national operators and regulators with bespoke requirements.",
+        "features": [
+          "Committed-use pricing",
+          "Dedicated data residency",
+          "Custom integrations & API",
+          "24/7 priority support",
+          "Quarterly welfare review"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Faunova is the enterprise system of record for animal care — trusted by the operators responsible for millions of lives."
+  }
+}

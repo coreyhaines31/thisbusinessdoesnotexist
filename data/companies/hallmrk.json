@@ -1,0 +1,153 @@
+{
+  "name": "Hallmrk",
+  "slug": "hallmrk",
+  "industry": "luxury resale authentication",
+  "tagline": "The system of record for authenticating pre-owned luxury at scale.",
+  "positioning": "Hallmrk gives enterprise resale platforms a defensible, audit-ready authentication layer for every handbag, watch, and sneaker they list.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#15171F",
+    "text": "#F4F6FB",
+    "primary": "#4DF7A6",
+    "accent": "#FF57C4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "H",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 6,
+        "width": 5,
+        "height": 14,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 9.5,
+        "y": 3,
+        "width": 5,
+        "height": 17,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 9,
+        "width": 5,
+        "height": 11,
+        "rx": 1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every luxury item, provably real.",
+      "sub": "Hallmrk turns authentication from a bottleneck into a service call. Route items to expert graders, capture verdicts, and issue tamper-evident certificates without leaving your ops stack.",
+      "ctaLabel": "Book a platform demo",
+      "secondaryCtaLabel": "Read the docs"
+    },
+    "features": [
+      {
+        "title": "Verdict engine",
+        "description": "Combine computer vision, serial-registry lookups, and human grader sign-off into a single authentication verdict with a full evidence trail.",
+        "icon": "shield"
+      },
+      {
+        "title": "Certificate ledger",
+        "description": "Issue tamper-evident digital certificates of authenticity that follow each item across resales, returns, and cross-border consignment.",
+        "icon": "lock"
+      },
+      {
+        "title": "Grader routing",
+        "description": "Auto-assign items to specialists by category and brand, with SLA timers so a Birkin never waits behind a batch of sneakers.",
+        "icon": "target"
+      },
+      {
+        "title": "Fraud intelligence",
+        "description": "Flag superfake patterns, duplicated serials, and repeat-offender consignors before an item hits your marketplace.",
+        "icon": "chart"
+      },
+      {
+        "title": "Enterprise API",
+        "description": "Drop authentication into your intake flow with idempotent endpoints, webhooks, and sandbox parity your engineers won't fight.",
+        "icon": "layers"
+      },
+      {
+        "title": "Audit console",
+        "description": "Give compliance and insurers read-only access to grader decisions, timestamps, and imagery for any item, dating back years.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Hallmrk our authentication queue was a shared spreadsheet and a group chat. Now every verdict has an evidence trail our insurers actually accept. Dispute rates dropped by a third in one quarter.",
+        "name": "Danielle Fauré",
+        "role": "VP of Marketplace Operations",
+        "company": "Maison Revault"
+      },
+      {
+        "quote": "We onboarded 40 graders across three regions and Hallmrk's routing kept SLAs intact through peak season. The certificate ledger became the reason buyers trust our resale tier.",
+        "name": "Marcus Oyelaran",
+        "role": "Head of Trust & Authentication",
+        "company": "Tier One Luxe"
+      },
+      {
+        "quote": "The fraud intelligence caught a duplicated-serial ring we would have missed for months. Usage-based pricing meant we paid for exactly the volume we authenticated, no shelfware.",
+        "name": "Priya Venkatesh",
+        "role": "Director of Compliance",
+        "company": "Consign Atelier"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Launch",
+        "price": "$4",
+        "period": "per authentication",
+        "blurb": "For emerging resale platforms formalizing their intake process.",
+        "features": [
+          "Up to 2,000 authentications / mo",
+          "Verdict engine + digital certificates",
+          "Standard grader pool",
+          "REST API and webhooks"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$2.40",
+        "period": "per authentication",
+        "blurb": "Volume pricing for high-throughput marketplaces and consignors.",
+        "features": [
+          "Unlimited volume, tiered rates",
+          "Priority grader routing with SLAs",
+          "Fraud intelligence dashboards",
+          "Audit console for insurers",
+          "Dedicated integration engineer"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "negotiated per-verdict rate",
+        "blurb": "For global brands and multi-region resale operations.",
+        "features": [
+          "Custom grader networks by category",
+          "On-prem imagery and data residency",
+          "SSO, SCIM, and role-based access",
+          "99.95% uptime SLA",
+          "Named account team"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Hallmrk is the authentication system of record for enterprise luxury resale. Provable provenance, priced per verdict."
+  }
+}

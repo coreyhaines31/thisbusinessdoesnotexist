@@ -1,0 +1,150 @@
+{
+  "name": "GableScope",
+  "slug": "gablescope",
+  "industry": "drone inspection",
+  "tagline": "Fly the roof, file the report, get paid — before you climb down the ladder.",
+  "positioning": "GableScope turns a 12-minute drone flight into a client-ready inspection report, so owner-operators stop losing evenings to photo sorting and PDFs.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F1F1EF",
+    "text": "#0B0B0B",
+    "primary": "#0B0B0B",
+    "accent": "#FF3D00"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "width": 24,
+        "height": 24,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 6.5,
+        "fill": "bg"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 12,
+        "r": 2.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Land the drone. The report is already done.",
+      "sub": "GableScope stitches your flight footage into a measured, annotated inspection report while you pack up the gear. Built for the one-truck operator, not the enterprise procurement team.",
+      "ctaLabel": "Start a free flight",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Report in the truck",
+        "description": "Upload footage from the job site and GableScope drafts a client-ready PDF with cover photo, findings list, and your logo in under four minutes.",
+        "icon": "zap"
+      },
+      {
+        "title": "Measured damage, not guesses",
+        "description": "Tap a cracked shingle or lifted flashing and get square-footage and pitch estimates pulled straight from the flight path.",
+        "icon": "target"
+      },
+      {
+        "title": "Part 107 log that keeps itself",
+        "description": "Every flight auto-records date, location, aircraft, and airspace so your FAA logbook is audit-ready without a spreadsheet.",
+        "icon": "shield"
+      },
+      {
+        "title": "Annotate with your thumb",
+        "description": "Circle the problem, drop a note, mark it urgent. Homeowners and adjusters see exactly what you saw, no jargon required.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "One link to the customer",
+        "description": "Send a live report link instead of a 40MB email. They view findings on their phone and approve the estimate in a tap.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Every roof, one shelf",
+        "description": "Search past inspections by address, client, or date. Re-inspection quotes take seconds when the history is already there.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to spend Sunday nights renaming photos and copy-pasting into Word. Now I hand the customer a report before I'm off the roof. It paid for itself in the first storm week.",
+        "name": "Marcus Deel",
+        "role": "Owner",
+        "company": "Deel Aerial Roofing"
+      },
+      {
+        "quote": "Adjusters stopped kicking my claims back. The measured findings and the flight log in one PDF meant I stopped arguing about whether I even flew the property.",
+        "name": "Priya Nair",
+        "role": "Lead Inspector",
+        "company": "Coastline Property Surveys"
+      },
+      {
+        "quote": "We run three drone crews now and GableScope keeps every seat's logbook straight. I added my second pilot on a Tuesday and he was billing reports by Thursday.",
+        "name": "Danny Osei",
+        "role": "Founder",
+        "company": "Osei Facade & Solar"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the owner-operator flying their own jobs.",
+        "features": [
+          "Unlimited inspection reports",
+          "Part 107 flight logbook",
+          "Branded PDF export",
+          "20 GB footage storage"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Crew",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For the small firm running a few pilots and a lot of roofs.",
+        "features": [
+          "Everything in Solo",
+          "Measured damage & pitch tools",
+          "Shareable live report links",
+          "Client approval & e-signature",
+          "250 GB footage storage",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For multi-crew operations that need admin control.",
+        "features": [
+          "Everything in Crew",
+          "Central admin & seat controls",
+          "Custom report templates",
+          "API & CRM handoff",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "GableScope is inspection software for the people actually flying the drone. Fewer late nights, cleaner reports, faster invoices."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Parsh",
+  "slug": "parsh",
+  "industry": "church admin software",
+  "tagline": "The system of record for multi-campus ministries",
+  "positioning": "Parsh unifies membership, giving, and volunteer operations for large church networks — so every campus runs on one accountable source of truth.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A0C10",
+    "surface": "#141821",
+    "text": "#EAF0F5",
+    "primary": "#31FF9A",
+    "accent": "#8A6BFF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 17,12 12,7 7,12 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,10 20,18 15,18 12,15 9,18 4,18",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every campus on one source of truth",
+      "sub": "Parsh consolidates membership records, giving reconciliation, and volunteer clearances across every location — replacing the spreadsheets your finance and pastoral teams quietly maintain in parallel.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "Giving reconciliation, closed weekly",
+        "description": "Match online, text, and plate gifts to the right fund and household automatically, then export a bank-ready statement your finance team can sign off on every Monday.",
+        "icon": "chart"
+      },
+      {
+        "title": "One directory, every campus",
+        "description": "Merge duplicate profiles across locations and keep household relationships intact when a family moves from the north campus to the south.",
+        "icon": "users"
+      },
+      {
+        "title": "Volunteer clearances that hold up",
+        "description": "Track background checks, training, and expirations for children's ministry, and block scheduling for anyone whose clearance has lapsed.",
+        "icon": "shield"
+      },
+      {
+        "title": "Contribution statements at scale",
+        "description": "Generate IRS-ready year-end statements for 40,000 households in one run, with per-campus branding and mailed or digital delivery.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Service and room scheduling",
+        "description": "Coordinate worship teams, rooms, and equipment across concurrent services without the double-booked keyboard on Sunday morning.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Audit-ready role permissions",
+        "description": "Give campus admins exactly what they need and log every change, so your board and auditors can trace who touched which record.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Parsh, closing the books meant reconciling four giving platforms by hand every month. Now it's a Monday-morning export and our controller trusts the number.",
+        "name": "Danielle Ortega",
+        "role": "Executive Pastor of Operations",
+        "company": "Cornerstone Collective"
+      },
+      {
+        "quote": "We onboarded nine campuses onto one directory and finally stopped mailing duplicate contribution statements to the same family.",
+        "name": "Marcus Whitfield",
+        "role": "Director of Finance",
+        "company": "Grace River Network"
+      },
+      {
+        "quote": "The volunteer clearance blocks alone justified the switch. No unvetted adult can get scheduled in kids' ministry, and I can prove it to our insurer.",
+        "name": "Rev. Angela Boone",
+        "role": "Central Ministry Administrator",
+        "company": "Redeemer Fellowship"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Congregation",
+        "price": "$0.24",
+        "period": "per active member / month",
+        "blurb": "For single-campus churches formalizing their records.",
+        "features": [
+          "Up to 3,500 active members",
+          "Unified directory & giving",
+          "Year-end contribution statements",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Network",
+        "price": "$0.15",
+        "period": "per active member / month",
+        "blurb": "For multi-campus churches running shared operations.",
+        "features": [
+          "Unlimited campuses",
+          "Cross-campus reconciliation",
+          "Volunteer clearance tracking",
+          "Role-based permissions & audit log",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Diocese",
+        "price": "Custom",
+        "period": "volume-based, billed annually",
+        "blurb": "For denominations and church networks at national scale.",
+        "features": [
+          "Tiered per-member pricing",
+          "SSO & data residency options",
+          "Dedicated implementation team",
+          "Custom exports & API access",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Parsh is the system of record for multi-campus ministries — membership, giving, and volunteer operations, accountable and in one place."
+  }
+}

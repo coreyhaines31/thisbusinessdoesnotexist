@@ -1,0 +1,131 @@
+{
+  "name": "Perpetua",
+  "slug": "perpetua",
+  "industry": "funeral services",
+  "tagline": "Plan a dignified farewell, all in one calm place.",
+  "positioning": "Perpetua helps families plan, document, and share end-of-life arrangements without the stress of scattered paperwork and rushed decisions.",
+  "vibe": "startup",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0F1216",
+    "surface": "#191E25",
+    "text": "#EAECEF",
+    "primary": "#C9A26B",
+    "accent": "#6E8FA3"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M7 3 L7 21 L11 21 L11 15 L14 15 C18 15 20 12 20 9 C20 5 18 3 14 3 Z M11 6 L14 6 C16 6 16 7 16 9 C16 11 16 12 14 12 L11 12 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "A calmer way to plan a meaningful goodbye",
+      "sub": "Perpetua guides you through funeral arrangements, wishes, and documents — so you make thoughtful decisions instead of scrambling through folders and phone calls in a hard week.",
+      "ctaLabel": "Start planning free",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One living plan",
+        "description": "Keep wishes, service details, readings, and vendor contacts in a single document your family can actually find when it matters.",
+        "icon": "layers"
+      },
+      {
+        "title": "Guided arrangements",
+        "description": "Step-by-step prompts walk you through burial or cremation choices, budgets, and paperwork without the funeral-home pressure.",
+        "icon": "compass"
+      },
+      {
+        "title": "Share with trusted people",
+        "description": "Invite family or an executor with granular permissions, so the right person sees the right details at the right time.",
+        "icon": "users"
+      },
+      {
+        "title": "Cost clarity",
+        "description": "Compare itemized quotes side by side and track deposits, so no one is surprised by fees during grief.",
+        "icon": "chart"
+      },
+      {
+        "title": "Secure vault",
+        "description": "Store the will, insurance policies, and account logins with encryption and a legacy handoff you control.",
+        "icon": "lock"
+      },
+      {
+        "title": "Gentle reminders",
+        "description": "Get nudged to revisit your plan after a move, marriage, or diagnosis — never spammy, always considerate.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "After my father passed, we spent days piecing together what he wanted. With Perpetua my mother's wishes are written down, itemized, and shared. It removed a whole layer of panic.",
+        "name": "Helena Marsh",
+        "role": "Family caregiver",
+        "company": "Independent"
+      },
+      {
+        "quote": "I recommend Perpetua to every family I sit down with. Their arrangement summaries arrive organized, so we spend our meeting on care instead of chasing missing details.",
+        "name": "Daniel Okafor",
+        "role": "Funeral Director",
+        "company": "Rosewood Memorial Home"
+      },
+      {
+        "quote": "As an estate planner, I finally have a place to point clients for the emotional and logistical side. The document handoff to executors is genuinely well thought out.",
+        "name": "Priya Raman",
+        "role": "Estate Planning Attorney",
+        "company": "Raman & Vale LLP"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Personal",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "Everything one person needs to record their wishes.",
+        "features": [
+          "One personal plan",
+          "Wishes & service details",
+          "Basic document storage",
+          "Share with 2 people"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Family",
+        "price": "$12",
+        "period": "per month, billed yearly",
+        "blurb": "For families coordinating plans across generations.",
+        "features": [
+          "Up to 6 linked plans",
+          "Encrypted document vault",
+          "Quote comparison tools",
+          "Executor handoff access",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Legacy",
+        "price": "$249",
+        "period": "one-time, lifetime access",
+        "blurb": "Pay once and keep your plan safe for good.",
+        "features": [
+          "Unlimited linked plans",
+          "Lifetime secure vault",
+          "Advanced permissions",
+          "Guided arrangement concierge",
+          "Legacy handoff guarantee"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Perpetua helps individuals and families plan dignified farewells with clarity and care. Built quietly, for the moments that matter most."
+  }
+}

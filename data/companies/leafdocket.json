@@ -1,0 +1,152 @@
+{
+  "name": "LeafDocket",
+  "slug": "leafdocket",
+  "industry": "cannabis compliance",
+  "tagline": "Audit-ready compliance for independent dispensaries and grows",
+  "positioning": "LeafDocket keeps small cannabis operators inspection-ready with state-specific tracking, METRC reconciliation, and one-click audit packets.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#f4f7f1",
+    "surface": "#ffffff",
+    "text": "#243026",
+    "primary": "#3f7d54",
+    "accent": "#c9a7e8"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LD",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 6,
+        "width": 12,
+        "height": 12,
+        "rx": 2,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,3 21,12 12,21 3,12",
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 10,
+        "y": 10,
+        "width": 4,
+        "height": 4,
+        "rx": 1,
+        "fill": "bg"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stay inspection-ready without hiring a compliance team",
+      "sub": "LeafDocket turns messy spreadsheets and METRC exports into a live compliance record, so a surprise state inspection is a five-minute PDF, not a five-day scramble.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "METRC reconciliation that catches drift",
+        "description": "Nightly sync flags every mismatch between your POS, seed-to-sale tags, and physical counts before an inspector ever finds it.",
+        "icon": "refresh"
+      },
+      {
+        "title": "One-click audit packets",
+        "description": "Generate a state-formatted evidence bundle — manifests, waste logs, employee licenses — filtered to any date range in seconds.",
+        "icon": "inbox"
+      },
+      {
+        "title": "State rule library",
+        "description": "Requirements mapped to your license type and jurisdiction, with plain-English deadlines that update when the regs change.",
+        "icon": "shield"
+      },
+      {
+        "title": "Expiration alerts",
+        "description": "Track badge renewals, lab COAs, and license dates so nothing lapses. Reminders land in email and Slack, not a forgotten calendar.",
+        "icon": "bell"
+      },
+      {
+        "title": "Waste and destruction logs",
+        "description": "Log every gram of quarantined or destroyed product with timestamps and witnesses that hold up under review.",
+        "icon": "database"
+      },
+      {
+        "title": "Role-based access",
+        "description": "Give budtenders, managers, and your compliance lead exactly the view they need — every action stays logged and attributable.",
+        "icon": "lock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Our last state audit took twenty minutes. I pulled the packet, the inspector checked three manifests, and we were done. Before LeafDocket that was a two-day panic with three of us digging through binders.",
+        "name": "Marisol Reyes",
+        "role": "Owner",
+        "company": "Cedar & Sage Dispensary"
+      },
+      {
+        "quote": "The METRC reconciliation alone paid for itself. It caught a tag mismatch on a transfer that would have been a fine. I sleep better knowing it checks every night.",
+        "name": "Devon Pratt",
+        "role": "Compliance Manager",
+        "company": "Riverbend Cultivation"
+      },
+      {
+        "quote": "I run two storefronts without a dedicated compliance hire. LeafDocket is basically that hire — it tells me what's due and hands me the paperwork ready to file.",
+        "name": "Anita Kohli",
+        "role": "Co-founder",
+        "company": "Northgate Wellness Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Starter",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For single-location shops getting organized.",
+        "features": [
+          "1 license location",
+          "METRC nightly sync",
+          "State rule library",
+          "Expiration alerts",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Operator",
+        "price": "$89",
+        "period": "per seat / month",
+        "blurb": "For growing owner-operators managing multiple sites.",
+        "features": [
+          "Up to 5 license locations",
+          "One-click audit packets",
+          "Waste & destruction logs",
+          "Role-based access",
+          "Slack + email alerts",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-state operators with complex reporting.",
+        "features": [
+          "Unlimited locations",
+          "Multi-state rule mapping",
+          "API & data warehouse export",
+          "Custom audit templates",
+          "Dedicated compliance advisor",
+          "SSO & SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "LeafDocket helps independent cannabis operators stay compliant across every license, tag, and deadline — without a full-time compliance department."
+  }
+}

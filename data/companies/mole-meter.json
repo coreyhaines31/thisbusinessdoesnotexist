@@ -1,0 +1,140 @@
+{
+  "name": "Mole Meter",
+  "slug": "mole-meter",
+  "industry": "soil analytics",
+  "tagline": "Soil analytics for people who talk to their tomatoes.",
+  "positioning": "Mole Meter turns a cheap probe and your phone into lab-grade soil readings, so your garden runs on data instead of vibes and hunches.",
+  "vibe": "playful",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0B1F1C",
+    "surface": "#12302B",
+    "text": "#E6F5EF",
+    "primary": "#2FD498",
+    "accent": "#3AA0FF"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "MM",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 C6 9 6 15 12 21 C18 15 18 9 12 3 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 13,
+        "r": 2.4,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know what your dirt is actually doing.",
+      "sub": "Stick the probe in, scan the code, and get nitrogen, pH, moisture, and microbe reads in under a minute. No lab, no clipboard, no soil-science degree required.",
+      "ctaLabel": "Get your probe",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Readings in 60 seconds",
+        "description": "Probe hits the soil, app hits the cloud. Nitrogen, phosphorus, potassium, pH, and moisture back before your coffee gets cold.",
+        "icon": "zap"
+      },
+      {
+        "title": "Trends, not one-offs",
+        "description": "Every reading stacks into a timeline, so you can spot the exact week your compost started working — or quietly stopped.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Zone your whole yard",
+        "description": "Tag raised beds, pots, and that cursed patch by the fence. Mole Meter tracks each one on its own so nothing gets lumped together.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Alerts before things die",
+        "description": "Get pinged when moisture tanks or pH drifts, instead of finding out from a sad, crispy basil plant three days too late.",
+        "icon": "bell"
+      },
+      {
+        "title": "Plant-matched targets",
+        "description": "Tell it what you're growing and it hands you the exact numbers to hit. No more guessing what 'slightly acidic' is supposed to mean.",
+        "icon": "target"
+      },
+      {
+        "title": "Works offline in the mud",
+        "description": "Cache readings out in the field and sync when you're back on wifi. Your garden doesn't have bars — we planned for that.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to fertilize on vibes and a hunch. Now I know my back bed is starving for potassium and the front is fine. My tomatoes have never been so smug.",
+        "name": "Dana Reyes",
+        "role": "Backyard Market Grower",
+        "company": "Third Acre Farmstead"
+      },
+      {
+        "quote": "Killed three raised beds before this. Mole Meter flagged that my pH was basically battery acid in week one. Beds four through nine are thriving.",
+        "name": "Marcus Elling",
+        "role": "Hobby Farmer",
+        "company": "Elling Homestead"
+      },
+      {
+        "quote": "I run a community garden with 40 plots and zero budget for a real soil lab. This paid for itself the first spring, and the volunteers stopped arguing about lime.",
+        "name": "Priya Nandakumar",
+        "role": "Volunteer Coordinator",
+        "company": "Fernbrook Community Garden"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sprout",
+        "price": "$9",
+        "period": "per month",
+        "blurb": "One probe, one garden, all the essentials.",
+        "features": [
+          "1 probe",
+          "Up to 3 zones",
+          "60-day reading history",
+          "pH, moisture, and NPK reads"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Homestead",
+        "price": "$19",
+        "period": "per month",
+        "blurb": "For people whose garden is a full-blown lifestyle.",
+        "features": [
+          "Up to 4 probes",
+          "Unlimited zones",
+          "2-year reading history",
+          "Plant-matched targets",
+          "Smart moisture and pH alerts",
+          "Offline field sync"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Grower",
+        "price": "$39",
+        "period": "per month",
+        "blurb": "Small plots, market beds, and CSA operations.",
+        "features": [
+          "Unlimited probes",
+          "Team access for up to 5",
+          "CSV and API export",
+          "Yield tracking",
+          "Custom crop profiles",
+          "Priority support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Mole Meter is soil analytics for people who take dirt personally. Fewer dead plants, more data, and absolutely zero lab coats."
+  }
+}

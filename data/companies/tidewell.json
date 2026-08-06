@@ -1,0 +1,136 @@
+{
+  "name": "Tidewell",
+  "slug": "tidewell",
+  "industry": "cold-plunge studios",
+  "tagline": "The operating system for modern cold-plunge studios.",
+  "positioning": "Tidewell helps owner-operators run bookings, water-quality logs, and memberships from one calm dashboard built for cold-therapy studios.",
+  "vibe": "elegant",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#F3F1EC",
+    "surface": "#FBFAF6",
+    "text": "#22262B",
+    "primary": "#2E4A52",
+    "accent": "#B0714A"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "T",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12,2 22,12 12,22 2,12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12,7 17,12 12,17 7,12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your plunge studio with a clear, steady hand.",
+      "sub": "Tidewell brings scheduling, water-quality logs, waivers, and memberships into one place — so you can spend your mornings coaching, not chasing spreadsheets.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Session booking that fits plunge slots",
+        "description": "Sell 15-minute plunge windows, sauna add-ons, and contrast sessions with per-tub capacity limits and buffer time built right in.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Water-quality logbook",
+        "description": "Record temperature, pH, ORP, and chlorine readings by tub, get overdue-check reminders, and export a clean compliance history on demand.",
+        "icon": "clock"
+      },
+      {
+        "title": "Memberships and packs",
+        "description": "Sell monthly unlimited plans or 10-plunge packs, auto-bill on file, and pause memberships when someone travels — no spreadsheet gymnastics.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Digital waivers",
+        "description": "Every first-timer signs your liability and health-screening waiver on their phone before they hit the water, stored against their profile forever.",
+        "icon": "shield"
+      },
+      {
+        "title": "Staff seats and roles",
+        "description": "Give front-desk and coaches their own logins with the right permissions, so refunds and settings stay with the owners.",
+        "icon": "users"
+      },
+      {
+        "title": "Studio dashboard",
+        "description": "See today's bookings, no-shows, revenue, and overdue water checks the moment you open the door each morning.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Tidewell I tracked pH readings on a clipboard and bookings on a text thread. Now the whole studio runs from one screen and I actually take a day off.",
+        "name": "Marisol Vega",
+        "role": "Owner",
+        "company": "Northwater Plunge Co."
+      },
+      {
+        "quote": "The water-quality log alone paid for it. When the health inspector asked for six months of readings, I exported them in about ten seconds.",
+        "name": "Danny Okafor",
+        "role": "Founder & Head Coach",
+        "company": "Ridgeline Cold Studio"
+      },
+      {
+        "quote": "Memberships and packs used to leak revenue everywhere. Auto-billing and pack tracking recovered a couple thousand dollars in my first quarter.",
+        "name": "Hannah Brecht",
+        "role": "Studio Director",
+        "company": "Still Harbor Recovery"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For a single-location studio getting off the clipboard.",
+        "features": [
+          "1 studio location",
+          "Session booking & waivers",
+          "Water-quality logbook",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per seat / month",
+        "blurb": "For growing studios with a front desk and coaching team.",
+        "features": [
+          "Everything in Solo",
+          "Memberships & plunge packs",
+          "Staff roles & permissions",
+          "Automated billing on file",
+          "Revenue & no-show reports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For multi-location operators and franchises.",
+        "features": [
+          "Everything in Studio",
+          "Multi-location dashboard",
+          "Cross-location memberships",
+          "Priority onboarding",
+          "Dedicated success manager"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Tidewell is the quiet operating system behind independent cold-plunge and recovery studios. Built for owner-operators who'd rather coach than reconcile."
+  }
+}

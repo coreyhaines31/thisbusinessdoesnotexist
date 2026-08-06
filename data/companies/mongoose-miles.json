@@ -1,0 +1,131 @@
+{
+  "name": "Mongoose Miles",
+  "slug": "mongoose-miles",
+  "industry": "fleet telematics",
+  "tagline": "GPS and telematics for people with too many vehicles and not enough answers.",
+  "positioning": "Fleet-grade tracking, trip logs, and maintenance nagging for individuals and side-hustlers who aren't a Fortune 500 logistics department.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0D0D0D",
+    "surface": "#1A1A1A",
+    "text": "#F4F4F4",
+    "primary": "#CCFF00",
+    "accent": "#8FB300"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "M",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M3 21 V6 h4 l5 7 l5 -7 h4 V21 h-4 V13 l-5 6 l-5 -6 V21 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Know where your stuff went. And who was driving it.",
+      "sub": "Mongoose Miles plugs into your truck, van, boat trailer, or that project car and tells you where it is, how it's being treated, and when it needs oil — without a dispatcher or a 30-page quote.",
+      "ctaLabel": "Track my rides",
+      "secondaryCtaLabel": "See a live map"
+    },
+    "features": [
+      {
+        "title": "Where'd it go",
+        "description": "Live location on every vehicle, refreshed every few seconds. Draw a geofence around home and get pinged the second something rolls out at 2am.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Trip logs that survive an audit",
+        "description": "Every drive auto-sorted into business or personal, with mileage totals your accountant will actually accept at tax time.",
+        "icon": "chart"
+      },
+      {
+        "title": "Maintenance nagging",
+        "description": "Odometer-based reminders for oil, tires, and registration so you stop discovering problems on the shoulder of the interstate.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Driver report cards",
+        "description": "Hard braking, speeding, and idle time scored per driver. Great for teenagers, contractors, and your own denial.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Tamper alerts",
+        "description": "Battery unplugged? Device yanked? Vehicle towed while you slept? You'll know before the tow lot does.",
+        "icon": "bell"
+      },
+      {
+        "title": "Works with your junk",
+        "description": "OBD-II plug, hardwire, or magnetic asset tracker for trailers and equipment. One app, no fleet-manager login cosplay.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I run three landscaping trucks out of my driveway. Mongoose caught a guy 'working late' at a bar 40 miles off route. The subscription pays for itself in awkward conversations.",
+        "name": "Dwayne Ferro",
+        "role": "Owner",
+        "company": "Ferro & Sons Lawn Care"
+      },
+      {
+        "quote": "Two boats, a trailer, and a truck that my brother-in-law borrows. Now I get a text the moment any of it leaves the property. He's stopped asking.",
+        "name": "Priya Nandakumar",
+        "role": "Charter Captain",
+        "company": "Saltwater Fridays"
+      },
+      {
+        "quote": "The mileage log alone got me a clean deduction. My old system was a shoebox of gas receipts and vibes. This is better than vibes.",
+        "name": "Cole Aberdeen",
+        "role": "Independent Contractor",
+        "company": "Aberdeen Trim & Finish"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Lone Wolf",
+        "price": "$9",
+        "period": "per vehicle / month",
+        "blurb": "One vehicle, all the tracking, none of the spreadsheets.",
+        "features": [
+          "1 vehicle",
+          "Live location + trip history",
+          "Automatic tax-ready mileage log",
+          "Email + push alerts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "The Pack",
+        "price": "$19",
+        "period": "per vehicle / month",
+        "blurb": "For the driveway that's slowly becoming a depot.",
+        "features": [
+          "Up to 10 vehicles",
+          "Geofences + tamper alerts",
+          "Driver scorecards",
+          "Maintenance reminders",
+          "Shared access for family or crew"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Whole Menagerie",
+        "price": "$39",
+        "period": "per vehicle / month",
+        "blurb": "Trucks, trailers, boats, and heavy equipment on one map.",
+        "features": [
+          "Unlimited vehicles + asset tags",
+          "Priority location refresh",
+          "API + webhook access",
+          "Custom report exports",
+          "Live human support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Mongoose Miles: fleet-grade telematics scaled down to human-sized problems. Built for the people who own the vehicles, not a department."
+  }
+}

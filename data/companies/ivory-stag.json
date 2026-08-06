@@ -1,0 +1,135 @@
+{
+  "name": "Ivory Stag",
+  "slug": "ivory-stag",
+  "industry": "dental practice operations",
+  "tagline": "The operating system for the independent dental chair.",
+  "positioning": "Ivory Stag gives solo dentists and small practices one command surface for scheduling, claims, recalls, and supply — no front-desk empire required.",
+  "vibe": "brutalist",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F1F1F1",
+    "text": "#0A0A0A",
+    "primary": "#111111",
+    "accent": "#FF3B00"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "IS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 2,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run your chair like a cathedral, not a call center.",
+      "sub": "Ivory Stag replaces the four browser tabs, the sticky notes, and the 3pm insurance hold music with a single, ruthless operating layer for your practice.",
+      "ctaLabel": "Claim your practice",
+      "secondaryCtaLabel": "Watch the 2-min tour"
+    },
+    "features": [
+      {
+        "title": "Recall That Never Sleeps",
+        "description": "Automated hygiene recalls chase lapsed patients over text, email, and postcard until the chair is filled. You approve the cadence once; the machine works the list forever.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Claims Without the Purgatory",
+        "description": "Submit, track, and appeal insurance claims from one ledger. Ivory Stag flags rejections before payers do and drafts the appeal for your signature.",
+        "icon": "shield"
+      },
+      {
+        "title": "The One-Screen Schedule",
+        "description": "See operatories, hygienists, and no-show risk in a single grid. Drag an opening, fill it from the waitlist, and watch the day rebuild itself.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Supply Ledger",
+        "description": "Track composite, burs, and gloves against real usage. Reorder points fire automatically so you never scrub in with an empty tray.",
+        "icon": "database"
+      },
+      {
+        "title": "Chairside Charting",
+        "description": "Perio, restorative, and treatment plans captured at the chair on a tablet, synced to billing before the patient reaches the front desk.",
+        "icon": "layers"
+      },
+      {
+        "title": "The Numbers You Avoid",
+        "description": "Production per hour, collections ratio, and case acceptance — the metrics your accountant asks about, finally on one honest dashboard.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I fired my scheduling software, my recall service, and my claims clearinghouse in one afternoon. Ivory Stag ate all three and my collections are up 22%.",
+        "name": "Dr. Priya Nadkarni",
+        "role": "Owner Dentist",
+        "company": "Cedar Row Dental"
+      },
+      {
+        "quote": "As a solo practice I don't have a billing department. Ivory Stag is the billing department. Rejections that used to rot for weeks now clear in days.",
+        "name": "Dr. Marcus Elling",
+        "role": "General Dentist",
+        "company": "Northgate Smile Studio"
+      },
+      {
+        "quote": "The recall engine alone refilled my hygiene column. It found 340 patients I'd quietly given up on and booked a third of them.",
+        "name": "Dr. Hannah Voss",
+        "role": "Practice Owner",
+        "company": "Voss Family Dentistry"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$59",
+        "period": "per month, one provider",
+        "blurb": "Everything a single-chair dentist needs to stop drowning in tabs.",
+        "features": [
+          "One provider, one location",
+          "Scheduling + waitlist",
+          "Automated recall engine",
+          "Chairside charting"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Practice",
+        "price": "$149",
+        "period": "per month, up to 4 providers",
+        "blurb": "The full operating layer for a growing independent practice.",
+        "features": [
+          "Up to 4 providers",
+          "Insurance claims + appeals",
+          "Supply ledger + auto-reorder",
+          "Production dashboards",
+          "Two locations"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "$349",
+        "period": "per month, unlimited providers",
+        "blurb": "For the multi-op practice that runs like an institution.",
+        "features": [
+          "Unlimited providers",
+          "Unlimited locations",
+          "Custom reporting exports",
+          "Priority claims support",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ivory Stag is the operating system for the independent dental chair. Built for dentists who own their practice — and their time."
+  }
+}

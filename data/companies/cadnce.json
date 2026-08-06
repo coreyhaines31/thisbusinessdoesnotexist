@@ -1,0 +1,155 @@
+{
+  "name": "Cadnce",
+  "slug": "cadnce",
+  "industry": "esports coaching",
+  "tagline": "Coaching infrastructure for competitive teams that answer to a P&L.",
+  "positioning": "Cadnce turns scrim footage, ranked ladders, and coach notes into a single performance system built for orgs coaching dozens of rosters at once.",
+  "vibe": "startup",
+  "fontPairing": "archivo-libre-franklin",
+  "palette": {
+    "bg": "#0A1A2F",
+    "surface": "#12293F",
+    "text": "#E6F1F7",
+    "primary": "#1DC98F",
+    "accent": "#3B8EF0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 13,
+        "width": 4.5,
+        "height": 8,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 9.75,
+        "y": 8,
+        "width": 4.5,
+        "height": 13,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 16.5,
+        "y": 3,
+        "width": 4.5,
+        "height": 18,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Coach every roster like it's your flagship team.",
+      "sub": "Cadnce unifies VOD review, scrim scheduling, and player analytics so program directors can prove ROI on every hour of coaching — not just the wins that make highlight reels.",
+      "ctaLabel": "Book a program review",
+      "secondaryCtaLabel": "See a sample dashboard"
+    },
+    "features": [
+      {
+        "title": "VOD review that ties to outcomes",
+        "description": "Timestamp coaching notes directly on match footage, then link each note to the objective it improved. Reviews stop being folklore and start being data.",
+        "icon": "target"
+      },
+      {
+        "title": "Scrim scheduling across rosters",
+        "description": "Coordinate scrim blocks for every team in your org, sync to player calendars, and auto-flag athletes trending toward burnout hours.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Ranked telemetry, one ledger",
+        "description": "Pull ladder history, agent picks, and role stats from every account into one athlete profile your analysts actually trust.",
+        "icon": "chart"
+      },
+      {
+        "title": "Coach accountability reporting",
+        "description": "Give directors a weekly readout of coaching hours delivered, sessions attended, and measured skill deltas per athlete.",
+        "icon": "clock"
+      },
+      {
+        "title": "Playbook version control",
+        "description": "Draft, publish, and revise strategy docs with a full history — so a strat that lost a bracket never quietly reappears.",
+        "icon": "layers"
+      },
+      {
+        "title": "Roster health signals",
+        "description": "Surface early indicators of tilt, attendance drops, and communication breakdowns before they cost you a season.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We coach eleven rosters across three titles. Before Cadnce, our review process lived in Discord threads and lost VODs. Now every coaching hour maps to a measurable skill delta the board can read.",
+        "name": "Marisol Devereaux",
+        "role": "Director of Performance",
+        "company": "Meridian Esports Group"
+      },
+      {
+        "quote": "The accountability reporting closed a debate we'd had for two years. We could finally show which coaches drove improvement instead of arguing over who felt effective.",
+        "name": "Tobias Reinhardt",
+        "role": "Head of Competitive Operations",
+        "company": "Northlane Collegiate League"
+      },
+      {
+        "quote": "Usage-based pricing meant we onboarded our academy teams without a budget fight. We only pay for the matches we actually analyze, and it scaled cleanly through playoffs.",
+        "name": "Priya Anand",
+        "role": "VP, Esports Programs",
+        "company": "Halcyon Interactive"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Metered",
+        "price": "$0.90",
+        "period": "per analyzed match",
+        "blurb": "For single rosters and academy squads getting their review process off Discord.",
+        "features": [
+          "Pay only for matches you analyze",
+          "VOD review with timestamped notes",
+          "One connected ladder per athlete",
+          "30-day telemetry history"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Program",
+        "price": "$2,400",
+        "period": "per month + 4,000 credits",
+        "blurb": "For multi-roster orgs coordinating scrims and coaching across titles.",
+        "features": [
+          "Everything in Metered",
+          "Unlimited rosters and coach seats",
+          "Scrim scheduling and calendar sync",
+          "Coach accountability reporting",
+          "Playbook version control",
+          "Volume credit rates as you scale"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "annual, usage-committed",
+        "blurb": "For leagues and franchises with governance, SSO, and data residency needs.",
+        "features": [
+          "Committed-use credit pricing",
+          "SSO, SCIM, and audit logs",
+          "Data residency and retention controls",
+          "Dedicated performance strategist",
+          "Custom telemetry integrations",
+          "SLA-backed uptime"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Cadnce is the performance system for organizations that coach competitive players at scale — earnest tooling for the unglamorous work behind every win."
+  }
+}

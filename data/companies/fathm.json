@@ -1,0 +1,139 @@
+{
+  "name": "Fathm",
+  "slug": "fathm",
+  "industry": "marina management",
+  "tagline": "The operating system for modern marinas and harbor networks",
+  "positioning": "Fathm unifies slip assignments, metered dockside utilities, and transient billing so multi-marina operators run every berth from one ledger.",
+  "vibe": "elegant",
+  "fontPairing": "fraunces-inter",
+  "palette": {
+    "bg": "#0A1E29",
+    "surface": "#0F2E3B",
+    "text": "#E4F1EF",
+    "primary": "#1CA087",
+    "accent": "#2E93D9"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "F",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,8 12,4 20,8 20,11 12,7 4,11",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "4,14 12,10 20,14 20,17 12,13 4,17",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every berth, meter, and reservation on one tide chart",
+      "sub": "Fathm gives harbor groups a single system for slip inventory, transient bookings, and metered power and water — so dockmasters stop reconciling spreadsheets and start filling docks.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See usage pricing"
+    },
+    "features": [
+      {
+        "title": "Live slip inventory",
+        "description": "See every wet slip, dry rack, and mooring ball across all your marinas in real time, with vessel dimensions matched to berth capacity before a boat ever arrives.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Metered utilities billing",
+        "description": "Pull submeter readings for dockside power and water automatically, then roll consumption into each tenant's monthly invoice without a clipboard walk down the dock.",
+        "icon": "chart"
+      },
+      {
+        "title": "Transient reservations",
+        "description": "Take overnight and seasonal bookings online, hold deposits, and auto-assign the right berth by draft and beam the moment a captain hails the harbor.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Work order dispatch",
+        "description": "Turn a leaking pedestal or a broken cleat into a tracked work order with photos, assigned techs, and parts, closed out before the next tenant complains.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Multi-site consolidation",
+        "description": "Give regional managers portfolio-wide occupancy, revenue per foot, and utility margin across every location in one dashboard, not twelve.",
+        "icon": "layers"
+      },
+      {
+        "title": "Tenant contract ledger",
+        "description": "Store seasonal agreements, insurance certificates, and haul-out schedules against each vessel so renewals and lapsed coverage never slip past you.",
+        "icon": "database"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We run eleven marinas on the Great Lakes. Before Fathm our dockmasters spent Monday mornings reconciling power meters against paper logs. Now the readings post to invoices overnight and we've recovered utility margin we were quietly eating.",
+        "name": "Diana Alcaraz",
+        "role": "VP of Harbor Operations",
+        "company": "Northreach Marina Group"
+      },
+      {
+        "quote": "Transient occupancy used to be a phone game. Fathm auto-assigns berths by draft and beam, so our staff stopped double-booking slips during regatta weekends. Fill rate on overnight stays is up 23 percent.",
+        "name": "Marcus Trelawny",
+        "role": "General Manager",
+        "company": "Cape Ellery Waterfront"
+      },
+      {
+        "quote": "The contract ledger alone paid for itself. We caught forty-one lapsed insurance certificates in the first month and stopped hauling boats we weren't authorized to touch.",
+        "name": "Priya Venkataraman",
+        "role": "Director of Marine Services",
+        "company": "Anchorline Holdings"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Harbor",
+        "price": "$0.90",
+        "period": "per berth, per active night",
+        "blurb": "For single marinas moving off spreadsheets and paper meter logs.",
+        "features": [
+          "Up to 300 berths",
+          "Live slip inventory",
+          "Online transient reservations",
+          "Metered utility billing",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Fleet",
+        "price": "$0.65",
+        "period": "per berth, per active night",
+        "blurb": "For multi-site operators who need one ledger across every location.",
+        "features": [
+          "Unlimited berths",
+          "Multi-site consolidation dashboard",
+          "Work order dispatch",
+          "Tenant contract ledger",
+          "Revenue per foot analytics",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Harbor Network",
+        "price": "Custom",
+        "period": "volume-based, billed quarterly",
+        "blurb": "For enterprise portfolios and municipal harbor authorities.",
+        "features": [
+          "Volume usage rates",
+          "Dedicated success manager",
+          "SSO and audit logging",
+          "Accounting system integrations",
+          "Custom submeter hardware onboarding",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Fathm is the operating system for marinas and harbor networks — one ledger for every berth, meter, and reservation you manage."
+  }
+}

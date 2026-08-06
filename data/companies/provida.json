@@ -1,0 +1,144 @@
+{
+  "name": "Provida",
+  "slug": "provida",
+  "industry": "elder-care coordination",
+  "tagline": "Hold the whole picture of your parent's care in one calm place.",
+  "positioning": "Provida is the coordination home base for families caring for an aging parent — one shared record for medications, appointments, caregivers, and hard decisions.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#12151C",
+    "surface": "#1B212C",
+    "text": "#E7EBF2",
+    "primary": "#E4A75B",
+    "accent": "#5FB6A6"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "P",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 4 12 A 8 8 0 0 1 12 4 L 12 7 A 5 5 0 0 0 7 12 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "path",
+        "d": "M 20 12 A 8 8 0 0 1 12 20 L 12 17 A 5 5 0 0 0 17 12 Z",
+        "fill": "accent"
+      },
+      {
+        "type": "circle",
+        "cx": 12,
+        "cy": 4,
+        "r": 2,
+        "fill": "text"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Everyone caring for Mom, finally on the same page.",
+      "sub": "Stop reconstructing your father's care from group texts, sticky notes, and half-remembered phone calls. Provida keeps meds, appointments, and updates in one shared record the whole family can trust.",
+      "ctaLabel": "Start a care circle",
+      "secondaryCtaLabel": "See how it works"
+    },
+    "features": [
+      {
+        "title": "One living care record",
+        "description": "Diagnoses, medications, doses, and doctors in a single timeline. When the dose changes at 9pm, everyone sees it — not just whoever answered the phone.",
+        "icon": "database"
+      },
+      {
+        "title": "Shared family log",
+        "description": "A running journal of visits, moods, and small worries. Your sibling three states away reads the same notes the in-home aide wrote this morning.",
+        "icon": "users"
+      },
+      {
+        "title": "Appointments that don't slip",
+        "description": "Track every cardiologist, dentist, and follow-up with reminders and who's driving. Missed-visit chaos becomes a calendar you can actually read.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Medication safety checks",
+        "description": "Log each prescription with schedule and pharmacy. Provida flags overlapping doses and refills running low before the bottle is empty.",
+        "icon": "shield"
+      },
+      {
+        "title": "Document vault",
+        "description": "Power of attorney, insurance cards, advance directives — scanned, labeled, and findable in the ER at 2am instead of a shoebox at home.",
+        "icon": "lock"
+      },
+      {
+        "title": "Caregiver handoffs",
+        "description": "Aides and family members log hours and notes on the same shift board, so nothing gets dropped between the day shift and dinner.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "My brother and I stopped fighting about who forgot what. Provida's log became the one thing we both trusted. When Dad was hospitalized, I handed the nurse his med list in thirty seconds.",
+        "name": "Danielle Okafor",
+        "role": "Primary caregiver, caring for her father",
+        "company": "Family of four"
+      },
+      {
+        "quote": "I manage care for eleven clients' parents. Before Provida I lived in spreadsheets and voicemail. Now every family sees the same timeline I do, and the questions finally stopped repeating.",
+        "name": "Marcus Reyes",
+        "role": "Geriatric care manager",
+        "company": "Northbridge Care Advisors"
+      },
+      {
+        "quote": "Mom has six prescriptions and three doctors who don't talk to each other. Provida caught a dangerous overlap none of us noticed. That alone was worth every dollar.",
+        "name": "Susan Whitfield",
+        "role": "Daughter & health proxy",
+        "company": "Whitfield family"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$12",
+        "period": "per month",
+        "blurb": "For one person coordinating care for a single parent.",
+        "features": [
+          "One care record",
+          "Medication & appointment tracking",
+          "Document vault (2 GB)",
+          "Email reminders"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Family",
+        "price": "$24",
+        "period": "per month",
+        "blurb": "For siblings and relatives sharing the load together.",
+        "features": [
+          "Up to 8 family members",
+          "Shared family log & shift board",
+          "Medication safety checks",
+          "Document vault (25 GB)",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Circle",
+        "price": "$48",
+        "period": "per month",
+        "blurb": "For families working with paid aides and care managers.",
+        "features": [
+          "Unlimited family & caregivers",
+          "Caregiver hours & handoffs",
+          "Two care records included",
+          "Advance directive vault",
+          "Phone support",
+          "Export for doctors & insurers"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Provida helps families coordinate care for an aging parent with one shared, trustworthy record — so no one carries the whole weight alone."
+  }
+}

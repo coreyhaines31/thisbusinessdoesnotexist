@@ -1,0 +1,138 @@
+{
+  "name": "Certitas",
+  "slug": "certitas",
+  "industry": "luxury resale authentication",
+  "tagline": "Institutional-grade authentication for the individual collector.",
+  "positioning": "Certitas issues verifiable authenticity records for luxury handbags, watches, and sneakers—so every private sale, consignment, and resale listing carries proof a buyer can trust.",
+  "vibe": "brutalist",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#EBE8E1",
+    "surface": "#F6F4EF",
+    "text": "#1C1B18",
+    "primary": "#3A3833",
+    "accent": "#8A6A4B"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M 18.36 5.64 A 9 9 0 1 1 18.36 18.36 L 15.89 15.89 A 5.5 5.5 0 1 0 15.89 8.11 Z",
+        "fill": "primary"
+      },
+      {
+        "type": "circle",
+        "cx": 19.5,
+        "cy": 12,
+        "r": 2.1,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Proof of authenticity, issued in hours—not weeks.",
+      "sub": "Certitas gives individual collectors and independent resellers the same forensic authentication protocol used by auction houses. Submit an item, receive a signed digital certificate, and sell with documented provenance.",
+      "ctaLabel": "Authenticate an item",
+      "secondaryCtaLabel": "View the protocol"
+    },
+    "features": [
+      {
+        "title": "Forensic multi-point review",
+        "description": "Every submission is inspected against stitch density, hardware tolerances, serial formats, and material spectra by two independent expert reviewers before a verdict is issued.",
+        "icon": "shield"
+      },
+      {
+        "title": "Signed digital certificate",
+        "description": "Each authenticated item receives a tamper-evident certificate with a unique reference, photographs of record, and a public verification link buyers can check instantly.",
+        "icon": "lock"
+      },
+      {
+        "title": "Portable provenance file",
+        "description": "Ownership, service history, and prior certificates travel with the item across every resale, so the record compounds in value instead of resetting each transaction.",
+        "icon": "database"
+      },
+      {
+        "title": "48-hour standard turnaround",
+        "description": "Photograph submissions clear within two business days. Time-sensitive listings can be escalated for same-day review without leaving your dashboard.",
+        "icon": "clock"
+      },
+      {
+        "title": "Category coverage",
+        "description": "Handbags, wristwatches, fine jewelry, and limited-release footwear—each governed by a category-specific authentication standard and revision log.",
+        "icon": "layers"
+      },
+      {
+        "title": "Verification for buyers",
+        "description": "Prospective buyers scan the certificate code to confirm the item, condition grade, and current holder before any funds change hands.",
+        "icon": "target"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I list Hermès and vintage Cartier for private clients. A Certitas certificate cut my average time-to-sale in half—buyers stop haggling on trust and start negotiating on price.",
+        "name": "Marguerite Vasseur",
+        "role": "Principal",
+        "company": "Maison Deux Résale"
+      },
+      {
+        "quote": "As an independent watch dealer, a disputed authenticity claim used to mean a chargeback. Now every piece ships with a signed record. My return rate on grey-market Rolex dropped to nearly zero.",
+        "name": "Julian Okafor",
+        "role": "Owner",
+        "company": "The Grey Market Co."
+      },
+      {
+        "quote": "I resell limited sneakers full-time. The portable provenance file means a buyer who purchases from me can resell with the same certificate attached. That resale value keeps my listings ahead of the platform.",
+        "name": "Priya Ramachandran",
+        "role": "Founder",
+        "company": "Atelier Nord Trade"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Individual",
+        "price": "$24",
+        "period": "per authentication",
+        "blurb": "For occasional sellers verifying a single piece before a private sale.",
+        "features": [
+          "One item, one signed certificate",
+          "48-hour standard turnaround",
+          "Public buyer verification link",
+          "Photographs of record retained"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Collector",
+        "price": "$49",
+        "period": "per month",
+        "blurb": "For active resellers and collectors managing an ongoing catalog.",
+        "features": [
+          "10 authentications each month",
+          "Portable provenance files",
+          "Same-day escalation available",
+          "Consolidated verification dashboard",
+          "Priority reviewer queue"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Trade",
+        "price": "Custom",
+        "period": "annual agreement",
+        "blurb": "For boutiques and consignment desks operating at volume.",
+        "features": [
+          "Unlimited authentication volume",
+          "Dedicated category specialists",
+          "API and batch submission",
+          "Custom certificate branding",
+          "Service-level guarantees"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Certitas operates under published, versioned authentication standards for every category we cover. Certificates are cryptographically signed and independently verifiable. We are an authentication authority, not a marketplace."
+  }
+}

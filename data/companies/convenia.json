@@ -1,0 +1,121 @@
+{
+  "name": "Convenia",
+  "slug": "convenia",
+  "industry": "corporate offsites",
+  "tagline": "The operating system for the individual offsite.",
+  "positioning": "Convenia turns a single professional's need for focused time away into a fully provisioned, itinerary-grade offsite — venue, agenda, and outcomes documented.",
+  "vibe": "startup",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#08222E",
+    "surface": "#0F3341",
+    "text": "#E4F3F0",
+    "primary": "#1CB7A4",
+    "accent": "#3D8BF2"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "C",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 3 C6 3 3 7 3 12 C3 17 6 21 12 21 C15 21 18 19 19 16 L14 16 C13.4 16.6 12.8 17 12 17 C9 17 8 15 8 12 C8 9 9 7 12 7 C12.8 7 13.4 7.4 14 8 L19 8 C18 5 15 3 12 3 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your offsite, provisioned to enterprise standard.",
+      "sub": "Convenia designs, books, and documents solo and small-team offsites — from the venue contract to the post-session outcomes brief — so a single professional can convene like a whole department.",
+      "ctaLabel": "Provision an offsite",
+      "secondaryCtaLabel": "Review the framework"
+    },
+    "features": [
+      {
+        "title": "Venue procurement, handled",
+        "description": "Submit your dates and objectives. Convenia sources, vets, and books the room, the lodging, and the connectivity against a standardized supplier scorecard.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda architecture",
+        "description": "Every offsite ships with a time-boxed agenda template — objectives, session blocks, and decision checkpoints — pre-loaded and editable before you arrive.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Outcomes brief on exit",
+        "description": "Leave with a structured one-page brief: decisions logged, action items assigned to you, and follow-up dates set. No lost momentum on Monday.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Expense reconciliation",
+        "description": "Consolidated, itemized invoicing formatted for reimbursement or Schedule C. One line item instead of eleven receipts in a drawer.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to lose a full week planning my own quarterly reset. Convenia procured the venue, framed the agenda, and handed me an outcomes brief before I left the parking lot. It felt like having an operations team.",
+        "name": "Miriam Vasquez-Holt",
+        "role": "Independent Strategy Consultant",
+        "company": "Vasquez-Holt Advisory"
+      },
+      {
+        "quote": "As a solo founder I never got the offsite treatment larger teams take for granted. Convenia standardized the whole thing. My two-person offsite ran with the rigor of a board retreat.",
+        "name": "Daniel Osei",
+        "role": "Founder",
+        "company": "Northline Labs"
+      },
+      {
+        "quote": "The reconciliation feature alone justifies the tier. One itemized invoice, formatted for my accountant, replaced an afternoon of receipt archaeology every quarter.",
+        "name": "Priya Ranganathan",
+        "role": "Fractional CFO",
+        "company": "Ledgerpoint Partners"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$149",
+        "period": "per offsite",
+        "blurb": "For the individual professional running a focused reset.",
+        "features": [
+          "One venue procurement per booking",
+          "Standard agenda template",
+          "Post-session outcomes brief",
+          "Consolidated invoice"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Convener",
+        "price": "$389",
+        "period": "per offsite",
+        "blurb": "For solo leaders convening a small team offsite.",
+        "features": [
+          "Up to 6 attendees provisioned",
+          "Custom agenda architecture",
+          "Supplier scorecard access",
+          "Outcomes brief with action tracking",
+          "Expense reconciliation export"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Cadence",
+        "price": "$1,290",
+        "period": "per year, four offsites",
+        "blurb": "For those who convene on a quarterly rhythm.",
+        "features": [
+          "Four offsites annually",
+          "Priority venue procurement",
+          "Recurring agenda library",
+          "Year-over-year outcomes archive",
+          "Dedicated coordination contact"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Convenia is the standard for individual and small-team offsites — provisioned, documented, and reconciled to enterprise expectations."
+  }
+}

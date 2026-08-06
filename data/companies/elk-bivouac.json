@@ -1,0 +1,135 @@
+{
+  "name": "Elk Bivouac",
+  "slug": "elk-bivouac",
+  "industry": "Corporate offsites",
+  "tagline": "Where great teams go to become inevitable.",
+  "positioning": "The offsite platform for founders and small teams who treat a week in the wild as strategy, not vacation. We handle every logistic between idea and altitude.",
+  "vibe": "brutalist",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#111420",
+    "surface": "#1B1F2E",
+    "text": "#ECEDF2",
+    "primary": "#E9633C",
+    "accent": "#82B5AC"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "EB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 4,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Book the mountain. We'll handle the mission.",
+      "sub": "Elk Bivouac turns a scattered group chat into a fully planned offsite — venue, agenda, meals, and the one conversation your team keeps avoiding. You just show up and lead.",
+      "ctaLabel": "Plan your ascent",
+      "secondaryCtaLabel": "See sample retreats"
+    },
+    "features": [
+      {
+        "title": "The Ridge Brief",
+        "description": "A single living document that captures the offsite's objective, agenda, and non-negotiables — no more twelve-tab spreadsheets the night before departure.",
+        "icon": "compass"
+      },
+      {
+        "title": "Venue Reconnaissance",
+        "description": "We vet cabins, lodges, and off-grid basecamps against your headcount, budget, and connectivity needs, then hold the booking before it sells out.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda Architecture",
+        "description": "Hour-by-hour flow built for real outcomes: deep work blocks, forced friction sessions, and enough silence for people to actually think.",
+        "icon": "layers"
+      },
+      {
+        "title": "Provisions Handled",
+        "description": "Dietary needs, ground transport, and the coffee that decides morale — coordinated end to end so nobody plays travel agent from a tent.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Momentum Ledger",
+        "description": "Every decision and owner captured live, then exported as a follow-up plan that survives the drive home instead of dissolving in it.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Basecamp Signal",
+        "description": "Real-time updates, weather shifts, and headcount changes routed to one channel so the whole party moves as a single organism.",
+        "icon": "bell"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We spent three years talking about a proper offsite. Elk Bivouac had us at a fire pit in the Cascades in eleven days, and we came home with a roadmap the whole team actually believes in.",
+        "name": "Marisol Vane",
+        "role": "Founder",
+        "company": "Halyard Studio"
+      },
+      {
+        "quote": "I run a two-person company and I have never felt more like a real organization than the morning I opened the Ridge Brief and realized every last detail was already handled.",
+        "name": "Devin Achterberg",
+        "role": "Solo Founder",
+        "company": "Northbound Labs"
+      },
+      {
+        "quote": "The Momentum Ledger is the only offsite tool I've used where the decisions outlived the flight home. Six months later we're still executing against it.",
+        "name": "Priya Nandakumar",
+        "role": "Head of Operations",
+        "company": "Cairnwork Collective"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Expedition",
+        "price": "$390",
+        "period": "per offsite",
+        "blurb": "For individuals and duos planning their first real retreat.",
+        "features": [
+          "One fully planned offsite",
+          "Ridge Brief + agenda architecture",
+          "Venue shortlist with held booking",
+          "Post-trip Momentum Ledger"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Summit",
+        "price": "$920",
+        "period": "per offsite",
+        "blurb": "For small teams who run offsites like a strategy engine.",
+        "features": [
+          "Everything in Expedition",
+          "Up to 20 attendees",
+          "Provisions and transport coordination",
+          "Basecamp Signal live channel",
+          "Two planning calls with a guide"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Cordillera",
+        "price": "Custom",
+        "period": "annual partnership",
+        "blurb": "For teams making offsites a permanent ritual.",
+        "features": [
+          "Unlimited offsites per year",
+          "Dedicated retreat strategist",
+          "Priority venue access",
+          "Custom agenda frameworks",
+          "Cross-offsite outcome tracking"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Elk Bivouac plans the offsites that quietly decide the next year. Pick the altitude. We build everything between the idea and the summit."
+  }
+}

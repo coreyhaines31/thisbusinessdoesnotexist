@@ -1,0 +1,136 @@
+{
+  "name": "Verata",
+  "slug": "verata",
+  "industry": "luxury resale authentication",
+  "tagline": "The definitive standard of truth for the world's finest secondary market.",
+  "positioning": "Verata is the authentication infrastructure behind luxury resale — a unified verdict engine that authenticates handbags, watches, and rare sneakers at marketplace scale, with an immutable provenance record for every item.",
+  "vibe": "startup",
+  "fontPairing": "space-grotesk-ibm-plex",
+  "palette": {
+    "bg": "#F5F3FB",
+    "surface": "#FFFFFF",
+    "text": "#2A2740",
+    "primary": "#6D5DD8",
+    "accent": "#E79FC4"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "V",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,9 12,4 20,9 20,12 12,7 4,12",
+        "fill": "accent"
+      },
+      {
+        "type": "polygon",
+        "points": "4,14 12,9 20,14 20,17 12,12 4,17",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Every authentic. Every counterfeit. One verdict engine.",
+      "sub": "Verata turns weeks of expert backlog into a signed verdict in minutes. Photograph an item, and our authentication network returns a defensible determination plus a permanent provenance record your buyers can trust.",
+      "ctaLabel": "Request access",
+      "secondaryCtaLabel": "See a live verdict"
+    },
+    "features": [
+      {
+        "title": "Verdict in minutes, not weeks",
+        "description": "Route intake photos of a Birkin, a Daytona, or a Travis Scott pair through our model-plus-expert pipeline and receive a scored determination with confidence bands before the item leaves the intake table.",
+        "icon": "zap"
+      },
+      {
+        "title": "Immutable provenance ledger",
+        "description": "Each authenticated item earns a tamper-evident record — origin, prior verdicts, ownership handoffs — so your resale listings carry proof, not promises.",
+        "icon": "shield"
+      },
+      {
+        "title": "Return fraud, sealed off",
+        "description": "Match a returned item against its outbound serial and micro-imagery to catch the swap-and-return schemes that quietly erode luxury margins.",
+        "icon": "lock"
+      },
+      {
+        "title": "Consignment intake at scale",
+        "description": "Give your intake associates a single console for triage, escalation, and batch verdicts across thousands of daily submissions.",
+        "icon": "layers"
+      },
+      {
+        "title": "Authenticator network on call",
+        "description": "Overflow to Verata's vetted category specialists — watches, leather goods, jewelry — with SLA-backed turnaround during peak drops.",
+        "icon": "users"
+      },
+      {
+        "title": "Audit-ready reporting",
+        "description": "Export defensible verdict trails for chargeback disputes, insurers, and regulators with the evidence and reviewer attribution attached.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Verata cut our watch authentication backlog from eleven days to under two hours. The provenance record alone reduced our post-sale disputes by nearly half in one quarter.",
+        "name": "Camille Rousseau",
+        "role": "VP of Trust & Authentication",
+        "company": "Maison Resell"
+      },
+      {
+        "quote": "We process forty thousand handbags a month. Verata's verdict engine is the only system that scaled with us without diluting the standard our clients expect.",
+        "name": "Devon Aldridge",
+        "role": "Head of Marketplace Operations",
+        "company": "Second Circle Luxury"
+      },
+      {
+        "quote": "The return-fraud matching paid for the entire contract in six weeks. It caught swaps our best authenticators were missing under peak-season pressure.",
+        "name": "Priya Nandakumar",
+        "role": "Director of Loss Prevention",
+        "company": "Vellera Consign"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Studio",
+        "price": "$3.20",
+        "period": "per authentication",
+        "blurb": "For boutiques and single-category resellers formalizing their intake standard.",
+        "features": [
+          "Up to 2,000 verdicts / month",
+          "Core provenance ledger",
+          "Standard 4-hour SLA",
+          "Email support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Exchange",
+        "price": "$1.80",
+        "period": "per authentication, volume-tiered",
+        "blurb": "For high-volume marketplaces authenticating across multiple categories.",
+        "features": [
+          "Unlimited monthly verdicts",
+          "Authenticator network overflow",
+          "Return-fraud matching",
+          "1-hour peak SLA",
+          "Audit-ready exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Sovereign",
+        "price": "Custom",
+        "period": "negotiated per-verdict rate",
+        "blurb": "For global platforms needing dedicated capacity and compliance depth.",
+        "features": [
+          "Committed-volume pricing",
+          "Dedicated authenticator pods",
+          "Private model tuning",
+          "Insurer & regulator reporting",
+          "Named solutions architect"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Verata is the authentication infrastructure for luxury resale — one verdict engine, one permanent record of truth, trusted by the marketplaces defining the secondary market."
+  }
+}

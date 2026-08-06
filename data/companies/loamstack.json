@@ -1,0 +1,180 @@
+{
+  "name": "Loamstack",
+  "slug": "loamstack",
+  "industry": "soil analytics",
+  "tagline": "Turn every soil sample into a decision your operation can defend.",
+  "positioning": "Loamstack converts raw lab panels and field probes into standardized soil intelligence for small growers and independent operators.",
+  "vibe": "brutalist",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#070A08",
+    "surface": "#0F1512",
+    "text": "#E8F5EA",
+    "primary": "#4DFF88",
+    "accent": "#B6FF2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "LS",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 9,
+        "y": 2,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 2,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 9,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "text"
+      },
+      {
+        "type": "rect",
+        "x": 9,
+        "y": 9,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 16,
+        "y": 9,
+        "width": 6,
+        "height": 6,
+        "rx": 1,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Soil intelligence, standardized for the operator.",
+      "sub": "Loamstack ingests your lab panels, probe logs, and field notes, then returns a single graded soil profile per block — with the nutrient math, thresholds, and audit trail already done.",
+      "ctaLabel": "Request access",
+      "secondaryCtaLabel": "View a sample report"
+    },
+    "features": [
+      {
+        "title": "Unified lab panel intake",
+        "description": "Upload PDFs from any accredited soil lab. Loamstack normalizes units, maps analytes, and reconciles duplicate samples into one clean block profile.",
+        "icon": "layers"
+      },
+      {
+        "title": "Nutrient threshold engine",
+        "description": "Set target ranges per crop and soil texture. We flag every block that drifts out of range and quantify the exact deficit in your working units.",
+        "icon": "target"
+      },
+      {
+        "title": "Block-level trend history",
+        "description": "Track pH, organic matter, and macronutrients across seasons for each field block, so you can prove the direction your ground is actually moving.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Compliance-ready exports",
+        "description": "Generate nutrient management records formatted for state and buyer audits in one click — timestamped, versioned, and signed.",
+        "icon": "shield"
+      },
+      {
+        "title": "Probe and sensor sync",
+        "description": "Connect handheld probes and in-ground moisture sensors. Field readings land in the same profile as your lab work, no re-keying.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Sampling route planner",
+        "description": "Map your grid points, assign them to seats, and route the day's pulls so no zone gets missed before the lab cutoff.",
+        "icon": "map-pin"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Before Loamstack our soil results lived in a shoebox of PDFs. Now every block has a graded profile and my agronomist stops guessing. The buyer audit last fall took twenty minutes instead of two days.",
+        "name": "Dale Hutchins",
+        "role": "Owner-Operator",
+        "company": "Hutchins Row Farms"
+      },
+      {
+        "quote": "The threshold engine caught a phosphorus deficit on three blocks I would have missed. We corrected the program before planting and the trend history proves it worked.",
+        "name": "Renata Ochoa",
+        "role": "Field Agronomist",
+        "company": "Cedar Bend Growers"
+      },
+      {
+        "quote": "We manage sampling across four leased parcels. Per-seat pricing meant I could add my two scouts without a procurement meeting. The route planner alone paid for the year.",
+        "name": "Marcus Feuerstein",
+        "role": "Operations Manager",
+        "company": "Feuerstein Ag Co."
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Operator",
+        "price": "$34",
+        "period": "per seat / month",
+        "blurb": "For single-operation owners standardizing their own soil work.",
+        "features": [
+          "Up to 200 samples per year",
+          "Lab PDF intake and normalization",
+          "Block-level trend history",
+          "1 compliance export template"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Agronomy",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For growers and agronomists managing multiple blocks and scouts.",
+        "features": [
+          "Unlimited samples",
+          "Nutrient threshold engine",
+          "Probe and sensor sync",
+          "Sampling route planner",
+          "All compliance export templates"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "per seat / month, annual",
+        "blurb": "For cooperatives and multi-parcel operations with audit obligations.",
+        "features": [
+          "Everything in Agronomy",
+          "SSO and role-based seats",
+          "Custom lab connectors",
+          "Dedicated audit support",
+          "Data residency options"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Loamstack is soil analytics infrastructure for the people who actually work the ground. One profile per block. Every number defensible."
+  }
+}

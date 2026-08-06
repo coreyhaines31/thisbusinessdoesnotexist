@@ -1,0 +1,141 @@
+{
+  "name": "Ground Truth",
+  "slug": "ground-truth",
+  "industry": "soil analytics",
+  "tagline": "Your dirt has opinions. We translate them.",
+  "positioning": "Soil analytics for owner-operators who'd rather run a farm than a spreadsheet. Real lab-grade readings, plain-English answers, zero agronomy degree required.",
+  "vibe": "startup",
+  "fontPairing": "playfair-source-sans",
+  "palette": {
+    "bg": "#0B0B0C",
+    "surface": "#171719",
+    "text": "#F4F4F1",
+    "primary": "#C2F73A",
+    "accent": "#8A8A80"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "GT",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "12 1 23 12 12 23 1 12",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "12 6 18 12 12 18 6 12",
+        "fill": "bg"
+      },
+      {
+        "type": "polygon",
+        "points": "12 9 15 12 12 15 9 12",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Stop guessing what your dirt is thinking.",
+      "sub": "Ground Truth turns a fistful of soil into lab-grade nitrogen, pH, and moisture readings — then tells you what to actually do, in words a human uses. No agronomist on retainer required.",
+      "ctaLabel": "Test your first plot",
+      "secondaryCtaLabel": "See a sample report"
+    },
+    "features": [
+      {
+        "title": "Readings, not riddles",
+        "description": "Every sample comes back with numbers and a one-line verdict. \"Too much nitrogen, ease off the fertilizer\" beats a 40-page PDF you'll never open.",
+        "icon": "chart"
+      },
+      {
+        "title": "Field-map your whole operation",
+        "description": "Pin samples to exact spots on your land. Watch a heat map fill in over seasons so you stop over-treating the acre that was always fine.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Reminders that respect your time",
+        "description": "We nudge you when a plot is due for a retest — not at 5am, not fourteen times, not with a motivational quote about soil.",
+        "icon": "bell"
+      },
+      {
+        "title": "Trends since your granddad",
+        "description": "Import old records or start fresh. Either way you get year-over-year lines that make bankers and landlords nod approvingly.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Works where signal doesn't",
+        "description": "Log samples offline in the back forty. Everything syncs the second you're near a bar of reception or the barn wifi.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Share without oversharing",
+        "description": "Send a clean report to your co-op or agronomist with one link. They see the data, not your login, not your other fields.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I used to mail samples to a lab and wait three weeks for a spreadsheet I couldn't read. Now I scan, I get an answer, I move on. My cover crop actually made sense this year.",
+        "name": "Dale Ferris",
+        "role": "Owner",
+        "company": "Ferris Row Farms"
+      },
+      {
+        "quote": "We manage 22 acres of vines across four slopes with wildly different soil. Ground Truth's field map showed me I'd been fertilizing block three like block one for a decade. Rookie mistake, fixed.",
+        "name": "Priya Raghunathan",
+        "role": "Vineyard Manager",
+        "company": "Slantback Cellars"
+      },
+      {
+        "quote": "The reminders are the whole thing for me. I forget to test until something's already yellow. Now it just tells me. Dry sense of humor too, which I did not expect from a soil app.",
+        "name": "Marcus Whitlow",
+        "role": "Owner-Operator",
+        "company": "Whitlow Turf & Sod"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Plot",
+        "price": "$19",
+        "period": "per seat / month",
+        "blurb": "For the solo operator with a truck, a shovel, and better things to do.",
+        "features": [
+          "Up to 3 fields",
+          "Unlimited sample logging",
+          "Plain-English verdicts",
+          "Offline capture"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Field",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For growing operations juggling crews, seasons, and picky landlords.",
+        "features": [
+          "Unlimited fields",
+          "Seasonal trend maps",
+          "Shareable report links",
+          "Retest reminders",
+          "Import legacy records"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "per seat / month",
+        "blurb": "For co-ops and multi-site operations that answer to a board.",
+        "features": [
+          "Everything in Field",
+          "Role-based team access",
+          "Bulk lab integrations",
+          "Dedicated onboarding",
+          "Priority support line"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Ground Truth reads your soil so you don't have to squint at a chart. Test smarter, treat less, keep the good dirt good."
+  }
+}

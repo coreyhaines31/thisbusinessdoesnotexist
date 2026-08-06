@@ -1,0 +1,162 @@
+{
+  "name": "Pine Box",
+  "slug": "pine-box",
+  "industry": "funeral services",
+  "tagline": "The operating system for funeral homes that would rather not lose the paperwork.",
+  "positioning": "Pine Box runs the whole funeral home — intakes, arrangements, permits, invoices — so owner-operators stop chasing forms and start burying the busywork.",
+  "vibe": "corporate",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#F4F1F8",
+    "surface": "#FCFAFE",
+    "text": "#2C2836",
+    "primary": "#7A6FB0",
+    "accent": "#E5A0B0"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "PB",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 4,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 4,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 13,
+        "y": 13,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Death is inevitable. Losing the death certificate isn't.",
+      "sub": "Pine Box gives independent funeral homes one place to run arrangements, permits, and billing — so the only thing that slips through the cracks is the occasional casket handle.",
+      "ctaLabel": "Book a walkthrough",
+      "secondaryCtaLabel": "See a live intake"
+    },
+    "features": [
+      {
+        "title": "At-need intake in minutes",
+        "description": "Capture the family, the decedent, and the service details on one screen. Auto-fills the forms your county still wants in triplicate.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Permit & filing tracker",
+        "description": "Burial-transit permits, death certificates, VA benefits — every deadline flagged before the coroner's office calls you first.",
+        "icon": "clock"
+      },
+      {
+        "title": "Arrangement builder",
+        "description": "Drag caskets, urns, and packages into a quote the family can actually read. Prices update live; awkward math stays hidden.",
+        "icon": "layers"
+      },
+      {
+        "title": "Invoices that get paid",
+        "description": "Send itemized statements, take card or ACH, and file insurance assignments without the fax machine you keep pretending works.",
+        "icon": "chart"
+      },
+      {
+        "title": "Pre-need pipeline",
+        "description": "Track prearrangement contracts and trust balances so future business doesn't live in a filing cabinet named 'Dave.'",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Staff scheduling",
+        "description": "Assign directors, drivers, and embalmers across services and viewings. Nobody double-books the hearse again.",
+        "icon": "calendar"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We used to run three services off a whiteboard and a prayer. Pine Box means I actually know which family is arriving at two o'clock without walking to the front desk.",
+        "name": "Marlene Okafor",
+        "role": "Owner & Funeral Director",
+        "company": "Okafor Family Funeral Home"
+      },
+      {
+        "quote": "The permit tracker paid for itself the first month. No more scrambling for a transit permit while a family waits in the lobby.",
+        "name": "Doug Reinhart",
+        "role": "General Manager",
+        "company": "Reinhart Memorial Chapel"
+      },
+      {
+        "quote": "I hired a second director and had her fully onboarded in an afternoon. The per-seat pricing means I only pay when I actually grow.",
+        "name": "Priya Nair",
+        "role": "Owner-Operator",
+        "company": "Cedar Lane Cremation Society"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For the one-director shop that does everything themselves.",
+        "features": [
+          "At-need intake & arrangements",
+          "Permit & certificate tracking",
+          "Card and ACH invoicing",
+          "Email support (real humans)"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Parlor",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For growing homes running multiple services a week.",
+        "features": [
+          "Everything in Solo",
+          "Pre-need pipeline & trust tracking",
+          "Staff & vehicle scheduling",
+          "Insurance assignment filing",
+          "Priority support"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Group",
+        "price": "Custom",
+        "period": "per seat, billed annually",
+        "blurb": "For multi-location groups and acquisition rollups.",
+        "features": [
+          "Everything in Parlor",
+          "Multi-location reporting",
+          "Custom roles & permissions",
+          "API & accounting integrations",
+          "Dedicated onboarding lead"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Pine Box is software for funeral homes run by people, not conglomerates. We handle the paperwork so you can handle the families."
+  }
+}

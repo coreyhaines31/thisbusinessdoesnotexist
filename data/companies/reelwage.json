@@ -1,0 +1,162 @@
+{
+  "name": "ReelWage",
+  "slug": "reelwage",
+  "industry": "film production payroll",
+  "tagline": "Payroll built for the people who actually make the movie.",
+  "positioning": "ReelWage handles crew timecards, union fringes, and W-2 filings for independent producers running lean shoots—so payday never holds up the schedule.",
+  "vibe": "corporate",
+  "fontPairing": "inter-lora",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F4F4F5",
+    "text": "#0B0B0C",
+    "primary": "#0B0B0C",
+    "accent": "#FF3B1E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "RW",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Wrap the day. Pay the crew. Move on.",
+      "sub": "ReelWage turns paper timecards, deal memos, and union rate tables into clean payroll runs—so your gaffer gets paid right the first time and your accountant sleeps.",
+      "ctaLabel": "Start a payroll run",
+      "secondaryCtaLabel": "Book a walkthrough"
+    },
+    "features": [
+      {
+        "title": "Union fringes, calculated",
+        "description": "IATSE, Teamsters, and SAG-AFTRA rate tables baked in. Overtime, meal penalties, and pension & health fringes tally themselves on every timecard.",
+        "icon": "layers"
+      },
+      {
+        "title": "Timecards from set",
+        "description": "Your 2nd AD approves digital timecards from their phone at wrap. No more chasing crumpled paper in a Manila envelope on Monday.",
+        "icon": "clock"
+      },
+      {
+        "title": "W-2s and 1099s handled",
+        "description": "We file federal and multi-state withholdings, cut year-end forms, and keep your loan-out paperwork audit-ready for every crew member.",
+        "icon": "shield"
+      },
+      {
+        "title": "Cost reports that match the budget",
+        "description": "Export payroll straight into your line-item budget so your UPM sees actuals against Movie Magic without re-keying a single number.",
+        "icon": "chart"
+      },
+      {
+        "title": "Multi-state, multi-shoot",
+        "description": "Location days in three states this month? ReelWage tracks jurisdiction, incentives, and residency so nothing gets flagged later.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Built for small crews",
+        "description": "Whether it's a six-person commercial unit or a 40-person indie feature, you only pay for the seats you actually staff.",
+        "icon": "users"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran a 22-day feature across two states and closed payroll in an afternoon. Before ReelWage that was a week of my life every single time.",
+        "name": "Dana Whitfield",
+        "role": "Line Producer",
+        "company": "Backlot Six Productions"
+      },
+      {
+        "quote": "My crew stopped emailing me about paycheck errors. The fringe math is just right now, and that trust is worth more than the subscription.",
+        "name": "Marcus Ferreira",
+        "role": "Owner / UPM",
+        "company": "Northgate Field Unit"
+      },
+      {
+        "quote": "As a one-woman production company, I needed payroll that didn't require a payroll department. This is the first tool that actually fit my shop.",
+        "name": "Priya Raman",
+        "role": "Producer",
+        "company": "Slow Light Films"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Short Run",
+        "price": "$29",
+        "period": "per seat / month",
+        "blurb": "For commercial and short-form units staffing a handful of crew at a time.",
+        "features": [
+          "Up to 15 active crew seats",
+          "Digital timecards & approvals",
+          "Federal + single-state filing",
+          "Standard union rate tables"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Feature",
+        "price": "$49",
+        "period": "per seat / month",
+        "blurb": "For indie features and series juggling multi-state days and loan-outs.",
+        "features": [
+          "Unlimited crew seats",
+          "Multi-state withholding & filing",
+          "All union fringe automation",
+          "Budget & cost-report exports",
+          "W-2 and 1099 year-end forms"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "Custom",
+        "period": "annual, billed per seat",
+        "blurb": "For production companies running several shoots at once.",
+        "features": [
+          "Everything in Feature",
+          "Dedicated payroll specialist",
+          "Incentive & tax-credit reporting",
+          "Custom accounting integrations",
+          "Priority audit support"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "ReelWage is payroll software for independent film and video producers. Pay your crew accurately, file on time, and keep the production moving."
+  }
+}

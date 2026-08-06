@@ -1,0 +1,136 @@
+{
+  "name": "Kredo",
+  "slug": "kredo",
+  "industry": "luxury resale authentication",
+  "tagline": "Authentication that calls out counterfeits before your customers do.",
+  "positioning": "Kredo is the authentication layer for luxury resale platforms—forensic imaging plus a verdict API so every handbag, watch, and sneaker ships with proof.",
+  "vibe": "elegant",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#0B0B0C",
+    "surface": "#18181A",
+    "text": "#FAFAFA",
+    "primary": "#FAFAFA",
+    "accent": "#FF3D2E"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "K",
+    "shapes": [
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 0 12 20 Z",
+        "fill": "accent"
+      },
+      {
+        "type": "path",
+        "d": "M12 4 A8 8 0 0 1 12 20 Z",
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Superfakes don't stand a chance.",
+      "sub": "Stop paying three ex-boutique staff to squint at zippers. Kredo returns a pass/fail verdict with reasoning in under 90 seconds—at warehouse scale.",
+      "ctaLabel": "Get a verdict",
+      "secondaryCtaLabel": "Book a teardown"
+    },
+    "features": [
+      {
+        "title": "Verdicts, not vibes",
+        "description": "Your team gets a confidence score, side-by-side reference stitching, and the exact microdetail that failed—so QA stops arguing about it in Slack.",
+        "icon": "target"
+      },
+      {
+        "title": "Sub-90-second calls",
+        "description": "Upload twelve photos, get a decision with reasoning before the seller finishes their coffee. Batch endpoints handle warehouse-scale intake.",
+        "icon": "zap"
+      },
+      {
+        "title": "Provenance that survives audits",
+        "description": "Every verdict is hashed, timestamped, and exportable. When a chargeback dispute lands, you hand over a file instead of a shrug.",
+        "icon": "database"
+      },
+      {
+        "title": "Superfake-grade models",
+        "description": "Trained on the seams, serials, and hardware that fool humans. Retrained weekly as the fakes get smarter—because they will.",
+        "icon": "shield"
+      },
+      {
+        "title": "Fits your intake flow",
+        "description": "Drop the widget into your consignment app or pipe raw images through the API. No forklift migration, no six-month consultants.",
+        "icon": "layers"
+      },
+      {
+        "title": "See your fake rate",
+        "description": "Dashboards break down rejections by brand, seller, and region—so you can quietly cut off the vendor flooding you with counterfeit Cartier.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We were paying three ex-boutique authenticators to squint at zippers. Kredo caught two superfakes on day one that they'd have waved straight through.",
+        "name": "Priya Venkataraman",
+        "role": "Head of Authentication",
+        "company": "Maison Rotate"
+      },
+      {
+        "quote": "Our chargeback rate on watches dropped 40% once every listing shipped with a Kredo verdict attached. Legal actually smiled at me.",
+        "name": "Marcus Whitlock",
+        "role": "VP, Trust & Safety",
+        "company": "Vault & Consign"
+      },
+      {
+        "quote": "Onboarded in a weekend, not a quarter. The batch API cleared our 6,000-bag backlog before the leadership offsite even ended.",
+        "name": "Danielle Osei",
+        "role": "Chief Operating Officer",
+        "company": "Rue Seconde"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Atelier",
+        "price": "$2",
+        "period": "per authentication",
+        "blurb": "For boutiques and single-store resale desks getting off spreadsheets.",
+        "features": [
+          "Up to 2,000 authentications / mo",
+          "Verdict API + web widget",
+          "Standard reference library",
+          "48-hour model support"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Warehouse",
+        "price": "$0.90",
+        "period": "per authentication, billed monthly",
+        "blurb": "For high-volume marketplaces running real intake pipelines.",
+        "features": [
+          "20,000+ authentications / mo",
+          "Batch intake endpoints",
+          "Custom rejection-reason taxonomy",
+          "Priority retraining on your top brands",
+          "Audit-ready provenance exports"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume tiers + SLA",
+        "blurb": "For platforms and auction houses with lawyers on speed dial.",
+        "features": [
+          "Volume pricing below $0.40 / auth",
+          "Dedicated model fine-tuning",
+          "On-prem or VPC deployment",
+          "99.9% uptime SLA",
+          "Named authentication liaison"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Kredo authenticates luxury goods for resale platforms, marketplaces, and auction houses. Verdicts you can hand to a lawyer."
+  }
+}

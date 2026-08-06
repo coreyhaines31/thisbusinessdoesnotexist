@@ -1,0 +1,149 @@
+{
+  "name": "QuayHelm",
+  "slug": "quayhelm",
+  "industry": "marina management",
+  "tagline": "The operating system for the modern marina.",
+  "positioning": "QuayHelm unifies slip assignments, dockage contracts, and billing into one command center built for owner-operated marinas.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#FFFFFF",
+    "surface": "#F3F4F6",
+    "text": "#0A0C10",
+    "primary": "#0A0C10",
+    "accent": "#FF3D1F"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "QH",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 18,
+        "height": 18,
+        "rx": 5,
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "9,7 18,12 9,17",
+        "fill": "bg"
+      },
+      {
+        "type": "rect",
+        "x": 6,
+        "y": 6,
+        "width": 1.8,
+        "height": 12,
+        "rx": 0.6,
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every slip, contract, and invoice from one helm.",
+      "sub": "QuayHelm gives owner-operated marinas a single system of record for dockage agreements, seasonal billing, and waitlist management — no more spreadsheets on the fuel dock.",
+      "ctaLabel": "Request a demo",
+      "secondaryCtaLabel": "View pricing"
+    },
+    "features": [
+      {
+        "title": "Slip Assignment Grid",
+        "description": "Drag-and-drop vessels onto a live berth map that flags length, beam, and draft conflicts before a boat ever leaves the fairway.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Dockage Contracts",
+        "description": "Generate seasonal, transient, and liveaboard agreements from templates, collect e-signatures, and auto-renew with prorated rates.",
+        "icon": "layers"
+      },
+      {
+        "title": "Recurring Billing",
+        "description": "Invoice dockage, metered electric, and fuel in one statement, with card-on-file autopay and automatic late-fee escalation.",
+        "icon": "chart"
+      },
+      {
+        "title": "Waitlist Engine",
+        "description": "Rank prospects by vessel size and tenure, then offer openings in order with a 48-hour claim window and full audit trail.",
+        "icon": "users"
+      },
+      {
+        "title": "Work Orders",
+        "description": "Log haul-outs, winterizations, and dock repairs, assign dockhands, and bill labor and parts straight to the slip holder.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Occupancy Reporting",
+        "description": "See utilization, revenue per foot, and seasonal turnover across every dock so you can price the next season with confidence.",
+        "icon": "trending-up"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We consolidated four spreadsheets and a paper ledger into QuayHelm in one off-season. Renewals that took three weeks now close in an afternoon.",
+        "name": "Margaret Ellison",
+        "role": "General Manager",
+        "company": "Northpoint Harbor Marina"
+      },
+      {
+        "quote": "The slip grid caught a beam conflict that would have wedged a 44-footer into a 12-foot berth. That single save paid for the year.",
+        "name": "Daniel Voss",
+        "role": "Owner-Operator",
+        "company": "Cedar Landing Yacht Basin"
+      },
+      {
+        "quote": "Autopay on metered electric changed our cash flow entirely. Delinquent accounts dropped from 18 percent to under three.",
+        "name": "Priya Nandakumar",
+        "role": "Dockmaster",
+        "company": "Sable Reach Marina"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Dockmaster",
+        "price": "$39",
+        "period": "per seat / month",
+        "blurb": "For single-dock marinas standardizing their first season on software.",
+        "features": [
+          "Up to 150 slips",
+          "Slip assignment grid",
+          "Digital dockage contracts",
+          "Recurring billing & autopay"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Harbormaster",
+        "price": "$79",
+        "period": "per seat / month",
+        "blurb": "For growing marinas managing waitlists, fuel, and multi-dock operations.",
+        "features": [
+          "Unlimited slips",
+          "Waitlist engine",
+          "Metered electric & fuel billing",
+          "Work orders & dockhand scheduling",
+          "Occupancy & revenue reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Fleet",
+        "price": "Custom",
+        "period": "annual, billed by group",
+        "blurb": "For multi-property operators consolidating marinas under one roof.",
+        "features": [
+          "Multi-marina rollups",
+          "Consolidated financials",
+          "SSO & role-based access",
+          "Dedicated success manager",
+          "API & accounting integrations"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "QuayHelm is the command center for owner-operated marinas — slips, contracts, and billing, finally in one place."
+  }
+}

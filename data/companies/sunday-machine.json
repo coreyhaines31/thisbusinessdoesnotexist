@@ -1,0 +1,162 @@
+{
+  "name": "Sunday Machine",
+  "slug": "sunday-machine",
+  "industry": "church admin software",
+  "tagline": "The church back office that runs itself between services",
+  "positioning": "Membership, giving, and volunteer scheduling for small churches run by people who'd rather be doing literally anything pastoral.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#15121e",
+    "surface": "#221c31",
+    "text": "#efeaf7",
+    "primary": "#a889ff",
+    "accent": "#ff9d63"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "SM",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 3,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 3,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "accent"
+      },
+      {
+        "type": "rect",
+        "x": 14,
+        "y": 14,
+        "width": 7,
+        "height": 7,
+        "rx": 1.5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Church admin that doesn't require a burning bush",
+      "sub": "Track members, count the offering, and wrangle volunteers without a spreadsheet named 'FINAL_v7_USE_THIS.xlsx.' Sunday Machine keeps the boring stuff running so you can go do the meaningful stuff.",
+      "ctaLabel": "Start free trial",
+      "secondaryCtaLabel": "See a demo"
+    },
+    "features": [
+      {
+        "title": "Giving that reconciles itself",
+        "description": "Log cash, checks, and online tithes in one ledger. Year-end contribution statements generate in a click instead of a January panic.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Volunteer scheduling, minus the guilt",
+        "description": "Fill the nursery, sound board, and coffee station with auto-reminders that nag people so you don't have to. Swaps happen without a group text war.",
+        "icon": "users"
+      },
+      {
+        "title": "A directory people actually update",
+        "description": "Members manage their own info, so your database stops thinking the Hendersons still live three houses ago. Photos, families, and groups included.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Attendance without clipboards",
+        "description": "Check-in kids with printed name tags and pickup tags. Track service counts and small-group attendance without a single tally mark on a bulletin.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Communication that lands",
+        "description": "Send email and text blasts to the exact group you mean, not the whole church. Weather cancellations go out in under a minute.",
+        "icon": "bell"
+      },
+      {
+        "title": "Reports for the board meeting",
+        "description": "Giving trends, attendance, and budget dashboards the treasurer can read without a seminary degree. Export to PDF and look competent.",
+        "icon": "chart"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We ran a 140-person church on three overlapping spreadsheets and a prayer. Now the prayer is optional. Year-end statements took me twenty minutes instead of a full weekend of crying.",
+        "name": "Pastor Dave Okafor",
+        "role": "Lead Pastor",
+        "company": "Riverbend Community Church"
+      },
+      {
+        "quote": "Our volunteers stopped ghosting the nursery because the reminders are relentless in the nicest way. I have not sent a passive-aggressive group text in eight months.",
+        "name": "Marisol Vega",
+        "role": "Ministries Coordinator",
+        "company": "Grace Point Fellowship"
+      },
+      {
+        "quote": "The treasurer used to email me PDFs at midnight. Now she just opens the dashboard. I didn't know church finances could be this calm.",
+        "name": "Reverend Tom Brady",
+        "role": "Executive Pastor",
+        "company": "Cornerstone Chapel"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Sexton",
+        "price": "$9",
+        "period": "per seat / month",
+        "blurb": "For the one-and-a-half-person office running a small congregation.",
+        "features": [
+          "Up to 200 members",
+          "Giving & contribution statements",
+          "Basic attendance check-in",
+          "Email blasts"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Deacon",
+        "price": "$16",
+        "period": "per seat / month",
+        "blurb": "For growing churches with actual staff and actual chaos.",
+        "features": [
+          "Unlimited members",
+          "Volunteer scheduling & reminders",
+          "Text + email messaging",
+          "Kids check-in with name tags",
+          "Board-ready reporting"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Cathedral",
+        "price": "Custom",
+        "period": "per seat / month, billed annually",
+        "blurb": "Multi-site churches and networks that outgrew normal software.",
+        "features": [
+          "Multi-campus rollups",
+          "Custom giving funds & pledges",
+          "Advanced permissions",
+          "API & accounting sync",
+          "Dedicated onboarding"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Sunday Machine is church admin software for people who got into ministry for the ministry part. Made by folks who've stacked enough chairs to know."
+  }
+}

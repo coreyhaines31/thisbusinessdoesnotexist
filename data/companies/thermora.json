@@ -1,0 +1,135 @@
+{
+  "name": "Thermora",
+  "slug": "thermora",
+  "industry": "HVAC field service",
+  "tagline": "Enterprise-grade climate care, engineered for the individual home.",
+  "positioning": "Thermora coordinates certified HVAC technicians, maintenance records, and system diagnostics into a single managed service for homeowners.",
+  "vibe": "corporate",
+  "fontPairing": "dm-serif-dm-sans",
+  "palette": {
+    "bg": "#F4F6FB",
+    "surface": "#FFFFFF",
+    "text": "#25303F",
+    "primary": "#4E739A",
+    "accent": "#E4A7A0"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Th",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 5,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Your home's climate, managed like an enterprise asset.",
+      "sub": "Thermora assigns your residence a dedicated service record, schedules certified technicians, and forecasts system failures before they cost you a summer afternoon.",
+      "ctaLabel": "Request an assessment",
+      "secondaryCtaLabel": "View service tiers"
+    },
+    "features": [
+      {
+        "title": "Unified system ledger",
+        "description": "Every furnace, condenser, and thermostat logged with model numbers, warranty dates, and full service history in one authoritative record.",
+        "icon": "database"
+      },
+      {
+        "title": "Predictive maintenance windows",
+        "description": "Runtime and refrigerant telemetry flags degrading components weeks early, so we dispatch before a breakdown becomes an emergency call.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Vetted technician dispatch",
+        "description": "Only NATE-certified contractors, credential-verified and rated on prior visits, are cleared to enter your service queue.",
+        "icon": "shield"
+      },
+      {
+        "title": "Scheduled seasonal tune-ups",
+        "description": "Spring cooling and fall heating inspections are booked automatically around your calendar and confirmed 72 hours ahead.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Transparent quote review",
+        "description": "Every proposed repair is itemized with parts pricing and a plain-language second opinion before you approve a dime.",
+        "icon": "inbox"
+      },
+      {
+        "title": "Same-day priority routing",
+        "description": "Comfort emergencies escalate to the front of the regional dispatch board with a guaranteed response window.",
+        "icon": "clock"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We inherited a house with three thermostats and zero paperwork. Thermora reconstructed the entire system history in a week and caught a failing blower before winter. It reads like an audited report.",
+        "name": "Marguerite Halloran",
+        "role": "Homeowner",
+        "company": "Private residence, Evanston"
+      },
+      {
+        "quote": "I manage six rental units and used to chase invoices across five contractors. Now every visit, quote, and warranty lives in one ledger. My accountant actually thanked me.",
+        "name": "Devon Ashby",
+        "role": "Property owner",
+        "company": "Ashby Holdings"
+      },
+      {
+        "quote": "The predictive alert flagged low refrigerant on our heat pump in March. A technician was scheduled before we noticed anything. That is the level of foresight I expect and rarely get.",
+        "name": "Priya Venkataraman",
+        "role": "Homeowner",
+        "company": "Private residence, Fremont"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Essential",
+        "price": "$19",
+        "period": "per home / month",
+        "blurb": "Digital system ledger and annual inspection for a single residence.",
+        "features": [
+          "One managed property",
+          "Full system record & warranty tracking",
+          "One seasonal tune-up per year",
+          "Standard dispatch window"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Comprehensive",
+        "price": "$39",
+        "period": "per home / month",
+        "blurb": "Proactive care with predictive diagnostics and priority scheduling.",
+        "features": [
+          "One managed property",
+          "Two seasonal tune-ups per year",
+          "Predictive maintenance alerts",
+          "Priority same-day routing",
+          "Itemized quote review"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Estate",
+        "price": "Custom",
+        "period": "multi-property billing",
+        "blurb": "Portfolio-wide coverage for owners of multiple residences.",
+        "features": [
+          "Unlimited managed properties",
+          "Dedicated account coordinator",
+          "Consolidated monthly reporting",
+          "Guaranteed response SLAs",
+          "Contractor performance analytics"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Thermora is a managed climate-care service for homeowners who expect their household systems handled with corporate discipline."
+  }
+}

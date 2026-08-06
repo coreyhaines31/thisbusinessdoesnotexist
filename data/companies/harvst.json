@@ -1,0 +1,136 @@
+{
+  "name": "Harvst",
+  "slug": "harvst",
+  "industry": "vertical farming",
+  "tagline": "The operating system for enterprise controlled-environment agriculture.",
+  "positioning": "Harvst gives multi-site vertical farm operators unified control over climate, crop scheduling, and yield forecasting — priced by the growth cycle.",
+  "vibe": "playful",
+  "fontPairing": "bricolage-instrument-sans",
+  "palette": {
+    "bg": "#FAF3E7",
+    "surface": "#FFFDF8",
+    "text": "#332619",
+    "primary": "#C05E2E",
+    "accent": "#6E7A38"
+  },
+  "logo": {
+    "style": "mark-and-wordmark",
+    "monogram": "H",
+    "shapes": [
+      {
+        "type": "polygon",
+        "points": "4,13 12,5 20,13 16,13 12,9 8,13",
+        "fill": "primary"
+      },
+      {
+        "type": "polygon",
+        "points": "4,20 12,12 20,20 16,20 12,16 8,20",
+        "fill": "accent"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Run every grow room like your best grow room.",
+      "sub": "Harvst unifies climate control, crop scheduling, and yield forecasting across every rack and every facility — so your operations team manages hectares of vertical canopy from one console.",
+      "ctaLabel": "Book a facility demo",
+      "secondaryCtaLabel": "See the platform"
+    },
+    "features": [
+      {
+        "title": "Live climate orchestration",
+        "description": "Set recipes once and Harvst holds temperature, VPD, and CO₂ to spec across every zone — flagging drift before it costs you a harvest cycle.",
+        "icon": "refresh"
+      },
+      {
+        "title": "Yield forecasting",
+        "description": "Project harvest-ready weight per tray 21 days out, with confidence bands your buyers and CFO can actually plan against.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Crop scheduling engine",
+        "description": "Sequence transplants, spacing, and harvest windows across facilities to keep every square meter of canopy producing revenue.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Compliance-ready records",
+        "description": "Automatic audit trails for GAP, GlobalG.A.P., and retailer food-safety programs — export a full lot history in one click.",
+        "icon": "shield"
+      },
+      {
+        "title": "Multi-site rollups",
+        "description": "Compare cost-per-kilogram, energy draw, and labor hours across regions in a single operations dashboard.",
+        "icon": "chart"
+      },
+      {
+        "title": "Hardware-agnostic control",
+        "description": "Connect existing PLCs, sensors, and dosing systems over Modbus and BACnet — no rip-and-replace required.",
+        "icon": "layers"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Harvst cut our per-facility environmental incidents by 60% in the first quarter. My growers finally spend their time on agronomy instead of chasing sensor spreadsheets.",
+        "name": "Marisol Devereux",
+        "role": "VP of Operations",
+        "company": "Northmarket Greens"
+      },
+      {
+        "quote": "We onboarded four facilities in six weeks without swapping a single controller. The yield forecasts are now accurate enough that our retail contracts are built on them.",
+        "name": "Trevor Okafor",
+        "role": "Director of Cultivation",
+        "company": "Meridian Leaf Co."
+      },
+      {
+        "quote": "The lot-level audit trail turned our GlobalG.A.P. recertification from a two-week fire drill into an afternoon export.",
+        "name": "Anneke Vos",
+        "role": "Head of Food Safety",
+        "company": "Verticove Farms"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Grow",
+        "price": "$0.40",
+        "period": "per tray-cycle",
+        "blurb": "For single-facility teams standardizing their first automated grow rooms.",
+        "features": [
+          "Up to 1 facility",
+          "Climate orchestration & alerts",
+          "Crop scheduling engine",
+          "Standard compliance exports"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Scale",
+        "price": "$0.28",
+        "period": "per tray-cycle",
+        "blurb": "For multi-site operators optimizing cost-per-kilogram across regions.",
+        "features": [
+          "Up to 8 facilities",
+          "Yield forecasting with confidence bands",
+          "Multi-site rollup dashboards",
+          "Modbus & BACnet integrations",
+          "Priority support SLA"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Enterprise",
+        "price": "Custom",
+        "period": "volume tray-cycle pricing",
+        "blurb": "For national growers running high-throughput, audited supply agreements.",
+        "features": [
+          "Unlimited facilities",
+          "Dedicated solutions engineer",
+          "Custom compliance frameworks",
+          "SSO & role-based access",
+          "99.9% uptime SLA"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Harvst is the operating system for enterprise controlled-environment agriculture — pay per growth cycle, scale by the hectare."
+  }
+}

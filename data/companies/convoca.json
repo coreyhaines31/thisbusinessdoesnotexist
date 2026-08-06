@@ -1,0 +1,135 @@
+{
+  "name": "Convoca",
+  "slug": "convoca",
+  "industry": "corporate offsites",
+  "tagline": "Offsites that people actually remember for the right reasons.",
+  "positioning": "Convoca helps small teams and independent organizers plan real offsites — venue, agenda, travel, and budget — from one calm workspace.",
+  "vibe": "elegant",
+  "fontPairing": "sora-newsreader",
+  "palette": {
+    "bg": "#0A0B10",
+    "surface": "#14161F",
+    "text": "#EDF1F7",
+    "primary": "#4DF0C0",
+    "accent": "#B58BFF"
+  },
+  "logo": {
+    "style": "monogram",
+    "monogram": "Co",
+    "shapes": [
+      {
+        "type": "rect",
+        "x": 2,
+        "y": 2,
+        "width": 20,
+        "height": 20,
+        "rx": 6,
+        "fill": "primary"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "h1": "Plan the offsite. Skip the 40-tab spreadsheet.",
+      "sub": "Convoca turns venue hunting, travel logistics, and agenda building into one shared plan — so your team retreat feels intentional instead of improvised.",
+      "ctaLabel": "Start planning free",
+      "secondaryCtaLabel": "See a sample offsite"
+    },
+    "features": [
+      {
+        "title": "One plan, not twelve threads",
+        "description": "Venue, rooming, sessions, and budget live in a single itinerary everyone can read. No more forwarding the latest version of the doc.",
+        "icon": "layers"
+      },
+      {
+        "title": "Venue shortlist in an afternoon",
+        "description": "Compare spaces by headcount, distance, and total cost. Convoca flags the ones that blow your per-person budget before you inquire.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Agenda that respects attention",
+        "description": "Drag sessions onto a timeline with breaks built in. Everyone sees the day at a glance, from the 9am kickoff to the closing dinner.",
+        "icon": "calendar"
+      },
+      {
+        "title": "Budget you can defend",
+        "description": "Every line — flights, meals, facilitator — rolls up to a real number and a per-head figure you can send to whoever signs off.",
+        "icon": "chart"
+      },
+      {
+        "title": "Travel without the reply-all",
+        "description": "Collect arrival times and dietary notes once. Convoca assembles the roster so nobody lands with no ride and no room.",
+        "icon": "users"
+      },
+      {
+        "title": "Reuse what worked",
+        "description": "Save last quarter's retreat as a template. Adjust the dates, swap the venue, and you're 80% done before lunch.",
+        "icon": "refresh"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I organize two retreats a year for our little studio. Convoca cut my planning from three frantic weeks to about four evenings. The budget rollup alone paid for itself.",
+        "name": "Marisol Ventura",
+        "role": "Operations Lead",
+        "company": "Foldwork Studio"
+      },
+      {
+        "quote": "We used to lose the best venue because someone forgot to reply. Now the shortlist and the deadlines sit in one place. Our last offsite actually started on time.",
+        "name": "Declan Ruiz",
+        "role": "Founder",
+        "company": "North Bay Collective"
+      },
+      {
+        "quote": "The agenda timeline made our team stop cramming sessions back to back. People came home rested instead of wrecked. That's the whole point of a retreat.",
+        "name": "Priya Anand",
+        "role": "Team Coordinator",
+        "company": "Halden & Vale"
+      }
+    ],
+    "pricing": [
+      {
+        "tier": "Solo",
+        "price": "$0",
+        "period": "free forever",
+        "blurb": "For planning your first offsite without the spreadsheet chaos.",
+        "features": [
+          "1 active offsite",
+          "Venue shortlist & compare",
+          "Basic agenda timeline",
+          "Up to 15 attendees"
+        ],
+        "highlighted": false
+      },
+      {
+        "tier": "Organizer",
+        "price": "$24",
+        "period": "per month, billed yearly",
+        "blurb": "For people who run retreats more than once a year.",
+        "features": [
+          "Unlimited offsites",
+          "Full budget rollups",
+          "Travel & dietary roster",
+          "Reusable templates",
+          "Up to 60 attendees"
+        ],
+        "highlighted": true
+      },
+      {
+        "tier": "Studio",
+        "price": "$59",
+        "period": "per month, billed yearly",
+        "blurb": "For small teams planning offsites for multiple groups.",
+        "features": [
+          "Everything in Organizer",
+          "Shared planning workspace",
+          "Vendor & venue directory",
+          "Approval-ready exports",
+          "Unlimited attendees"
+        ],
+        "highlighted": false
+      }
+    ],
+    "footerBlurb": "Convoca is a calm workspace for planning corporate offsites — built for the organizer who actually cares whether people come home glad they went."
+  }
+}
