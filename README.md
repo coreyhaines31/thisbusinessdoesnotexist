@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# This Business Does Not Exist
 
-## Getting Started
+[thisbusinessdoesnotexist.com](https://thisbusinessdoesnotexist.com)
 
-First, run the development server:
+One click, one complete and believable fake company: name, logo, palette, tagline, positioning, homepage copy, pricing, and testimonials. None of it is real. Every company is AI-generated fiction.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- `/` redirects to a random company at `/c/{slug}`
+- `/all` is the full catalog
+- `/api` is a free JSON API over the same data
+
+## How it works
+
+The companies are a pre-generated pool, not generated on request. `scripts/generate-companies.ts` builds them offline with Claude from a deterministic seed grid (industry, tone, audience, plus rotating vibe, font pairing, palette mood, naming style, pricing model, and logo archetype). Each result is validated with zod (`src/lib/schema.ts`) plus extra checks for contrast, duplicate or too-similar names, known brands, and profanity, then written to `data/companies/{slug}.json`.
+
+At runtime the site just reads those JSON files. There is no runtime AI and no database. Company pages and their share images are statically generated at build time.
+
+## JSON API
+
+Free to use, CORS open (`Access-Control-Allow-Origin: *`), no key.
+
+| Endpoint | Returns |
+| --- | --- |
+| `GET /api` | Self-describing index of the API |
+| `GET /api/company` | A random company (uncached, different every call) |
+| `GET /api/company/{slug}` | One company by slug (404 if unknown) |
+| `GET /api/companies` | Summary index of every company. Add `?full=1` for complete objects |
+
+```sh
+curl https://thisbusinessdoesnotexist.com/api/company
+curl https://thisbusinessdoesnotexist.com/api/company/sigilvault
+curl "https://thisbusinessdoesnotexist.com/api/companies?full=1"
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Logos are returned as structured specs (monogram or shapes in a 24x24 viewBox with palette-role fills), so you can render them as SVG in your own palette.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Local development
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```sh
+npm install
+npm run dev
+```
 
-## Learn More
+Open http://localhost:3000. `npm run build` then `npm start` serves the production build on port 3008.
 
-To learn more about Next.js, take a look at the following resources:
+## Generating companies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```sh
+cp .env.example .env.local   # then set ANTHROPIC_API_KEY
+npm run generate
+npm run generate -- --count 10
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- With no arguments it generates every pending seed. `--count N` limits the run to the first N pending seeds.
+- A seed is pending if `data/manifest.json` has no slug for it or that slug's JSON file is missing, so reruns resume where they left off.
+- Runs 3 requests in parallel. Each seed gets up to 3 attempts, with validation errors fed back to the model.
+- Seeds that still fail are recorded in `data/rejects.json` and retried on the next run.
 
-## Deploy on Vercel
+## Environment variables
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+See `.env.example`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Variable | Used for |
+| --- | --- |
+| `NEXT_PUBLIC_TRACERKIT_KEY` | TracerKit site public key (`tk_...`). Analytics (Headstream) is configured as a tag in the TracerKit dashboard. The loader only renders when `VERCEL_ENV=production`. |
+| `ANTHROPIC_API_KEY` | Only for `npm run generate`. Read from `.env.local`. |
+
+## Project structure
+
+```
+data/
+  companies/          one JSON file per company
+  manifest.json       seed index to slug
+  rejects.json        seeds that failed generation
+scripts/
+  generate-companies.ts
+  lib/                Claude client, prompt, seeds, validation
+src/
+  app/
+    page.tsx          random redirect
+    all/              catalog
+    c/[slug]/         company page and its share image
+    api/              JSON API routes
+    robots.ts, sitemap.ts, opengraph-image.tsx
+  components/         logo, brand theme, page templates per vibe, TracerKit
+  lib/                company loader, schema, site constants, OG helpers
+```
+
+## Deploy
+
+Hosted on Vercel. Pushes to `main` deploy to production. `www.thisbusinessdoesnotexist.com` permanently redirects to the apex domain (see `next.config.ts`).
