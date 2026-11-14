@@ -2,10 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllCompanies } from "@/lib/companies";
 import { LogoMark } from "@/components/Logo";
+import { baseOpenGraph } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "All businesses that do not exist",
   description: "The full catalog of AI-generated companies that do not exist.",
+  alternates: { canonical: "/all" },
+  openGraph: { ...baseOpenGraph, url: "/all" },
 };
 
 export default function AllPage() {
