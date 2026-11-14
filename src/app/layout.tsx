@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SITE_NAME, SITE_URL, baseOpenGraph } from "@/lib/site";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,13 +14,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://thisbusinessdoesnotexist.com"),
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "This Business Does Not Exist",
-    template: "%s · This Business Does Not Exist",
+    default: SITE_NAME,
+    template: `%s · ${SITE_NAME}`,
   },
   description:
     "Every refresh, a complete AI-generated fake company — name, logo, brand, homepage and all.",
+  openGraph: baseOpenGraph,
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

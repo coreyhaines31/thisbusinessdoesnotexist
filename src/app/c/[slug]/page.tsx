@@ -5,6 +5,7 @@ import { getAllSlugs, getCompany } from "@/lib/companies";
 import { BrandTheme } from "@/components/BrandTheme";
 import { ShuffleButton } from "@/components/ShuffleButton";
 import { TEMPLATES } from "@/components/templates";
+import { baseOpenGraph } from "@/lib/site";
 
 export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
@@ -21,6 +22,8 @@ export async function generateMetadata({
   return {
     title: `${company.name} — ${company.tagline}`,
     description: `${company.positioning} (This business does not exist.)`,
+    alternates: { canonical: `/c/${company.slug}` },
+    openGraph: { ...baseOpenGraph, url: `/c/${company.slug}` },
   };
 }
 
